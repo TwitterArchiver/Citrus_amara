@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1953846875913654485",
+    "created_at": "2025-08-14T05:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T06:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955865868069400950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1554488846620016641",
+          "start": 0,
+          "username": "kkblm_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955865868069400950",
+    "in_reply_to_user_id": "1554488846620016641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953846875913654485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkblm_ 呕。。要吐了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953846870683660291",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx11YICbsAM5tN-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1953846875913654485",
+        "created_at": "2025-08-14T05:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T06:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955865868069400950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1554488846620016641",
+              "start": 0,
+              "username": "kkblm_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955865868069400950",
+        "in_reply_to_user_id": "1554488846620016641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953846875913654485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkblm_ 呕。。要吐了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953846870683660291"
+          ]
+        },
+        "author_id": "1554488846620016641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1953846875913654485",
+        "created_at": "2025-08-08T15:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953846875913654485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVgMz2LNQ6",
+              "end": 34,
+              "expanded_url": "https://x.com/kkblm_/status/1953846875913654485/photo/1",
+              "media_key": "3_1953846870683660291",
+              "start": 11,
+              "url": "https://t.co/jVgMz2LNQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953846875913654485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 724,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "玉米的缺点是胃不舒服 https://t.co/jVgMz2LNQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 333,
+          "like_count": 2884,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1238
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T15:27:12.000Z",
+        "description": "无证被迫断糖mtf……（2003-2025即将）/infp-t/百合/原神/鸣潮/星穹铁道/不键政  / 欢迎各位骚扰孤独的喵喵(◍•ᴗ•◍)/励志作为安慰大家的猫猫树洞，随叫随到喵，工作是全力倾听大家的负面情绪喵~/梦想是什么~？希望大家健康幸福吧，实现自己的梦想…/🚪30/可爱的妹妹@qqnjjwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 144,
+                "username": "qqnjjwb"
+              }
+            ]
+          }
+        },
+        "id": "1554488846620016641",
+        "name": "j🏳‍⚧🍥🍬✨",
+        "pinned_tweet_id": "1942328538981622269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882726775182303232/c-zE53Ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 842,
+          "like_count": 16617,
+          "listed_count": 4,
+          "media_count": 82,
+          "tweet_count": 3367
+        },
+        "username": "kkblm_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1953365052527902946",
+    "created_at": "2025-08-07T07:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T08:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953365052527902946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953365052527902946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953330078416293984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 药娘问我怎么看跨性别女性自杀后家长悔恨不已。\n\n我：一辈子没飞过的鸟，死后被做成羽毛球。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1953365052527902946",
+        "created_at": "2025-08-07T07:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T08:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953365052527902946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953365052527902946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953330078416293984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 药娘问我怎么看跨性别女性自杀后家长悔恨不已。\n\n我：一辈子没飞过的鸟，死后被做成羽毛球。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1953330078416293984",
+        "created_at": "2025-08-07T05:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T06:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953330078416293984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953330078416293984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 982,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "药娘问我怎么看跨性别女性自杀后家长悔恨不已。\n\n我：一辈子没飞过的鸟，死后被做成羽毛球。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。#odtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 275,
+          "like_count": 1988,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 888
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F36猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18358,
+          "following_count": 188,
+          "like_count": 570,
+          "listed_count": 65,
+          "media_count": 90,
+          "tweet_count": 18432
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}
