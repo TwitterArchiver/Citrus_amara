@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1988088707325587534",
+    "created_at": "2025-11-11T06:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T07:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988136120786342213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708410791744118784",
+          "start": 0,
+          "username": "trump1029597"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988136120786342213",
+    "in_reply_to_user_id": "1708410791744118784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988129066378244125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trump1029597 各种各样的西泮和唑仑。去医院说你失眠焦虑就给开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1988088707325587534",
+        "created_at": "2025-11-11T06:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988136120786342213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708410791744118784",
+              "start": 0,
+              "username": "trump1029597"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988136120786342213",
+        "in_reply_to_user_id": "1708410791744118784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988129066378244125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trump1029597 各种各样的西泮和唑仑。去医院说你失眠焦虑就给开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708410791744118784",
+        "conversation_id": "1988088707325587534",
+        "created_at": "2025-11-11T06:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988129066378244125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988129066378244125",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988089089984217364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 嗯？什么可以戒断pr？我很需要它！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 732,
+          "like_count": 11357,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 4587
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T09:17:38.000Z",
+        "description": "随便玩玩",
+        "id": "1708410791744118784",
+        "name": "晚晚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966436944273084416/jmwFI7ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 13,
+          "like_count": 4573,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 274
+        },
+        "username": "trump1029597",
+        "verified": false
+      }
+    ]
+  }
+}

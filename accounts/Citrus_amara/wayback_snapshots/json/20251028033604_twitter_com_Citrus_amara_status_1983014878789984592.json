@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1983014878789984592",
+    "created_at": "2025-10-28T03:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T04:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983014878789984592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yumeng0721/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yumeng0721/status/1983003650843914265",
+          "start": 12,
+          "url": "https://t.co/NDfuFrRrm3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983014878789984592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983003650843914265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有懂的，我想吸这个 https://t.co/NDfuFrRrm3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_1983003631843733504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ULS_ha8AAs5Ze.jpg",
+        "width": 770
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983003631805968388",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ULS_YasAQfGkE.jpg",
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983014878789984592",
+        "created_at": "2025-10-28T03:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983014878789984592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumeng0721/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yumeng0721/status/1983003650843914265",
+              "start": 12,
+              "url": "https://t.co/NDfuFrRrm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983014878789984592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983003650843914265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有懂的，我想吸这个 https://t.co/NDfuFrRrm3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983003631843733504",
+            "3_1983003631805968388"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "1983003650843914265",
+        "created_at": "2025-10-28T02:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983003650843914265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NBOMe-麦司卡林，也称为麦司卡林-NBOMe、M-NBOMe或N -(2-甲氧基苄基)-3,4,5-三甲氧基苯乙胺，是一种血清素受体（5-HT₂A）激动剂，被认为是苯乙胺、麦司卡林和N-苄基苯乙胺(NBOMe)家族的迷幻药。它是麦司卡林的N-(2-甲氧基苄基)衍生物。 其他名称 麦司卡林-NBOMe！345-NBOMe、M-NBOMe、NBOMe-M、N- (2-甲氧基苄基)-3,4,5-三...",
+              "display_url": "overdose.day/%E5%8C%96%E5%B…",
+              "end": 35,
+              "expanded_url": "https://www.overdose.day/%E5%8C%96%E5%B7%A5%E7%B4%A2%E5%BC%95%E2%80%94%E4%BB%99%E4%BA%BA%E6%8E%8C%E7%B1%BB/571.html",
+              "images": [
+                {
+                  "height": 1024,
+                  "url": "https://pbs.twimg.com/news_img/1983003665238728705/uAo51xAx?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983003665238728705/uAo51xAx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "NBOMe-麦司卡林",
+              "unwound_url": "https://www.overdose.day/%E5%8C%96%E5%B7%A5%E7%B4%A2%E5%BC%95%E2%80%94%E4%BB%99%E4%BA%BA%E6%8E%8C%E7%B1%BB/571.html",
+              "url": "https://t.co/QzllxeS2N0"
+            },
+            {
+              "display_url": "pic.x.com/21OYBJ7RO2",
+              "end": 59,
+              "expanded_url": "https://x.com/yumeng0721/status/1983003650843914265/photo/1",
+              "media_key": "3_1983003631843733504",
+              "start": 36,
+              "url": "https://t.co/21OYBJ7RO2"
+            },
+            {
+              "display_url": "pic.x.com/21OYBJ7RO2",
+              "end": 59,
+              "expanded_url": "https://x.com/yumeng0721/status/1983003650843914265/photo/1",
+              "media_key": "3_1983003631805968388",
+              "start": 36,
+              "url": "https://t.co/21OYBJ7RO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983003650843914265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的“麦司卡林”衍生物\nhttps://t.co/QzllxeS2N0 https://t.co/21OYBJ7RO2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 633,
+          "like_count": 10168,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 4032
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "玩乐、性爱与嗑药。提问箱https://t.co/8eHnljlDL5\n个人频道https://t.co/mGkj2AA7yO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 35,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 12,
+                "url": "https://t.co/8eHnljlDL5"
+              },
+              {
+                "display_url": "t.me/Guisland",
+                "end": 63,
+                "expanded_url": "http://t.me/Guisland",
+                "start": 40,
+                "url": "https://t.co/mGkj2AA7yO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/g7Qcxnn3Rl"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "location": "Xanax",
+        "name": "Meng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939203974260768768/sFFZD2jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 752,
+          "like_count": 21155,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/g7Qcxnn3Rl",
+        "username": "yumeng0721",
+        "verified": false
+      }
+    ]
+  }
+}

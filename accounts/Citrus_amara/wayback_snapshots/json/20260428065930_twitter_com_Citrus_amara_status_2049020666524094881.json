@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2049020666524094881",
+    "created_at": "2026-04-28T06:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049020666524094881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xynMTFxyn/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/xynMTFxyn/status/2049006844425949468",
+          "start": 19,
+          "url": "https://t.co/CNEaw07b9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049020666524094881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049006844425949468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "糖醋什么时候死？\n↑这个是rin骂的 https://t.co/CNEaw07b9A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049006838054785024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-I3PSaEAA87kl.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2049020666524094881",
+        "created_at": "2026-04-28T06:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049020666524094881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xynMTFxyn/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/xynMTFxyn/status/2049006844425949468",
+              "start": 19,
+              "url": "https://t.co/CNEaw07b9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049020666524094881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049006844425949468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "糖醋什么时候死？\n↑这个是rin骂的 https://t.co/CNEaw07b9A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049006838054785024"
+          ]
+        },
+        "author_id": "2028321716049743872",
+        "conversation_id": "2048990204535746910",
+        "created_at": "2026-04-28T06:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049006844425949468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1915124824126427137",
+              "start": 0,
+              "username": "Grtr_nk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7BurUnfDcZ",
+              "end": 52,
+              "expanded_url": "https://x.com/xynMTFxyn/status/2049006844425949468/photo/1",
+              "media_key": "3_2049006838054785024",
+              "start": 29,
+              "url": "https://t.co/7BurUnfDcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049006844425949468",
+        "in_reply_to_user_id": "1915124824126427137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048996517768540170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grtr_nk 这个是唐毓文发的....\n我替她道歉唔 https://t.co/7BurUnfDcZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 1073,
+          "like_count": 19658,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 11077
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | 青岛|私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 非常helpful的南盺 | 小南 |",
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2048584251495563682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 100,
+          "like_count": 108,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 590
+        },
+        "username": "xynMTFxyn",
+        "verified": true
+      }
+    ]
+  }
+}

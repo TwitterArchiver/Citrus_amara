@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1951894839219400934",
+    "created_at": "2025-08-03T06:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T07:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951894839219400934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1926115911276146688",
+          "start": 3,
+          "username": "mirro50150y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951894839219400934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951664371345785088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mirro50150y: 我的性癖全部列出来的话基本会被网友砍成臊子，分别被投贴吧小红书微博抖音豆瓣推特，然后大头照疯狂长出血肉，男权女权进行混合双打。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1951894839219400934",
+        "created_at": "2025-08-03T06:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951894839219400934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1926115911276146688",
+              "start": 3,
+              "username": "mirro50150y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951894839219400934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951664371345785088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mirro50150y: 我的性癖全部列出来的话基本会被网友砍成臊子，分别被投贴吧小红书微博抖音豆瓣推特，然后大头照疯狂长出血肉，男权女权进行混合双打。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926115911276146688",
+        "conversation_id": "1951664371345785088",
+        "created_at": "2025-08-02T15:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951664371345785088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951664371345785088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6630,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我的性癖全部列出来的话基本会被网友砍成臊子，分别被投贴吧小红书微博抖音豆瓣推特，然后大头照疯狂长出血肉，男权女权进行混合双打。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "8️⃣9️⃣🍊苦橙🍊6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 251,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 747
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "清水🈚️黄｜我的情绪垃圾桶。没有福利不磕炮不闲聊 私信看情况回 蜂鸟vpn👇新用户注册免费用 推广自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=24cHl6Sm",
+                "start": 0,
+                "url": "https://t.co/EajfOmnfoY"
+              }
+            ]
+          }
+        },
+        "id": "1926115911276146688",
+        "location": "🚪88/188 纯绿 没福利",
+        "name": "ivee",
+        "pinned_tweet_id": "1951619524354314665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3923,
+          "following_count": 47,
+          "like_count": 7184,
+          "listed_count": 11,
+          "media_count": 135,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/EajfOmnfoY",
+        "username": "mirro50150y",
+        "verified": false
+      }
+    ]
+  }
+}

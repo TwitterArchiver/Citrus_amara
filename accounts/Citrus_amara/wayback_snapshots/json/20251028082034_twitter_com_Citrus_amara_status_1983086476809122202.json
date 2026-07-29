@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1983086476809122202",
+    "created_at": "2025-10-28T08:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T09:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983086476809122202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbcchinese/sta…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/bbcchinese/status/1981888890609803362",
+          "start": 51,
+          "url": "https://t.co/2C1arOzZIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983086476809122202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981888890609803362",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我也不太支持免术换证，你想当女的/男的你至少得把性腺切了吧？不过似乎ftm切子宫影响有点大... https://t.co/2C1arOzZIt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 85416,
+        "height": 1920,
+        "media_key": "7_1981888719389884416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1981888719389884416/pu/img/x3ZldsjQwq9O86rP.jpg",
+        "public_metrics": {
+          "view_count": 91857
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981888719389884416/pu/vid/avc1/320x568/LHbGBV_fcCloqBVw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981888719389884416/pu/vid/avc1/480x852/I1bYz6MuqpHeBByZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981888719389884416/pu/vid/avc1/720x1280/axejQ30AEan4gS_s.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1981888719389884416/pu/pl/V7wTA6sWyVxbFGXi.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983086476809122202",
+        "created_at": "2025-10-28T08:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983086476809122202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1981888890609803362",
+              "start": 51,
+              "url": "https://t.co/2C1arOzZIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983086476809122202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981888890609803362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我也不太支持免术换证，你想当女的/男的你至少得把性腺切了吧？不过似乎ftm切子宫影响有点大... https://t.co/2C1arOzZIt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981888719389884416"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1981888890609803362",
+        "created_at": "2025-10-25T01:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T02:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981888890609803362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iw5210M3o2",
+              "end": 145,
+              "expanded_url": "https://x.com/bbcchinese/status/1981888890609803362/video/1",
+              "media_key": "7_1981888719389884416",
+              "start": 122,
+              "url": "https://t.co/iw5210M3o2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981888890609803362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 226964,
+          "like_count": 339,
+          "quote_count": 38,
+          "reply_count": 277,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "10月24、25日是台湾一年一度的跨性别与同志游行，“免术换证”再成焦点。依现行规定，跨性别者须摘除原生性器官才能更改身分证性别，但手术费高、风险大，约八成未施术。\n\n在不同意见交锋之下，我们走进小太阳、Vivi和小嗨的生活，了解他们的日常。 https://t.co/iw5210M3o2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 635,
+          "like_count": 10205,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 4061
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5178103,
+          "following_count": 73,
+          "like_count": 60,
+          "listed_count": 11884,
+          "media_count": 24016,
+          "tweet_count": 154118
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

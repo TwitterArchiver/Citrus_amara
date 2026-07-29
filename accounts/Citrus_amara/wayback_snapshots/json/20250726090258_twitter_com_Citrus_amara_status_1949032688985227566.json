@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949032688985227566",
+    "created_at": "2025-07-26T09:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T10:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949032688985227566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/drug_artist/status/1949020702822334724",
+          "start": 26,
+          "url": "https://t.co/GEocremJVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949032688985227566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949020702822334724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是真实的幸福啊。因为所有的幸福本质上都是假的。 https://t.co/GEocremJVy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949032688985227566",
+        "created_at": "2025-07-26T09:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T10:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949032688985227566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/drug_artist/status/1949020702822334724",
+              "start": 26,
+              "url": "https://t.co/GEocremJVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949032688985227566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949020702822334724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是真实的幸福啊。因为所有的幸福本质上都是假的。 https://t.co/GEocremJVy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893688350076542976",
+        "conversation_id": "1949020702822334724",
+        "created_at": "2025-07-26T08:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T09:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949020702822334724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949020702822334724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 202,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "药物与毒品带来的幸福\n是真实的吗\n还是虚幻的\n它就像恶魔一样\n永远的缠住你的灵魂\n药效在拥抱你\n它既是天使，也是恶魔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 150,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 439
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "药物百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "location": "Xanax天国2mg省",
+        "name": "沐雨",
+        "pinned_tweet_id": "1928368769098788885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 149,
+          "like_count": 271,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 460
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

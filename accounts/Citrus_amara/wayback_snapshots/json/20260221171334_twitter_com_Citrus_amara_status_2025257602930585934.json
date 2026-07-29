@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025257602930585934",
+    "created_at": "2026-02-21T17:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T18:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025257602930585934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zuiaiyiyi/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zuiaiyiyi/status/2025127116829065544",
+          "start": 4,
+          "url": "https://t.co/3ugFMkEHhL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025257602930585934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025127116829065544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这踏马 https://t.co/3ugFMkEHhL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1042,
+        "media_key": "3_2025127112605401088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqyYRvbgAASPMr.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025257602930585934",
+        "created_at": "2026-02-21T17:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025257602930585934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zuiaiyiyi/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zuiaiyiyi/status/2025127116829065544",
+              "start": 4,
+              "url": "https://t.co/3ugFMkEHhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025257602930585934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025127116829065544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这踏马 https://t.co/3ugFMkEHhL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025127112605401088"
+          ]
+        },
+        "author_id": "1964265669362667520",
+        "conversation_id": "2025127116829065544",
+        "created_at": "2026-02-21T08:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025127116829065544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWKF6KPmGJ",
+              "end": 23,
+              "expanded_url": "https://x.com/zuiaiyiyi/status/2025127116829065544/photo/1",
+              "media_key": "3_2025127112605401088",
+              "start": 0,
+              "url": "https://t.co/gWKF6KPmGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025127116829065544",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 15119,
+          "like_count": 399,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gWKF6KPmGJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\n磕药的傻逼\nHRT：2025.8.28。\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "shsh548866"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 1016,
+          "like_count": 16982,
+          "listed_count": 6,
+          "media_count": 350,
+          "tweet_count": 9194
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T09:53:43.000Z",
+        "description": "止于推，只聊天。\n如果关注我，我很开心。\n回复看心情没礼貌我不回。\n只是一个会为五斗米折腰的资本主义受害者。\n标签纯引流，当真的那你这辈子有了。\n不加墙内联系方式，没有门槛，给一百万也不加vq\nx唯一亲友@羊奇羊https://t.co/uLfKv4ONH9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cuteyangqi",
+                "end": 129,
+                "expanded_url": "https://x.com/cuteyangqi",
+                "start": 106,
+                "url": "https://t.co/uLfKv4ONH9"
+              }
+            ]
+          }
+        },
+        "id": "1964265669362667520",
+        "location": "亚特兰蒂斯",
+        "name": "熠熠舞",
+        "pinned_tweet_id": "2023337572500652104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004200904413925379/m3cu8rDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14689,
+          "following_count": 9,
+          "like_count": 12,
+          "listed_count": 31,
+          "media_count": 134,
+          "tweet_count": 645
+        },
+        "username": "zuiaiyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

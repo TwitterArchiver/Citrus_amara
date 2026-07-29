@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025575325024104741",
+    "created_at": "2026-02-22T16:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025614949134078288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528005407469346818",
+          "start": 0,
+          "username": "K1raK1ra818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025614949134078288",
+    "in_reply_to_user_id": "1528005407469346818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025575325024104741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1raK1ra818 唑吡坦娱乐价值真的很高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025575325024104741",
+        "created_at": "2026-02-22T16:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025614949134078288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528005407469346818",
+              "start": 0,
+              "username": "K1raK1ra818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025614949134078288",
+        "in_reply_to_user_id": "1528005407469346818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025575325024104741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1raK1ra818 唑吡坦娱乐价值真的很高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528005407469346818",
+        "conversation_id": "2025575325024104741",
+        "created_at": "2026-02-22T14:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025575325024104741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025575325024104741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我説實話Z類有任何娛樂價值嗎？當然你想藥效中不受控制地把自己房子燒了那我沒話説"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\n磕药的傻逼\nHRT：2025.8.28。\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "shsh548866"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1016,
+          "like_count": 17022,
+          "listed_count": 6,
+          "media_count": 351,
+          "tweet_count": 9213
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "已戒毒。查成分回fo。信徒：@Jaime_Rimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          }
+        },
+        "id": "1528005407469346818",
+        "name": "愛醬大萌神",
+        "pinned_tweet_id": "2018555992552968209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024857684428906496/xA1R3MfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 664,
+          "like_count": 12364,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2693
+        },
+        "username": "K1raK1ra818",
+        "verified": false
+      }
+    ]
+  }
+}

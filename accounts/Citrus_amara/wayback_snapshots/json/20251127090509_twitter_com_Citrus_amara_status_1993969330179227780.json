@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1993903883605954700",
+    "created_at": "2025-11-27T09:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993969330179227780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1580263959751319554",
+          "start": 0,
+          "username": "kkndjhbh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993969330179227780",
+    "in_reply_to_user_id": "1580263959751319554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993966131577516256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkndjhbh 反正我焦虑得吃不下饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1993903883605954700",
+        "created_at": "2025-11-27T09:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993969330179227780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1580263959751319554",
+              "start": 0,
+              "username": "kkndjhbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993969330179227780",
+        "in_reply_to_user_id": "1580263959751319554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993966131577516256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkndjhbh 反正我焦虑得吃不下饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580263959751319554",
+        "conversation_id": "1993903883605954700",
+        "created_at": "2025-11-27T08:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993966131577516256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993966131577516256",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993903883605954700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 很难吧，如果突然戒断普瑞可能会暴饮暴食"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 844,
+          "like_count": 13214,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 5808
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T18:27:51.000Z",
+        "description": "全网同ID，oder可互fo 业余诗人 瘾君子 双相 轻中度精分 lgbt友好立场",
+        "id": "1580263959751319554",
+        "location": "The Netherlands",
+        "name": "扶梯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992075120014401536/siSSf1PM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 41,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 312
+        },
+        "username": "kkndjhbh",
+        "verified": false
+      }
+    ]
+  }
+}

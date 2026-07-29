@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025192639654502538",
+    "created_at": "2026-02-23T10:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025878695639179464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1468567542264664067",
+          "start": 0,
+          "username": "Angelica_zj"
+        },
+        {
+          "end": 22,
+          "id": "1403639017036464134",
+          "start": 13,
+          "username": "Cattary2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025878695639179464",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025212990769807525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angelica_zj @Cattary2 跨在哪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025192639654502538",
+        "created_at": "2026-02-23T10:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025878695639179464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 22,
+              "id": "1403639017036464134",
+              "start": 13,
+              "username": "Cattary2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025878695639179464",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025212990769807525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @Cattary2 跨在哪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2025192639654502538",
+        "created_at": "2026-02-21T14:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025212990769807525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1403639017036464134",
+              "start": 0,
+              "username": "Cattary2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025212990769807525",
+        "in_reply_to_user_id": "1403639017036464134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2140,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025212484513399066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cattary2 一个逆天跨，争议最大的大概是写了自切教程（指自己做手术去除睾丸等）鼓励其他跨性别参考吧，和劝人自杀没区别了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1016,
+          "like_count": 17042,
+          "listed_count": 6,
+          "media_count": 352,
+          "tweet_count": 9245
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25302,
+          "following_count": 1039,
+          "like_count": 14651,
+          "listed_count": 40,
+          "media_count": 1526,
+          "tweet_count": 16701
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T09:03:25.000Z",
+        "description": "清水推 不扩列不聊骚 欢迎和我互动 全猫肯定bot 可以给我发你家的小猫ᴖᗜᴖ",
+        "id": "1403639017036464134",
+        "name": "火锅炖小利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000909516628688896/K-JROsQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 113,
+          "like_count": 422,
+          "listed_count": 5,
+          "media_count": 65,
+          "tweet_count": 1196
+        },
+        "username": "Cattary2",
+        "verified": false
+      }
+    ]
+  }
+}

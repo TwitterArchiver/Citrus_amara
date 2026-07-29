@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950289453315994030",
+    "created_at": "2025-07-30T12:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T13:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950532147472970211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697580552793051136",
+          "start": 0,
+          "username": "yyc20090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950532147472970211",
+    "in_reply_to_user_id": "1697580552793051136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950289453315994030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyc20090 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950289448375373826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDR65ObUAIQaPf.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950289453315994030",
+        "created_at": "2025-07-30T12:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950532147472970211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697580552793051136",
+              "start": 0,
+              "username": "yyc20090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950532147472970211",
+        "in_reply_to_user_id": "1697580552793051136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950289453315994030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyc20090 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950289448375373826"
+          ]
+        },
+        "author_id": "1697580552793051136",
+        "conversation_id": "1950289453315994030",
+        "created_at": "2025-07-29T20:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T21:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950289453315994030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vn64OVEcVS",
+              "end": 53,
+              "expanded_url": "https://x.com/yyc20090/status/1950289453315994030/photo/1",
+              "media_key": "3_1950289448375373826",
+              "start": 30,
+              "url": "https://t.co/vn64OVEcVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950289453315994030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（血图致歉） 但是爱心真的很好看  不知道为什么肿了一圈😭 https://t.co/vn64OVEcVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 224,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 628
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "20090718  老婆@LiciiQAQ 窝重度缺爱😡👊 会割手👉👈     177/122  久居佛山🤤 可以随便骚扰窝🤤🤤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1697580552793051136",
+        "name": "yyxx🍥",
+        "pinned_tweet_id": "1949510258998784358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934155305077919744/xZ_qsmex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 418,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 652
+        },
+        "username": "yyc20090",
+        "verified": false
+      }
+    ]
+  }
+}

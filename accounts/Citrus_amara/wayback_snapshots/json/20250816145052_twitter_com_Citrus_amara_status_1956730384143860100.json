@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1956730384143860100",
+    "created_at": "2025-08-16T14:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T15:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956730384143860100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Alantur5742677…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Alantur57426778/status/1956423348856279259",
+          "start": 7,
+          "url": "https://t.co/9Aj1Ra9Fal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956730384143860100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956423348856279259",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不图能行吗？ https://t.co/9Aj1Ra9Fal"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_1956423345798631425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyacqtyb0AE5Ml-.jpg",
+        "width": 659
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956423332980727809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyacp-CaIAEMpy8.jpg",
+        "width": 690
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956423333421178880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyacp_ra4AARrIJ.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956423334163558400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyacqCcasAAN1cF.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1956730384143860100",
+        "created_at": "2025-08-16T14:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956730384143860100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Alantur5742677…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Alantur57426778/status/1956423348856279259",
+              "start": 7,
+              "url": "https://t.co/9Aj1Ra9Fal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956730384143860100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956423348856279259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不图能行吗？ https://t.co/9Aj1Ra9Fal"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956423345798631425",
+            "3_1956423332980727809",
+            "3_1956423333421178880",
+            "3_1956423334163558400"
+          ]
+        },
+        "author_id": "1549011946871336960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956423348856279259",
+        "created_at": "2025-08-15T18:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T19:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956423348856279259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QopFE80Gz0",
+              "end": 162,
+              "expanded_url": "https://x.com/Alantur57426778/status/1956423348856279259/photo/1",
+              "media_key": "3_1956423345798631425",
+              "start": 139,
+              "url": "https://t.co/QopFE80Gz0"
+            },
+            {
+              "display_url": "pic.x.com/QopFE80Gz0",
+              "end": 162,
+              "expanded_url": "https://x.com/Alantur57426778/status/1956423348856279259/photo/1",
+              "media_key": "3_1956423332980727809",
+              "start": 139,
+              "url": "https://t.co/QopFE80Gz0"
+            },
+            {
+              "display_url": "pic.x.com/QopFE80Gz0",
+              "end": 162,
+              "expanded_url": "https://x.com/Alantur57426778/status/1956423348856279259/photo/1",
+              "media_key": "3_1956423333421178880",
+              "start": 139,
+              "url": "https://t.co/QopFE80Gz0"
+            },
+            {
+              "display_url": "pic.x.com/QopFE80Gz0",
+              "end": 162,
+              "expanded_url": "https://x.com/Alantur57426778/status/1956423348856279259/photo/1",
+              "media_key": "3_1956423334163558400",
+              "start": 139,
+              "url": "https://t.co/QopFE80Gz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956423348856279259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 13128,
+          "like_count": 292,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "华师大附中的老师只是在性教育课的PPT里提了嘴“其他性别”，真放西方已是简略到不行，完全没展开讲何谓mtf/ftm/间性人/性别流体，帝吧还有一些冻肉博主便号召着它们的劳保粉丝大肆举报，宣扬他们那反动到不行的传统二元性别论了。\n恨成这样，无差别捅人的顺直男罪犯都轮不到凌迟呢！ https://t.co/QopFE80Gz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 352,
+          "like_count": 3149,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1365
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T12:43:31.000Z",
+        "description": "Obama, are you listening？？？！！！",
+        "id": "1549011946871336960",
+        "location": "Hi,there!",
+        "name": "咸福宫日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672247087621197824/st59jOX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 140,
+          "like_count": 8251,
+          "listed_count": 4,
+          "media_count": 374,
+          "tweet_count": 1163
+        },
+        "username": "Alantur57426778",
+        "verified": false
+      }
+    ]
+  }
+}

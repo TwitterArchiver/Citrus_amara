@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1992030110866960766",
+    "created_at": "2025-11-22T00:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T01:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992030110866960766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AcboxLiu/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/AcboxLiu/status/1991320335829086559",
+          "start": 28,
+          "url": "https://t.co/VAlqiGBPql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992030110866960766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991320335829086559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果关系不够亲密的人和我聊这些，我也只会觉得你他妈谁💧 https://t.co/VAlqiGBPql"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1992030110866960766",
+        "created_at": "2025-11-22T00:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T01:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992030110866960766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AcboxLiu/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/AcboxLiu/status/1991320335829086559",
+              "start": 28,
+              "url": "https://t.co/VAlqiGBPql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992030110866960766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991320335829086559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果关系不够亲密的人和我聊这些，我也只会觉得你他妈谁💧 https://t.co/VAlqiGBPql"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "1991320335829086559",
+        "created_at": "2025-11-20T01:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T02:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991320335829086559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/forkjae/status…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/forkjae/status/1987921814602051818",
+              "start": 138,
+              "url": "https://t.co/B044VgqiNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991320335829086559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 113814,
+          "like_count": 1041,
+          "quote_count": 24,
+          "reply_count": 39,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987921814602051818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的人生建议：不要给关系没有亲密到一定程度的人去讲原生家庭，去讲心理创伤，这个社会大家都很忙戾气都很大，没有人会有心情听你吐槽原生家庭；相反这些负面情绪只会成为日后他们掌控你的把柄，成为你“情绪不稳定”“幼稚”的指控词，并为早已经逃离的你造成负面影响\n答应我，活在现在好吗？ https://t.co/B044VgqiNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 817,
+          "like_count": 12669,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 5390
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/She&Her/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🟦TypeScript重度依赖/🐱Github: sheepbox8646/💼日常远程工作/Building ChalkAI/❤️大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1991551177834819860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9498,
+          "following_count": 2989,
+          "like_count": 2901,
+          "listed_count": 35,
+          "media_count": 1142,
+          "tweet_count": 5773
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

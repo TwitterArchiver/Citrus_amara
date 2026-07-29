@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1995684436927717876",
+    "created_at": "2025-12-02T02:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T03:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995684436927717876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/89youlaika8964…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/89youlaika8964/status/1995445471389589759",
+          "start": 8,
+          "url": "https://t.co/5ucZxvfLgp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995684436927717876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995445471389589759",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "未曾设想的思路 https://t.co/5ucZxvfLgp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1995684436927717876",
+        "created_at": "2025-12-02T02:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T03:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995684436927717876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/89youlaika8964…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/89youlaika8964/status/1995445471389589759",
+              "start": 8,
+              "url": "https://t.co/5ucZxvfLgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995684436927717876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995445471389589759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "未曾设想的思路 https://t.co/5ucZxvfLgp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479005140040712194",
+        "conversation_id": "1995445471389589759",
+        "created_at": "2025-12-01T10:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T11:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995445471389589759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995445471389589759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 577,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "香港大火说白了就是男祸，男的但凡在某一个行业比例占多，这个行业必定变烂。建筑装修行业只要你有过参与，都能被屌子抽烟随地吐痰大小便报团宰客恶心到。屌子干什么什么就会不行，哪怕是ccp，也是靠着暗地里那些个劲驴出言献策哼哧哼哧拉起来的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 887,
+          "like_count": 13574,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 6034
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T08:21:34.000Z",
+        "description": "11bt  radfem/terf/反性缘/想要跟媎妹一起过快乐的生活",
+        "id": "1479005140040712194",
+        "name": "⁶⁴Raven⁸⁹⁶⁴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956896690474209281/tltOL0lq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 372,
+          "like_count": 16265,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 731
+        },
+        "username": "89youlaika8964",
+        "verified": false
+      }
+    ]
+  }
+}

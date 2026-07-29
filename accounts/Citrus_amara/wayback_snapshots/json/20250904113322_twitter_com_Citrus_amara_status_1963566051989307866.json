@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1963566051989307866",
+    "created_at": "2025-09-04T11:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T12:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963566051989307866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akui1121/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/akui1121/status/1963474906814828803",
+          "start": 11,
+          "url": "https://t.co/mTjjS4bHZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963566051989307866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963474906814828803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ftm也要带自己的锁 https://t.co/mTjjS4bHZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963474898615160832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz-qBHFaUAA2H6v.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1963566051989307866",
+        "created_at": "2025-09-04T11:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T12:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963566051989307866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akui1121/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/akui1121/status/1963474906814828803",
+              "start": 11,
+              "url": "https://t.co/mTjjS4bHZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963566051989307866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963474906814828803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ftm也要带自己的锁 https://t.co/mTjjS4bHZc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963474898615160832"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "1963474906814828803",
+        "created_at": "2025-09-04T05:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T06:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963474906814828803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtgX00nDX5",
+              "end": 43,
+              "expanded_url": "https://x.com/akui1121/status/1963474906814828803/photo/1",
+              "media_key": "3_1963474898615160832",
+              "start": 20,
+              "url": "https://t.co/xtgX00nDX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963474906814828803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3524,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不理解，我不明白，这这这，这咋用？😨 https://t.co/xtgX00nDX5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 395,
+          "like_count": 5848,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 2240
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生！男娘！👻你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 🚪80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121 👍    🐢咪@1965chich    🥰干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "username": "1965chich"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1960934627142721786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944206812791865345/VxoTQON3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27741,
+          "following_count": 1192,
+          "like_count": 18712,
+          "listed_count": 70,
+          "media_count": 930,
+          "tweet_count": 11771
+        },
+        "username": "akui1121",
+        "verified": false
+      }
+    ]
+  }
+}

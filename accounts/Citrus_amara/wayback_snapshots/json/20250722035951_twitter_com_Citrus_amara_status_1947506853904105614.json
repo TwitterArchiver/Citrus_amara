@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947505164740342156",
+    "created_at": "2025-07-22T03:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947506853904105614"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947506853904105614",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947505164740342156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草我觉得苦橙简直是神人。。我看别人o都是磨粉的我草。。但是我找不到打粉机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947505164740342156",
+        "created_at": "2025-07-22T03:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947506853904105614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947506853904105614",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947505164740342156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草我觉得苦橙简直是神人。。我看别人o都是磨粉的我草。。但是我找不到打粉机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947505164740342156",
+        "created_at": "2025-07-22T03:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947505164740342156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947505164740342156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干嚼了两颗肉豆蔻，一颗吐了，另一颗配150ml可乐咽下去了。\n非常糟糕的味道请一定要买肉豆蔻粉。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 90,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 270
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1979124292018118873",
+    "created_at": "2025-10-17T09:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T10:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979124292018118873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kyrg1989/statu…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/Kyrg1989/status/1979052414792569120",
+          "start": 51,
+          "url": "https://t.co/NuMzKuM8Sc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979124292018118873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979052414792569120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是。我无法理解为了繁殖不择手段的人。自己活的很好吗？如果活的不好为什么还要再带一个人来一起痛苦？ https://t.co/NuMzKuM8Sc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1979124292018118873",
+        "created_at": "2025-10-17T09:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979124292018118873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kyrg1989/statu…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Kyrg1989/status/1979052414792569120",
+              "start": 51,
+              "url": "https://t.co/NuMzKuM8Sc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979124292018118873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979052414792569120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是。我无法理解为了繁殖不择手段的人。自己活的很好吗？如果活的不好为什么还要再带一个人来一起痛苦？ https://t.co/NuMzKuM8Sc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295167822973173760",
+        "conversation_id": "1979052414792569120",
+        "created_at": "2025-10-17T05:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T06:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979052414792569120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979052414792569120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2864,
+          "like_count": 32,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我寻思力工思维抨击的不是给母人爆金币不给自己花钱吗？怎么有些人理解成上班赚钱就是力工了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 女儿@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 591,
+          "like_count": 9297,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 3539
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-17T01:20:57.000Z",
+        "description": "#blacklivesmatter #Pride2022 #Metoo 性别男",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "blacklivesmatter"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "tag": "Pride2022"
+              },
+              {
+                "end": 35,
+                "start": 29,
+                "tag": "Metoo"
+              }
+            ]
+          }
+        },
+        "id": "1295167822973173760",
+        "location": "妙蛙底",
+        "name": "一个兴趣使然的黑人留学生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598085086318333953/j5yEKoD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5994,
+          "following_count": 594,
+          "like_count": 120311,
+          "listed_count": 28,
+          "media_count": 1551,
+          "tweet_count": 60234
+        },
+        "username": "Kyrg1989",
+        "verified": false
+      }
+    ]
+  }
+}

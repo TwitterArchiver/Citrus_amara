@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1967177920012759083",
+    "created_at": "2025-09-14T11:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T12:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967187560368922913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948615711041126400",
+          "start": 0,
+          "username": "shsh548866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967187560368922913",
+    "in_reply_to_user_id": "1948615711041126400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967177920012759083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shsh548866 但我们一定会爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1967177917114494976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zR5J-aMAACEOb.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1967177920012759083",
+        "created_at": "2025-09-14T11:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967187560368922913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948615711041126400",
+              "start": 0,
+              "username": "shsh548866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967187560368922913",
+        "in_reply_to_user_id": "1948615711041126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967177920012759083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh548866 但我们一定会爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967177917114494976"
+          ]
+        },
+        "author_id": "1948615711041126400",
+        "conversation_id": "1967177920012759083",
+        "created_at": "2025-09-14T10:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967177920012759083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yV96jaPnO7",
+              "end": 23,
+              "expanded_url": "https://x.com/shsh548866/status/1967177920012759083/photo/1",
+              "media_key": "3_1967177917114494976",
+              "start": 0,
+              "url": "https://t.co/yV96jaPnO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967177920012759083",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yV96jaPnO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 428,
+          "like_count": 6640,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2561
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T05:27:18.000Z",
+        "description": "不是很想说话，真的是健全批慎关",
+        "id": "1948615711041126400",
+        "location": "Nakano-ku, Tokyo",
+        "name": "鲜葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966932091603701760/cRMUh4Dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 183,
+          "like_count": 1371,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 115
+        },
+        "username": "shsh548866",
+        "verified": false
+      }
+    ]
+  }
+}

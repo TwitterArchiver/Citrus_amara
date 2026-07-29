@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1999719168216633680",
+    "created_at": "2025-12-14T01:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T02:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000016173526876313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1651871294323924992",
+          "start": 0,
+          "username": "Gi_WEe13410"
+        },
+        {
+          "end": 26,
+          "id": "1434608964629639168",
+          "start": 13,
+          "username": "Sharkie_4005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000016173526876313",
+    "in_reply_to_user_id": "1651871294323924992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000012521416294510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gi_WEe13410 @Sharkie_4005 😶那么你也只能享受到线上作为跨性别者的“权利”啊？政策不会因为你是一个网络上的跨性别者就支持你。\n如果你愿意在线上装成跨性别者并支持lgbt运动，那我把你视为朋友。如果你在线上装成跨性别者但做不好的事，那我把你当成敌人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1999719168216633680",
+        "created_at": "2025-12-14T01:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T02:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000016173526876313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1651871294323924992",
+              "start": 0,
+              "username": "Gi_WEe13410"
+            },
+            {
+              "end": 26,
+              "id": "1434608964629639168",
+              "start": 13,
+              "username": "Sharkie_4005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000016173526876313",
+        "in_reply_to_user_id": "1651871294323924992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000012521416294510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gi_WEe13410 @Sharkie_4005 😶那么你也只能享受到线上作为跨性别者的“权利”啊？政策不会因为你是一个网络上的跨性别者就支持你。\n如果你愿意在线上装成跨性别者并支持lgbt运动，那我把你视为朋友。如果你在线上装成跨性别者但做不好的事，那我把你当成敌人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651871294323924992",
+        "conversation_id": "1999719168216633680",
+        "created_at": "2025-12-14T01:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T02:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000012521416294510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 27,
+              "id": "1434608964629639168",
+              "start": 14,
+              "username": "Sharkie_4005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000012521416294510",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999972005177966970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @Sharkie_4005 这也太简单了，网上搜点雌激素药物的图片，然后发几个帖子晒一下，我说我吃了我就是吃了。至于具体真实性，怎么？？你要顺着VPN开盒我然后再线下和我真人确定我到底有没有在吃吗？😯😯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1999680286733533427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 931,
+          "like_count": 14182,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 6619
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T08:50:00.000Z",
+        "description": "金科律玉包子帝，通商宽衣不换肩，边拉清单边倒车，为了复辟大撒币，精甚连任没脾气，不同意的请举手，没有没有都没有。",
+        "id": "1651871294323924992",
+        "name": "西朝鲜の皇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914301136577888256/Fdbv-bPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 43,
+          "like_count": 1951,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 1835
+        },
+        "username": "Gi_WEe13410",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T20:07:08.000Z",
+        "description": "19｜海豹姊姊@Siyan_Xiao｜永遠的楓葉🍁｜♚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Siyan_Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1434608964629639168",
+        "location": "Montréal, Québec",
+        "name": "Atlantic_Sea Shark 🍂",
+        "pinned_tweet_id": "1947749953738314234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891641996462174208/hu5f1xyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 489,
+          "like_count": 34982,
+          "listed_count": 4,
+          "media_count": 676,
+          "tweet_count": 9514
+        },
+        "username": "Sharkie_4005",
+        "verified": false
+      }
+    ]
+  }
+}

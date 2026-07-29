@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1974122130632851744",
+    "created_at": "2025-10-04T05:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T06:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974346133842575611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658664482632253441",
+          "start": 0,
+          "username": "jujube8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974346133842575611",
+    "in_reply_to_user_id": "1658664482632253441",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974122130632851744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jujube8964 ✋😭✋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_1974122128082677764",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2V9nbubMAQjrrb.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1974122130632851744",
+        "created_at": "2025-10-04T05:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T06:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974346133842575611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658664482632253441",
+              "start": 0,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974346133842575611",
+        "in_reply_to_user_id": "1658664482632253441",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974122130632851744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujube8964 ✋😭✋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974122128082677764"
+          ]
+        },
+        "author_id": "1658664482632253441",
+        "conversation_id": "1974122130632851744",
+        "created_at": "2025-10-03T14:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974122130632851744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YEZ1I8BGtD",
+              "end": 53,
+              "expanded_url": "https://x.com/jujube8964/status/1974122130632851744/photo/1",
+              "media_key": "3_1974122128082677764",
+              "start": 30,
+              "url": "https://t.co/YEZ1I8BGtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974122130632851744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的好生活都是“中国共产党”带来的，永远不要忘记这一点！ https://t.co/YEZ1I8BGtD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 487,
+          "like_count": 8102,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 3009
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "深爱着我的爱人，直到永远",
+        "id": "1658664482632253441",
+        "location": "爱人的怀抱",
+        "name": "冬枣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964614874266521600/6X-PARwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 557,
+          "like_count": 1930,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 3039
+        },
+        "username": "jujube8964",
+        "verified": false
+      }
+    ]
+  }
+}

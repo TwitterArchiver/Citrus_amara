@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949782351573098505",
+    "created_at": "2025-07-30T09:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T10:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950483549779312848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499435865302441993",
+          "start": 0,
+          "username": "hamjwnja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950483549779312848",
+    "in_reply_to_user_id": "1499435865302441993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950433329649488325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@hamjwnja 那你去碰。我要正经攒钱做手术切。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949782351573098505",
+        "created_at": "2025-07-30T09:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T10:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950483549779312848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499435865302441993",
+              "start": 0,
+              "username": "hamjwnja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950483549779312848",
+        "in_reply_to_user_id": "1499435865302441993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950433329649488325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@hamjwnja 那你去碰。我要正经攒钱做手术切。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499435865302441993",
+        "conversation_id": "1949782351573098505",
+        "created_at": "2025-07-30T05:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T06:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950433329649488325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950433329649488325",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950380776731926698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Citrus_amara 我记得有几个有机化学品碰了就破坏生理能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 219,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 624
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:25:50.000Z",
+        "description": "你这",
+        "id": "1499435865302441993",
+        "name": "你说的对",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650790615217479682/J_8wGtZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 529,
+          "like_count": 2950,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 479
+        },
+        "username": "hamjwnja",
+        "verified": false
+      }
+    ]
+  }
+}

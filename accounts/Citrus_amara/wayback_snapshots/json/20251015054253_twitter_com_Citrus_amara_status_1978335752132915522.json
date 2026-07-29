@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1978334933354532921",
+    "created_at": "2025-10-15T05:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978335752132915522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "Yoselindead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978335752132915522",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978334933354532921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoselindead 想吸"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1978334933354532921].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1978334933354532921",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1978334933354532921"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1978334933354532921",
+        "created_at": "2025-10-15T05:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978335752132915522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "Yoselindead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978335752132915522",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978334933354532921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoselindead 想吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 559,
+          "like_count": 8899,
+          "listed_count": 4,
+          "media_count": 100,
+          "tweet_count": 3388
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "LGBTQ友好顺女，重抑重焦，已申根移民国内业务仅有：病历处方，神必化学物质，电子烟外烟，渠道付费介绍，🍥买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko全球可寄⚠️@y0zarashi会开盒点人大家小心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "y0zarashi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mylifeallfucke…",
+                "end": 23,
+                "expanded_url": "https://t.me/mylifeallfuckedup",
+                "start": 0,
+                "url": "https://t.co/R0EDK2KJIw"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "🚪288/588，线下过门后详问",
+        "name": "Yoselin跳海🪬💊🩸",
+        "pinned_tweet_id": "1968932170459656643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947177584891936768/JyIXTLSH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 371,
+          "like_count": 13336,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 3869
+        },
+        "url": "https://t.co/R0EDK2KJIw",
+        "username": "Yoselindead",
+        "verified": false
+      }
+    ]
+  }
+}

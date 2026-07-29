@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1943192591169917162",
+    "created_at": "2025-07-10T14:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T15:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943322735717027957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934504250849239040",
+          "start": 0,
+          "username": "buyunaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943322735717027957",
+    "in_reply_to_user_id": "1934504250849239040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943192591169917162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buyunaku 要试试看么。我是群星开始入坑p社的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1943192591169917162",
+        "created_at": "2025-07-10T14:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T15:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943322735717027957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934504250849239040",
+              "start": 0,
+              "username": "buyunaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943322735717027957",
+        "in_reply_to_user_id": "1934504250849239040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943192591169917162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buyunaku 要试试看么。我是群星开始入坑p社的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934504250849239040",
+        "conversation_id": "1943192591169917162",
+        "created_at": "2025-07-10T06:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T07:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943192591169917162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943192591169917162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 865,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群星… 很好玩的样子\n怖雨有精力的话会试试的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "双相已确诊。oder。跨性别。请求互fo。\n叫我苦橙就好了。",
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "苦橙",
+        "pinned_tweet_id": "1939399525346550019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936145987841531904/Z4VVC4zG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 66,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 60
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T06:52:37.000Z",
+        "description": "活在互联网的小女孩\n2008.6.26\n没有感情地活下去吧\n没有除推特和 Bsky 之外其他账号",
+        "id": "1934504250849239040",
+        "name": "怖雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934531390030401536/ZQLUeB-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 78,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "buyunaku",
+        "verified": false
+      }
+    ]
+  }
+}

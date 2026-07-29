@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1994410775608172826",
+    "created_at": "2025-11-29T03:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T04:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994615107796566058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1343914713340469253",
+          "start": 0,
+          "username": "bisexualchinaSZ"
+        },
+        {
+          "end": 29,
+          "id": "1786706019680387072",
+          "start": 17,
+          "username": "Akihi171114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994615107796566058",
+    "in_reply_to_user_id": "1343914713340469253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994614202124963951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisexualchinaSZ @Akihi171114 1t就行，吃完会发癫。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1994410775608172826",
+        "created_at": "2025-11-29T03:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994615107796566058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1343914713340469253",
+              "start": 0,
+              "username": "bisexualchinaSZ"
+            },
+            {
+              "end": 29,
+              "id": "1786706019680387072",
+              "start": 17,
+              "username": "Akihi171114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994615107796566058",
+        "in_reply_to_user_id": "1343914713340469253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994614202124963951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisexualchinaSZ @Akihi171114 1t就行，吃完会发癫。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343914713340469253",
+        "conversation_id": "1994410775608172826",
+        "created_at": "2025-11-29T03:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994614202124963951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786706019680387072",
+              "start": 0,
+              "username": "Akihi171114"
+            },
+            {
+              "end": 26,
+              "id": "1866458229527764992",
+              "start": 13,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994614202124963951",
+        "in_reply_to_user_id": "1786706019680387072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994447317592936798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akihi171114 @Citrus_amara 要吃多少？每次？我吃完是真的就只是睡觉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 863,
+          "like_count": 13390,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 5901
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-29T13:40:21.000Z",
+        "description": "曼谷BKK https://t.co/ywX3E5pbFq 偏1 双性恋 😍🧊 🍃 🧩 183 17cm 东北 黑皮",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/melt666",
+                "end": 29,
+                "expanded_url": "http://t.me/melt666",
+                "start": 6,
+                "url": "https://t.co/ywX3E5pbFq"
+              }
+            ]
+          }
+        },
+        "id": "1343914713340469253",
+        "location": "BKK一号鸭",
+        "name": "BKK六边形战士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848833095052730368/Ak9hV6JO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 834,
+          "like_count": 478,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 327
+        },
+        "username": "bisexualchinaSZ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T10:35:07.000Z",
+        "description": "用药记录簿/已确诊双相 ADHD/神经发散人士/INFJ6w5/精神分析少女/不用礼貌回关哦 这里很贫瘠。",
+        "id": "1786706019680387072",
+        "name": "Psybee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983581923671994370/IWwcLy0a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 38,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 60
+        },
+        "username": "Akihi171114",
+        "verified": false
+      }
+    ]
+  }
+}

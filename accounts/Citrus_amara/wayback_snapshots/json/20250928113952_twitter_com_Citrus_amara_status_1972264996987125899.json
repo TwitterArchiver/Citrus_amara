@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1971994527666966967",
+    "created_at": "2025-09-28T11:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T12:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972264996987125899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1779921577213337601",
+          "start": 0,
+          "username": "18208210383C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972264996987125899",
+    "in_reply_to_user_id": "1779921577213337601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971994527666966967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@18208210383C 别吃这个了，无od价值..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1971994525238546438",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13ukpfb0AYF5L1.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1971994527666966967",
+        "created_at": "2025-09-28T11:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T12:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972264996987125899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779921577213337601",
+              "start": 0,
+              "username": "18208210383C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972264996987125899",
+        "in_reply_to_user_id": "1779921577213337601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971994527666966967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@18208210383C 别吃这个了，无od价值..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971994525238546438"
+          ]
+        },
+        "author_id": "1779921577213337601",
+        "conversation_id": "1971994527666966967",
+        "created_at": "2025-09-27T17:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T18:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971994527666966967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNg7EHBhs2",
+              "end": 65,
+              "expanded_url": "https://x.com/18208210383C/status/1971994527666966967/photo/1",
+              "media_key": "3_1971994525238546438",
+              "start": 42,
+              "url": "https://t.co/aNg7EHBhs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971994527666966967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第二轮测试结果如下\n剂量 (16t\n反应/ 除了恶心均无\n无任何/幻觉 幻视 幻听 https://t.co/aNg7EHBhs2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 470,
+          "like_count": 7820,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 2904
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T17:16:12.000Z",
+        "description": "QQ   2231412852\n  只对药物科研有兴趣",
+        "id": "1779921577213337601",
+        "name": "我叫某小花",
+        "pinned_tweet_id": "1836628809971560716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779922488182583296/kIMH2qk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 39,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 41
+        },
+        "username": "18208210383C",
+        "verified": false
+      }
+    ]
+  }
+}

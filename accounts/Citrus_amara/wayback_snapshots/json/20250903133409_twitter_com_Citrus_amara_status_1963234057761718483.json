@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1963234057761718483",
+    "created_at": "2025-09-03T13:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T14:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963234057761718483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Asahi_233/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Asahi_233/status/1963110576680538351",
+          "start": 7,
+          "url": "https://t.co/RqnFvBf6qr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963234057761718483",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963110576680538351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了，， https://t.co/RqnFvBf6qr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1963234057761718483",
+        "created_at": "2025-09-03T13:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T14:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963234057761718483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Asahi_233/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Asahi_233/status/1963110576680538351",
+              "start": 7,
+              "url": "https://t.co/RqnFvBf6qr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963234057761718483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963110576680538351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了，， https://t.co/RqnFvBf6qr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778563028503642112",
+        "conversation_id": "1963066428497506532",
+        "created_at": "2025-09-03T05:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T06:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963110576680538351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963110576680538351",
+        "in_reply_to_user_id": "215939847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31066,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963066428497506532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng 美国直接冻结中共官员财产禁止它们入境就可以了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 391,
+          "like_count": 5832,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 2216
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T23:17:42.000Z",
+        "description": "MTF🏳️‍⚧️/🍥HRT since 2024.3.20/喜欢玩Minecraft/🇹🇼🇺🇸🇯🇵🇨🇦\n/https://t.co/52XE0CBMk1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Asahi_233",
+                "end": 76,
+                "expanded_url": "https://www.youtube.com/@Asahi_233",
+                "start": 53,
+                "url": "https://t.co/52XE0CBMk1"
+              }
+            ]
+          }
+        },
+        "id": "1778563028503642112",
+        "name": "Chocolate🍫",
+        "pinned_tweet_id": "1942940927485432071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946652194184282112/xuKfiGoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 1824,
+          "like_count": 13100,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 1418
+        },
+        "username": "Asahi_233",
+        "verified": false
+      }
+    ]
+  }
+}

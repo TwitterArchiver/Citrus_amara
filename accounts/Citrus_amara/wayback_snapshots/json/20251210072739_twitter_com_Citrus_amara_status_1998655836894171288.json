@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1998655836894171288",
+    "created_at": "2025-12-10T07:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T08:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998655836894171288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/domyself18/sta…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/domyself18/status/1998419233462788190",
+          "start": 84,
+          "url": "https://t.co/spt7HGD44W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998655836894171288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998419233462788190",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很好奇他咋想的。经济下行的话政治矛盾更激烈很正常。不过以前也不是没人反对，习近平以前不就有六四学潮这种活吗。\n\n至于我为什么不反对嘛...习近平上台的时候我才10岁。 https://t.co/spt7HGD44W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1998418558267899904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7vPFzYbQAA8GNf.jpg",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1998655836894171288",
+        "created_at": "2025-12-10T07:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998655836894171288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/domyself18/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/domyself18/status/1998419233462788190",
+              "start": 84,
+              "url": "https://t.co/spt7HGD44W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998655836894171288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998419233462788190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很好奇他咋想的。经济下行的话政治矛盾更激烈很正常。不过以前也不是没人反对，习近平以前不就有六四学潮这种活吗。\n\n至于我为什么不反对嘛...习近平上台的时候我才10岁。 https://t.co/spt7HGD44W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998418558267899904"
+          ]
+        },
+        "author_id": "1397279487973339138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1998419233462788190",
+        "created_at": "2025-12-09T15:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998419233462788190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDIFBlHn8y",
+              "end": 158,
+              "expanded_url": "https://x.com/domyself18/status/1998419233462788190/photo/1",
+              "media_key": "3_1998418558267899904",
+              "start": 135,
+              "url": "https://t.co/rDIFBlHn8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998419233462788190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1252,
+          "like_count": 3,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近墙内有很多屁民矛头直指习近平，我老人家给分析一下，共产党是一直独裁的，又不是习近平才开始独裁，那么为什么之前这些傻逼不出来叫？因为这些年资本退潮，这些傻逼赚不到钱了，以前能有饲料吃的时候，怎么不出来骂共产党？反而天天见这群傻逼歌颂改革开放，歌颂共产党，歌颂习主席。 https://t.co/rDIFBlHn8y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/吸毒 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 921,
+          "like_count": 13998,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 6434
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-25T19:52:55.000Z",
+        "description": "天才地才，专制之下，俱为奴才。",
+        "id": "1397279487973339138",
+        "name": "domyself",
+        "pinned_tweet_id": "1892988571453202787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397280102749294597/6WQwy3jo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 905,
+          "like_count": 29,
+          "listed_count": 7,
+          "media_count": 163,
+          "tweet_count": 1925
+        },
+        "username": "domyself18",
+        "verified": false
+      }
+    ]
+  }
+}

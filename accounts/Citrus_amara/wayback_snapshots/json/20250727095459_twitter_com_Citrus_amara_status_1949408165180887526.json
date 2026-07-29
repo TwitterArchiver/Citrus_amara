@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1949408165180887526",
+    "created_at": "2025-07-27T09:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T10:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949408165180887526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1948790351856017420",
+          "start": 12,
+          "url": "https://t.co/pTPOB709bi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949408165180887526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948790351856017420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个日好像日本人也反。 https://t.co/pTPOB709bi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1948683832955469825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsdnxrbgAEEr6Q.jpg",
+        "width": 536
+      },
+      {
+        "height": 893,
+        "media_key": "3_1948683848407285762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsdorPbgAIjVZj.jpg",
+        "width": 536
+      },
+      {
+        "height": 750,
+        "media_key": "3_1948683863678754816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsdpkIboAAmkxu.jpg",
+        "width": 536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1949408165180887526",
+        "created_at": "2025-07-27T09:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949408165180887526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1948790351856017420",
+              "start": 12,
+              "url": "https://t.co/pTPOB709bi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949408165180887526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948790351856017420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个日好像日本人也反。 https://t.co/pTPOB709bi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948683832955469825",
+            "3_1948683848407285762",
+            "3_1948683863678754816"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948790351856017420",
+        "created_at": "2025-07-25T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948790351856017420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2MK9sBWMfT",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1948790351856017420/photo/1",
+              "media_key": "3_1948683832955469825",
+              "start": 82,
+              "url": "https://t.co/2MK9sBWMfT"
+            },
+            {
+              "display_url": "pic.x.com/2MK9sBWMfT",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1948790351856017420/photo/1",
+              "media_key": "3_1948683848407285762",
+              "start": 82,
+              "url": "https://t.co/2MK9sBWMfT"
+            },
+            {
+              "display_url": "pic.x.com/2MK9sBWMfT",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1948790351856017420/photo/1",
+              "media_key": "3_1948683863678754816",
+              "start": 82,
+              "url": "https://t.co/2MK9sBWMfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948790351856017420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 287,
+          "impression_count": 1259436,
+          "like_count": 2159,
+          "quote_count": 118,
+          "reply_count": 670,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "半个月内，连续三部反日电影上映\n7月25日，讲述南京大屠杀的电影，南京照相馆上映\n7月31日，电影731上映\n8月8日，讲述营救被日本俘虏的英军战俘电影东极岛上映 https://t.co/2MK9sBWMfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "osdd-1a。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 166,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 487
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044250,
+          "following_count": 980,
+          "like_count": 7715,
+          "listed_count": 8210,
+          "media_count": 32306,
+          "tweet_count": 38973
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

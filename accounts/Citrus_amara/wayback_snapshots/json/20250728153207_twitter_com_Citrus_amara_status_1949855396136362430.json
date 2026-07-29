@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949855396136362430",
+    "created_at": "2025-07-28T15:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T16:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949855396136362430"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949855396136362430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在特别绝望的一件事就是，我本来是社恐嘛也不想见人，但是o完pr我社交欲望会特别高，所以就会到处约人出来玩。但是约完人家之后我pr药效没了我就不想出去了！所以我不得不o完pr再出去玩。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949855396136362430",
+        "created_at": "2025-07-28T15:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T16:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949855396136362430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949855396136362430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在特别绝望的一件事就是，我本来是社恐嘛也不想见人，但是o完pr我社交欲望会特别高，所以就会到处约人出来玩。但是约完人家之后我pr药效没了我就不想出去了！所以我不得不o完pr再出去玩。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。欢迎od的互关，欢迎私信。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 182,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 548
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

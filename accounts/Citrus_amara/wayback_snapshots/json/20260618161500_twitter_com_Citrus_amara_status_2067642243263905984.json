@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2067642243263905984",
+    "created_at": "2026-06-18T16:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067642243263905984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duanhjlt/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/duanhjlt/status/2067578315674964137",
+          "start": 11,
+          "url": "https://t.co/16nc4kFUwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067642243263905984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067578315674964137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "median养成指南 https://t.co/16nc4kFUwz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067578219046551552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGDb4uawAAxKoh.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2067642243263905984",
+        "created_at": "2026-06-18T16:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067642243263905984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duanhjlt/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/duanhjlt/status/2067578315674964137",
+              "start": 11,
+              "url": "https://t.co/16nc4kFUwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067642243263905984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067578315674964137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "median养成指南 https://t.co/16nc4kFUwz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067578219046551552"
+          ]
+        },
+        "author_id": "340107534",
+        "conversation_id": "2067578315674964137",
+        "created_at": "2026-06-18T12:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067578315674964137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PiNP2sHiO",
+              "end": 35,
+              "expanded_url": "https://x.com/duanhjlt/status/2067578315674964137/photo/1",
+              "media_key": "3_2067578219046551552",
+              "start": 12,
+              "url": "https://t.co/7PiNP2sHiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067578315674964137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 68992,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "真正的狠人是什么样的？ https://t.co/7PiNP2sHiO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Autism/Plurality/BPD/药物滥用/双相\n\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "shsh548866"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 1122,
+          "like_count": 20669,
+          "listed_count": 5,
+          "media_count": 422,
+          "tweet_count": 11620
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T04:31:23.000Z",
+        "description": "我愿奔赴旷野山河，挣脱束缚，心向自由；立身有骨，随性坦荡",
+        "id": "340107534",
+        "name": "赴野",
+        "pinned_tweet_id": "2066718084426330179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972814827749011456/IuCjwNAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24794,
+          "following_count": 824,
+          "like_count": 705,
+          "listed_count": 102,
+          "media_count": 7739,
+          "tweet_count": 13165
+        },
+        "username": "duanhjlt",
+        "verified": true
+      }
+    ]
+  }
+}

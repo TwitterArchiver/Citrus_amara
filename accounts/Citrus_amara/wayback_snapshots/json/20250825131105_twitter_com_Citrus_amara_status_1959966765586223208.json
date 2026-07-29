@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1959966311162753168",
+    "created_at": "2025-08-25T13:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T14:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959966765586223208"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959966765586223208",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959966311162753168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "婚育什么的和我没关系。我坚持反婚反育，你喜欢生就多生，把我的那份也生出来✌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1959966311162753168",
+        "created_at": "2025-08-25T13:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T14:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959966765586223208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959966765586223208",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959966311162753168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "婚育什么的和我没关系。我坚持反婚反育，你喜欢生就多生，把我的那份也生出来✌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1959966311162753168",
+        "created_at": "2025-08-25T13:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T14:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959966311162753168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1959217420897263680",
+              "start": 60,
+              "url": "https://t.co/REZB3iUqdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959966311162753168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959217420897263680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的没错确实是因为堕女婴导致的男女比例失调，但是老东西堕的女婴，为什么后果要小东西来承担？该杀的是那帮中年傻逼劳保吧。 https://t.co/REZB3iUqdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby。od的请陪我玩。#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论\n我爱你们",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 389,
+          "like_count": 4380,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1747
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

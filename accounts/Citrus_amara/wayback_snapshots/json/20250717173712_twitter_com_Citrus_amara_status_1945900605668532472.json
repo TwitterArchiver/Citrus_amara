@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945356564560277504"
+      ],
+      "media_source_tweet_id": [
+        "1945356571409514540"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1945900605668532472",
+    "created_at": "2025-07-17T17:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T18:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945900605668532472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1602328096622800896",
+          "start": 3,
+          "username": "dutyge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tZLAQvDdpw",
+          "end": 64,
+          "expanded_url": "https://x.com/dutyge/status/1945356571409514540/photo/1",
+          "media_key": "3_1945356564560277504",
+          "start": 41,
+          "url": "https://t.co/tZLAQvDdpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945900605668532472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945356571409514540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dutyge: 为什么年轻人宁愿待业也不找工作？\n\n坐标广东的回答。\n👇 https://t.co/tZLAQvDdpw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1406,
+        "media_key": "3_1945356564560277504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9LfRAW8AAKzHB.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945356564560277504"
+          ],
+          "media_source_tweet_id": [
+            "1945356571409514540"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1945900605668532472",
+        "created_at": "2025-07-17T17:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T18:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945900605668532472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1602328096622800896",
+              "start": 3,
+              "username": "dutyge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZLAQvDdpw",
+              "end": 64,
+              "expanded_url": "https://x.com/dutyge/status/1945356571409514540/photo/1",
+              "media_key": "3_1945356564560277504",
+              "start": 41,
+              "url": "https://t.co/tZLAQvDdpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945900605668532472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945356571409514540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dutyge: 为什么年轻人宁愿待业也不找工作？\n\n坐标广东的回答。\n👇 https://t.co/tZLAQvDdpw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945356564560277504"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "1945356571409514540",
+        "created_at": "2025-07-16T05:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T06:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945356571409514540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZLAQvDdpw",
+              "end": 52,
+              "expanded_url": "https://x.com/dutyge/status/1945356571409514540/photo/1",
+              "media_key": "3_1945356564560277504",
+              "start": 29,
+              "url": "https://t.co/tZLAQvDdpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945356571409514540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 299746,
+          "like_count": 2124,
+          "quote_count": 9,
+          "reply_count": 74,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "为什么年轻人宁愿待业也不找工作？\n\n坐标广东的回答。\n👇 https://t.co/tZLAQvDdpw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（但是没有系统名）。疑似双相（有诊断但不认可）。oder。跨性别。\n请求互fo。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 70,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 117
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34967,
+          "following_count": 98,
+          "like_count": 0,
+          "listed_count": 140,
+          "media_count": 7159,
+          "tweet_count": 11982
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

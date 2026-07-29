@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950553374249849104",
+    "created_at": "2025-07-30T14:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T15:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950564797344268522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "jfrd163461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950564797344268522",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950553374249849104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jfrd163461 你是对的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "3_1950553107575762944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxHBt4SWcAAv0TA.png",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950553374249849104",
+        "created_at": "2025-07-30T14:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T15:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950564797344268522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950564797344268522",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950553374249849104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 你是对的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950553107575762944"
+          ]
+        },
+        "author_id": "1885557129588948992",
+        "conversation_id": "1950553374249849104",
+        "created_at": "2025-07-30T13:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950553374249849104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eb7UZLoObH",
+              "end": 56,
+              "expanded_url": "https://x.com/jfrd163461/status/1950553374249849104/photo/1",
+              "media_key": "3_1950553107575762944",
+              "start": 33,
+              "url": "https://t.co/eb7UZLoObH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950553374249849104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感覺可以選擇革命民主社會主義路綫，也可以較爲溫和嘅實現共產主義 https://t.co/eb7UZLoObH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 226,
+          "like_count": 1220,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 641
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Democratic Socialists 革命民主社會主義者 原始馬克思主義\n我願榮光歸世界\n支持工人農民學生\n客觀理性\n捍衛民主自由（尤其係言論自由）\n支持大規模嘅公有化\n可接納大部分嘅意識形態\n國語/粵語/English\n喜歡 艾美莉卡（US）姐姐（唔係government）\ncountryhuman喜愛者",
+        "id": "1885557129588948992",
+        "location": "Earth   Asia  China  Hong Kong",
+        "name": "DemSoc HK 🇭🇰🇰🇷🇺🇸🇨🇦🇮🇸🇮🇪🇬🇧🇪🇺🇳🇴🇺🇦",
+        "pinned_tweet_id": "1947633280809111637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950185062973988864/fTudkK4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 2014,
+          "like_count": 3972,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1167
+        },
+        "username": "jfrd163461",
+        "verified": false
+      }
+    ]
+  }
+}

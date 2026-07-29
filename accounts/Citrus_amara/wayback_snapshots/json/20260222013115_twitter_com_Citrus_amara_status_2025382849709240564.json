@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025100036565283174",
+    "created_at": "2026-02-22T01:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025382849709240564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528005407469346818",
+          "start": 0,
+          "username": "K1raK1ra818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025382849709240564",
+    "in_reply_to_user_id": "1528005407469346818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025100036565283174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1raK1ra818 唉酸枣仁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1405,
+        "media_key": "3_2025100027170050048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqZvsoa0AA8OYw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025100036565283174",
+        "created_at": "2026-02-22T01:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025382849709240564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528005407469346818",
+              "start": 0,
+              "username": "K1raK1ra818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025382849709240564",
+        "in_reply_to_user_id": "1528005407469346818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025100036565283174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1raK1ra818 唉酸枣仁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025100027170050048"
+          ]
+        },
+        "author_id": "1528005407469346818",
+        "conversation_id": "2025100036565283174",
+        "created_at": "2026-02-21T06:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025100036565283174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/forECnjBdN",
+              "end": 35,
+              "expanded_url": "https://x.com/K1raK1ra818/status/2025100036565283174/photo/1",
+              "media_key": "3_2025100027170050048",
+              "start": 12,
+              "url": "https://t.co/forECnjBdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025100036565283174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1152,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次看到這種都好心累。 https://t.co/forECnjBdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\n磕药的傻逼\nHRT：2025.8.28。\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "shsh548866"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 1017,
+          "like_count": 16990,
+          "listed_count": 6,
+          "media_count": 350,
+          "tweet_count": 9195
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "已戒毒。查成分回fo。信徒：@Jaime_Rimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          }
+        },
+        "id": "1528005407469346818",
+        "name": "愛醬大萌神",
+        "pinned_tweet_id": "2018555992552968209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024857684428906496/xA1R3MfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 661,
+          "like_count": 12337,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2680
+        },
+        "username": "K1raK1ra818",
+        "verified": false
+      }
+    ]
+  }
+}

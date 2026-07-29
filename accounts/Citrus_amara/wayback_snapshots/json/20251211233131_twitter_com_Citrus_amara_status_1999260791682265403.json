@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1999066098013020350",
+    "created_at": "2025-12-11T23:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T00:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999260791682265403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948615711041126400",
+          "start": 0,
+          "username": "shsh548866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999260791682265403",
+    "in_reply_to_user_id": "1948615711041126400",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999258876416520270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shsh548866 😢..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1999066098013020350",
+        "created_at": "2025-12-11T23:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T00:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999260791682265403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948615711041126400",
+              "start": 0,
+              "username": "shsh548866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999260791682265403",
+        "in_reply_to_user_id": "1948615711041126400",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999258876416520270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh548866 😢..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948615711041126400",
+        "conversation_id": "1999066098013020350",
+        "created_at": "2025-12-11T23:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T00:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999258876416520270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999258876416520270",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999066098013020350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 不要，不要，不要自杀，以后好玩的太多了，不光是药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 918,
+          "like_count": 14020,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 6517
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T05:27:18.000Z",
+        "description": "不是很想说话，真的是健全批慎关。\n\n不要死要活下去哦，因为游戏结局都是死。在死之前努力用这个奇怪属性的人物玩这场游戏吧！好好享受游戏^^\n把推特当抖音刷，不要随便关注我\n\n闺蜜@@Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1948615711041126400",
+        "location": "比奇堡",
+        "name": "某某酱(上学仅周末有空)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977058663648182275/USORusJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 248,
+          "like_count": 2035,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 263
+        },
+        "username": "shsh548866",
+        "verified": false
+      }
+    ]
+  }
+}

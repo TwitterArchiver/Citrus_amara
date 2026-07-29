@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1984477157444460614",
+    "created_at": "2025-11-01T04:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T05:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984477157444460614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Van88711142/st…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Van88711142/status/1983133533540626678",
+          "start": 34,
+          "url": "https://t.co/1l0dzk21kP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984477157444460614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983133533540626678",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔我这边就只讲究主坐副坐。我说真的这种垃圾座位图完全没有实用价值。 https://t.co/1l0dzk21kP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1983133051711590401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WBAOGbEAE2o1l.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1984477157444460614",
+        "created_at": "2025-11-01T04:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T05:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984477157444460614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Van88711142/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Van88711142/status/1983133533540626678",
+              "start": 34,
+              "url": "https://t.co/1l0dzk21kP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984477157444460614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983133533540626678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔我这边就只讲究主坐副坐。我说真的这种垃圾座位图完全没有实用价值。 https://t.co/1l0dzk21kP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983133051711590401"
+          ]
+        },
+        "author_id": "1503330285798129669",
+        "conversation_id": "1983133533540626678",
+        "created_at": "2025-10-28T11:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983133533540626678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PkWsr3J6GL",
+              "end": 67,
+              "expanded_url": "https://x.com/Van88711142/status/1983133533540626678/photo/1",
+              "media_key": "3_1983133051711590401",
+              "start": 44,
+              "url": "https://t.co/PkWsr3J6GL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983133533540626678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 489,
+          "impression_count": 254797,
+          "like_count": 1047,
+          "quote_count": 20,
+          "reply_count": 81,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "这张中式饭局座位图，把不同场景的座位逻辑，讲得明明白白，记得收藏起来，以后肯定用得上。 https://t.co/PkWsr3J6GL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 665,
+          "like_count": 10501,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 4222
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T11:21:04.000Z",
+        "description": "爱国🇨🇳爱家，分享美好。欢迎互fo，置顶点赞，漏关或需赞可留言提醒。工作忙，没时间私聊。谢谢大家！",
+        "id": "1503330285798129669",
+        "name": "Van",
+        "pinned_tweet_id": "1982829587588690366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672512063560880130/yA778pv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46585,
+          "following_count": 23562,
+          "like_count": 309868,
+          "listed_count": 71,
+          "media_count": 2976,
+          "tweet_count": 7369
+        },
+        "username": "Van88711142",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1981559088690376714",
+    "created_at": "2025-10-31T17:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T18:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984306319822631261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917988927409143812",
+          "start": 0,
+          "username": "OverSpeed_Wiki2"
+        },
+        {
+          "end": 32,
+          "id": "1720356797758763008",
+          "start": 17,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 42,
+          "id": "1481172876589821952",
+          "start": 33,
+          "username": "pyke2076"
+        },
+        {
+          "end": 54,
+          "id": "1943704460813041665",
+          "start": 43,
+          "username": "kasaikoxyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984306319822631261",
+    "in_reply_to_user_id": "1917988927409143812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984301493932212561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki2 @huluobohaotang @pyke2076 @kasaikoxyg 细说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1981559088690376714",
+        "created_at": "2025-10-31T17:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984306319822631261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 32,
+              "id": "1720356797758763008",
+              "start": 17,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 42,
+              "id": "1481172876589821952",
+              "start": 33,
+              "username": "pyke2076"
+            },
+            {
+              "end": 54,
+              "id": "1943704460813041665",
+              "start": 43,
+              "username": "kasaikoxyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984306319822631261",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984301493932212561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 @huluobohaotang @pyke2076 @kasaikoxyg 细说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1981559088690376714",
+        "created_at": "2025-10-31T16:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984301493932212561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 25,
+              "id": "1481172876589821952",
+              "start": 16,
+              "username": "pyke2076"
+            },
+            {
+              "end": 39,
+              "id": "1866458229527764992",
+              "start": 26,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 51,
+              "id": "1943704460813041665",
+              "start": 40,
+              "username": "kasaikoxyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984301493932212561",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982100774663663699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @pyke2076 @Citrus_amara @kasaikoxyg 得就得问三崎和浮木交涉中经常提到的那个每天都在失恋的女孩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "💨Citrus风💨",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983855240349622272/50nlA2kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 659,
+          "like_count": 10475,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 4211
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 213,
+          "like_count": 12218,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2649
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "A cat in169/57kg🐱 05 Female CollegeStu🎧🍟Hunger（¿）🍔sleepy🥤No timetable🚪1680JPY/Chinese spl tri/EN/JP 😘Eating Enjoy🍩fobackAuto/StarWarsFans/Enjoy かるた",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndCarrotHot🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1966459411066446333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 3373,
+          "like_count": 21262,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 16937
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pyke2077",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pyke2077",
+                "start": 0,
+                "url": "https://t.co/OVd42ruoYd"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱",
+        "name": "bunny",
+        "pinned_tweet_id": "1948055006441320599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8033,
+          "following_count": 1245,
+          "like_count": 62439,
+          "listed_count": 9,
+          "media_count": 2841,
+          "tweet_count": 16968
+        },
+        "url": "https://t.co/OVd42ruoYd",
+        "username": "pyke2076",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎耐杀王，成功又活一天",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 725,
+          "like_count": 13311,
+          "listed_count": 4,
+          "media_count": 118,
+          "tweet_count": 3831
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072687597433114624"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072687721336930813",
+    "created_at": "2026-07-02T14:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072687721336930813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ZNjAgwDIk",
+          "end": 61,
+          "expanded_url": "https://x.com/Citrus_amara/status/2072687721336930813/photo/1",
+          "media_key": "3_2072687597433114624",
+          "start": 38,
+          "url": "https://t.co/8ZNjAgwDIk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072687721336930813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃。和普瑞效果差不多？不过我记得这玩意不太适合od。正常剂量吃试试看T T https://t.co/8ZNjAgwDIk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2072687597433114624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOqY2db0AA5ord.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072687597433114624"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072687721336930813",
+        "created_at": "2026-07-02T14:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072687721336930813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ZNjAgwDIk",
+              "end": 61,
+              "expanded_url": "https://x.com/Citrus_amara/status/2072687721336930813/photo/1",
+              "media_key": "3_2072687597433114624",
+              "start": 38,
+              "url": "https://t.co/8ZNjAgwDIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072687721336930813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃。和普瑞效果差不多？不过我记得这玩意不太适合od。正常剂量吃试试看T T https://t.co/8ZNjAgwDIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/od/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 1147,
+          "like_count": 20918,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 11720
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

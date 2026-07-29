@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2006678733030060092",
+    "created_at": "2026-01-01T17:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006773880346783909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802704441961017344",
+          "start": 0,
+          "username": "misumikaze3"
+        },
+        {
+          "end": 24,
+          "id": "1892114014563598339",
+          "start": 13,
+          "username": "3He2_Ka1R0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006773880346783909",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006771874970374613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misumikaze3 @3He2_Ka1R0 实际上没有创伤直接造出来意识体是很难的，而且不小心造出来之后也可以尝试遗忘。\n虽然t圈讨厌杀死tulpa的行为，但...他们也说不出来为什么嘛。不过杀死一个很成熟tulpa确实会有点难度。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2006678733030060092",
+        "created_at": "2026-01-01T17:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006773880346783909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaze3"
+            },
+            {
+              "end": 24,
+              "id": "1892114014563598339",
+              "start": 13,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006773880346783909",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006771874970374613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaze3 @3He2_Ka1R0 实际上没有创伤直接造出来意识体是很难的，而且不小心造出来之后也可以尝试遗忘。\n虽然t圈讨厌杀死tulpa的行为，但...他们也说不出来为什么嘛。不过杀死一个很成熟tulpa确实会有点难度。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2006678733030060092",
+        "created_at": "2026-01-01T16:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006771874970374613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaze3"
+            },
+            {
+              "end": 24,
+              "id": "1892114014563598339",
+              "start": 13,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006771874970374613",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006771065398374654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaze3 @3He2_Ka1R0 不会啊，因为你并没有创造出一个不是你自己的认同。你知道你所说的“青年”指的就是你自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "鼠鼠\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "shsh548866"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 70,
+                "start": 57,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 979,
+          "like_count": 15278,
+          "listed_count": 5,
+          "media_count": 294,
+          "tweet_count": 7566
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "百八十無常 #井宿三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004438739473645568/deoXj6yp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 721,
+          "like_count": 7438,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2566
+        },
+        "username": "misumikaze3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  巴普洛夫的狗😺/叫我 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "伊万",
+        "pinned_tweet_id": "2006743967904489953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 406,
+          "like_count": 75993,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3092
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

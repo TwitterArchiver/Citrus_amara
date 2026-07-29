@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025913006689829090",
+    "created_at": "2026-02-23T12:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T13:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025913006689829090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shenzhen_hhhh/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/shenzhen_hhhh/status/2025835296542326858",
+          "start": 8,
+          "url": "https://t.co/1moDXO94j3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025913006689829090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025835296542326858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "安慰剂的力量！ https://t.co/1moDXO94j3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025913006689829090",
+        "created_at": "2026-02-23T12:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025913006689829090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shenzhen_hhhh/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/shenzhen_hhhh/status/2025835296542326858",
+              "start": 8,
+              "url": "https://t.co/1moDXO94j3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025913006689829090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025835296542326858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "安慰剂的力量！ https://t.co/1moDXO94j3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004430137792741376",
+        "conversation_id": "2025810344715616349",
+        "created_at": "2026-02-23T07:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025835296542326858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1604313808096202752",
+              "start": 0,
+              "username": "tdfhi8"
+            },
+            {
+              "end": 18,
+              "id": "1659962043460354050",
+              "start": 8,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025835296542326858",
+        "in_reply_to_user_id": "1604313808096202752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025825806514286949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tdfhi8 @SalviaSWC 客户买的是2000元人民币的中药排毒颗粒，说真的，只有用过的人才知道具体感受。😅他喝完后确实不太想继续抽了，甚至能正常健身💪，生活态度也变积极了。但我也明白中药存在不少争议，所以不敢绝对肯定，只是分享一下他的体验。😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1016,
+          "like_count": 17058,
+          "listed_count": 6,
+          "media_count": 352,
+          "tweet_count": 9255
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T18:29:41.000Z",
+        "description": "27岁，确诊7年。目前用药包括：伟哥/Prep（事前预防）、达可挥·舒发泰·PEP（事后阻断）、必妥维·绥美凯·斯佩格（艾滋病抗病毒）。尖锐湿疣治疗用药产品提供。无偿咨询。因微信异常无法添加，私信未回复 可尝试通过短信联系：16620885415。",
+        "id": "1004430137792741376",
+        "name": "嗨那小子真帅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1242243620146573312/dsVzO_29_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65789,
+          "following_count": 705,
+          "like_count": 2403,
+          "listed_count": 119,
+          "media_count": 1892,
+          "tweet_count": 4155
+        },
+        "username": "shenzhen_hhhh",
+        "verified": true
+      }
+    ]
+  }
+}

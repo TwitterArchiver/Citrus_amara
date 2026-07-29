@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952526303061483612",
+    "created_at": "2025-08-05T01:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T02:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952543862485893481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911665994277289984",
+          "start": 0,
+          "username": "3863430227Lily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952543862485893481",
+    "in_reply_to_user_id": "1911665994277289984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952526303061483612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3863430227Lily 我反而不od就没办法正常社交。前几天我朋友来找我玩我都是o完普瑞再出去找他的。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952526303061483612",
+        "created_at": "2025-08-05T01:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T02:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952543862485893481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911665994277289984",
+              "start": 0,
+              "username": "3863430227Lily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952543862485893481",
+        "in_reply_to_user_id": "1911665994277289984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952526303061483612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3863430227Lily 我反而不od就没办法正常社交。前几天我朋友来找我玩我都是o完普瑞再出去找他的。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911665994277289984",
+        "conversation_id": "1952526303061483612",
+        "created_at": "2025-08-05T00:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T01:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952526303061483612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952526303061483612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和正常人接触的时候是蛮开心的但也维持不了多久一旦再od就感觉自己和他们的距离很遥远然后就默默淡交了\n然后又因为玩得不够疯所以两边人都融不进去\n你活着干啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 266,
+          "like_count": 1764,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 843
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T06:21:11.000Z",
+        "description": "总有一天你的骄傲会蜷缩，总有一天你的勇气会崩溃。总有一天，你会不再看到你的高贵之处，却十分亲近你的卑贱之处",
+        "id": "1911665994277289984",
+        "name": "常凯申",
+        "pinned_tweet_id": "1952327557145047216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952300268315455488/xCERcVuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 47,
+          "like_count": 1133,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 91
+        },
+        "username": "3863430227Lily",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1993176796553265588",
+    "created_at": "2025-11-25T04:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T05:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993176796553265588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jzm1919810/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/jzm1919810/status/1991487376481480761",
+          "start": 4,
+          "url": "https://t.co/bmb5dmijZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993176796553265588",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991487376481480761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有趣。 https://t.co/bmb5dmijZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_1991485145824784389",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6MtMFRacAUJXOd.png",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1993176796553265588",
+        "created_at": "2025-11-25T04:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993176796553265588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jzm1919810/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/jzm1919810/status/1991487376481480761",
+              "start": 4,
+              "url": "https://t.co/bmb5dmijZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993176796553265588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991487376481480761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有趣。 https://t.co/bmb5dmijZY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991485145824784389"
+          ]
+        },
+        "author_id": "1912109703133646848",
+        "conversation_id": "1991487376481480761",
+        "created_at": "2025-11-20T12:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T13:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991487376481480761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yveGFItaqo",
+              "end": 180,
+              "expanded_url": "https://x.com/jzm1919810/status/1991487376481480761/photo/1",
+              "media_key": "3_1991485145824784389",
+              "start": 157,
+              "url": "https://t.co/yveGFItaqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991487376481480761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找了半天，总算找到MET的受体谱。由于其过于冷门，wiki没有列出\n1为EPT,2为MET,346都是氟代物质\nMET只有36.2%的2a内在活性，却能致幻，这非常特别。按现代理论，受体激动的下游远非G/beta-arrestin的二元论，有很多种不同去向。可以认为它导致的受体结合构象特定的激活产生致幻的通路？ https://t.co/yveGFItaqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 830,
+          "like_count": 13019,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 5624
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "もしも願いが葉うなら 夜の空へとほうり投げて与えて\n\n请锁推且fo我的人一定让我回关，好吗？否则我的强迫症会受不了，只好取掉。谢谢。",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 106,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 490
+        },
+        "username": "jzm1919810",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025809590529499625",
+    "created_at": "2026-02-23T12:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T13:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025912190125900225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "Ikks0413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025912190125900225",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025843559895839210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ikks0413 也不是。我其实对安非他酮挺感兴趣的。右美沙芬在这里反而有点多余"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025809590529499625",
+        "created_at": "2026-02-23T12:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025912190125900225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "Ikks0413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025912190125900225",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025843559895839210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ikks0413 也不是。我其实对安非他酮挺感兴趣的。右美沙芬在这里反而有点多余"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680834021377593344",
+        "conversation_id": "2025809590529499625",
+        "created_at": "2026-02-23T08:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025843559895839210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025843559895839210",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025809590529499625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 吸这个不如吸感康😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1016,
+          "like_count": 17058,
+          "listed_count": 6,
+          "media_count": 352,
+          "tweet_count": 9254
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "07｜MtX🍥｜Asexual/Agender｜Intel做题国难长毛人妖垮处 ｜ただ夏の匂いに目を瞑りたい｜◂Ⓘ▸ ｜🐖❤️@Lyrica_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "Lyrica_1005"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo0413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo0413",
+                "start": 0,
+                "url": "https://t.co/gc2SsVwVMA"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "Room 13",
+        "name": "粥白粥粥白🍥🐳",
+        "pinned_tweet_id": "1945313496645972432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019762041045778432/ByrYjoIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 970,
+          "like_count": 125543,
+          "listed_count": 15,
+          "media_count": 4606,
+          "tweet_count": 31524
+        },
+        "url": "https://t.co/gc2SsVwVMA",
+        "username": "Ikks0413",
+        "verified": false
+      }
+    ]
+  }
+}

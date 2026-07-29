@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2018336346335490092",
+    "created_at": "2026-02-02T14:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T15:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018338310037336331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919049320546086912",
+          "start": 0,
+          "username": "mizuame19953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018338310037336331",
+    "in_reply_to_user_id": "1919049320546086912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018338033150619961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuame19953 确实是太晚了。瞳孔都散了，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018336346335490092",
+        "created_at": "2026-02-02T14:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018338310037336331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919049320546086912",
+              "start": 0,
+              "username": "mizuame19953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018338310037336331",
+        "in_reply_to_user_id": "1919049320546086912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018338033150619961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame19953 确实是太晚了。瞳孔都散了，唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919049320546086912",
+        "conversation_id": "2018336346335490092",
+        "created_at": "2026-02-02T14:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018338033150619961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018338033150619961",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018336443857334596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 肺出血，运气不好，加上太晚了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 997,
+          "like_count": 16302,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 8667
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:20:06.000Z",
+        "description": "于45%vol泥中｜MtX｜aged 18｜精神病学｜搞笑卖淫男娘｜🚪15",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 23,
+                "expanded_url": "http://t.me/xiaosong2_33",
+                "start": 0,
+                "url": "https://t.co/OVc2TmiqC9"
+              }
+            ]
+          }
+        },
+        "id": "1919049320546086912",
+        "location": "珠海",
+        "name": "バタフライ 🏳️‍⚧️",
+        "pinned_tweet_id": "2018058229184680000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999857118820884480/8MrT1iRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 301,
+          "like_count": 29542,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 905
+        },
+        "url": "https://t.co/OVc2TmiqC9",
+        "username": "mizuame19953",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2006678733030060092",
+    "created_at": "2026-01-01T17:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006774122437918975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802704441961017344",
+          "start": 0,
+          "username": "misumikaze3"
+        },
+        {
+          "end": 24,
+          "id": "1892114014563598339",
+          "start": 13,
+          "username": "3He2_Ka1R0"
+        }
+      ],
+      "urls": [
+        {
+          "description": "特别提醒：tulpa和精神医学中的DID/OSDD/解离障碍等概念并非同一概念（以及大众泛称的“人格分裂”“多重人格”等），我们无意混淆tulpa和上述的医学概念，更坚决反对强行将上述几者相提并论甚至利用tulpa这一概念满足一己私欲，以至伤害真正患者的行为（详情见上方“郑重声明”的蓝色超链接）。与此同时，tulpa也不应当被看作心理/精神疾病去看待，tulpamancy作为在国内外有长期实践的一项心理学技法，选择是否应用以创造tulpa纯属个人选择。 联系我们：goodman3translate@gmail.com 中文社区QQ群列表（请点击进入） 给需要加入群聊的新人的Tips：由于QQbug等原因，您的入群回答有一定概率会被屏蔽掉一部分（eg.“我觉得应该对tulpa……”这样的语句在审核页面有可能会显示为“我觉得◆”或者“我觉得应”等语句），管理会因此拒绝您的入群请求。建议将你的答案打成一段话，不要分行作答，以提高通过的概率。管理 在此提前道歉该bug对您带来的不便，并会在拒绝理由中予以说明。可以尝试重复提交申请，以方便我们获取完整回答。",
+          "display_url": "tulpa.cn",
+          "end": 48,
+          "expanded_url": "http://tulpa.cn",
+          "start": 25,
+          "status": 200,
+          "title": "Tulpa之家 – 关于Tulpa的教程、故事，以及一切 – 我的个人空间",
+          "unwound_url": "http://tulpa.cn",
+          "url": "https://t.co/zdnTJTURn2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006774122437918975",
+    "in_reply_to_user_id": "1802704441961017344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006773118237552656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misumikaze3 @3He2_Ka1R0 https://t.co/zdnTJTURn2\n不要因为好奇而进行创造，怪麻烦的，你哪天不好奇了还得遗忘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2006678733030060092",
+        "created_at": "2026-01-01T17:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006774122437918975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaze3"
+            },
+            {
+              "end": 24,
+              "id": "1892114014563598339",
+              "start": 13,
+              "username": "3He2_Ka1R0"
+            }
+          ],
+          "urls": [
+            {
+              "description": "特别提醒：tulpa和精神医学中的DID/OSDD/解离障碍等概念并非同一概念（以及大众泛称的“人格分裂”“多重人格”等），我们无意混淆tulpa和上述的医学概念，更坚决反对强行将上述几者相提并论甚至利用tulpa这一概念满足一己私欲，以至伤害真正患者的行为（详情见上方“郑重声明”的蓝色超链接）。与此同时，tulpa也不应当被看作心理/精神疾病去看待，tulpamancy作为在国内外有长期实践的一项心理学技法，选择是否应用以创造tulpa纯属个人选择。 联系我们：goodman3translate@gmail.com 中文社区QQ群列表（请点击进入） 给需要加入群聊的新人的Tips：由于QQbug等原因，您的入群回答有一定概率会被屏蔽掉一部分（eg.“我觉得应该对tulpa……”这样的语句在审核页面有可能会显示为“我觉得◆”或者“我觉得应”等语句），管理会因此拒绝您的入群请求。建议将你的答案打成一段话，不要分行作答，以提高通过的概率。管理 在此提前道歉该bug对您带来的不便，并会在拒绝理由中予以说明。可以尝试重复提交申请，以方便我们获取完整回答。",
+              "display_url": "tulpa.cn",
+              "end": 48,
+              "expanded_url": "http://tulpa.cn",
+              "start": 25,
+              "status": 200,
+              "title": "Tulpa之家 – 关于Tulpa的教程、故事，以及一切 – 我的个人空间",
+              "unwound_url": "http://tulpa.cn",
+              "url": "https://t.co/zdnTJTURn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006774122437918975",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006773118237552656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaze3 @3He2_Ka1R0 https://t.co/zdnTJTURn2\n不要因为好奇而进行创造，怪麻烦的，你哪天不好奇了还得遗忘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2006678733030060092",
+        "created_at": "2026-01-01T17:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006773118237552656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 25,
+              "id": "1892114014563598339",
+              "start": 14,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006773118237552656",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006771874970374613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @3He2_Ka1R0 好吧 有点好奇多意识体了 能自己主动创造出来一位吗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "鼠鼠\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "shsh548866"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 70,
+                "start": 57,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 979,
+          "like_count": 15278,
+          "listed_count": 5,
+          "media_count": 294,
+          "tweet_count": 7567
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "百八十無常 #井宿三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004438739473645568/deoXj6yp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 721,
+          "like_count": 7438,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2566
+        },
+        "username": "misumikaze3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  巴普洛夫的狗😺/叫我 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "伊万",
+        "pinned_tweet_id": "2006743967904489953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 406,
+          "like_count": 75993,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3092
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

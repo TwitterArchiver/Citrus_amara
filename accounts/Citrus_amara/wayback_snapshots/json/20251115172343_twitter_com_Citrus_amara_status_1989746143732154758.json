@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1989554261517054094",
+    "created_at": "2025-11-15T17:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T18:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989746143732154758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1769324132955766784",
+          "start": 0,
+          "username": "REYORIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989746143732154758",
+    "in_reply_to_user_id": "1769324132955766784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989745815221666012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@REYORIu 抑制右美沙芬代谢，类似西柚汁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1989554261517054094",
+        "created_at": "2025-11-15T17:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T18:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989746143732154758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1769324132955766784",
+              "start": 0,
+              "username": "REYORIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989746143732154758",
+        "in_reply_to_user_id": "1769324132955766784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989745815221666012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@REYORIu 抑制右美沙芬代谢，类似西柚汁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769324132955766784",
+        "conversation_id": "1989554261517054094",
+        "created_at": "2025-11-15T17:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T18:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989745815221666012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989745815221666012",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989554261517054094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 克拉霉素是干啥的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 751,
+          "like_count": 11896,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 4953
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T11:25:29.000Z",
+        "description": "你站在我面前 我觉得隔了一个海洋 你恐水 而我不会游泳 你和我大概都有苦衷 所以最后无法成为我们",
+        "id": "1769324132955766784",
+        "name": "世界的最后一天你会见到我吗",
+        "pinned_tweet_id": "1987881488034246737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987415085137207298/ukJGpAhK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 165,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 734
+        },
+        "username": "REYORIu",
+        "verified": false
+      }
+    ]
+  }
+}

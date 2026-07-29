@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952319920173167040",
+    "created_at": "2025-08-04T10:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T11:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952320336633979387"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952320336633979387",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952319920173167040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实也没那么难吃。苦橙你这个抖m你是不是喜欢吃屎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952319920173167040",
+        "created_at": "2025-08-04T10:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952320336633979387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952320336633979387",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952319920173167040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实也没那么难吃。苦橙你这个抖m你是不是喜欢吃屎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952319920173167040",
+        "created_at": "2025-08-04T10:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952319920173167040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952319920173167040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼毒虫忘买糯米纸但是毒瘾犯了，忍着恶心暴吃12愈美片，你这个傻逼苦橙你就吸毒吸死吧臭傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "8️⃣9️⃣🍊苦橙🍊6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 257,
+          "like_count": 1686,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 793
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

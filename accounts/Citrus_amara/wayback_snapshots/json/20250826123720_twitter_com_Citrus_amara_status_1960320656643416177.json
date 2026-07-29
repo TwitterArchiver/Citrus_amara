@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1960319225815298258",
+    "created_at": "2025-08-26T12:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T13:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960320656643416177"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960320656643416177",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960319225815298258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好他妈难吸。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960319222128459776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRz8kFWQAAse_9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960319225815298258",
+        "created_at": "2025-08-26T12:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T13:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960320656643416177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960320656643416177",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960319225815298258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好他妈难吸。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960319222128459776"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960319225815298258",
+        "created_at": "2025-08-26T12:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T13:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960319225815298258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xri4UNMQXF",
+              "end": 28,
+              "expanded_url": "https://x.com/Citrus_amara/status/1960319225815298258/photo/1",
+              "media_key": "3_1960319222128459776",
+              "start": 5,
+              "url": "https://t.co/xri4UNMQXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960319225815298258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有吸上了 https://t.co/xri4UNMQXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby。od的请陪我玩。#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 356,
+          "like_count": 4505,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1775
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

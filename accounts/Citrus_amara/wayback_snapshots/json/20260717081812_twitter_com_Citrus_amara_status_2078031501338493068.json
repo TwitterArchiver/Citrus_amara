@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2078031501338493068",
+    "created_at": "2026-07-17T08:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078031501338493068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pr80_NightHave…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/pr80_NightHaven/status/2075118691256254897",
+          "start": 7,
+          "url": "https://t.co/oQZXJFA5Zd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078031501338493068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075118691256254897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这玩意我吃过 https://t.co/oQZXJFA5Zd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2075117210369212416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxMG79bQAARIse.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2078031501338493068",
+        "created_at": "2026-07-17T08:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078031501338493068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pr80_NightHave…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/pr80_NightHaven/status/2075118691256254897",
+              "start": 7,
+              "url": "https://t.co/oQZXJFA5Zd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078031501338493068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075118691256254897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这玩意我吃过 https://t.co/oQZXJFA5Zd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075117210369212416"
+          ]
+        },
+        "author_id": "1927025054203715584",
+        "conversation_id": "2075118691256254897",
+        "created_at": "2026-07-09T07:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075118691256254897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2D4IO8fJ6S",
+              "end": 169,
+              "expanded_url": "https://x.com/pr80_NightHaven/status/2075118691256254897/photo/1",
+              "media_key": "3_2075117210369212416",
+              "start": 146,
+              "url": "https://t.co/2D4IO8fJ6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075118691256254897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 13994,
+          "like_count": 101,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "说一个比较冷门的未曾上市的安眠药/致幻剂-加波沙朵。\n这东西是GABA-A的正构激动剂，并且厉害在它是唯一能增加深度睡眠时长、改善睡眠结构的安眠药，但可惜此药因为致幻原因，在完成3期临床后未能上市，否则完全有媲美唑吡坦级别的潜力。作为异恶唑环/毒蝇伞体系的致幻效果和常规致幻剂有很大的区别。 https://t.co/2D4IO8fJ6S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "shsh548866"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 1173,
+          "like_count": 21064,
+          "listed_count": 5,
+          "media_count": 436,
+          "tweet_count": 11792
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:32:44.000Z",
+        "description": "永夜安港 https://t.co/zmSYFnzBMP\n没有恶俗与吵架，只有温柔与减害。\nhttps://t.co/HsCioOgdzr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 28,
+                "expanded_url": "http://pr80.net",
+                "start": 5,
+                "url": "https://t.co/zmSYFnzBMP"
+              },
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 69,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 46,
+                "url": "https://t.co/HsCioOgdzr"
+              }
+            ]
+          }
+        },
+        "id": "1927025054203715584",
+        "location": "NightHaven",
+        "name": "⚓️永夜安港 pr80.net",
+        "pinned_tweet_id": "2071982831732142419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069981304528265216/T45W7wQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 504,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 387
+        },
+        "url": "",
+        "username": "pr80_NightHaven",
+        "verified": true
+      }
+    ]
+  }
+}

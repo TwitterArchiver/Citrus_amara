@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1990944020986765780",
+    "created_at": "2025-11-19T00:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T01:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990945819709878430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973585079852257280",
+          "start": 0,
+          "username": "TangYuwenMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990945819709878430",
+    "in_reply_to_user_id": "1973585079852257280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990944899655700815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TangYuwenMTF 按你的体重来看4g确实死不了（）而且亚硝酸钠中毒对肝肾影响应该不大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1990944020986765780",
+        "created_at": "2025-11-19T00:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990945819709878430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973585079852257280",
+              "start": 0,
+              "username": "TangYuwenMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990945819709878430",
+        "in_reply_to_user_id": "1973585079852257280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990944899655700815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TangYuwenMTF 按你的体重来看4g确实死不了（）而且亚硝酸钠中毒对肝肾影响应该不大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973585079852257280",
+        "conversation_id": "1990944020986765780",
+        "created_at": "2025-11-19T00:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990944899655700815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990944899655700815",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990944319428297101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 4到5\n我拍视频吃了2g\n视频录完了自己配剩下的饼子又吃了2g左右\n当天晚上彻夜难眠跟个蛆一样 剧烈头晕 吐了 吐完了昏迷9个小时 难受了4天\n我昨天去查肝肾竟然没问题，果然干坏事活得久且身体好🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 784,
+          "like_count": 12211,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 5141
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "高中休学中 反跨，MTF 对象：@zhishi_cook和@wowo_yz MTF hrt started : 2025.6.30 轻度抑郁 中度焦虑 抽象多边 mtf，1，S",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxZOb"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1975717214742626772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 138,
+          "like_count": 60,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/vfGe2FxZOb",
+        "username": "TangYuwenMTF",
+        "verified": true
+      }
+    ]
+  }
+}

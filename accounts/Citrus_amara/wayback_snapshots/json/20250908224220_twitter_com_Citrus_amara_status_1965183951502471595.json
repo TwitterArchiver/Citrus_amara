@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1965183951502471595",
+    "created_at": "2025-09-08T22:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T23:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965183951502471595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1901190687284178944",
+          "start": 3,
+          "username": "DLJDZXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965183951502471595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965133018466845153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DLJDZXZ: 边缘型人格障碍在没有支柱没有钱的情况下就等着没法避免的社交把你弄死吧，其实不用避免的朋友也能杀死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1965183951502471595",
+        "created_at": "2025-09-08T22:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T23:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965183951502471595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1901190687284178944",
+              "start": 3,
+              "username": "DLJDZXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965183951502471595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965133018466845153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DLJDZXZ: 边缘型人格障碍在没有支柱没有钱的情况下就等着没法避免的社交把你弄死吧，其实不用避免的朋友也能杀死你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901190687284178944",
+        "conversation_id": "1965133018466845153",
+        "created_at": "2025-09-08T19:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T20:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965133018466845153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965133018466845153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "边缘型人格障碍在没有支柱没有钱的情况下就等着没法避免的社交把你弄死吧，其实不用避免的朋友也能杀死你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 410,
+          "like_count": 6254,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 2403
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T08:36:02.000Z",
+        "description": "08/BPD/OD",
+        "id": "1901190687284178944",
+        "name": "P6E",
+        "pinned_tweet_id": "1949946999039807969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960803230293876764/NBHnygru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 195,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 121
+        },
+        "username": "DLJDZXZ",
+        "verified": false
+      }
+    ]
+  }
+}

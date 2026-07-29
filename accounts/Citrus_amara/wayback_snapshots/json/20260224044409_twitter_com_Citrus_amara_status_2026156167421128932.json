@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026156137570091008"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2026156167421128932",
+    "created_at": "2026-02-24T04:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T05:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026156167421128932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SBXrCL7VUk",
+          "end": 85,
+          "expanded_url": "https://x.com/Citrus_amara/status/2026156167421128932/photo/1",
+          "media_key": "3_2026156137570091008",
+          "start": 62,
+          "url": "https://t.co/SBXrCL7VUk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026156167421128932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以同服。担心没效果的话可以在服用当天和前一天停用喹硫平。不过喹硫平一般是睡前服用吧...这样的话只需要前一天停用就可以了 https://t.co/SBXrCL7VUk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026156137570091008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5aRadXwAAjC0T.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026156137570091008"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026156167421128932",
+        "created_at": "2026-02-24T04:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026156167421128932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBXrCL7VUk",
+              "end": 85,
+              "expanded_url": "https://x.com/Citrus_amara/status/2026156167421128932/photo/1",
+              "media_key": "3_2026156137570091008",
+              "start": 62,
+              "url": "https://t.co/SBXrCL7VUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026156167421128932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以同服。担心没效果的话可以在服用当天和前一天停用喹硫平。不过喹硫平一般是睡前服用吧...这样的话只需要前一天停用就可以了 https://t.co/SBXrCL7VUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 1021,
+          "like_count": 17091,
+          "listed_count": 6,
+          "media_count": 357,
+          "tweet_count": 9273
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

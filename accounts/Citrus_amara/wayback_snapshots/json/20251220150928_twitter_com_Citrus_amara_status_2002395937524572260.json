@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2002392408252637312",
+    "created_at": "2025-12-20T15:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002395937524572260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Citrus_amara/s…",
+          "end": 36,
+          "expanded_url": "https://x.com/Citrus_amara/status/1966468710895358302?s=19",
+          "start": 13,
+          "url": "https://t.co/nKMEfZXTUv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002395937524572260",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966468710895358302",
+        "type": "quoted"
+      },
+      {
+        "id": "2002392408252637312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来苦橙真的是鼠鼠？！\n\nhttps://t.co/nKMEfZXTUv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2002392408252637312",
+        "created_at": "2025-12-20T15:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002395937524572260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 36,
+              "expanded_url": "https://x.com/Citrus_amara/status/1966468710895358302?s=19",
+              "start": 13,
+              "url": "https://t.co/nKMEfZXTUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002395937524572260",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966468710895358302",
+            "type": "quoted"
+          },
+          {
+            "id": "2002392408252637312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来苦橙真的是鼠鼠？！\n\nhttps://t.co/nKMEfZXTUv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1966468710895358302",
+        "created_at": "2025-09-12T11:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T12:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966468710895358302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1966458178612170822",
+              "start": 131,
+              "url": "https://t.co/WbWY89XMX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966468710895358302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1735,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966458178612170822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉你们特别喜欢把od的后果说的特别严重，，，Olney病变是一个动物模型，所以鼠鼠们请不要滥用解离剂（。\n滥用解离剂确实会导致智力下降变成啥b，但这并不是不可逆的。长期滥用解离剂会导致大脑结构变化，但也不是Olney病变🏳️戒断后能不能恢复...谁知道呢？ https://t.co/WbWY89XMX0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2002392408252637312",
+        "created_at": "2025-12-20T14:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002392408252637312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002392408252637312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔推了一下好像也不是mk801导致我对解离剂产生永久耐药的。psywiki说dxm导致的耐药1到2周就能完全恢复了，dxm并不是什么很新的东西所以也不会存在psywiki搞错的情况（吧？）。而且我用的是更强效的解离剂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 946,
+          "like_count": 14562,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 6921
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

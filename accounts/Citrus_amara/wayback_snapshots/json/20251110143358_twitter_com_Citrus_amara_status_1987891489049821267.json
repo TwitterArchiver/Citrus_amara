@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1987891489049821267",
+    "created_at": "2025-11-10T14:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987891489049821267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mtfmtx138248/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/mtfmtx138248/status/1987866530353434969",
+          "start": 26,
+          "url": "https://t.co/WV29b1kbSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987891489049821267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 87,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987866530353434969",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死了我现在就是硬不起来完全没星雨。化学阉割这一块 https://t.co/WV29b1kbSS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1987891489049821267",
+        "created_at": "2025-11-10T14:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987891489049821267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mtfmtx138248/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/mtfmtx138248/status/1987866530353434969",
+              "start": 26,
+              "url": "https://t.co/WV29b1kbSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987891489049821267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987866530353434969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死了我现在就是硬不起来完全没星雨。化学阉割这一块 https://t.co/WV29b1kbSS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677383468660191232",
+        "conversation_id": "1987866530353434969",
+        "created_at": "2025-11-10T12:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987866530353434969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y_77671/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Y_77671/status/1987861743360671946",
+              "start": 46,
+              "url": "https://t.co/xiwJDLtXFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987866530353434969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987861743360671946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨妹能当强奸犯我是不信的，嗯造雌激素还能硬起来违反基本的医学常识，除非这个人是chaser https://t.co/xiwJDLtXFG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 732,
+          "like_count": 11330,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 4571
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T18:26:31.000Z",
+        "description": "我有易性症",
+        "id": "1677383468660191232",
+        "name": "神楽坂美緒",
+        "pinned_tweet_id": "1957726693109690513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763562734128607232/FH7wy4u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 423,
+          "like_count": 124922,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 1369
+        },
+        "username": "mtfmtx138248",
+        "verified": false
+      }
+    ]
+  }
+}

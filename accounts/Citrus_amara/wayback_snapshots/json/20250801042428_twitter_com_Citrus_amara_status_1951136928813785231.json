@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1951136928813785231",
+    "created_at": "2025-08-01T04:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T05:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951136928813785231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1085957675916046336",
+          "start": 3,
+          "username": "SKTT1Nanami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951136928813785231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950749561338896758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SKTT1Nanami: 门当户对比啥都重要，拜托穷蛆男别幻想白富美大b白给你日还给你生八孩，穷蛆女也别幻想总裁爱上你似了财产还分你一半🙏🏻🙏🏻🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1951136928813785231",
+        "created_at": "2025-08-01T04:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T05:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951136928813785231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1085957675916046336",
+              "start": 3,
+              "username": "SKTT1Nanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951136928813785231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950749561338896758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SKTT1Nanami: 门当户对比啥都重要，拜托穷蛆男别幻想白富美大b白给你日还给你生八孩，穷蛆女也别幻想总裁爱上你似了财产还分你一半🙏🏻🙏🏻🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1085957675916046336",
+        "conversation_id": "1950749561338896758",
+        "created_at": "2025-07-31T02:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T03:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950749561338896758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duohong44622/s…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/duohong44622/status/1950124136463810665",
+              "start": 62,
+              "url": "https://t.co/69jslQEBxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950749561338896758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 81122,
+          "like_count": 923,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950124136463810665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "门当户对比啥都重要，拜托穷蛆男别幻想白富美大b白给你日还给你生八孩，穷蛆女也别幻想总裁爱上你似了财产还分你一半🙏🏻🙏🏻🙏🏻 https://t.co/69jslQEBxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 241,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 673
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T17:51:00.000Z",
+        "description": "普通的冠军中单/新教/游戏策划",
+        "id": "1085957675916046336",
+        "name": "鲨漠皇帝七海鱼",
+        "pinned_tweet_id": "1851215897119387742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878986094576013312/HVQ1Cevn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109918,
+          "following_count": 877,
+          "like_count": 51116,
+          "listed_count": 392,
+          "media_count": 505,
+          "tweet_count": 26333
+        },
+        "username": "SKTT1Nanami",
+        "verified": false
+      }
+    ]
+  }
+}

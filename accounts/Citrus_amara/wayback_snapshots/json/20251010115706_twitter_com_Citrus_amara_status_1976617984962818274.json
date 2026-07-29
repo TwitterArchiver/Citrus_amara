@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1975796510358135090",
+    "created_at": "2025-10-10T11:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T12:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976617984962818274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "1763381254035251200",
+          "start": 6,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976617984962818274",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976617367162806420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @yowamushi120720 力量！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1975796510358135090",
+        "created_at": "2025-10-10T11:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T12:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976617984962818274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1763381254035251200",
+              "start": 6,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976617984962818274",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976617367162806420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @yowamushi120720 力量！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1975796510358135090",
+        "created_at": "2025-10-10T11:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T12:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976617367162806420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976617367162806420",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "愚者: 弱虫モンブラン - 不愿长大，理想主义冒险。\n魔术师: 旋宫牧雨 - 音乐创作，多才多艺。\n女祭司: Minokakay - 神秘，内省精神探索。\n女皇: Nijika_overdose - 关爱他人，医学背景。\n皇帝: N_N_DPT - 科普权威，结构化知识。\n教皇: SalviaSWC - 传统主义，分享智慧。\n恋人: BeetiIsDog - 情感深沉，寻求连接。\n战车: DDzhanshou5150 - 幽默坚持，克服焦虑。\n力量: Citrus_amara - 面对双相，展现韧性。\n隐者: AlbertIsCypress - 内向，量子状态自省。\n命运之轮: winterfruit_1 - 生活循环，od经历。\n正义: Robert_Bumaro11 - 中立，寻求公平。\n倒吊人: Extrustomach - 新视角，地雷系哲学。\n死神: yaozuzhinv - 转变，尊重他人。\n节制: 386Nsg47079 - 平衡博客，理性讨论。\n恶魔: 1qva0TT - 幽灵般，探索黑暗。\n高塔: LwrDHYyuxR22499 - 暴论，颠覆观点。\n星星: sumolilaogong - 希望日常，包容生活。\n月亮: jngyn298282 - 幻觉，幸福摧毁。\n太阳: ElP15_ - 积极互fo，游戏热情。\n审判: Yesmynamehaer1 - 自由主义，反思。\n世界: sngbnwnj1 - 哲学完成，galgame爱好。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976616970901680240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yowamushi120720 愚者: 弱虫モンブラン - 不愿长大，理想主义冒险。\n魔术师: 旋宫牧雨 - 音乐创作，多才多艺。\n女祭司: Minokakay - 神秘，内省精神探索。\n女皇: Nijika_overdose - 关爱他人，医学背景。\n皇帝: N_N_DPT - 科普权威，结构化知识。\n教皇: SalviaSWC - 传统主义，分享智慧。\n恋人: BeetiIsDog -"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 528,
+          "like_count": 8580,
+          "listed_count": 5,
+          "media_count": 85,
+          "tweet_count": 3250
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6422421,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5052,
+          "media_count": 2690827,
+          "tweet_count": 55434712
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜双a，精神病，神经质症不安desu｜性格差，精神洁癖的理想主义者，小孩不想长大。互fo",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン",
+        "pinned_tweet_id": "1784505372524638218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 485,
+          "like_count": 32660,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 2686
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

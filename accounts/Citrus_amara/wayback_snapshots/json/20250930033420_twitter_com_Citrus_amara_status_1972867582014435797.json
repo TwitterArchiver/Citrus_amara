@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1972867582014435797",
+    "created_at": "2025-09-30T03:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T04:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972867582014435797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SR_Malaya/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/SR_Malaya/status/1972564222858186776",
+          "start": 11,
+          "url": "https://t.co/3ijvqaCQhV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972867582014435797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972564222858186776",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "习近平已被女权推翻✌ https://t.co/3ijvqaCQhV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1972867582014435797",
+        "created_at": "2025-09-30T03:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T04:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972867582014435797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SR_Malaya/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/SR_Malaya/status/1972564222858186776",
+              "start": 11,
+              "url": "https://t.co/3ijvqaCQhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972867582014435797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972564222858186776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "习近平已被女权推翻✌ https://t.co/3ijvqaCQhV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244282246111973382",
+        "conversation_id": "1972564222858186776",
+        "created_at": "2025-09-29T07:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T08:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972564222858186776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972564222858186776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 18572,
+          "like_count": 168,
+          "quote_count": 14,
+          "reply_count": 20,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我没有祖国，我的祖国在2025年被女权弄灭亡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 477,
+          "like_count": 7904,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2926
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T15:16:38.000Z",
+        "description": "being institutionalized",
+        "id": "1244282246111973382",
+        "name": "乱编瞎想",
+        "pinned_tweet_id": "1972564222858186776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928684027097264131/omBFAIjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7498,
+          "following_count": 3643,
+          "like_count": 4534,
+          "listed_count": 44,
+          "media_count": 922,
+          "tweet_count": 8503
+        },
+        "username": "SR_Malaya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952549787108294656"
+      ],
+      "media_source_tweet_id": [
+        "1952549789327081628"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952888498316296523",
+    "created_at": "2025-08-06T00:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T01:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952888498316296523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1867571018820141056",
+          "start": 3,
+          "username": "ZPYD8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SgkuGta69C",
+          "end": 41,
+          "expanded_url": "https://x.com/ZPYD8964/status/1952549789327081628/photo/1",
+          "media_key": "3_1952549787108294656",
+          "start": 18,
+          "url": "https://t.co/SgkuGta69C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952888498316296523",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952549789327081628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZPYD8964: 🫡🫡🫡 https://t.co/SgkuGta69C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 616,
+        "media_key": "3_1952549787108294656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxjZr7LawAAEv62.jpg",
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952549787108294656"
+          ],
+          "media_source_tweet_id": [
+            "1952549789327081628"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952888498316296523",
+        "created_at": "2025-08-06T00:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T01:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952888498316296523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867571018820141056",
+              "start": 3,
+              "username": "ZPYD8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgkuGta69C",
+              "end": 41,
+              "expanded_url": "https://x.com/ZPYD8964/status/1952549789327081628/photo/1",
+              "media_key": "3_1952549787108294656",
+              "start": 18,
+              "url": "https://t.co/SgkuGta69C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952888498316296523",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952549789327081628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZPYD8964: 🫡🫡🫡 https://t.co/SgkuGta69C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952549787108294656"
+          ]
+        },
+        "author_id": "1867571018820141056",
+        "conversation_id": "1952549789327081628",
+        "created_at": "2025-08-05T01:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T02:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952549789327081628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgkuGta69C",
+              "end": 27,
+              "expanded_url": "https://x.com/ZPYD8964/status/1952549789327081628/photo/1",
+              "media_key": "3_1952549787108294656",
+              "start": 4,
+              "url": "https://t.co/SgkuGta69C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952549789327081628",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 35544,
+          "like_count": 717,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "🫡🫡🫡 https://t.co/SgkuGta69C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 270,
+          "like_count": 1849,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 863
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T14:03:40.000Z",
+        "description": "",
+        "id": "1867571018820141056",
+        "name": "佐批郁代",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947378999463972865/g0lPZ4Ag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 796,
+          "like_count": 33835,
+          "listed_count": 8,
+          "media_count": 310,
+          "tweet_count": 1957
+        },
+        "username": "ZPYD8964",
+        "verified": false
+      }
+    ]
+  }
+}

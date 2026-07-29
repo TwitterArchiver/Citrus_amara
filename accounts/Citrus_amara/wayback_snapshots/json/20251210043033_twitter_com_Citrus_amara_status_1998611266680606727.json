@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998611200838443008"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1998611266680606727",
+    "created_at": "2025-12-10T04:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T05:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998611266680606727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vNbbiLWChZ",
+          "end": 105,
+          "expanded_url": "https://x.com/Citrus_amara/status/1998611266680606727/photo/1",
+          "media_key": "3_1998611200838443008",
+          "start": 82,
+          "url": "https://t.co/vNbbiLWChZ"
+        },
+        {
+          "display_url": "x.com/Citrus_amara/s…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/Citrus_amara/status/1998609913971446018",
+          "start": 106,
+          "url": "https://t.co/PYLDjGbxyQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998611266680606727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998609913971446018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "grok的回答是正确的。唉，chat把我绕糊涂了非说我们是osdd1b。我们就是1a嘛。\nrin和柠檬的差异当然不能算1b，rin是创造型肯定会和柠檬高度分化啊。 https://t.co/vNbbiLWChZ https://t.co/PYLDjGbxyQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1868,
+        "media_key": "3_1998611200838443008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7x-TE4XoAA6ZDv.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998611200838443008"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1998611266680606727",
+        "created_at": "2025-12-10T04:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T05:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998611266680606727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNbbiLWChZ",
+              "end": 105,
+              "expanded_url": "https://x.com/Citrus_amara/status/1998611266680606727/photo/1",
+              "media_key": "3_1998611200838443008",
+              "start": 82,
+              "url": "https://t.co/vNbbiLWChZ"
+            },
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/Citrus_amara/status/1998609913971446018",
+              "start": 106,
+              "url": "https://t.co/PYLDjGbxyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998611266680606727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998609913971446018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "grok的回答是正确的。唉，chat把我绕糊涂了非说我们是osdd1b。我们就是1a嘛。\nrin和柠檬的差异当然不能算1b，rin是创造型肯定会和柠檬高度分化啊。 https://t.co/vNbbiLWChZ https://t.co/PYLDjGbxyQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1998607894170972305",
+        "created_at": "2025-12-10T04:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T05:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998609913971446018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998609913971446018",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998607894170972305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "did：高度分化的alter＋失忆\nosdd-1a：不存在高度分化的alter但是有失忆？\nosdd-1b：存在高度分化的alter但是没有失忆？\n然后DDNOS是曾用名？\n但是怎么评价alter的分化程度呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/吸毒 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 921,
+          "like_count": 13991,
+          "listed_count": 4,
+          "media_count": 242,
+          "tweet_count": 6426
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

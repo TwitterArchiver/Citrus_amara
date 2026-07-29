@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1974651737635230143",
+    "created_at": "2025-10-05T01:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T02:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974651737635230143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose_six/s…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/overdose_six/status/1974496578145767631",
+          "start": 55,
+          "url": "https://t.co/Yw5TEwdVP3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974651737635230143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974496578145767631",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是pr是水溶性药物，受脂肪影响不大...吧？我的建议是不改。\nym个体差异大，我同样建议先吃12t试试水。 https://t.co/Yw5TEwdVP3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_1974496575004217344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2bSLHNaEAA8zMa.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1974651737635230143",
+        "created_at": "2025-10-05T01:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T02:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974651737635230143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_six/s…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/overdose_six/status/1974496578145767631",
+              "start": 55,
+              "url": "https://t.co/Yw5TEwdVP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974651737635230143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974496578145767631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是pr是水溶性药物，受脂肪影响不大...吧？我的建议是不改。\nym个体差异大，我同样建议先吃12t试试水。 https://t.co/Yw5TEwdVP3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974496575004217344"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1974496578145767631",
+        "created_at": "2025-10-04T15:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974496578145767631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YnNPGolLzC",
+              "end": 42,
+              "expanded_url": "https://x.com/overdose_six/status/1974496578145767631/photo/1",
+              "media_key": "3_1974496575004217344",
+              "start": 19,
+              "url": "https://t.co/YnNPGolLzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974496578145767631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3631,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的体重除以60再乘剂量就是你的剂量 https://t.co/YnNPGolLzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 497,
+          "like_count": 8160,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 3036
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjZjK 提问箱:https://t.co/b5c8bbntR6 里推:@fuck_8964 药物代购可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjZjK"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 58,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 35,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjZjK"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968299927244775424/_No7YTKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 188,
+          "like_count": 8859,
+          "listed_count": 4,
+          "media_count": 282,
+          "tweet_count": 2579
+        },
+        "url": "https://t.co/BlAoDIjZjK",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2072625648280199397",
+    "created_at": "2026-07-03T15:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073066271881744864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967682125756592128",
+          "start": 0,
+          "username": "yuan34434"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073066271881744864",
+    "in_reply_to_user_id": "1967682125756592128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073060409897255257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuan34434 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2072625648280199397",
+        "created_at": "2026-07-03T15:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073066271881744864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967682125756592128",
+              "start": 0,
+              "username": "yuan34434"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073066271881744864",
+        "in_reply_to_user_id": "1967682125756592128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073060409897255257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan34434 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967682125756592128",
+        "conversation_id": "2072625648280199397",
+        "created_at": "2026-07-03T15:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073060409897255257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073060409897255257",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073044684533047539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 我也想让医生同时开两种但是这样好像有点难 阿普娱乐用好像还不如思诺思吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/od/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 1150,
+          "like_count": 20930,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 11724
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T20:09:20.000Z",
+        "description": "小嶋/来生缘/重焦重郁休学在家/od/欢迎交友/纯当朋友圈发的/我喜欢你们",
+        "id": "1967682125756592128",
+        "location": "湖南株洲 ",
+        "name": "小嶋",
+        "pinned_tweet_id": "1980136960032403821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042514419171889152/4Gc4SDV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 18,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "yuan34434",
+        "verified": false
+      }
+    ]
+  }
+}

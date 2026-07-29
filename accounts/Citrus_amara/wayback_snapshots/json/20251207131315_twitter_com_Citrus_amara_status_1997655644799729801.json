@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1997606518615900293",
+    "created_at": "2025-12-07T13:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T14:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997655644799729801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1708493840477458432",
+          "start": 0,
+          "username": "gCdQqjm35088619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997655644799729801",
+    "in_reply_to_user_id": "1708493840477458432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997654882963132732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gCdQqjm35088619 yes。\nMET口服的话我记得85mg？注意是MET不是4ho。\n如果是入门的话我感觉MET还挺合适的，幻觉温和，思维改变也不大。探索自己不太行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1997606518615900293",
+        "created_at": "2025-12-07T13:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997655644799729801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1708493840477458432",
+              "start": 0,
+              "username": "gCdQqjm35088619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997655644799729801",
+        "in_reply_to_user_id": "1708493840477458432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997654882963132732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gCdQqjm35088619 yes。\nMET口服的话我记得85mg？注意是MET不是4ho。\n如果是入门的话我感觉MET还挺合适的，幻觉温和，思维改变也不大。探索自己不太行。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708493840477458432",
+        "conversation_id": "1997606518615900293",
+        "created_at": "2025-12-07T13:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997654882963132732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997654882963132732",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997653668670079235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 噢噢 主要是注射鼻吸之类的有点难还不舒服 第一次玩没经验 \n意思是口服持续时间更长吗？然后就是需要更高剂量才能达到效果？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/吸毒 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 908,
+          "like_count": 13922,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 6359
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T14:47:38.000Z",
+        "description": "我不知道...",
+        "id": "1708493840477458432",
+        "name": "電気サーカス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996942289697230849/cvD3-3VW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "gCdQqjm35088619",
+        "verified": false
+      }
+    ]
+  }
+}

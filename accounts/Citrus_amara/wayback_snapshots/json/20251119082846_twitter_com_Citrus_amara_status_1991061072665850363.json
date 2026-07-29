@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1990996821863444925",
+    "created_at": "2025-11-19T08:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T09:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991061072665850363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1840768250969276417",
+          "start": 0,
+          "username": "Nini007829"
+        },
+        {
+          "end": 28,
+          "id": "1531874456997863424",
+          "start": 12,
+          "username": "guodongmaikefe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991061072665850363",
+    "in_reply_to_user_id": "1840768250969276417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991060383197810729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nini007829 @guodongmaikefe2 普瑞特别好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1990996821863444925",
+        "created_at": "2025-11-19T08:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991061072665850363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1840768250969276417",
+              "start": 0,
+              "username": "Nini007829"
+            },
+            {
+              "end": 28,
+              "id": "1531874456997863424",
+              "start": 12,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991061072665850363",
+        "in_reply_to_user_id": "1840768250969276417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991060383197810729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nini007829 @guodongmaikefe2 普瑞特别好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840768250969276417",
+        "conversation_id": "1990996821863444925",
+        "created_at": "2025-11-19T08:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991060383197810729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 30,
+              "id": "1531874456997863424",
+              "start": 14,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991060383197810729",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991000124903076137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @guodongmaikefe2 pr就是个仅仅只是让人晕晕的、变开心的乖药丸，我想嫁给pr80！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 791,
+          "like_count": 12288,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 5178
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T14:59:01.000Z",
+        "description": "ig:nini007829｜🚪88（仅好友位+开放朋友圈）、98（可进日常群）、108（可闲聊+线下一起玩）",
+        "id": "1840768250969276417",
+        "location": "成都",
+        "name": "霓霓",
+        "pinned_tweet_id": "1987824271201292716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983369813302063104/UjP9eH-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 18,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 56
+        },
+        "username": "Nini007829",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "TMAD…/不要做药物的奴隶，不要被任何事物掌控/我会一直给你点赞/抑郁焦虑治疗中/性格敏感情绪不稳定/⌓‿⌓我一直在看着你/同类互fo/纯粹的发癫者/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "不开心就od",
+        "pinned_tweet_id": "1990871295748157585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 83,
+          "like_count": 1301,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 387
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

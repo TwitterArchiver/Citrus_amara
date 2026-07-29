@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952321229773214067",
+    "created_at": "2025-08-04T11:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T12:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952334417696887085"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952334417696887085",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952321229773214067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "19：40解离眩晕欣快，持续恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952321229773214067",
+        "created_at": "2025-08-04T11:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T12:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952334417696887085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952334417696887085",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952321229773214067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "19：40解离眩晕欣快，持续恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952321229773214067",
+        "created_at": "2025-08-04T10:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952321229773214067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952321229773214067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "8.4 18：49\n15t愈美片，1t亚宝150mg普瑞巴林，3t喜思平150mg。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "8️⃣9️⃣🍊苦橙🍊6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 257,
+          "like_count": 1700,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 808
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

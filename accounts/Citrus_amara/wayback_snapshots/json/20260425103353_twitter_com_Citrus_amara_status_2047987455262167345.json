@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2047987455262167345",
+    "created_at": "2026-04-25T10:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047987455262167345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ivan23389/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/ivan23389/status/2047986471915892866",
+          "start": 15,
+          "url": "https://t.co/VBXHvn1Bzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047987455262167345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047986471915892866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个价格...我要准备贩毒了 https://t.co/VBXHvn1Bzk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2047987455262167345",
+        "created_at": "2026-04-25T10:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047987455262167345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ivan23389/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ivan23389/status/2047986471915892866",
+              "start": 15,
+              "url": "https://t.co/VBXHvn1Bzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047987455262167345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047986471915892866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个价格...我要准备贩毒了 https://t.co/VBXHvn1Bzk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824037197210898432",
+        "conversation_id": "2047986471915892866",
+        "created_at": "2026-04-25T10:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047986471915892866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047986471915892866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大量出红普绿普以及愈美\n愈美 70¥/盒*24粒\r普瑞巴林150mg*32粒 117¥/盒\r普瑞巴林75mg*32粒 70/盒\n快递发顺丰特快包邮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 1058,
+          "like_count": 19502,
+          "listed_count": 6,
+          "media_count": 402,
+          "tweet_count": 11035
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T10:55:45.000Z",
+        "description": "希望明天可以意外死亡/oder/重度抑郁/双相情感障碍/2009/11/22/我不配得到爱/去你妈的中国特色社会主义",
+        "id": "1824037197210898432",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Tomorin_燈",
+        "pinned_tweet_id": "2024761239591932129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 368,
+          "like_count": 1363,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 582
+        },
+        "username": "ivan23389",
+        "verified": false
+      }
+    ]
+  }
+}

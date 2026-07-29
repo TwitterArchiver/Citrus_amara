@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946244486327394304"
+      ],
+      "media_source_tweet_id": [
+        "1946244500969640172"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1946731222022992192",
+    "created_at": "2025-07-20T00:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T01:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946731222022992192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581478431274983424",
+          "start": 3,
+          "username": "zhoynqi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9kB6uD6XKN",
+          "end": 110,
+          "expanded_url": "https://x.com/zhoynqi3/status/1946244500969640172/photo/1",
+          "media_key": "3_1946244486327394304",
+          "start": 87,
+          "url": "https://t.co/9kB6uD6XKN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946731222022992192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946244500969640172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhoynqi3: 每次政府出事，都会拉一个女人或者拉一个明星出来游街，习近平玩这一套还没玩累吗，我都看累了。\n总是突然间多家媒体集体出声，总是拉性别问题出来招摇。 https://t.co/9kB6uD6XKN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1027,
+        "media_key": "3_1946244486327394304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJzDHWbYAAYZPT.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946244486327394304"
+          ],
+          "media_source_tweet_id": [
+            "1946244500969640172"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1946731222022992192",
+        "created_at": "2025-07-20T00:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T01:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946731222022992192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581478431274983424",
+              "start": 3,
+              "username": "zhoynqi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kB6uD6XKN",
+              "end": 110,
+              "expanded_url": "https://x.com/zhoynqi3/status/1946244500969640172/photo/1",
+              "media_key": "3_1946244486327394304",
+              "start": 87,
+              "url": "https://t.co/9kB6uD6XKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946731222022992192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946244500969640172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhoynqi3: 每次政府出事，都会拉一个女人或者拉一个明星出来游街，习近平玩这一套还没玩累吗，我都看累了。\n总是突然间多家媒体集体出声，总是拉性别问题出来招摇。 https://t.co/9kB6uD6XKN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946244486327394304"
+          ]
+        },
+        "author_id": "1581478431274983424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1946244500969640172",
+        "created_at": "2025-07-18T16:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T17:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946244500969640172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kB6uD6XKN",
+              "end": 96,
+              "expanded_url": "https://x.com/zhoynqi3/status/1946244500969640172/photo/1",
+              "media_key": "3_1946244486327394304",
+              "start": 73,
+              "url": "https://t.co/9kB6uD6XKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946244500969640172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2755,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "每次政府出事，都会拉一个女人或者拉一个明星出来游街，习近平玩这一套还没玩累吗，我都看累了。\n总是突然间多家媒体集体出声，总是拉性别问题出来招摇。 https://t.co/9kB6uD6XKN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别。\n互fo。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 77,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 155
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "yo89yo64",
+        "pinned_tweet_id": "1936841747671249172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672979337656631298/mQbOFn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 159,
+          "like_count": 15021,
+          "listed_count": 7,
+          "media_count": 56,
+          "tweet_count": 3158
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

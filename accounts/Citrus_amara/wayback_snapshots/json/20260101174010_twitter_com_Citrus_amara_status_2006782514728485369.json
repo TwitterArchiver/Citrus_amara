@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2005625277909721220",
+    "created_at": "2026-01-01T17:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006782514728485369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915124824126427137",
+          "start": 0,
+          "username": "nktblovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006782514728485369",
+    "in_reply_to_user_id": "1915124824126427137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005625277909721220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nktblovekris99 rin当时出来太快了被我怀疑了然后一刀砍似了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2005625277909721220",
+        "created_at": "2026-01-01T17:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006782514728485369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915124824126427137",
+              "start": 0,
+              "username": "nktblovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006782514728485369",
+        "in_reply_to_user_id": "1915124824126427137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005625277909721220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nktblovekris99 rin当时出来太快了被我怀疑了然后一刀砍似了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915124824126427137",
+        "conversation_id": "2005625277909721220",
+        "created_at": "2025-12-29T13:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005625277909721220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005625277909721220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 253,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前说想搓一个tulpa用来给我社交，结果两天就出来了，谁家好人造tulpa两天就造出来啊，如果不是脑补的，那就是原本就存在的，只是我们把他挖出来了而已。后来也事实证明不是脑补的，一开始给他的意象是lucky，但是他出来说要自己改个谐音名字叫Larkin，于是就这么来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "鼠鼠\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "shsh548866"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 70,
+                "start": 57,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 978,
+          "like_count": 15287,
+          "listed_count": 5,
+          "media_count": 294,
+          "tweet_count": 7572
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "前世竹蜻蜓 @zqtlovekris99 翻车顺女HRT23.05.29/多意识体喵七休日系统/OSDD+cptsd/od💊ed BMI15 小猫 @Citrus_amara / pfp @LeonRui_ / 里帐 @Luminme_Vas",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Citrus_amara"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "http://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/D6mYti9yH7"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "name": "🐱🍥灰尾猫🍥🐱（秽土转生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 616,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/D6mYti9yH7",
+        "username": "nktblovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

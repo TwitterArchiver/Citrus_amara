@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957855135645778039",
+    "created_at": "2025-08-20T05:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T06:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958036942739718455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790399279129088000",
+          "start": 0,
+          "username": "yanshiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958036942739718455",
+    "in_reply_to_user_id": "1790399279129088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958021199365017921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanshiyo 50mg，其实我吃25也能睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957855135645778039",
+        "created_at": "2025-08-20T05:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T06:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958036942739718455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790399279129088000",
+              "start": 0,
+              "username": "yanshiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958036942739718455",
+        "in_reply_to_user_id": "1790399279129088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958021199365017921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanshiyo 50mg，其实我吃25也能睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790399279129088000",
+        "conversation_id": "1957855135645778039",
+        "created_at": "2025-08-20T04:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T05:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958021199365017921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958021199365017921",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957855135645778039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 100mg是不是有点多了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 364,
+          "like_count": 3641,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1555
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T15:10:38.000Z",
+        "description": "大量无意义转贴＋负能量碎碎念＝我的贴文\n\n需要咱回关的麻烦私讯说一下\n\nMtX/Asexual/Agender/精神病/自残惯犯/自尽未遂/沉迷幻想/酒精依赖/乐子人/地雷田力/抽象/尽量伪装成正常人/大专辍学2年/在家摆烂/作息紊乱/随时失联/急事电话qq联系",
+        "id": "1790399279129088000",
+        "location": "自杀研究所",
+        "name": "yanshiyo🏳️‍⚧️（转贴大王）（地雷女？）（od见习生，od理论学习中）",
+        "pinned_tweet_id": "1954893264127209975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957634044969250820/6uT6W0Zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 231,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 2687
+        },
+        "username": "yanshiyo",
+        "verified": false
+      }
+    ]
+  }
+}

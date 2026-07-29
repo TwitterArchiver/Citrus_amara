@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1966868152840843492",
+    "created_at": "2025-09-14T04:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T05:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967090478568087999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617685747116675073",
+          "start": 0,
+          "username": "_mucha_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967090478568087999",
+    "in_reply_to_user_id": "1617685747116675073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967088291251187741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 对。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1966868152840843492",
+        "created_at": "2025-09-14T04:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967090478568087999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617685747116675073",
+              "start": 0,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967090478568087999",
+        "in_reply_to_user_id": "1617685747116675073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967088291251187741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 对。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617685747116675073",
+        "conversation_id": "1966868152840843492",
+        "created_at": "2025-09-14T04:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967088291251187741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967088291251187741",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966868152840843492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 这俩不是一个东西。od是药物滥用的一个子集"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 426,
+          "like_count": 6586,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2554
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "=牧雨║ボカロP🤍DTM💙MUG🩶Music Anim🩵Psyyyyy！🖤退役CChOer║Love Pays for Itself║妹@molmolxing /恋人@Nijika_Overdose/姐@elsa_yrt/妹@ZTYQ_0319║头像&题头by烁九",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "molmolxing"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Nijika_Overdose"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "elsa_yrt"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "ZTYQ_0319"
+              }
+            ]
+          }
+        },
+        "id": "1617685747116675073",
+        "name": "旋宫牧雨",
+        "pinned_tweet_id": "1922329013122416730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965065011598180352/CTte4Z94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 723,
+          "like_count": 54912,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 8112
+        },
+        "username": "_mucha_000",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1991062381804548468",
+    "created_at": "2025-11-19T08:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T09:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991062381804548468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdosewiki/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/overdosewiki/status/1991056690066940121",
+          "start": 11,
+          "url": "https://t.co/B5yInhXSzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991062381804548468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991056690066940121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后藤你咋把沐雨洗白了 https://t.co/B5yInhXSzT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991056686787031041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Gnge-bcAEJbO5.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1991062381804548468",
+        "created_at": "2025-11-19T08:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991062381804548468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdosewiki/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/overdosewiki/status/1991056690066940121",
+              "start": 11,
+              "url": "https://t.co/B5yInhXSzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991062381804548468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991056690066940121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后藤你咋把沐雨洗白了 https://t.co/B5yInhXSzT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991056686787031041"
+          ]
+        },
+        "author_id": "1798724969695977472",
+        "conversation_id": "1991056690066940121",
+        "created_at": "2025-11-19T08:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991056690066940121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCXqnk27Sz",
+              "end": 104,
+              "expanded_url": "https://x.com/overdosewiki/status/1991056690066940121/photo/1",
+              "media_key": "3_1991056686787031041",
+              "start": 81,
+              "url": "https://t.co/pCXqnk27Sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991056690066940121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 2,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此人皮下弦月。有人怀疑沐雨正在玩假死，所以我正在发问，以了解到底怎么回事。虽然我和沐雨并无瓜葛，但你急了来骂我，这可没有任何好处，只能让人更加怀疑你们有什么目的 https://t.co/pCXqnk27Sz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 791,
+          "like_count": 12289,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 5179
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "网站已经被鸡哥的DDoS Bomber炸成筛子了，没有制空权飞不起来。\nhttps://t.co/1UhiZIyBbg —— odwiki直属群。\nhttps://t.co/0rL89Pc8mI —— 后藤直属频道 高原整活观景台。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 59,
+                "expanded_url": "http://t.me/o_d_wiki",
+                "start": 36,
+                "url": "https://t.co/1UhiZIyBbg"
+              },
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 97,
+                "expanded_url": "http://t.me/HWA_FK1",
+                "start": 74,
+                "url": "https://t.co/0rL89Pc8mI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4Qiju"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki-后藤版",
+        "pinned_tweet_id": "1970498537562742884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988123432157114368/v5c6Wjqz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3894,
+          "following_count": 11,
+          "like_count": 442,
+          "listed_count": 6,
+          "media_count": 132,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/6fVCD4Qiju",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

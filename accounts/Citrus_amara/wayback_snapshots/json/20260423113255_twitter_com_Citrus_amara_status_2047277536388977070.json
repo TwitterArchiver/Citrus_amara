@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2047272584618930602",
+    "created_at": "2026-04-23T11:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047277536388977070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1915124824126427137",
+          "start": 0,
+          "username": "Grtr_nk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047277536388977070",
+    "in_reply_to_user_id": "1915124824126427137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047272584618930602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grtr_nk 因为小树虽然偷窃癖但是对朋友很好，本身表现出来的也是一种友善的形象。\n为何执着于受到关注"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2047272584618930602",
+        "created_at": "2026-04-23T11:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047277536388977070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1915124824126427137",
+              "start": 0,
+              "username": "Grtr_nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047277536388977070",
+        "in_reply_to_user_id": "1915124824126427137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047272584618930602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grtr_nk 因为小树虽然偷窃癖但是对朋友很好，本身表现出来的也是一种友善的形象。\n为何执着于受到关注"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915124824126427137",
+        "conversation_id": "2047272584618930602",
+        "created_at": "2026-04-23T11:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047272584618930602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047272584618930602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小樹都有人洗啊，還他只是個想被愛的孩子，偷東西還不是主觀惡意了，之前糖語文裝死的時候也有人洗他炒作是因為缺愛他行為不受控制啥的，是不是人只要死了黑的都能洗成白的，你們罵我的時候怎麼沒人說我只是個沒有主觀惡意只是缺愛想被關注的好寶寶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 1046,
+          "like_count": 19405,
+          "listed_count": 6,
+          "media_count": 401,
+          "tweet_count": 11011
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "暴论bot\n翻车顺女HRT23.05.29/多意识体OSDD+cptsd/od💊ed BMI14.2😇/ pfp @LeonRui_ / 里帐 @Luminme_Vas 互关请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://confess.ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/C5qsiDuDPc"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "name": "🐱🍥灰尾猫🍥🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 685,
+          "like_count": 249,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/C5qsiDuDPc",
+        "username": "Grtr_nk",
+        "verified": false
+      }
+    ]
+  }
+}

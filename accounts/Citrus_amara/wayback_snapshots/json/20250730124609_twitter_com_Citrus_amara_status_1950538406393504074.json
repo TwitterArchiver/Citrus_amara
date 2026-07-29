@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950334566792896752",
+    "created_at": "2025-07-30T12:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T13:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950538406393504074"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "中国政府",
+          "probability": 0.3759,
+          "start": 17,
+          "type": "Organization"
+        },
+        {
+          "end": 23,
+          "normalized_text": "中国",
+          "probability": 0.3881,
+          "start": 22,
+          "type": "Place"
+        },
+        {
+          "end": 31,
+          "normalized_text": "日本政府",
+          "probability": 0.3537,
+          "start": 28,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1342814506234257409",
+          "start": 0,
+          "username": "MgLGfsfs0UaNQeO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950538406393504074",
+    "in_reply_to_user_id": "1342814506234257409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950334566792896752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MgLGfsfs0UaNQeO 中国政府も中国国民も、日本政府にはあまり好意的ではないが、日本人には好意的だと感じている"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950334566792896752",
+        "created_at": "2025-07-30T12:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950538406393504074"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "中国政府",
+              "probability": 0.3759,
+              "start": 17,
+              "type": "Organization"
+            },
+            {
+              "end": 23,
+              "normalized_text": "中国",
+              "probability": 0.3881,
+              "start": 22,
+              "type": "Place"
+            },
+            {
+              "end": 31,
+              "normalized_text": "日本政府",
+              "probability": 0.3537,
+              "start": 28,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1342814506234257409",
+              "start": 0,
+              "username": "MgLGfsfs0UaNQeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950538406393504074",
+        "in_reply_to_user_id": "1342814506234257409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950334566792896752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MgLGfsfs0UaNQeO 中国政府も中国国民も、日本政府にはあまり好意的ではないが、日本人には好意的だと感じている"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342814506234257409",
+        "conversation_id": "1950334566792896752",
+        "created_at": "2025-07-29T23:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T00:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950334566792896752"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.9401,
+              "start": 0,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950334566792896752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 84688,
+          "like_count": 602,
+          "quote_count": 22,
+          "reply_count": 124,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "中国は友好国。有名人が嫌中病を蔓延させてることが許せない。メディアや出版社も許せない。祖国を衰退にしか進ませない。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 224,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 630
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-26T12:49:01.000Z",
+        "description": "神戸の普通の会社員。中国歴史好き。祖父は原爆投下直後に現場救護へいった元衛生兵。子供の頃からその悲惨な現場の話を聞かされた。",
+        "id": "1342814506234257409",
+        "name": "とよ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364195348957159424/bPU_1rk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 2013,
+          "like_count": 43877,
+          "listed_count": 54,
+          "media_count": 105,
+          "tweet_count": 7875
+        },
+        "username": "MgLGfsfs0UaNQeO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1983456216392355870",
+    "created_at": "2025-10-29T08:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T09:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983456216392355870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rogueyyy/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/rogueyyy/status/1983146954529091915",
+          "start": 2,
+          "url": "https://t.co/r5UDHR32k6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983456216392355870",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983146954529091915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😁 https://t.co/r5UDHR32k6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1291,
+        "media_key": "3_1983146949072044032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WNpJzWwAAF8Yh.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983456216392355870",
+        "created_at": "2025-10-29T08:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T09:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983456216392355870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rogueyyy/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/rogueyyy/status/1983146954529091915",
+              "start": 2,
+              "url": "https://t.co/r5UDHR32k6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983456216392355870",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983146954529091915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁 https://t.co/r5UDHR32k6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983146949072044032"
+          ]
+        },
+        "author_id": "2203693226",
+        "conversation_id": "1983146954529091915",
+        "created_at": "2025-10-28T12:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T13:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983146954529091915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZnA4zR1G8",
+              "end": 116,
+              "expanded_url": "https://x.com/rogueyyy/status/1983146954529091915/photo/1",
+              "media_key": "3_1983146949072044032",
+              "start": 93,
+              "url": "https://t.co/EZnA4zR1G8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983146954529091915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 903,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大哥说的真好，大哥你为啥不去男厕所“保障所有不符合性别规范/刻板印象的人不受排斥乃至暴力威胁的权利”呢？为啥你这种长男性器官的人，你的权利要向女性空间去申索，为啥不向男性空间去申索呢？ https://t.co/EZnA4zR1G8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 636,
+          "like_count": 10290,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 4105
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-19T20:11:13.000Z",
+        "description": "批判性思维通模课程：隔空诊病，挖苦育人，鼓励揽炒，宣讲福报。🌈🌈🌈🌈Left leaning, gender critical, politically non-binary. One's freedom ends where another one's begins.",
+        "id": "2203693226",
+        "name": "娲皇山绛云洞赛博五仙教教主北雁狗蛋暨神楽坂铁头",
+        "pinned_tweet_id": "1929536390531821954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677017160428707848/Qp76NrOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 403,
+          "like_count": 44984,
+          "listed_count": 17,
+          "media_count": 1149,
+          "tweet_count": 31957
+        },
+        "username": "rogueyyy",
+        "verified": false
+      }
+    ]
+  }
+}

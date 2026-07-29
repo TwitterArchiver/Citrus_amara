@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950861342791119351",
+    "created_at": "2025-07-31T18:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T19:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950991831275024450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853728008580050944",
+          "start": 0,
+          "username": "transman_meme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950991831275024450",
+    "in_reply_to_user_id": "1853728008580050944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950861342791119351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@transman_meme 公跨原来已经火出圈了吗。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950861342791119351",
+        "created_at": "2025-07-31T18:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T19:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950991831275024450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853728008580050944",
+              "start": 0,
+              "username": "transman_meme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950991831275024450",
+        "in_reply_to_user_id": "1853728008580050944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950861342791119351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@transman_meme 公跨原来已经火出圈了吗。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853728008580050944",
+        "conversation_id": "1950861342791119351",
+        "created_at": "2025-07-31T10:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T11:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950861342791119351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950861342791119351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 992,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【想問一些問題】\n想問一下「公跨」是什麼意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 240,
+          "like_count": 1333,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 665
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T09:16:18.000Z",
+        "description": "只求共嗚 主帳：@plfk87（不用fol）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "plfk87"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/transm…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/transmanmeme.bsky.social",
+                "start": 0,
+                "url": "https://t.co/mRidPau6T7"
+              }
+            ]
+          }
+        },
+        "id": "1853728008580050944",
+        "name": "跨男迷因",
+        "pinned_tweet_id": "1945538139894026576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939723306653097984/CGtjuE-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 99,
+          "like_count": 570,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/mRidPau6T7",
+        "username": "transman_meme",
+        "verified": false
+      }
+    ]
+  }
+}

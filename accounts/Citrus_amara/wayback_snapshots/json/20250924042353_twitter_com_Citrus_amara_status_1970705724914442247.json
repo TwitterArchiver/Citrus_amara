@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1970705724914442247",
+    "created_at": "2025-09-24T04:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T05:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970705724914442247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/m32276803/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/m32276803/status/1970464436839424071",
+          "start": 16,
+          "url": "https://t.co/xSujJDT6LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970705724914442247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970464436839424071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们可以去看看这个神人的言论。 https://t.co/xSujJDT6LT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1970705724914442247",
+        "created_at": "2025-09-24T04:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T05:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970705724914442247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m32276803/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/m32276803/status/1970464436839424071",
+              "start": 16,
+              "url": "https://t.co/xSujJDT6LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970705724914442247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970464436839424071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们可以去看看这个神人的言论。 https://t.co/xSujJDT6LT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360056361086722050",
+        "conversation_id": "1970464436839424071",
+        "created_at": "2025-09-23T12:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T13:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970464436839424071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970464436839424071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 636,
+          "like_count": 0,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎跨性别cos深度扮演者与我争辩，你说的每一句话在我看来都是自欺欺人，不敢面对现实的言论，帮助你加具你的抑郁症状态，帮助你自纱成功，让你重新投胎做真正的你想要的性别！世界上少一个彩虹人，人类更和谐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 448,
+          "like_count": 7450,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 2792
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T02:41:36.000Z",
+        "description": "🚫LGBT，抵制破坏人类和谐的群体《你永遠都是男的》《永遠都是》《我的好兄弟，心裡有苦你對我說》国家一级运动员（射击） 2019年全国第三届青少年运动会第一名 射击世界杯德国站个人第2名 团体第1 ！",
+        "id": "1360056361086722050",
+        "name": "小布尔乔亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523500929265410051/bcLQ3GPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 2229,
+          "like_count": 8162,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 961
+        },
+        "username": "m32276803",
+        "verified": false
+      }
+    ]
+  }
+}

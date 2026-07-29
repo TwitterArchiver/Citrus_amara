@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1997387414696841439",
+    "created_at": "2025-12-06T19:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T20:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997387414696841439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NashiMoe233/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/NashiMoe233/status/1997300334960746686",
+          "start": 14,
+          "url": "https://t.co/o7dwSyGSGH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997387414696841439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997300334960746686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🫥🤨\n但其实我更想忘掉。唉 https://t.co/o7dwSyGSGH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1997387414696841439",
+        "created_at": "2025-12-06T19:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T20:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997387414696841439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NashiMoe233/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/NashiMoe233/status/1997300334960746686",
+              "start": 14,
+              "url": "https://t.co/o7dwSyGSGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997387414696841439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997300334960746686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🫥🤨\n但其实我更想忘掉。唉 https://t.co/o7dwSyGSGH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "1997218779311624641",
+        "created_at": "2025-12-06T13:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997300334960746686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997300334960746686",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997252391373336671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "16.梨子的部分记忆因为osdd被抽离了 只有被刺激到ptsd发作的时候才会想起来 似乎只能靠这种方法慢慢填上我记忆里的空白…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 903,
+          "like_count": 13866,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 6268
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨不回答药物滥用相关问题丨💜@Rinko_zero8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "Rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992145336136290304/JambrXeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 207,
+          "like_count": 22176,
+          "listed_count": 3,
+          "media_count": 616,
+          "tweet_count": 12354
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      }
+    ]
+  }
+}

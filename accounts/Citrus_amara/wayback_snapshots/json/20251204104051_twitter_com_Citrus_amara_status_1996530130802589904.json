@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1996530130802589904",
+    "created_at": "2025-12-04T10:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T11:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996530130802589904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lsr8964/status…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/lsr8964/status/1996451965757444102",
+          "start": 73,
+          "url": "https://t.co/RlodagNeO6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996530130802589904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996451965757444102",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我吸毒给大脑神经原吸光了，我生活自理不了了。但我不会喷⏰政府傻逼了，支持中国共产党无下限管理中国人，以后吸毒的都死刑！精神药品发检阳性直接死刑！ https://t.co/RlodagNeO6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1996530130802589904",
+        "created_at": "2025-12-04T10:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996530130802589904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lsr8964/status…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/lsr8964/status/1996451965757444102",
+              "start": 73,
+              "url": "https://t.co/RlodagNeO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996530130802589904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996451965757444102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吸毒给大脑神经原吸光了，我生活自理不了了。但我不会喷⏰政府傻逼了，支持中国共产党无下限管理中国人，以后吸毒的都死刑！精神药品发检阳性直接死刑！ https://t.co/RlodagNeO6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796107945610276864",
+        "conversation_id": "1996451965757444102",
+        "created_at": "2025-12-04T05:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T06:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996451965757444102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_six/s…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/overdose_six/status/1996151105668174102",
+              "start": 60,
+              "url": "https://t.co/jdAtpg5dBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996451965757444102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996151105668174102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "毒虫也是不知道死了几个冯的，吸毒给大脑神经原吸光，生活都没法自理了还来点评\n你可以喷⏰政府是傻逼，但唯独禁枪和禁毒不行 https://t.co/jdAtpg5dBd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 893,
+          "like_count": 13672,
+          "listed_count": 4,
+          "media_count": 228,
+          "tweet_count": 6119
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T09:15:00.000Z",
+        "description": "叫我们克制，叫理性让我们从泥泞和赃污中爬起，叫我们成就人的模样。 姑且算左翼，你能逻辑论证你的观念那我对你抱有崇高的敬意",
+        "id": "1796107945610276864",
+        "location": "正在杀出纳垢花园",
+        "name": "Vegetability",
+        "pinned_tweet_id": "1979902131722129605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796188651317002240/8PZEwcwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 375,
+          "like_count": 1464,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 2087
+        },
+        "username": "lsr8964",
+        "verified": false
+      }
+    ]
+  }
+}

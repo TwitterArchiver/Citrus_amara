@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1997864702043623926",
+    "created_at": "2025-12-08T03:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T04:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997872428849185042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/howell1816/sta…",
+          "end": 70,
+          "expanded_url": "https://x.com/howell1816/status/1997680343470760245?s=19",
+          "start": 47,
+          "url": "https://t.co/hDcinTLmUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997872428849185042",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997680343470760245",
+        "type": "quoted"
+      },
+      {
+        "id": "1997867860069413250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阶级意识，阶级组织和阶级诉求倒是都有了。唉。懒得查了。作为一个政治实体干涉政治倒是不存在。\n\nhttps://t.co/hDcinTLmUP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1997864702043623926",
+        "created_at": "2025-12-08T03:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T04:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997872428849185042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/howell1816/sta…",
+              "end": 70,
+              "expanded_url": "https://x.com/howell1816/status/1997680343470760245?s=19",
+              "start": 47,
+              "url": "https://t.co/hDcinTLmUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997872428849185042",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997680343470760245",
+            "type": "quoted"
+          },
+          {
+            "id": "1997867860069413250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阶级意识，阶级组织和阶级诉求倒是都有了。唉。懒得查了。作为一个政治实体干涉政治倒是不存在。\n\nhttps://t.co/hDcinTLmUP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911624490544431104",
+        "conversation_id": "1997606213832646988",
+        "created_at": "2025-12-07T14:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997680343470760245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1715418222701531136",
+              "start": 0,
+              "username": "shen_shi88371"
+            },
+            {
+              "end": 25,
+              "id": "765098895437287424",
+              "start": 15,
+              "username": "Viola_lxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997680343470760245",
+        "in_reply_to_user_id": "1715418222701531136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997677968005668914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shen_shi88371 @Viola_lxE 资源由国家控制，你所说的叫剥削现象的残余，但是这和我们所说的消灭剥削阶级并不矛盾，因为剥削阶级存在的土壤是生产资料私有制和系统性剥削，判断一个阶级是否存在，不仅要看经济基础，还要看其是否能形成统一的阶级意识、阶级组织和政治诉求，消灭了剥削阶级但不能说完全消灭剥削现象的残余"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1997864702043623926",
+        "created_at": "2025-12-08T03:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T04:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997867860069413250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/howell1816/sta…",
+              "end": 57,
+              "expanded_url": "https://x.com/howell1816/status/1997693313269592391?s=19",
+              "start": 34,
+              "url": "https://t.co/rmW1B0LSBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997867860069413250",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997693313269592391",
+            "type": "quoted"
+          },
+          {
+            "id": "1997865511309455416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把生产资料理解成自然资源的话理论水平太差了。纺织机当然算生产资料。\nhttps://t.co/rmW1B0LSBM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/吸毒 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 916,
+          "like_count": 13940,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 6372
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:36:29.000Z",
+        "description": "立场硬，证据足\n怼造谣，护家国",
+        "id": "1911624490544431104",
+        "name": "howell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911624576619999232/30SHTIQQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 86,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1145
+        },
+        "username": "howell1816",
+        "verified": false
+      }
+    ]
+  }
+}

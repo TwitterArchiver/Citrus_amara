@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1996918895337525652",
+    "created_at": "2025-12-05T12:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T13:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996918895337525652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1971006655430262784",
+          "start": 3,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996918895337525652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996834803652632818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FxxkApexLegend: 孩子，你就继续熬夜，继续刷你那个破手机，你全身的器官都不累，不难过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1996918895337525652",
+        "created_at": "2025-12-05T12:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996918895337525652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1971006655430262784",
+              "start": 3,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996918895337525652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996834803652632818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FxxkApexLegend: 孩子，你就继续熬夜，继续刷你那个破手机，你全身的器官都不累，不难过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971006655430262784",
+        "conversation_id": "1996834803652632818",
+        "created_at": "2025-12-05T06:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T07:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996834803652632818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996834803652632818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子，你就继续熬夜，继续刷你那个破手机，你全身的器官都不累，不难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 894,
+          "like_count": 13772,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 6202
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "17岁，是翎，嗯造两年雌二醇，🇲🇴  MtX💜🖤💛🤍 蓝标是@goldwater8964 送的😁 对象❤️@juhao0721 ☮️和平主义者 🇺🇦🇵🇸 我不关心政治 我只关心活生生的人\n 买💊雌二醇补佳乐色谱龙减肥/促智药物💊找@chosekinoraneko @minokakay作担保😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "goldwater8964"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "juhao0721"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "chosekinoraneko"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇲🇴",
+        "name": "🍁🍥翎野🍥🍁",
+        "pinned_tweet_id": "1990388232681361811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995449206203691008/0c06NxbX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 404,
+          "like_count": 5456,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 4715
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": true
+      }
+    ]
+  }
+}

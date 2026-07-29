@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1999978264404824264",
+    "created_at": "2025-12-13T23:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T00:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999978264404824264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896175390005342208",
+          "start": 3,
+          "username": "Chufeinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999978264404824264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999550977121107987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chufeinya: 跨女必须贤良淑德、必须穿裙子、必须想嫁人；跨男必须阳刚、必须厌女\n🏳️‍⚧️♀️ 👍🫰 🥺 👋😡, 🩷👗 ,👰😍👲                🏳️‍⚧️♂️ 👍🫰🌞🔨👊，🤮💃♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1999978264404824264",
+        "created_at": "2025-12-13T23:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T00:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999978264404824264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896175390005342208",
+              "start": 3,
+              "username": "Chufeinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999978264404824264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999550977121107987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chufeinya: 跨女必须贤良淑德、必须穿裙子、必须想嫁人；跨男必须阳刚、必须厌女\n🏳️‍⚧️♀️ 👍🫰 🥺 👋😡, 🩷👗 ,👰😍👲                🏳️‍⚧️♂️ 👍🫰🌞🔨👊，🤮💃♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896175390005342208",
+        "conversation_id": "1999550977121107987",
+        "created_at": "2025-12-12T18:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T19:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999550977121107987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999550977121107987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7011,
+          "like_count": 81,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "跨女必须贤良淑德、必须穿裙子、必须想嫁人；跨男必须阳刚、必须厌女\n🏳️‍⚧️♀️ 👍🫰 🥺 👋😡, 🩷👗 ,👰😍👲                🏳️‍⚧️♂️ 👍🫰🌞🔨👊，🤮💃♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1999680286733533427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 931,
+          "like_count": 14168,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 6611
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "连夜梦觉",
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "初菲",
+        "pinned_tweet_id": "1999556389522534430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 1549,
+          "like_count": 14774,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 868
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

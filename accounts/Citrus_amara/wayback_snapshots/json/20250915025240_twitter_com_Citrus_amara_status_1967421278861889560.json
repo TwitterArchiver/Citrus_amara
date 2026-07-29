@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1967421278861889560",
+    "created_at": "2025-09-15T02:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T03:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967421278861889560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/1967057810434453821",
+          "start": 30,
+          "url": "https://t.co/OnEGRKMdxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967421278861889560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967057810434453821",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实该这样。什么策划药，什么毒品，我们只是在做药理实验啦👋 https://t.co/OnEGRKMdxT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1967421278861889560",
+        "created_at": "2025-09-15T02:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T03:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967421278861889560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1967057810434453821",
+              "start": 30,
+              "url": "https://t.co/OnEGRKMdxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967421278861889560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967057810434453821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实该这样。什么策划药，什么毒品，我们只是在做药理实验啦👋 https://t.co/OnEGRKMdxT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1967057810434453821",
+        "created_at": "2025-09-14T02:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T03:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967057810434453821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CY_Mystica/sta…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/CY_Mystica/status/1966870553819836889",
+              "start": 136,
+              "url": "https://t.co/ZT609gmIXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967057810434453821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3809,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966870553819836889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那能叫策划药嘛\n买过策划药的都知道，策划药是装在一个大袋子里面的药粉，袋子上面的标签写了这是什么物质，仅供科研不得用于人体。要吃还得自己称药粉，并压成药片\n这种未知成分“策划药”更类似于邮票，浴盐，上头电子烟之类的制成品，专门用于人体。一旦被警察发现，你没有任何回旋余地 https://t.co/ZT609gmIXx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 427,
+          "like_count": 6737,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2578
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 443,
+          "like_count": 6450,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

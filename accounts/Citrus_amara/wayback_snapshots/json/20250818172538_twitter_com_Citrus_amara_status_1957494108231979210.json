@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1956710149479170302",
+    "created_at": "2025-08-18T17:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T18:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957494108231979210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766728530963189760",
+          "start": 0,
+          "username": "xyh20090625"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957494108231979210",
+    "in_reply_to_user_id": "1766728530963189760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956710149479170302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyh20090625 妹子你是我见过最便宜的🚪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1956710149479170302",
+        "created_at": "2025-08-18T17:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T18:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957494108231979210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766728530963189760",
+              "start": 0,
+              "username": "xyh20090625"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957494108231979210",
+        "in_reply_to_user_id": "1766728530963189760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956710149479170302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyh20090625 妹子你是我见过最便宜的🚪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766728530963189760",
+        "conversation_id": "1956710149479170302",
+        "created_at": "2025-08-16T13:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T14:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956710149479170302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956710149479170302",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚪8.8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 357,
+          "like_count": 3448,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1467
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T07:31:27.000Z",
+        "description": "1999服务7天，\n🚪8.8明天发一个福利\n🚪13玩别的项目不加价格\n🚪78每个月会送3次打视频还可以免费文字调教\n🚪520除了线下所有项目一个月免费10次而且一个月送一次闲置盲盒\n。。。。。。。。有沈万姬和大叔认证。。。。。。。。\n男女通吃\n女06年",
+        "id": "1766728530963189760",
+        "location": "河北",
+        "name": "草鞋",
+        "pinned_tweet_id": "1947888997243752654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947581618702454784/uEjJJXcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 12,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 322
+        },
+        "username": "xyh20090625",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1973963600785236040",
+    "created_at": "2025-10-05T12:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T13:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974819154470515128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1642056887603695619",
+          "start": 0,
+          "username": "Luminme_SL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974819154470515128",
+    "in_reply_to_user_id": "1642056887603695619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973963600785236040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luminme_SL 所以我觉得意识体的死亡就是碎裂，死掉后内部会出现一堆石块，可能是意识体碎片也可能是新的小意识体"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1973963600785236040].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1973963600785236040",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1973963600785236040"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1973963600785236040",
+        "created_at": "2025-10-05T12:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974819154470515128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1642056887603695619",
+              "start": 0,
+              "username": "Luminme_SL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974819154470515128",
+        "in_reply_to_user_id": "1642056887603695619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973963600785236040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luminme_SL 所以我觉得意识体的死亡就是碎裂，死掉后内部会出现一堆石块，可能是意识体碎片也可能是新的小意识体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 505,
+          "like_count": 8219,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 3079
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T06:51:06.000Z",
+        "description": "多意識體，無性別，afab，代詞為THEY/THEM | 主要內容為情緒垃圾桶🗑️和表達內心，偶爾od💊 | 勵志關注全中推的afab跨性別和多意識體",
+        "id": "1642056887603695619",
+        "name": "️‍⚧️Lumin♥️",
+        "pinned_tweet_id": "1886482580192845930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970876522484645888/_v-QDyZt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 124,
+          "like_count": 4752,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 3235
+        },
+        "username": "Luminme_SL",
+        "verified": false
+      }
+    ]
+  }
+}

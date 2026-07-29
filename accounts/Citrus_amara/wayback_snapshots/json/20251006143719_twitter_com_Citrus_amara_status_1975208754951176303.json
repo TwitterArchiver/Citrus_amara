@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1975196887834939841",
+    "created_at": "2025-10-06T14:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T15:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975208754951176303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1718158034638368768",
+          "start": 0,
+          "username": "LinTmPro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975208754951176303",
+    "in_reply_to_user_id": "1718158034638368768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975207086083776789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinTmPro 1t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1975196887834939841",
+        "created_at": "2025-10-06T14:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975208754951176303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1718158034638368768",
+              "start": 0,
+              "username": "LinTmPro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975208754951176303",
+        "in_reply_to_user_id": "1718158034638368768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975207086083776789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinTmPro 1t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718158034638368768",
+        "conversation_id": "1975196887834939841",
+        "created_at": "2025-10-06T14:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975207086083776789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975207086083776789",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975196887834939841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 这是吃了多少呀，我平时是就吃1片只会感觉昏昏的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 506,
+          "like_count": 8260,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 3094
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T06:49:46.000Z",
+        "description": "【MTX】02  |  考研二战失败的傻子，三战中 | 正在经历第二次青春期，这里留着我的碎碎念",
+        "id": "1718158034638368768",
+        "name": "林π",
+        "pinned_tweet_id": "1962008194399735861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958606623204896768/pGbUXhFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 461,
+          "like_count": 6042,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 474
+        },
+        "username": "LinTmPro",
+        "verified": false
+      }
+    ]
+  }
+}

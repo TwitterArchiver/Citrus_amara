@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1962114481686778161",
+    "created_at": "2025-09-01T08:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T09:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962432853083312423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "843858165242327042",
+          "start": 0,
+          "username": "AlexMobis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962432853083312423",
+    "in_reply_to_user_id": "843858165242327042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962328816707379408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexMobis ...？原料药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1962114481686778161",
+        "created_at": "2025-09-01T08:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T09:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962432853083312423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "843858165242327042",
+              "start": 0,
+              "username": "AlexMobis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962432853083312423",
+        "in_reply_to_user_id": "843858165242327042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962328816707379408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexMobis ...？原料药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "843858165242327042",
+        "conversation_id": "1962114481686778161",
+        "created_at": "2025-09-01T01:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T02:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962328816707379408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962328816707379408",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962114481686778161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 这是什么？自己提纯的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。取关麻烦双向。忘记回fo请私聊\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 381,
+          "like_count": 5478,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 2087
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-20T16:13:59.000Z",
+        "description": "Twitter比墙内有趣很多，一个无人管理的灰色地带充斥着虚假的信息、野蛮的思想和露骨的欲望。但这对立场坚定思维开阔的人而言是一部精彩的黑色幽默。",
+        "id": "843858165242327042",
+        "name": "Alex.W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577149665178361856/M3tg03I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 115,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 357
+        },
+        "username": "AlexMobis",
+        "verified": false
+      }
+    ]
+  }
+}

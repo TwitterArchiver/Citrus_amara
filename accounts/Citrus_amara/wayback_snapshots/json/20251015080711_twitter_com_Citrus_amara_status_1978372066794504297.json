@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1978372066794504297",
+    "created_at": "2025-10-15T08:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T09:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978372066794504297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShanYan3321624…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/ShanYan33216244/status/1977830972541595942",
+          "start": 32,
+          "url": "https://t.co/BYlaFFZoqC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978372066794504297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977830972541595942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我急了我磕药了我玉玉了我脑子里只有二次元黄色废料了我活不下去了 https://t.co/BYlaFFZoqC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1978372066794504297",
+        "created_at": "2025-10-15T08:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T09:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978372066794504297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShanYan3321624…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ShanYan33216244/status/1977830972541595942",
+              "start": 32,
+              "url": "https://t.co/BYlaFFZoqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978372066794504297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977830972541595942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我急了我磕药了我玉玉了我脑子里只有二次元黄色废料了我活不下去了 https://t.co/BYlaFFZoqC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463121100603158531",
+        "conversation_id": "1977830972541595942",
+        "created_at": "2025-10-13T20:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T21:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977830972541595942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShanYan3321624…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/ShanYan33216244/status/1977089043558244716",
+              "start": 70,
+              "url": "https://t.co/QBsfkE2hLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977830972541595942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6070,
+          "like_count": 112,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977089043558244716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "捅了简中男夸畜老窝了，急不死你们🤣🤣🤣一个二个不是磕药就是玉玉，脑子里除了二次元黄色废料就没别的，活都活不下去了，急职场的事有个屌用🤣🤣🤣 https://t.co/QBsfkE2hLk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 571,
+          "like_count": 8933,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 3414
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-23T12:24:01.000Z",
+        "description": "🇬🇧tech｜女拳11bt，radfem&terf，反婚反育反跨反性缘反丑役｜不抱团，will block whoever I want｜不信mbti及任何玄学宗教｜我本位，女本位｜现充健身学习｜电锯枪支爱好者｜婚驴性缘驴繁殖癌二次元滚回你们的阴沟里, 男的关注回复转发点赞则烂屌暴毙",
+        "id": "1463121100603158531",
+        "name": "骟_8964_阳",
+        "pinned_tweet_id": "1659945895805239297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804889517536522242/quEVMvMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 167,
+          "like_count": 6974,
+          "listed_count": 11,
+          "media_count": 18,
+          "tweet_count": 4116
+        },
+        "username": "ShanYan33216244",
+        "verified": false
+      }
+    ]
+  }
+}

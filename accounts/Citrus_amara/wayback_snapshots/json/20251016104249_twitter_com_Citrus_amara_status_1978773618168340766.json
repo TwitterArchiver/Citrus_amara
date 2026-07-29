@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1978773618168340766",
+    "created_at": "2025-10-16T10:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T11:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978773618168340766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Im_CanDo/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Im_CanDo/status/1978161166317703557",
+          "start": 9,
+          "url": "https://t.co/nCNcf0Zrmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978773618168340766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978161166317703557",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已被确诊为llm https://t.co/nCNcf0Zrmb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978161154653564929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PXFuOaMAEqIVM.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1978773618168340766",
+        "created_at": "2025-10-16T10:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T11:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978773618168340766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_CanDo/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Im_CanDo/status/1978161166317703557",
+              "start": 9,
+              "url": "https://t.co/nCNcf0Zrmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978773618168340766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978161166317703557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已被确诊为llm https://t.co/nCNcf0Zrmb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978161154653564929"
+          ]
+        },
+        "author_id": "1811616942069022720",
+        "conversation_id": "1978161166317703557",
+        "created_at": "2025-10-14T18:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T19:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978161166317703557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jnRoyIGjA",
+              "end": 84,
+              "expanded_url": "https://x.com/Im_CanDo/status/1978161166317703557/photo/1",
+              "media_key": "3_1978161154653564929",
+              "start": 61,
+              "url": "https://t.co/2jnRoyIGjA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978161166317703557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 13865,
+          "like_count": 185,
+          "quote_count": 21,
+          "reply_count": 16,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "的确是这样😭\n\n原作者评论：正常人社交靠“ 感知+共情  ”，阿斯伯格者社交靠“记忆+建模”——前者是直觉，后者是算法。 https://t.co/2jnRoyIGjA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 584,
+          "like_count": 9174,
+          "listed_count": 4,
+          "media_count": 113,
+          "tweet_count": 3494
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T04:22:04.000Z",
+        "description": "摄影专业 艺术家 社会科学研究 喜欢音乐剧 / 阿斯伯格 / 当朋友圈发 / 福瑞新闻@HelloFurryNews / 【https://t.co/gHEGHqCnZ9】Minecraft服务器",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "HelloFurryNews"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mcfurry.cc",
+                "end": 85,
+                "expanded_url": "http://mcfurry.cc",
+                "start": 62,
+                "url": "https://t.co/gHEGHqCnZ9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/im_cando2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/im_cando2",
+                "start": 0,
+                "url": "https://t.co/97wAs4NVPe"
+              }
+            ]
+          }
+        },
+        "id": "1811616942069022720",
+        "location": "-4.2km",
+        "name": "一只小残冬 Cando",
+        "pinned_tweet_id": "1891751637011791973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927686835603476480/zaqoSpcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7789,
+          "following_count": 907,
+          "like_count": 23565,
+          "listed_count": 12,
+          "media_count": 465,
+          "tweet_count": 7942
+        },
+        "url": "https://t.co/97wAs4NVPe",
+        "username": "Im_CanDo",
+        "verified": true
+      }
+    ]
+  }
+}

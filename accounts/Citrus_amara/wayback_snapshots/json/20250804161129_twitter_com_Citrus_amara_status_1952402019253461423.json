@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952402019253461423",
+    "created_at": "2025-08-04T16:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T17:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952402019253461423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4B3tAcbAFD3423…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/4B3tAcbAFD34236/status/1952351746078228902",
+          "start": 5,
+          "url": "https://t.co/bQ7E7uJMGV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952402019253461423",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952351746078228902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了 https://t.co/bQ7E7uJMGV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952402019253461423",
+        "created_at": "2025-08-04T16:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952402019253461423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4B3tAcbAFD3423…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/4B3tAcbAFD34236/status/1952351746078228902",
+              "start": 5,
+              "url": "https://t.co/bQ7E7uJMGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952402019253461423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952351746078228902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/bQ7E7uJMGV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834433463904337923",
+        "conversation_id": "1952351746078228902",
+        "created_at": "2025-08-04T12:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T13:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952351746078228902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952351746078228902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1160,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人考虑给蝻权mtf和激女ftm这对绝世好cp写个同人文，比如激女ftm用20cm长的大唧唧爆炒蝻权mtf，蝻权mtf一边被爆炒一边哭着说“呜呜激女ftm哥哥太厉害了，我再也不当废物蝻权了，以后我永远都是激女ftm大哥哥的狗”，然后激女ftm一边拍蝻权mtf的屁股一边说“还敢不敢当指派男了还敢不敢当指派男了”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 261,
+          "like_count": 1746,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 837
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T03:26:54.000Z",
+        "description": "Lesbian🌈/女同已有小女友/友人类/攻击性很强并不淑女/不知道为什么大家都喜欢把自己的病写在简介里既然如此我就写个月经周期不规律吧/左撇子/第一次做饭的时候把土豆丝做成了薯条/我很笨请原谅我/女性主义相关/LGBTQ+全友好",
+        "id": "1834433463904337923",
+        "location": "就在你的身后 👁️ 👁️",
+        "name": "未知梨物🌈（淡推中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948648899230793730/R5pf9ina_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 67,
+          "like_count": 1308,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1032
+        },
+        "username": "4B3tAcbAFD34236",
+        "verified": false
+      }
+    ]
+  }
+}

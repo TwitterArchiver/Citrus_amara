@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1987875824276734161",
+    "created_at": "2025-11-10T22:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T23:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988018518173118703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697915168532086785",
+          "start": 0,
+          "username": "DXM8964LXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988018518173118703",
+    "in_reply_to_user_id": "1697915168532086785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987875824276734161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXM8964LXM 那很有钞能力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1987875824276734161",
+        "created_at": "2025-11-10T22:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T23:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988018518173118703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697915168532086785",
+              "start": 0,
+              "username": "DXM8964LXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988018518173118703",
+        "in_reply_to_user_id": "1697915168532086785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987875824276734161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXM8964LXM 那很有钞能力了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697915168532086785",
+        "conversation_id": "1987875824276734161",
+        "created_at": "2025-11-10T13:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987875824276734161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987875824276734161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶🤓☝️理论上来说色谱分析的标准样品是非常纯的，所以我可以直接找厂家定制特定浓度，指定溶剂的雌二醇酯，还能要求无菌，我要去找厂家了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 732,
+          "like_count": 11341,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 4574
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:12:28.000Z",
+        "description": "反对od的oder/精分/友跨翻车MTX无性别/EMer/化学，合成实操爱好者8964/住长江边某城\n18/189cm/60.8964kg\n不卖皮鼓，私聊询问省市等敏感信息直接拉黑8964\n姐姐：@Psych_Angel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "Psych_Angel"
+              }
+            ]
+          }
+        },
+        "id": "1697915168532086785",
+        "location": "DXM的孤对电子上",
+        "name": "氯酸甲酯🍥",
+        "pinned_tweet_id": "1983580484304244786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986833213453475840/2QBWmnJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 108,
+          "like_count": 4931,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 293
+        },
+        "username": "DXM8964LXM",
+        "verified": false
+      }
+    ]
+  }
+}

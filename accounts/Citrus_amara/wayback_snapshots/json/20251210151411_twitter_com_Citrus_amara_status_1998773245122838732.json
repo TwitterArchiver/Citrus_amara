@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1998773245122838732",
+    "created_at": "2025-12-10T15:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T16:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998773245122838732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jingyin_8964/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/jingyin_8964/status/1998768091023683650",
+          "start": 20,
+          "url": "https://t.co/lUASimZu9W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998773245122838732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998768091023683650",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我先观望。哦对了有没有骂我们的我想看看 https://t.co/lUASimZu9W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1428,
+        "media_key": "3_1998765260841623552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70KajHbIAAe_lM.jpg",
+        "width": 716
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1998765569869504512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70KsiVaYAAAezG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1998773245122838732",
+        "created_at": "2025-12-10T15:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T16:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998773245122838732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingyin_8964/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/jingyin_8964/status/1998768091023683650",
+              "start": 20,
+              "url": "https://t.co/lUASimZu9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998773245122838732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998768091023683650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我先观望。哦对了有没有骂我们的我想看看 https://t.co/lUASimZu9W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998765260841623552",
+            "3_1998765569869504512"
+          ]
+        },
+        "author_id": "1965531250447568896",
+        "conversation_id": "1998768091023683650",
+        "created_at": "2025-12-10T14:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998768091023683650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/je2iar7AnG",
+              "end": 120,
+              "expanded_url": "https://x.com/jingyin_8964/status/1998768091023683650/photo/1",
+              "media_key": "3_1998765260841623552",
+              "start": 97,
+              "url": "https://t.co/je2iar7AnG"
+            },
+            {
+              "display_url": "pic.x.com/je2iar7AnG",
+              "end": 120,
+              "expanded_url": "https://x.com/jingyin_8964/status/1998768091023683650/photo/1",
+              "media_key": "3_1998765569869504512",
+              "start": 97,
+              "url": "https://t.co/je2iar7AnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998768091023683650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "如图。\n哎这就是药圈老资历吗，何意味啊，骂人之前不撒泡尿照照自己的猪头吗，哪来的逼优越感辱骂别人，做人这点素质没有，嫌我长得丑把眼睛挖了呗天天视奸我干啥，脂肪把脑容量占完了只能用下体思考了是呗 https://t.co/je2iar7AnG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 922,
+          "like_count": 13982,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 6463
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼 \n/口粮：@420420420CTL \n/接受药圈新闻投稿\n/接RC代测\n镜音的匿名提问箱：https://t.co/Ko843XLkGn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 93,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 70,
+                "url": "https://t.co/Ko843XLkGn"
+              }
+            ]
+          }
+        },
+        "id": "1965531250447568896",
+        "location": "🚪88/288/520/1314可不固定",
+        "name": "镜音（二代目）",
+        "pinned_tweet_id": "1998694737906155891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 104,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 236
+        },
+        "username": "jingyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

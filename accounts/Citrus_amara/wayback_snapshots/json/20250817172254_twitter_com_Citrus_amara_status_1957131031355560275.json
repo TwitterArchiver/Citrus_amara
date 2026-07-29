@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957129383107559441",
+    "created_at": "2025-08-17T17:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T18:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957131031355560275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828118701864042496",
+          "start": 0,
+          "username": "tooth_1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957131031355560275",
+    "in_reply_to_user_id": "1828118701864042496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 15,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957129383107559441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tooth_1127 空腹了吗？喝水了吗？如果都做到的话普瑞大概一小时左右起效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957129383107559441",
+        "created_at": "2025-08-17T17:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957131031355560275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828118701864042496",
+              "start": 0,
+              "username": "tooth_1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957131031355560275",
+        "in_reply_to_user_id": "1828118701864042496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957129383107559441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tooth_1127 空腹了吗？喝水了吗？如果都做到的话普瑞大概一小时左右起效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828118701864042496",
+        "conversation_id": "1957129383107559441",
+        "created_at": "2025-08-17T17:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957129383107559441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957129383107559441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草我第一次吃了8t普瑞巴林怎么没有用啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 353,
+          "like_count": 3350,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1434
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T17:14:11.000Z",
+        "description": "",
+        "id": "1828118701864042496",
+        "location": "f",
+        "name": "保卫西瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956009532305629185/RDftpOrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 68,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "tooth_1127",
+        "verified": false
+      }
+    ]
+  }
+}

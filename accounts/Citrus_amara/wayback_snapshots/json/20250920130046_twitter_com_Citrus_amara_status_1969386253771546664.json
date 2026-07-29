@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1969247943719792963",
+    "created_at": "2025-09-20T13:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T14:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969386253771546664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580634879213318144",
+          "start": 0,
+          "username": "OblivionSnows"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969386253771546664",
+    "in_reply_to_user_id": "1580634879213318144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969247943719792963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OblivionSnows 呃，唉。确实是很艰难的决定，政客支持政治暴力意味着自己也有可能被刺杀。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_1969245821603627008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1QqpCgbQAAY1wV.png",
+        "width": 700
+      },
+      {
+        "height": 788,
+        "media_key": "3_1969247219695173633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Qr6azbQAEwmpl.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1969247943719792963",
+        "created_at": "2025-09-20T13:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T14:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969386253771546664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580634879213318144",
+              "start": 0,
+              "username": "OblivionSnows"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969386253771546664",
+        "in_reply_to_user_id": "1580634879213318144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969247943719792963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OblivionSnows 呃，唉。确实是很艰难的决定，政客支持政治暴力意味着自己也有可能被刺杀。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969245821603627008",
+            "3_1969247219695173633"
+          ]
+        },
+        "author_id": "1580634879213318144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "1969247943719792963",
+        "created_at": "2025-09-20T03:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T04:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969247943719792963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhvNv0U61z",
+              "end": 174,
+              "expanded_url": "https://x.com/OblivionSnows/status/1969247943719792963/photo/1",
+              "media_key": "3_1969245821603627008",
+              "start": 151,
+              "url": "https://t.co/QhvNv0U61z"
+            },
+            {
+              "display_url": "pic.x.com/QhvNv0U61z",
+              "end": 174,
+              "expanded_url": "https://x.com/OblivionSnows/status/1969247943719792963/photo/1",
+              "media_key": "3_1969247219695173633",
+              "start": 151,
+              "url": "https://t.co/QhvNv0U61z"
+            },
+            {
+              "display_url": "x.com/bennyjohnson/s…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/bennyjohnson/status/1969054294566395999",
+              "start": 175,
+              "url": "https://t.co/eB5EXzemQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969247943719792963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8644,
+          "like_count": 106,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969054294566395999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "民主党有58票投反对票太疯狂了...\n\n难道不应该是尽然只有58票反对太疯狂了吗？？查理·柯克同志全国纪念​​日，这荒诞程度堪比张维为同志全国纪念日了...\n\n这么唐的法案，“没有理由/借口”反对，还在政治共识，还在超越党派，这就是民主党绥靖的本色，这个党完全承担不起对抗反动政治，打破政治僵局的冀望 https://t.co/QhvNv0U61z https://t.co/eB5EXzemQw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 441,
+          "like_count": 7194,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 2706
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T19:02:28.000Z",
+        "description": "琼枝玉骨一朵开，孤月无声照影单。\n故梦无凭何处觅，一庭疏影共清寒。 \n\nLégère est la blancheur, sur la mer de neige",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oblivionsnows1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oblivionsnows1",
+                "start": 0,
+                "url": "https://t.co/VWeFTlN7Zq"
+              }
+            ]
+          }
+        },
+        "id": "1580634879213318144",
+        "location": "Abyss",
+        "name": "Oliver",
+        "pinned_tweet_id": "1937720563264635257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903517770580684800/rdEF1jFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 428,
+          "like_count": 23406,
+          "listed_count": 15,
+          "media_count": 370,
+          "tweet_count": 7309
+        },
+        "url": "https://t.co/VWeFTlN7Zq",
+        "username": "OblivionSnows",
+        "verified": false
+      }
+    ]
+  }
+}

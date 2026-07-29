@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949033978343690423",
+    "created_at": "2025-07-26T09:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T10:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949033978343690423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TataQOS/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/TataQOS/status/1948758886951084180",
+          "start": 18,
+          "url": "https://t.co/vEy5VFknvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949033978343690423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948758886951084180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她是不是觉得mtf看到这句话会破防 https://t.co/vEy5VFknvr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1605,
+        "media_key": "3_1948758884421959681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwth4WLbgAEf-p4.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949033978343690423",
+        "created_at": "2025-07-26T09:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T10:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949033978343690423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TataQOS/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/TataQOS/status/1948758886951084180",
+              "start": 18,
+              "url": "https://t.co/vEy5VFknvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949033978343690423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948758886951084180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她是不是觉得mtf看到这句话会破防 https://t.co/vEy5VFknvr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948758884421959681"
+          ]
+        },
+        "author_id": "1631838528501092358",
+        "conversation_id": "1948734312628846741",
+        "created_at": "2025-07-25T14:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948758886951084180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jasonzyt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFG332Ym0A",
+              "end": 98,
+              "expanded_url": "https://x.com/TataQOS/status/1948758886951084180/photo/1",
+              "media_key": "3_1948758884421959681",
+              "start": 75,
+              "url": "https://t.co/CFG332Ym0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948758886951084180",
+        "in_reply_to_user_id": "1631838528501092358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4360,
+          "like_count": 14,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948750712189468955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonzyt 好狠的一击脱离啊，怎么不敢开麦说话啊？是不是“永远变不成女的”这句话让你破防了呢😊哎呀好气呀我生下来就是女的没办法跟你共情呢宝宝 https://t.co/CFG332Ym0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 150,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 440
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T02:06:45.000Z",
+        "description": "涩涩🔞♠️/猫猫🐱/FFXIV🎮/英译汉/汉译英/烤冷面\n   \n 一般通过社畜女性人类，生活穷困潦倒，XP杂乱变态。手下频道内有三万八千男娘，堪称男娘山大王。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MsTataQOS",
+                "end": 23,
+                "expanded_url": "https://t.me/MsTataQOS",
+                "start": 0,
+                "url": "https://t.co/N7aIenSAFR"
+              }
+            ]
+          }
+        },
+        "id": "1631838528501092358",
+        "location": "距离你0.12km",
+        "name": "塔塔",
+        "pinned_tweet_id": "1920026635882877180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916448968005066752/RNpf3oQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 150,
+          "like_count": 221,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/N7aIenSAFR",
+        "username": "TataQOS",
+        "verified": false
+      }
+    ]
+  }
+}

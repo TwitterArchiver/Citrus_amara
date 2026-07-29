@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957323054763119095",
+    "created_at": "2025-08-18T19:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T20:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957518434004308198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913309341735956480",
+          "start": 0,
+          "username": "yingyang_FW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957518434004308198",
+    "in_reply_to_user_id": "1913309341735956480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957323054763119095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingyang_FW 哎呦你提醒我了，我明天要去吃雪王大圣代😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957323051030175744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GynO8c9WYAAP81R.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957323054763119095",
+        "created_at": "2025-08-18T19:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T20:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957518434004308198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913309341735956480",
+              "start": 0,
+              "username": "yingyang_FW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957518434004308198",
+        "in_reply_to_user_id": "1913309341735956480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957323054763119095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingyang_FW 哎呦你提醒我了，我明天要去吃雪王大圣代😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957323051030175744"
+          ]
+        },
+        "author_id": "1913309341735956480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1957323054763119095",
+        "created_at": "2025-08-18T06:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T07:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957323054763119095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAxqBo6OSi",
+              "end": 31,
+              "expanded_url": "https://x.com/yingyang_FW/status/1957323054763119095/photo/1",
+              "media_key": "3_1957323051030175744",
+              "start": 8,
+              "url": "https://t.co/ZAxqBo6OSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957323054763119095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人两杯，🤓 https://t.co/ZAxqBo6OSi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 357,
+          "like_count": 3471,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1476
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T19:11:33.000Z",
+        "description": "小药娘｜玩 战争雷霆，钢铁雄心4，KARDS，Cs2(C+)｜171cm 56kg｜无证含糖｜生日2010.11.28｜互fo｜只会中文｜QQ:3344269844聊天(无门)想交朋友｜有时傻傻的｜社恐｜不会聊天｜常驻昆明｜姐姐:@erciyuanha87431，@DianeKathe47946｜想要找对象！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 115,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "DianeKathe47946"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yyyjhfw",
+                "end": 23,
+                "expanded_url": "http://t.me/yyyjhfw",
+                "start": 0,
+                "url": "https://t.co/0mRJesmFT5"
+              }
+            ]
+          }
+        },
+        "id": "1913309341735956480",
+        "location": "谁知道呢",
+        "name": "营养要均衡🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950147286937587715/jqqsbiqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 432,
+          "like_count": 4138,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 635
+        },
+        "url": "https://t.co/0mRJesmFT5",
+        "username": "yingyang_FW",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2003412441871638668",
+    "created_at": "2025-12-23T11:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T12:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003429064770748686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867035438051131393",
+          "start": 0,
+          "username": "Iwilldieyoutoo"
+        },
+        {
+          "end": 29,
+          "id": "1879395690230738944",
+          "start": 16,
+          "username": "Psych_Angel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003429064770748686",
+    "in_reply_to_user_id": "1867035438051131393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003418237061734846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iwilldieyoutoo @Psych_Angel_ 😖处方药确实找不到替代品了，gabapentiods的其他类太贵。但是rc里抑制剂不少。说不定未来会变成rc时代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2003412441871638668",
+        "created_at": "2025-12-23T11:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T12:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003429064770748686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867035438051131393",
+              "start": 0,
+              "username": "Iwilldieyoutoo"
+            },
+            {
+              "end": 29,
+              "id": "1879395690230738944",
+              "start": 16,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003429064770748686",
+        "in_reply_to_user_id": "1867035438051131393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003418237061734846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iwilldieyoutoo @Psych_Angel_ 😖处方药确实找不到替代品了，gabapentiods的其他类太贵。但是rc里抑制剂不少。说不定未来会变成rc时代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867035438051131393",
+        "conversation_id": "2003412441871638668",
+        "created_at": "2025-12-23T10:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T11:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003418237061734846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003418237061734846",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003412441871638668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ 找不到替代品了😢不会真的要变成自己手搓自己吃的大烹饪时代吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 956,
+          "like_count": 14712,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 7053
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:35:24.000Z",
+        "description": "顺女泛性恋 // ✝精品神药滥用✝ // adhd // 会回fo但是会比较慢大概一到三天 // 🚪52解锁qq好友位 // 只收口令红包喵 // 周末不怎么上X可能错过口令请见谅 // 四叶草是幸运十叶草是螺旋桨带我升天 // 生日9.28求一个生日那天给我爆金币的好心人😢",
+        "id": "1867035438051131393",
+        "name": "十字草草",
+        "pinned_tweet_id": "2000901943707972040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986660942050963456/orX-Znda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 120,
+          "like_count": 1668,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 336
+        },
+        "username": "Iwilldieyoutoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜💊#Drugtwt｜BD/DPDR｜Soulmate:@BelovedUren8964｜🫶Rinko:@Rinko_zero8964｜🍜:@shungleemain｜👩:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "shungleemain"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "1997345380972052793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 706,
+          "like_count": 24358,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 11083
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

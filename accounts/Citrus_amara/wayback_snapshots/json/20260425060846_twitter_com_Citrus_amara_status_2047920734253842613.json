@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2047899540859277557",
+    "created_at": "2026-04-25T06:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047920734253842613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724267127031672832",
+          "start": 0,
+          "username": "aliebwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047920734253842613",
+    "in_reply_to_user_id": "1724267127031672832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047899540859277557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliebwa 右美沙芬15mg，和愈美片一个水平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_2047899534999838720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuZxt9aYAAbr-C.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2047899540859277557",
+        "created_at": "2026-04-25T06:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047920734253842613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724267127031672832",
+              "start": 0,
+              "username": "aliebwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047920734253842613",
+        "in_reply_to_user_id": "1724267127031672832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047899540859277557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliebwa 右美沙芬15mg，和愈美片一个水平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047899534999838720"
+          ]
+        },
+        "author_id": "1724267127031672832",
+        "conversation_id": "2047899540859277557",
+        "created_at": "2026-04-25T04:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047899540859277557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4wSPA0BsB",
+              "end": 45,
+              "expanded_url": "https://x.com/aliebwa/status/2047899540859277557/photo/1",
+              "media_key": "3_2047899534999838720",
+              "start": 22,
+              "url": "https://t.co/A4wSPA0BsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047899540859277557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里面成分是什么。右美沙芬吗。每片含多少啊 https://t.co/A4wSPA0BsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 1058,
+          "like_count": 19480,
+          "listed_count": 6,
+          "media_count": 402,
+          "tweet_count": 11034
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T03:25:00.000Z",
+        "description": "",
+        "id": "1724267127031672832",
+        "name": "idi",
+        "pinned_tweet_id": "1853642736207040577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005893629219627008/uLj6ERYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 1073,
+          "like_count": 1184,
+          "listed_count": 4,
+          "media_count": 82,
+          "tweet_count": 1662
+        },
+        "username": "aliebwa",
+        "verified": false
+      }
+    ]
+  }
+}

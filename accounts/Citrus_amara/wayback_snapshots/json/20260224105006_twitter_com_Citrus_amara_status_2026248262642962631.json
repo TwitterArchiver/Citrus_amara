@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2026248262642962631",
+    "created_at": "2026-02-24T10:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026248262642962631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Overdose_DBD/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Overdose_DBD/status/2026244376943546420",
+          "start": 8,
+          "url": "https://t.co/TIdedPju5Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026248262642962631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026244376943546420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "典型的农b思维 https://t.co/TIdedPju5Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2026244280583675904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6qcAxbYAACZw0.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026248262642962631",
+        "created_at": "2026-02-24T10:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026248262642962631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/2026244376943546420",
+              "start": 8,
+              "url": "https://t.co/TIdedPju5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026248262642962631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026244376943546420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "典型的农b思维 https://t.co/TIdedPju5Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026244280583675904"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026244376943546420",
+        "created_at": "2026-02-24T10:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026244376943546420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7wOVTa8pg",
+              "end": 163,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2026244376943546420/photo/1",
+              "media_key": "3_2026244280583675904",
+              "start": 140,
+              "url": "https://t.co/L7wOVTa8pg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026244376943546420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暴利作物一涌入，谁还生产粮食小麦水稻？粮食想靠进口，那就毫无主权等着被卡死吧\n由于成瘾与暴利，毒阀很轻易就能夺权并独裁控制国家权力，到时候民主自由说再见吧\n还有腐蚀劳动力，徒增恶性事件，破坏自然环境一大堆\n阿富汗和罗马尼亚的例子还不够吃一堑？小屁孩快快长大吧，没人白白养你一辈子 https://t.co/L7wOVTa8pg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 1022,
+          "like_count": 17109,
+          "listed_count": 6,
+          "media_count": 357,
+          "tweet_count": 9289
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/ALu7jA3QLL\n有事请点击https://t.co/VRpZNWpEVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/ALu7jA3QLL"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/VRpZNWpEVl"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4388,
+          "following_count": 61,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 702,
+          "tweet_count": 6900
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

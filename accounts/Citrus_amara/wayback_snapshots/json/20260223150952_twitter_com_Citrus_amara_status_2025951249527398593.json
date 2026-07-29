@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025951249527398593",
+    "created_at": "2026-02-23T15:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025951249527398593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/astykxs/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/astykxs/status/2025627174733258849",
+          "start": 8,
+          "url": "https://t.co/OeiqcUdSgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025951249527398593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025627174733258849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "据说dbt可以 https://t.co/OeiqcUdSgg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025951249527398593",
+        "created_at": "2026-02-23T15:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025951249527398593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/astykxs/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/astykxs/status/2025627174733258849",
+              "start": 8,
+              "url": "https://t.co/OeiqcUdSgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025951249527398593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025627174733258849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据说dbt可以 https://t.co/OeiqcUdSgg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983516341400420352",
+        "conversation_id": "2025627174733258849",
+        "created_at": "2026-02-22T17:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025627174733258849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025627174733258849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 771,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bpd有彻底治好的可能性吗\n是真的没人知道bpd影响下猫卷的这些破事\n我要不还是把前额叶切了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 1016,
+          "like_count": 17069,
+          "listed_count": 6,
+          "media_count": 352,
+          "tweet_count": 9258
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T12:49:03.000Z",
+        "description": "I have unresolved childhood trauma that I refuse to discuss because being vulnerable scares me",
+        "id": "1983516341400420352",
+        "name": "猫卷 @OHP",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023756576650391555/kuG7D0qZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 188,
+          "like_count": 176,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 669
+        },
+        "username": "astykxs",
+        "verified": false
+      }
+    ]
+  }
+}

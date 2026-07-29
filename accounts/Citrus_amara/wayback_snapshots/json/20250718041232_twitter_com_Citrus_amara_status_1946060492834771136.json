@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1945940806134649243",
+    "created_at": "2025-07-18T04:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T05:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946060492834771136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1879111526558449664",
+          "start": 0,
+          "username": "xioy367020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946060492834771136",
+    "in_reply_to_user_id": "1879111526558449664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945940806134649243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioy367020 👁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1945940806134649243",
+        "created_at": "2025-07-18T04:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T05:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946060492834771136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1879111526558449664",
+              "start": 0,
+              "username": "xioy367020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946060492834771136",
+        "in_reply_to_user_id": "1879111526558449664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945940806134649243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioy367020 👁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879111526558449664",
+        "conversation_id": "1945940806134649243",
+        "created_at": "2025-07-17T20:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T21:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945940806134649243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945940806134649243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要被更多人看見"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（但是没有系统名）。疑似双相（有诊断但不认可）。oder。跨性别。\n请求互fo。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 73,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 126
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T10:21:29.000Z",
+        "description": "#bbw #門檻 \nod/自殘/09/非二元性別/喜歡和女孩子們和fo\n\n⭕極端預警⭕\n我們的淚水與血凝結在一起強大",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "bbw"
+              },
+              {
+                "end": 8,
+                "start": 5,
+                "tag": "門檻"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cos____bjalex",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cos____bjalex",
+                "start": 0,
+                "url": "https://t.co/Psn8dlRrs7"
+              }
+            ]
+          }
+        },
+        "id": "1879111526558449664",
+        "name": "小靜（已有daddy版）",
+        "pinned_tweet_id": "1931458338556150106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936786784584622080/lC8CNVtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 191,
+          "like_count": 1587,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/Psn8dlRrs7",
+        "username": "xioy367020",
+        "verified": false
+      }
+    ]
+  }
+}

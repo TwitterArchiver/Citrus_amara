@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2026677157599068350",
+    "created_at": "2026-02-25T15:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026678037421457437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Citrus_amara/s…",
+          "end": 28,
+          "expanded_url": "https://x.com/Citrus_amara/status/2026677866008584649?s=19",
+          "start": 5,
+          "url": "https://t.co/cBTrFv1dzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026678037421457437",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026677866008584649",
+        "type": "quoted"
+      },
+      {
+        "id": "2026677157599068350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如下。\n\nhttps://t.co/cBTrFv1dzT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026677157599068350",
+        "created_at": "2026-02-25T15:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026678037421457437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 28,
+              "expanded_url": "https://x.com/Citrus_amara/status/2026677866008584649?s=19",
+              "start": 5,
+              "url": "https://t.co/cBTrFv1dzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026678037421457437",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026677866008584649",
+            "type": "quoted"
+          },
+          {
+            "id": "2026677157599068350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如下。\n\nhttps://t.co/cBTrFv1dzT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026676609789399440",
+        "created_at": "2026-02-25T15:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026677866008584649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026677866008584649",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026677229154144488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 😆也不知道这人在精神胜利什么。最开始只是一句玩笑话这人非要上纲上线到什么家国情怀然后莫名其妙开骂莫名其妙b人我真的对此人无语了，，，他到底经历了什么导致他从odwiki主变成了傻逼支那猪，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026677157599068350",
+        "created_at": "2026-02-25T15:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026677157599068350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026677157599068350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都b了我就直接开骂了。后藤纯粹npd，沉浸在自己的小世界里拒绝交流然后自顾自地精神胜利。我不知道后藤曾经是什么样的，但是目前的后藤就是纯粹的精神病。我不希望药圈里有这种傻逼支那猪存在。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 1031,
+          "like_count": 17203,
+          "listed_count": 6,
+          "media_count": 362,
+          "tweet_count": 9341
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

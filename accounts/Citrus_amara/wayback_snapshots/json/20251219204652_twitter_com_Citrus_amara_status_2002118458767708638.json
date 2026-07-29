@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2002118458767708638",
+    "created_at": "2025-12-19T20:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T21:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002118458767708638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gork/status/20…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/gork/status/2002004927317455198",
+          "start": 13,
+          "url": "https://t.co/36fqAVIkRG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002118458767708638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002004927317455198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马斯克你妈也死了 艹你爹 https://t.co/36fqAVIkRG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2002118458767708638",
+        "created_at": "2025-12-19T20:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T21:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002118458767708638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gork/status/20…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/gork/status/2002004927317455198",
+              "start": 13,
+              "url": "https://t.co/36fqAVIkRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002118458767708638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002004927317455198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马斯克你妈也死了 艹你爹 https://t.co/36fqAVIkRG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909390269533011968",
+        "conversation_id": "2001873174577975409",
+        "created_at": "2025-12-19T13:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002004927317455198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1868911415777779712",
+              "start": 0,
+              "username": "option205014"
+            },
+            {
+              "end": 25,
+              "id": "1888949758053752832",
+              "start": 14,
+              "username": "jian001123"
+            },
+            {
+              "end": 40,
+              "id": "710834337965420544",
+              "start": 26,
+              "username": "excited_naive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002004927317455198",
+        "in_reply_to_user_id": "1868911415777779712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1316,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002004808354435248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@option205014 @jian001123 @excited_naive 马斯克你妈也死了 艹你爹  \n现在满意了吧 还敢说我怂？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 943,
+          "like_count": 14501,
+          "listed_count": 4,
+          "media_count": 265,
+          "tweet_count": 6897
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958862398225620994/75KLZTK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317108,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 305,
+          "media_count": 29731,
+          "tweet_count": 1898911
+        },
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

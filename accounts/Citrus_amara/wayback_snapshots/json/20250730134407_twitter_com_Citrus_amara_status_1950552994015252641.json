@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950080540024910314",
+    "created_at": "2025-07-30T13:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T14:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950552994015252641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "jfrd163461"
+        },
+        {
+          "end": 21,
+          "id": "1882051931763568643",
+          "start": 12,
+          "username": "ehxly163"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950552994015252641",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950104935753826532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jfrd163461 @ehxly163 我感觉苏联真正极权化是斯大林开始的，毛泽东也是受斯大林影响太深才选择极权"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950080540024910314",
+        "created_at": "2025-07-30T13:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950552994015252641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            },
+            {
+              "end": 21,
+              "id": "1882051931763568643",
+              "start": 12,
+              "username": "ehxly163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950552994015252641",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950104935753826532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 @ehxly163 我感觉苏联真正极权化是斯大林开始的，毛泽东也是受斯大林影响太深才选择极权"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885557129588948992",
+        "conversation_id": "1950080540024910314",
+        "created_at": "2025-07-29T08:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T09:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950104935753826532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882051931763568643",
+              "start": 0,
+              "username": "ehxly163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950104935753826532",
+        "in_reply_to_user_id": "1882051931763568643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950101681284243649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ehxly163 極權"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 225,
+          "like_count": 1212,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 636
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Democratic Socialists 革命民主社會主義者 原始馬克思主義\n我願榮光歸世界\n支持工人農民學生\n客觀理性\n捍衛民主自由（尤其係言論自由）\n支持大規模嘅公有化\n可接納大部分嘅意識形態\n國語/粵語/English\n喜歡 艾美莉卡（US）姐姐（唔係government）\ncountryhuman喜愛者",
+        "id": "1885557129588948992",
+        "location": "Earth   Asia  China  Hong Kong",
+        "name": "DemSoc HK 🇭🇰🇰🇷🇺🇸🇨🇦🇮🇸🇮🇪🇬🇧🇪🇺🇳🇴🇺🇦",
+        "pinned_tweet_id": "1947633280809111637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950185062973988864/fTudkK4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 2015,
+          "like_count": 3961,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1158
+        },
+        "username": "jfrd163461",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T13:05:32.000Z",
+        "description": "历史是假的，政经是真的，没有什么是理所当然的。\n如果你的初心，是为人民群众谋幸福的话，那么不论一时的立场，我们应成为一起探讨问题的朋友..乃至同志。\n路漫漫其修远兮，吾将上下而求索。",
+        "id": "1882051931763568643",
+        "name": "飞蛾浴火",
+        "pinned_tweet_id": "1885574391951745074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882052244935458816/M2ZKWpmq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 16,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 204
+        },
+        "username": "ehxly163",
+        "verified": false
+      }
+    ]
+  }
+}

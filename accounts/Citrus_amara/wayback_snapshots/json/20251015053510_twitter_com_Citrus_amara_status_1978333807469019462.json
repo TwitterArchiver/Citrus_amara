@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1978333807469019462",
+    "created_at": "2025-10-15T05:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978333807469019462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/y0zarashi/status/1977961844439675314",
+          "start": 21,
+          "url": "https://t.co/ksjoqTw56D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978333807469019462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977961844439675314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就他妈这种傻逼发个赞赏码都有人给钱是吗？ https://t.co/ksjoqTw56D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977961842288087040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Mh0Nzb0AAXt1B.jpg",
+        "width": 623
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1978333807469019462",
+        "created_at": "2025-10-15T05:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978333807469019462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1977961844439675314",
+              "start": 21,
+              "url": "https://t.co/ksjoqTw56D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978333807469019462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977961844439675314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就他妈这种傻逼发个赞赏码都有人给钱是吗？ https://t.co/ksjoqTw56D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977961842288087040"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "1977961844439675314",
+        "created_at": "2025-10-14T04:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T05:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977961844439675314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9dDj80DyD",
+              "end": 50,
+              "expanded_url": "https://x.com/y0zarashi/status/1977961844439675314/photo/1",
+              "media_key": "3_1977961842288087040",
+              "start": 27,
+              "url": "https://t.co/L9dDj80DyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977961844439675314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3194,
+          "like_count": 11,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要再骚扰我了，自己联系网站上转账记录，我把钱退给你 https://t.co/L9dDj80DyD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 559,
+          "like_count": 8898,
+          "listed_count": 4,
+          "media_count": 100,
+          "tweet_count": 3387
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "无糖不术 mtf 不要在我的帖子下面谈论政治。谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1977704829515407415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977242514815172611/L4QZACw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 10,
+          "like_count": 19,
+          "listed_count": 6,
+          "media_count": 200,
+          "tweet_count": 2572
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

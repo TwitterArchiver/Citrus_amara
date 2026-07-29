@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1983129278767112543",
+    "created_at": "2025-10-28T11:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T12:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983129278767112543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Overdose_DBD/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Overdose_DBD/status/1983115126904701359",
+          "start": 2,
+          "url": "https://t.co/4OI6VdKTZn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983129278767112543",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983115126904701359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🫡 https://t.co/4OI6VdKTZn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16166,
+        "height": 1280,
+        "media_key": "7_1983115109779267584",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983115109779267584/pu/img/0HePnA5nLK_wF2hc.jpg",
+        "public_metrics": {
+          "view_count": 114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983115109779267584/pu/vid/avc1/320x568/VpKJDeAATb4eGCs3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983115109779267584/pu/vid/avc1/480x852/zteg2LT-ZFd2r3EZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983115109779267584/pu/vid/avc1/720x1280/FYJE--18WtsiITM4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983115109779267584/pu/pl/LUcv1FTr6jO2L6kP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983129278767112543",
+        "created_at": "2025-10-28T11:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983129278767112543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/1983115126904701359",
+              "start": 2,
+              "url": "https://t.co/4OI6VdKTZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983129278767112543",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983115126904701359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🫡 https://t.co/4OI6VdKTZn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983115109779267584"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "conversation_id": "1983115126904701359",
+        "created_at": "2025-10-28T10:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983115126904701359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvjiAFK0rN",
+              "end": 42,
+              "expanded_url": "https://x.com/Overdose_DBD/status/1983115126904701359/video/1",
+              "media_key": "7_1983115109779267584",
+              "start": 19,
+              "url": "https://t.co/qvjiAFK0rN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983115126904701359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "odtv之荒唐的高原来了个真正的英雄 https://t.co/qvjiAFK0rN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 635,
+          "like_count": 10216,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 4066
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64KQD6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64KQD6"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969951860279975936/NhjtbqPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3939,
+          "following_count": 57,
+          "like_count": 23,
+          "listed_count": 10,
+          "media_count": 475,
+          "tweet_count": 5985
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

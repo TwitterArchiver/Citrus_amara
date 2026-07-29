@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1956408701830471999",
+    "created_at": "2025-08-15T17:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T18:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956408701830471999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mukdengise/sta…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/mukdengise/status/1956044349822906512",
+          "start": 128,
+          "url": "https://t.co/cvkuHaQZlb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956408701830471999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956044349822906512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我理解，跨女总会经历那么一段性别探索的时间，她们作为amab出生但发展成了认同为女性的自我，但是自我并不知道女性是什么样子的，所以她们只能去模仿女性的刻板印象来满足自己作为女性的自我认同。但那只是一个发展阶段，哪个女性会天天靠jk小裙子来证明自己是女的。 https://t.co/cvkuHaQZlb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1956408701830471999",
+        "created_at": "2025-08-15T17:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T18:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956408701830471999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/mukdengise/status/1956044349822906512",
+              "start": 128,
+              "url": "https://t.co/cvkuHaQZlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956408701830471999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956044349822906512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我理解，跨女总会经历那么一段性别探索的时间，她们作为amab出生但发展成了认同为女性的自我，但是自我并不知道女性是什么样子的，所以她们只能去模仿女性的刻板印象来满足自己作为女性的自我认同。但那只是一个发展阶段，哪个女性会天天靠jk小裙子来证明自己是女的。 https://t.co/cvkuHaQZlb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "1956044349822906512",
+        "created_at": "2025-08-14T17:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T18:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956044349822906512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanszhang/stat…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/lanszhang/status/1955643487745126833",
+              "start": 135,
+              "url": "https://t.co/0jJm9vPNR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956044349822906512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5790,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955643487745126833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实感觉跨女被讨厌的不是模仿“女性刻板印象”，而是风格太村味。如果一个跨女的穿搭审美足够好，那无论打扮成欧美风还是法式风还是日系甜美风还是帅t风都很难被嘴。所以我挺怀疑身上有爱女包袱不太好意思嘴那些因阶层或其他原因生硬模仿jk穿搭的普通小女孩，因此只能拿跨子开刀这件事 https://t.co/0jJm9vPNR9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 345,
+          "like_count": 3014,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1330
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "东海渥集巫女/IG: ilhajugvn/looking for our Chalice and fighting against the Blade/烹饪日常请见 #花路食堂/桔：@__Ju___Ju__",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "__Ju___Ju__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                "start": 0,
+                "url": "https://t.co/1G1Jz64Dew"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "location": "自用VPN🪜👉🏻",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906271261095047170/syhgZG8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8663,
+          "following_count": 741,
+          "like_count": 134726,
+          "listed_count": 49,
+          "media_count": 1623,
+          "tweet_count": 20930
+        },
+        "url": "https://t.co/1G1Jz64Dew",
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

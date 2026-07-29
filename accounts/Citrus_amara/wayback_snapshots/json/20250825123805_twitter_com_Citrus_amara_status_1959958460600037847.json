@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1959958460600037847",
+    "created_at": "2025-08-25T12:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T13:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959958460600037847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChisakaKanako/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/ChisakaKanako/status/1959249541628305798",
+          "start": 31,
+          "url": "https://t.co/LVMnZbaqf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959958460600037847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959249541628305798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也不反对共产党，我只是不允许共产党在中国到处宣传影响别人✌ https://t.co/LVMnZbaqf7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_1959249526830903296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzCnEGkbsAAyS78.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1959958460600037847",
+        "created_at": "2025-08-25T12:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T13:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959958460600037847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChisakaKanako/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/ChisakaKanako/status/1959249541628305798",
+              "start": 31,
+              "url": "https://t.co/LVMnZbaqf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959958460600037847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959249541628305798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也不反对共产党，我只是不允许共产党在中国到处宣传影响别人✌ https://t.co/LVMnZbaqf7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959249526830903296"
+          ]
+        },
+        "author_id": "1558730611556175873",
+        "conversation_id": "1959249541628305798",
+        "created_at": "2025-08-23T13:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T14:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959249541628305798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xX4PKNDFu4",
+              "end": 38,
+              "expanded_url": "https://x.com/ChisakaKanako/status/1959249541628305798/photo/1",
+              "media_key": "3_1959249526830903296",
+              "start": 15,
+              "url": "https://t.co/xX4PKNDFu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959249541628305798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13575,
+          "like_count": 179,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "wplace笑传之顺直涂跨旗 https://t.co/xX4PKNDFu4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby。od的请陪我玩。#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论\n我爱你们",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 389,
+          "like_count": 4372,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1742
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "跨女 平面设计 互关only 锁推和默认头像关注即拉黑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.notion.site/96f67217a4c041…",
+                "end": 23,
+                "expanded_url": "https://chisakakanako.notion.site/96f67217a4c0410eb35c4200f835eafa?pvs=4",
+                "start": 0,
+                "url": "https://t.co/ot7AE8ZHyA"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "name": "千坂神奈子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938162412697620481/84c4M-W4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5771,
+          "following_count": 1568,
+          "like_count": 42057,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 379
+        },
+        "url": "https://t.co/ot7AE8ZHyA",
+        "username": "ChisakaKanako",
+        "verified": true
+      }
+    ]
+  }
+}

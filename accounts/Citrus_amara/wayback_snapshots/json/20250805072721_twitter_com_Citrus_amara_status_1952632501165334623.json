@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952414246727266320",
+    "created_at": "2025-08-05T07:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T08:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952632501165334623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736265610911428608",
+          "start": 0,
+          "username": "noname2095_"
+        },
+        {
+          "end": 22,
+          "id": "1117644610396778501",
+          "start": 13,
+          "username": "canderyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952632501165334623",
+    "in_reply_to_user_id": "1736265610911428608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952632141675643238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noname2095_ @canderyy 笑死了 这样也不是不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952414246727266320",
+        "created_at": "2025-08-05T07:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T08:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952632501165334623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            },
+            {
+              "end": 22,
+              "id": "1117644610396778501",
+              "start": 13,
+              "username": "canderyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952632501165334623",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952632141675643238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ @canderyy 笑死了 这样也不是不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "1952414246727266320",
+        "created_at": "2025-08-05T07:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T08:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952632141675643238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 23,
+              "id": "1117644610396778501",
+              "start": 14,
+              "username": "canderyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952632141675643238",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952542761762337004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @canderyy 然后你发现你这辈子就只有这一圈奶子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 268,
+          "like_count": 1790,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 847
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 296,
+          "like_count": 3547,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 7439
+        },
+        "username": "noname2095_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-15T04:23:34.000Z",
+        "description": "37岁人夫，hrt2025.4.8持证含糖，老倒霉蛋一个，已和家人出柜    最后：老婆我永远爱着你😘",
+        "id": "1117644610396778501",
+        "location": "浙江省宁波市",
+        "name": "Shanshan's Vile Pet🍥",
+        "pinned_tweet_id": "1943202703271956749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941855814437990400/0mAddQZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 153,
+          "like_count": 392,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 377
+        },
+        "username": "canderyy",
+        "verified": false
+      }
+    ]
+  }
+}

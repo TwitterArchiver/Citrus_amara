@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      }
+    ],
+    "conversation_id": "1953738332384448571",
+    "created_at": "2025-08-08T08:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T09:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953738332384448571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jimmy_JJN/stat…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/jimmy_JJN/status/1876912196371820688",
+          "start": 38,
+          "url": "https://t.co/hFt8gQrFOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953738332384448571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876912196371820688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去上海一个月工资税前才7000。。但是我的学校已经比90%同龄人要好了。 https://t.co/hFt8gQrFOK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876912188772020226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsP5bcAIvzLw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876912188583251969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsPMbEAEkUV_.jpg",
+        "width": 804
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876912188583243776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsPMa8AAQ5aV.jpg",
+        "width": 942
+      },
+      {
+        "height": 1382,
+        "media_key": "3_1876912188771926016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsP5aAAAHD7j.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "1953738332384448571",
+        "created_at": "2025-08-08T08:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953738332384448571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jimmy_JJN/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/jimmy_JJN/status/1876912196371820688",
+              "start": 38,
+              "url": "https://t.co/hFt8gQrFOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953738332384448571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876912196371820688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去上海一个月工资税前才7000。。但是我的学校已经比90%同龄人要好了。 https://t.co/hFt8gQrFOK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876912188772020226",
+            "3_1876912188583251969",
+            "3_1876912188583243776",
+            "3_1876912188771926016"
+          ]
+        },
+        "author_id": "718654922749652992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1876912196371820688",
+        "created_at": "2025-01-08T08:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T09:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876912196371820688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188772020226",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            },
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188583251969",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            },
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188583243776",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            },
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188771926016",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876912196371820688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 80781,
+          "like_count": 25,
+          "quote_count": 39,
+          "reply_count": 102,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "昨天请朋友吃饭花了7000多，没点酒，贵的菜品点不起，都是些基本菜。\n作为中国的普通小透明，感谢祖国给我的美好生活。\nx上反贼和🐸最爱看国内普通人过上好日子了。\n我朋友圈不发个人生活，太low，但可以发到x上给这些狗东西看，共襄盛举啊。 https://t.co/PP1jRl34a5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "L-星团",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 277,
+          "like_count": 2103,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 950
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-09T04:21:00.000Z",
+        "description": "🇨🇳",
+        "id": "718654922749652992",
+        "name": "Vec_Lo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930571995911225344/OzD76Hbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 294,
+          "like_count": 5710,
+          "listed_count": 11,
+          "media_count": 191,
+          "tweet_count": 5701
+        },
+        "username": "jimmy_JJN",
+        "verified": true
+      }
+    ]
+  }
+}

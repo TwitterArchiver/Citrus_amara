@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1988249186945335373",
+    "created_at": "2025-11-12T10:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988559491768479895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867035438051131393",
+          "start": 0,
+          "username": "Iwilldieyoutoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988559491768479895",
+    "in_reply_to_user_id": "1867035438051131393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988558747057447048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iwilldieyoutoo 我特别喜欢聂✌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1988249186945335373",
+        "created_at": "2025-11-12T10:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988559491768479895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867035438051131393",
+              "start": 0,
+              "username": "Iwilldieyoutoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988559491768479895",
+        "in_reply_to_user_id": "1867035438051131393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988558747057447048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iwilldieyoutoo 我特别喜欢聂✌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867035438051131393",
+        "conversation_id": "1988249186945335373",
+        "created_at": "2025-11-12T10:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988558747057447048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988558747057447048",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988249186945335373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 🐀手好小好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 731,
+          "like_count": 11436,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 4649
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:35:24.000Z",
+        "description": "顺女泛性恋 // ✝精品神药滥用✝ // adhd // 会回fo但是会比较慢大概一到三天 // 🚪52解锁qq好友位 // 只收支付宝口令红包喵 // 周末不怎么上X可能错过口令请见谅 // 四叶草是幸运十叶草是螺旋桨带我升天",
+        "id": "1867035438051131393",
+        "name": "十字草草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986660942050963456/orX-Znda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 71,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 116
+        },
+        "username": "Iwilldieyoutoo",
+        "verified": false
+      }
+    ]
+  }
+}

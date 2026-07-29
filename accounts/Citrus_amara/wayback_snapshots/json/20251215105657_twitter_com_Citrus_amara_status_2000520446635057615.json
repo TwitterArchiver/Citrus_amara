@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2000520446635057615",
+    "created_at": "2025-12-15T10:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T11:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000520446635057615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rain01280/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Rain01280/status/2000482471276863838",
+          "start": 19,
+          "url": "https://t.co/o9t5XOsrxW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000520446635057615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000482471276863838",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以为什么我真的会一边高兴一边难过。 https://t.co/o9t5XOsrxW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_2000482462808588288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MkM28awAAMRAK.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2000520446635057615",
+        "created_at": "2025-12-15T10:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000520446635057615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rain01280/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Rain01280/status/2000482471276863838",
+              "start": 19,
+              "url": "https://t.co/o9t5XOsrxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000520446635057615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000482471276863838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以为什么我真的会一边高兴一边难过。 https://t.co/o9t5XOsrxW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000482462808588288"
+          ]
+        },
+        "author_id": "1939668417428307968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000482471276863838",
+        "created_at": "2025-12-15T08:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T09:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000482471276863838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/09LL9lzNtl",
+              "end": 23,
+              "expanded_url": "https://x.com/Rain01280/status/2000482471276863838/photo/1",
+              "media_key": "3_2000482462808588288",
+              "start": 0,
+              "url": "https://t.co/09LL9lzNtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000482471276863838",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/09LL9lzNtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1999680286733533427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 934,
+          "like_count": 14242,
+          "listed_count": 4,
+          "media_count": 255,
+          "tweet_count": 6673
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T12:52:49.000Z",
+        "description": "讓人厭倦的世界",
+        "id": "1939668417428307968",
+        "location": "天堂",
+        "name": "直至我死亡的那一刻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990301768341975040/76jpXwmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 40,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 774
+        },
+        "username": "Rain01280",
+        "verified": false
+      }
+    ]
+  }
+}

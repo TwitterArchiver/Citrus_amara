@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1970809240291041567",
+    "created_at": "2025-09-24T11:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T12:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970811125647507697"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970811125647507697",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970809240291041567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么叫认知篡改？是自我认同变化，还是对外界的认识变化，还是只是对认知有影响就算认知篡改？\n闪回只涉及第三个。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1970809240291041567",
+        "created_at": "2025-09-24T11:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970811125647507697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970811125647507697",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970809240291041567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么叫认知篡改？是自我认同变化，还是对外界的认识变化，还是只是对认知有影响就算认知篡改？\n闪回只涉及第三个。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1970809240291041567",
+        "created_at": "2025-09-24T11:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970809240291041567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uranus_chaos/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/uranus_chaos/status/1970728844798943521",
+              "start": 17,
+              "url": "https://t.co/VppqxtajnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970809240291041567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970728844798943521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那你们对认知篡改的定义很宽泛了。 https://t.co/VppqxtajnM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 450,
+          "like_count": 7469,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 2802
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

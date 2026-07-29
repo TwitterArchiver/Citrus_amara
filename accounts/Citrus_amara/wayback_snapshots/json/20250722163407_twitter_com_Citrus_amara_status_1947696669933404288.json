@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947696669933404288",
+    "created_at": "2025-07-22T16:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T17:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947696669933404288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KawaiiEru_/sta…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/KawaiiEru_/status/1947252189438660612",
+          "start": 42,
+          "url": "https://t.co/iysIbamiDk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947696669933404288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947252189438660612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死了后哪怕世界毁灭末日降临也与我无关。\n不过也许在亿万年后柠檬仍会回到这个世界上。 https://t.co/iysIbamiDk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947696669933404288",
+        "created_at": "2025-07-22T16:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T17:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947696669933404288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KawaiiEru_/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/KawaiiEru_/status/1947252189438660612",
+              "start": 42,
+              "url": "https://t.co/iysIbamiDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947696669933404288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947252189438660612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死了后哪怕世界毁灭末日降临也与我无关。\n不过也许在亿万年后柠檬仍会回到这个世界上。 https://t.co/iysIbamiDk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796349415650664448",
+        "conversation_id": "1947252189438660612",
+        "created_at": "2025-07-21T11:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T12:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947252189438660612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947252189438660612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 27909,
+          "like_count": 450,
+          "quote_count": 9,
+          "reply_count": 27,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "小药娘们没有去雌二醇星球，没有下辈子，也没有变成女孩子，她就是丝了，毫无作用毫无体面地丝了，很痛苦地头晕呕吐休克血压下降全身缺氧呼吸困难失去意识器官衰竭心跳骤停，走得很痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 96,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 287
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T01:14:22.000Z",
+        "description": "",
+        "id": "1796349415650664448",
+        "location": "神山高中古典文学部",
+        "name": "坂下える",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946950274762850304/lrQNzmVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 335,
+          "like_count": 24740,
+          "listed_count": 10,
+          "media_count": 2356,
+          "tweet_count": 11602
+        },
+        "username": "KawaiiEru_",
+        "verified": true
+      }
+    ]
+  }
+}

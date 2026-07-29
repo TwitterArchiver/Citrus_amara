@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1980494136487866822",
+    "created_at": "2025-10-21T04:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T05:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980494136487866822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jp20230630/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/jp20230630/status/1980248615953314261",
+          "start": 17,
+          "url": "https://t.co/DVwsQe0BB2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980494136487866822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980248615953314261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "洗脑能力是和共产党学的吗我不行了 https://t.co/DVwsQe0BB2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1980494136487866822",
+        "created_at": "2025-10-21T04:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T05:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980494136487866822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jp20230630/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/jp20230630/status/1980248615953314261",
+              "start": 17,
+              "url": "https://t.co/DVwsQe0BB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980494136487866822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980248615953314261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "洗脑能力是和共产党学的吗我不行了 https://t.co/DVwsQe0BB2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805364015725772800",
+        "conversation_id": "1980248615953314261",
+        "created_at": "2025-10-20T12:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980248615953314261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980248615953314261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9125,
+          "like_count": 254,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "每天和娃复习\n\n我：上帝创造了一共几个性别\n娃：2个 (男和女)\n我：女孩割咪咪能变成男孩吗\n娃：不能\n我：男孩割weenie(鸡鸡)能变成女孩吗\n娃：不能\n\n我：共产主义社会主义是\n娃：养懒汉的 不劳而获的 邪恶的\n\n我：谁是真理 谁是最至高无上的 谁是最终的审判\n娃：基督上帝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979785369840197632/apbjPWPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 598,
+          "like_count": 9682,
+          "listed_count": 4,
+          "media_count": 125,
+          "tweet_count": 3650
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T22:15:54.000Z",
+        "description": "✝️In God We Trust. 👑Christ is King. Conservative. Proud Australian. MAGA♥️🇦🇺🇺🇸. Trump supporter. Charlie Kirk Forever. 爱憎分明. All views are my own.",
+        "id": "1805364015725772800",
+        "location": "Australia",
+        "name": "Tao🇦🇺",
+        "pinned_tweet_id": "1960217604511171034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951947600615153664/FbRuejrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7114,
+          "following_count": 651,
+          "like_count": 52720,
+          "listed_count": 31,
+          "media_count": 977,
+          "tweet_count": 19237
+        },
+        "username": "jp20230630",
+        "verified": true
+      }
+    ]
+  }
+}

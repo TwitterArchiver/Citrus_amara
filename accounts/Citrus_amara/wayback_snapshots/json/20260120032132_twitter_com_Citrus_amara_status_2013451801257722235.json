@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2013451801257722235",
+    "created_at": "2026-01-20T03:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T04:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013451801257722235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1597427191272603648",
+          "start": 3,
+          "username": "gherojamslava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013451801257722235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013151707333869569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gherojamslava: 所以我说，网上大部分人没有能力辨别自己接受到的信息的真伪，也懒到不愿意去查一查，编点猎奇的容易传播的东西骗他们炒作是很容易的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2013451801257722235",
+        "created_at": "2026-01-20T03:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013451801257722235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1597427191272603648",
+              "start": 3,
+              "username": "gherojamslava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013451801257722235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013151707333869569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gherojamslava: 所以我说，网上大部分人没有能力辨别自己接受到的信息的真伪，也懒到不愿意去查一查，编点猎奇的容易传播的东西骗他们炒作是很容易的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597427191272603648",
+        "conversation_id": "2013151707333869569",
+        "created_at": "2026-01-19T07:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T08:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013151707333869569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013151707333869569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1991,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "所以我说，网上大部分人没有能力辨别自己接受到的信息的真伪，也懒到不愿意去查一查，编点猎奇的容易传播的东西骗他们炒作是很容易的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "谁的橙子？多意识体。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "shsh548866"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "超级苦苦苦苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 993,
+          "like_count": 15785,
+          "listed_count": 5,
+          "media_count": 309,
+          "tweet_count": 8277
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T03:08:35.000Z",
+        "description": "语言学爱好者|极左分子|语言权利|革命则自由，自由则多元\n*personnellement, je déteste la langue anglaise",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sgnikukukyrysk…",
+                "end": 23,
+                "expanded_url": "https://t.me/sgnikukukyrysket",
+                "start": 0,
+                "url": "https://t.co/s7NyjdQM0o"
+              }
+            ]
+          }
+        },
+        "id": "1597427191272603648",
+        "location": "TERRA",
+        "name": "ΣωΑΠλα |そあぷら゚|SoAPla|ሶአፕለ|소압라|सोअप्ल",
+        "pinned_tweet_id": "1852634948232220674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855112448778682368/uKGJ3wMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 854,
+          "like_count": 154419,
+          "listed_count": 14,
+          "media_count": 774,
+          "tweet_count": 28860
+        },
+        "url": "https://t.co/s7NyjdQM0o",
+        "username": "gherojamslava",
+        "verified": false
+      }
+    ]
+  }
+}

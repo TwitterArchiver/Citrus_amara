@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957237712068772057",
+    "created_at": "2025-08-18T16:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T17:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957484917274591697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716325928479903744",
+          "start": 0,
+          "username": "qiu_song60259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957484917274591697",
+    "in_reply_to_user_id": "1716325928479903744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957237712068772057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiu_song60259 🥺我就这么看着你等你长出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957237712068772057",
+        "created_at": "2025-08-18T16:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957484917274591697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716325928479903744",
+              "start": 0,
+              "username": "qiu_song60259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957484917274591697",
+        "in_reply_to_user_id": "1716325928479903744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957237712068772057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiu_song60259 🥺我就这么看着你等你长出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716325928479903744",
+        "conversation_id": "1957237712068772057",
+        "created_at": "2025-08-18T00:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T01:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957237712068772057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957237712068772057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1808,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我唧唧长出来以后我也要全国巡操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 356,
+          "like_count": 3440,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1466
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:29:38.000Z",
+        "description": "No.1齐司礼拒一切 高中牲infp Switch 生日9.7 双 女孩请找我互动互关我爱你们 叫我小抹或苦瓜 不聊骚私信看着回酌情回关发屌拉黑不出原不卡不线下 小号@Kuguadawang6677匿名：https://t.co/YLzBwcv4VK 谢谢你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Kuguadawang6677"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 125,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 102,
+                "url": "https://t.co/YLzBwcv4VK"
+              }
+            ]
+          }
+        },
+        "id": "1716325928479903744",
+        "location": "苦瓜田 🚪50好友位/80纯绿聊天（不退 女孩子免费",
+        "name": "抹茶小苦瓜",
+        "pinned_tweet_id": "1955626693571543295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947596330928640000/XSWyB44s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 784,
+          "like_count": 7412,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 4071
+        },
+        "username": "qiu_song60259",
+        "verified": false
+      }
+    ]
+  }
+}

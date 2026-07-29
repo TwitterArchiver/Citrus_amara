@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950422351780200649",
+    "created_at": "2025-07-30T05:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T06:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950422351780200649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755188079277801472",
+          "start": 3,
+          "username": "Chzonggemin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950422351780200649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949474528696135965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chzonggemin: 我觉得每一个国女都应该找到属于自己的国男，而每一个国男也应该发现属于自己的国女\n国女配国男，国男配国女，天造地设啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950422351780200649",
+        "created_at": "2025-07-30T05:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T06:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950422351780200649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755188079277801472",
+              "start": 3,
+              "username": "Chzonggemin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950422351780200649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949474528696135965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chzonggemin: 我觉得每一个国女都应该找到属于自己的国男，而每一个国男也应该发现属于自己的国女\n国女配国男，国男配国女，天造地设啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755188079277801472",
+        "conversation_id": "1949474528696135965",
+        "created_at": "2025-07-27T14:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T15:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949474528696135965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949474528696135965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5190,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得每一个国女都应该找到属于自己的国男，而每一个国男也应该发现属于自己的国女\n国女配国男，国男配国女，天造地设啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。欢迎od的互关，欢迎私信。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 210,
+          "like_count": 1145,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 597
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T11:13:50.000Z",
+        "description": "布尔什维克-列宁主义从过去到现在始终是一条通往未来的道路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zongge1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zongge1",
+                "start": 0,
+                "url": "https://t.co/G4aj3Xg1eL"
+              }
+            ]
+          }
+        },
+        "id": "1755188079277801472",
+        "location": "托派，汉学爱好者",
+        "name": "宗革",
+        "pinned_tweet_id": "1943312184940863669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940803093429620736/CoSFdhpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 736,
+          "like_count": 12573,
+          "listed_count": 10,
+          "media_count": 300,
+          "tweet_count": 5333
+        },
+        "url": "https://t.co/G4aj3Xg1eL",
+        "username": "Chzonggemin",
+        "verified": false
+      }
+    ]
+  }
+}

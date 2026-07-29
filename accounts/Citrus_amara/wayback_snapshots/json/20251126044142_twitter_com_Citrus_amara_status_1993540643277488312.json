@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1993318732748435949",
+    "created_at": "2025-11-26T04:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T05:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993540643277488312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1988435750988509188",
+          "start": 0,
+          "username": "JinghuiYan91436"
+        },
+        {
+          "end": 29,
+          "id": "1802704441961017344",
+          "start": 17,
+          "username": "misumikaze3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993540643277488312",
+    "in_reply_to_user_id": "1988435750988509188",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993540207736766878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JinghuiYan91436 @misumikaze3 是，1 tablet。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1993318732748435949",
+        "created_at": "2025-11-26T04:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993540643277488312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1988435750988509188",
+              "start": 0,
+              "username": "JinghuiYan91436"
+            },
+            {
+              "end": 29,
+              "id": "1802704441961017344",
+              "start": 17,
+              "username": "misumikaze3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993540643277488312",
+        "in_reply_to_user_id": "1988435750988509188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993540207736766878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JinghuiYan91436 @misumikaze3 是，1 tablet。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988435750988509188",
+        "conversation_id": "1993318732748435949",
+        "created_at": "2025-11-26T04:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993540207736766878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 26,
+              "id": "1802704441961017344",
+              "start": 14,
+              "username": "misumikaze3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993540207736766878",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993320348025315652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @misumikaze3 1t是1片的意思吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 828,
+          "like_count": 13121,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 5726
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T02:36:57.000Z",
+        "description": "",
+        "id": "1988435750988509188",
+        "name": "yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988435822455226368/9iRDTHA5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "JinghuiYan91436",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "Misumi Kaze",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984355934207148033/6lxcDXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 592,
+          "like_count": 3400,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1556
+        },
+        "username": "misumikaze3",
+        "verified": false
+      }
+    ]
+  }
+}

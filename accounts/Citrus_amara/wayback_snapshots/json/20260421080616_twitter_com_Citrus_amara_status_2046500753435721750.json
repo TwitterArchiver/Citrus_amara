@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2046494035175743962",
+    "created_at": "2026-04-21T08:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046500753435721750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929416262989557760",
+          "start": 0,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046500753435721750",
+    "in_reply_to_user_id": "1929416262989557760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046494035175743962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@maoxian1527 监管的滞后不代表末日不会到来。淘宝又能撑多久？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046494025440763904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGabeS1bIAAaufJ.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046494025432350720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGabeSzawAA_nR_.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046494025449132032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGabeS3a0AAyeA7.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2046494035175743962",
+        "created_at": "2026-04-21T08:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046500753435721750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046500753435721750",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046494035175743962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxian1527 监管的滞后不代表末日不会到来。淘宝又能撑多久？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046494025440763904",
+            "3_2046494025432350720",
+            "3_2046494025449132032"
+          ]
+        },
+        "author_id": "1929416262989557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046494035175743962",
+        "created_at": "2026-04-21T07:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046494035175743962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVv9bn0h4F",
+              "end": 36,
+              "expanded_url": "https://x.com/maoxian1527/status/2046494035175743962/photo/1",
+              "media_key": "3_2046494025440763904",
+              "start": 13,
+              "url": "https://t.co/vVv9bn0h4F"
+            },
+            {
+              "display_url": "pic.x.com/vVv9bn0h4F",
+              "end": 36,
+              "expanded_url": "https://x.com/maoxian1527/status/2046494035175743962/photo/1",
+              "media_key": "3_2046494025432350720",
+              "start": 13,
+              "url": "https://t.co/vVv9bn0h4F"
+            },
+            {
+              "display_url": "pic.x.com/vVv9bn0h4F",
+              "end": 36,
+              "expanded_url": "https://x.com/maoxian1527/status/2046494035175743962/photo/1",
+              "media_key": "3_2046494025449132032",
+              "start": 13,
+              "url": "https://t.co/vVv9bn0h4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046494035175743962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "呃先别急，我又开出来4盒 https://t.co/vVv9bn0h4F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 1022,
+          "like_count": 19114,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 10927
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 看心情互fo | 防走丢@maoxiansql | 诡秘@zqtlovekris99 | 白虚@Acmduemsks | 姐姐@OuO_QwQg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Acmduemsks"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "OuO_QwQg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "距离你5.2km",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2041434241335230626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046150580238946304/KuhEOFBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 269,
+          "like_count": 3776,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 2036
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": true
+      }
+    ]
+  }
+}

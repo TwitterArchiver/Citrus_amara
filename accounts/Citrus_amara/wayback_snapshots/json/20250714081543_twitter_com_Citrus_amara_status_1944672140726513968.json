@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1944610305444810933",
+    "created_at": "2025-07-14T08:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T09:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944672140726513968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825930221905915907",
+          "start": 0,
+          "username": "ai_yin16898"
+        },
+        {
+          "end": 25,
+          "id": "1744208122389106688",
+          "start": 13,
+          "username": "shenleliuli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944672140726513968",
+    "in_reply_to_user_id": "1825930221905915907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944670440657707236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai_yin16898 @shenleliuli pr查到又怎么样。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1944610305444810933",
+        "created_at": "2025-07-14T08:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T09:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944672140726513968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825930221905915907",
+              "start": 0,
+              "username": "ai_yin16898"
+            },
+            {
+              "end": 25,
+              "id": "1744208122389106688",
+              "start": 13,
+              "username": "shenleliuli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944672140726513968",
+        "in_reply_to_user_id": "1825930221905915907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944670440657707236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai_yin16898 @shenleliuli pr查到又怎么样。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825930221905915907",
+        "conversation_id": "1944610305444810933",
+        "created_at": "2025-07-14T08:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T09:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944670440657707236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 26,
+              "id": "1744208122389106688",
+              "start": 14,
+              "username": "shenleliuli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944670440657707236",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944666321616089360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @shenleliuli 晶哥查要完"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "双相已确诊。oder。跨性别。请求互fo。\n叫我苦橙就好了。",
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "苦橙",
+        "pinned_tweet_id": "1939399525346550019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936145987841531904/Z4VVC4zG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 64,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 79
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T16:17:54.000Z",
+        "description": "我...从来没有觉得乐队开心过...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Mutsumi_never…",
+                "end": 23,
+                "expanded_url": "http://t.me/@Mutsumi_never_cry",
+                "start": 0,
+                "url": "https://t.co/ej2qs6BC5H"
+              }
+            ]
+          }
+        },
+        "id": "1825930221905915907",
+        "name": "Mutsumi Wakaba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918921883476742144/ou3_vAyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 1432,
+          "like_count": 11225,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/ej2qs6BC5H",
+        "username": "ai_yin16898",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T04:03:37.000Z",
+        "description": "上帝教会了我怎么样去爱世人，却没教怎样才能让世人爱上我/我的乖宝宝@qqnjjwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 33,
+                "username": "qqnjjwb"
+              }
+            ]
+          }
+        },
+        "id": "1744208122389106688",
+        "name": "神楽坂琉璃🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936818592365924352/OTOpKQ9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 494,
+          "like_count": 11958,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 2736
+        },
+        "username": "shenleliuli",
+        "verified": false
+      }
+    ]
+  }
+}

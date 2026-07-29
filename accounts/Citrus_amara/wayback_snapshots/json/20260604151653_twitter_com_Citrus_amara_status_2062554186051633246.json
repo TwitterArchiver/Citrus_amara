@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2062554186051633246",
+    "created_at": "2026-06-04T15:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062554186051633246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_OD1216/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/_OD1216/status/2062376137108692995",
+          "start": 10,
+          "url": "https://t.co/pKOIl1EJqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062554186051633246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062376137108692995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正在研究韩国od妹 https://t.co/pKOIl1EJqH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2062554186051633246",
+        "created_at": "2026-06-04T15:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062554186051633246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_OD1216/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/_OD1216/status/2062376137108692995",
+              "start": 10,
+              "url": "https://t.co/pKOIl1EJqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062554186051633246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062376137108692995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正在研究韩国od妹 https://t.co/pKOIl1EJqH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999198546743144448",
+        "conversation_id": "2062376137108692995",
+        "created_at": "2026-06-04T03:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062376137108692995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062376137108692995",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 65364,
+          "like_count": 1112,
+          "quote_count": 123,
+          "reply_count": 8,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "근데 정말로 13년생 14년생은 뭐가 그리 힘들어서 우울계를 하고 손목을 그을까 그냥 마음 아픔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 1093,
+          "like_count": 20450,
+          "listed_count": 5,
+          "media_count": 413,
+          "tweet_count": 11514
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T19:24:26.000Z",
+        "description": "@a1n3rrt_eeeee  @hyun_hxn  @_ma_lix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "a1n3rrt_eeeee"
+              },
+              {
+                "end": 25,
+                "start": 16,
+                "username": "hyun_hxn"
+              },
+              {
+                "end": 35,
+                "start": 27,
+                "username": "_ma_lix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/9867844610/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/9867844610/",
+                "start": 0,
+                "url": "https://t.co/qG3tiF95CD"
+              }
+            ]
+          }
+        },
+        "id": "1999198546743144448",
+        "name": "형",
+        "pinned_tweet_id": "2050352300930322663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015146827855880192/rXkpfzTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 432,
+          "like_count": 5549,
+          "listed_count": 5,
+          "media_count": 109,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/qG3tiF95CD",
+        "username": "_OD1216",
+        "verified": false
+      }
+    ]
+  }
+}

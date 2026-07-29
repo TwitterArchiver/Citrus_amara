@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1959026574344237235",
+    "created_at": "2025-08-23T04:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T05:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959110620357251294"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959110620357251294",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959026574344237235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性别是被建构的，下体长什么样不能代表任何东西。有人觉得下体丑然后去切了或者改装成其他样子，本质上就是整形手术。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1959026574344237235",
+        "created_at": "2025-08-23T04:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T05:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959110620357251294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959110620357251294",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959026574344237235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性别是被建构的，下体长什么样不能代表任何东西。有人觉得下体丑然后去切了或者改装成其他样子，本质上就是整形手术。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1959026574344237235",
+        "created_at": "2025-08-22T22:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T23:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959026574344237235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transman_meme/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/transman_meme/status/1958959498212909262",
+              "start": 26,
+              "url": "https://t.co/6S5orKkxEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959026574344237235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958959498212909262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性别这个概念都消失了的话，当然不存在跨性别了... https://t.co/6S5orKkxEd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 380,
+          "like_count": 4088,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1669
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

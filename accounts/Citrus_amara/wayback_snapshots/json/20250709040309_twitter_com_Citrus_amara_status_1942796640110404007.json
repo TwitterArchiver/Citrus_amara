@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1942796410761666900",
+    "created_at": "2025-07-09T04:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T05:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942796640110404007"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1942796640110404007",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942796410761666900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晚安吃着真的特别恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1942796410761666900",
+        "created_at": "2025-07-09T04:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T05:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942796640110404007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942796640110404007",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942796410761666900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚安吃着真的特别恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1942796410761666900",
+        "created_at": "2025-07-09T04:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T05:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942796410761666900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DV0Jrm4Nee4522…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/DV0Jrm4Nee45220/status/1942217432279769509",
+              "start": 11,
+              "url": "https://t.co/eWVutYkYId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942796410761666900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942217432279769509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看着就恶心。天呐。。 https://t.co/eWVutYkYId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "双相已确诊。oder。跨性别。请求互fo。\n叫我苦橙就好了。",
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "苦橙",
+        "pinned_tweet_id": "1939399525346550019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936145987841531904/Z4VVC4zG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 60,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

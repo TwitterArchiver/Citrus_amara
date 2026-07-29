@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952550599691522295",
+    "created_at": "2025-08-05T02:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T03:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952550599691522295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/geminiab0101/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/geminiab0101/status/1951469624056488283",
+          "start": 24,
+          "url": "https://t.co/CIx5BNKVfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952550599691522295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951469624056488283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那场瘟疫之后一切都变了。我也变了，世界也变了。 https://t.co/CIx5BNKVfc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 519,
+        "media_key": "3_1951469583170428928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxUDPx7aYAAk-kJ.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952550599691522295",
+        "created_at": "2025-08-05T02:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952550599691522295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/geminiab0101/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/geminiab0101/status/1951469624056488283",
+              "start": 24,
+              "url": "https://t.co/CIx5BNKVfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952550599691522295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951469624056488283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那场瘟疫之后一切都变了。我也变了，世界也变了。 https://t.co/CIx5BNKVfc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951469583170428928"
+          ]
+        },
+        "author_id": "1746459006422671360",
+        "conversation_id": "1951469624056488283",
+        "created_at": "2025-08-02T02:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T03:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951469624056488283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g80L89YvEx",
+              "end": 60,
+              "expanded_url": "https://x.com/geminiab0101/status/1951469624056488283/photo/1",
+              "media_key": "3_1951469583170428928",
+              "start": 37,
+              "url": "https://t.co/g80L89YvEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951469624056488283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 439,
+          "impression_count": 1167206,
+          "like_count": 4101,
+          "quote_count": 54,
+          "reply_count": 414,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "有人还记得吗？\n\n“山川异域，风月同天”\n“岂曰无衣，与子同裳”\n\n悲😔 https://t.co/g80L89YvEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 266,
+          "like_count": 1768,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 845
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:07:41.000Z",
+        "description": "双子座，AB型。 \n“打破忍者世界规则的人，我们称之为废物。 …可是，不懂得重视同伴的人，连废物都不如！ ” By 旗木卡卡西🫰。\n善良比立场重要，会封锁没有教养的人。\n爱好：旅游，看动漫，日剧和YouTube，还有做饭和动物🦒！😁",
+        "id": "1746459006422671360",
+        "location": "Japan",
+        "name": "双生",
+        "pinned_tweet_id": "1937779241472655696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883994014191362048/d0PLaa7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 785,
+          "like_count": 23854,
+          "listed_count": 7,
+          "media_count": 729,
+          "tweet_count": 4405
+        },
+        "username": "geminiab0101",
+        "verified": false
+      }
+    ]
+  }
+}

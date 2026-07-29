@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1974099609334231236",
+    "created_at": "2025-10-03T15:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974131941223059598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803660054991872002",
+          "start": 0,
+          "username": "singring0417669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974131941223059598",
+    "in_reply_to_user_id": "1803660054991872002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974115365950271585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@singring0417669 怎么可能不认识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1974099609334231236",
+        "created_at": "2025-10-03T15:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974131941223059598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803660054991872002",
+              "start": 0,
+              "username": "singring0417669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974131941223059598",
+        "in_reply_to_user_id": "1803660054991872002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974115365950271585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@singring0417669 怎么可能不认识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803660054991872002",
+        "conversation_id": "1974099609334231236",
+        "created_at": "2025-10-03T14:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974115365950271585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974115365950271585",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974099609334231236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 笑死我了真有不认识的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 483,
+          "like_count": 8083,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 2999
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T05:24:22.000Z",
+        "description": "双向/高中生上学ing/江苏省省重点/高考物化政/不聊h不聊s不约p/轻度od/偶尔鉴证/闲聊（不是粉红网左哦头像仅仅是好看）\n🈚🚪，很乐意和真诚的人聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Tsing_ring",
+                "end": 23,
+                "expanded_url": "http://t.me/Tsing_ring",
+                "start": 0,
+                "url": "https://t.co/y1g9ttvMnF"
+              }
+            ]
+          }
+        },
+        "id": "1803660054991872002",
+        "location": "你的心里",
+        "name": "Tsing_ring",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973447207186767873/r1Ee6eMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 64,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/y1g9ttvMnF",
+        "username": "singring0417669",
+        "verified": false
+      }
+    ]
+  }
+}

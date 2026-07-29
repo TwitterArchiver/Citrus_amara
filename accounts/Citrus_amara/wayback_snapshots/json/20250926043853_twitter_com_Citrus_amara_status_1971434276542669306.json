@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1971434276542669306",
+    "created_at": "2025-09-26T04:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T05:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971434276542669306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/localoca8964/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/localoca8964/status/1971178222353252490",
+          "start": 13,
+          "url": "https://t.co/KkHL1jgrEz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971434276542669306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971178222353252490",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了囊括90%顺直男 https://t.co/KkHL1jgrEz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_1971178207652233216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1sIItgaQAAVdr1.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1971434276542669306",
+        "created_at": "2025-09-26T04:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T05:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971434276542669306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/localoca8964/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/localoca8964/status/1971178222353252490",
+              "start": 13,
+              "url": "https://t.co/KkHL1jgrEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971434276542669306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971178222353252490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了囊括90%顺直男 https://t.co/KkHL1jgrEz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971178207652233216"
+          ]
+        },
+        "author_id": "24146010",
+        "conversation_id": "1971178222353252490",
+        "created_at": "2025-09-25T11:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T12:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971178222353252490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PW31S3u5Gx",
+              "end": 40,
+              "expanded_url": "https://x.com/localoca8964/status/1971178222353252490/photo/1",
+              "media_key": "3_1971178207652233216",
+              "start": 17,
+              "url": "https://t.co/PW31S3u5Gx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971178222353252490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 485,
+          "impression_count": 905505,
+          "like_count": 3026,
+          "quote_count": 44,
+          "reply_count": 192,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "我家附近的浴室发了通知，笑死我了 https://t.co/PW31S3u5Gx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 461,
+          "like_count": 7678,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2876
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-13T08:23:17.000Z",
+        "description": "From hook to cook#榻上度人欢喜佛 我好色贪财 人胖鸟短 贪生怕死 一身正气「天安門事件」蒙古海军军医",
+        "id": "24146010",
+        "location": "shanghai",
+        "name": "卖鱼的老莫8964",
+        "pinned_tweet_id": "1774836466436469211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790682106211020800/fDwGAHdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5644,
+          "following_count": 7505,
+          "like_count": 45180,
+          "listed_count": 45,
+          "media_count": 1726,
+          "tweet_count": 27006
+        },
+        "username": "localoca8964",
+        "verified": false
+      }
+    ]
+  }
+}

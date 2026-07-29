@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946179620375789958",
+    "created_at": "2025-07-18T12:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T13:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946185786308596065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762050911332081664",
+          "start": 0,
+          "username": "BucketFallen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946185786308596065",
+    "in_reply_to_user_id": "1762050911332081664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946179620375789958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BucketFallen 一个人吃饭多爽啊。。。不用考虑别人只点自己爱吃的就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946179620375789958",
+        "created_at": "2025-07-18T12:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946185786308596065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762050911332081664",
+              "start": 0,
+              "username": "BucketFallen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946185786308596065",
+        "in_reply_to_user_id": "1762050911332081664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946179620375789958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BucketFallen 一个人吃饭多爽啊。。。不用考虑别人只点自己爱吃的就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762050911332081664",
+        "conversation_id": "1946179620375789958",
+        "created_at": "2025-07-18T12:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946179620375789958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946179620375789958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一人食居然很奇怪吗 原来你们都有朋友可以一起出去吃饭啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别。\n互fo。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 73,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 136
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T09:44:15.000Z",
+        "description": "一个勤劳淳朴的湖北农民",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rez331.straw.page",
+                "end": 23,
+                "expanded_url": "https://rez331.straw.page",
+                "start": 0,
+                "url": "https://t.co/vHuBpTCNle"
+              }
+            ]
+          }
+        },
+        "id": "1762050911332081664",
+        "location": "18岁",
+        "name": "fallen bucket🏳️‍⚧️",
+        "pinned_tweet_id": "1944950873471508680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944810777480978433/VtKe9LuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 372,
+          "like_count": 715,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/vHuBpTCNle",
+        "username": "BucketFallen",
+        "verified": false
+      }
+    ]
+  }
+}

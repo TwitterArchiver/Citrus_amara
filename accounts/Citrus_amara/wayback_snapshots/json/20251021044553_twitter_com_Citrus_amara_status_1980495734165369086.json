@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1980495734165369086",
+    "created_at": "2025-10-21T04:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T05:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980495734165369086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Zealots2022/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Zealots2022/status/1980191436629848068",
+          "start": 15,
+          "url": "https://t.co/EYhX9XmHfp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980495734165369086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980191436629848068",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "保皇党都来了我说，，你们右派 https://t.co/EYhX9XmHfp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 744,
+        "media_key": "3_1980191434092253184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sNnihXEAAgANR.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1980495734165369086",
+        "created_at": "2025-10-21T04:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T05:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980495734165369086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zealots2022/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Zealots2022/status/1980191436629848068",
+              "start": 15,
+              "url": "https://t.co/EYhX9XmHfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980495734165369086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980191436629848068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "保皇党都来了我说，，你们右派 https://t.co/EYhX9XmHfp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980191434092253184"
+          ]
+        },
+        "author_id": "1516262944534892549",
+        "conversation_id": "1980191436629848068",
+        "created_at": "2025-10-20T08:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T09:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980191436629848068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCoaFb2LAA",
+              "end": 182,
+              "expanded_url": "https://x.com/Zealots2022/status/1980191436629848068/photo/1",
+              "media_key": "3_1980191434092253184",
+              "start": 159,
+              "url": "https://t.co/MCoaFb2LAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980191436629848068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "查理一世（Charles I of England）在1649年1月的审判中，坚持王权神授和拒绝承认法庭合法性。\n\n “我想知道你们凭什么权力审判我？”\n\n“我不是对你们负责，而是对上帝和我的国家负责。”\n\n“我为英格兰人民的自由而战，不是为了我自己的权力。我所捍卫的不仅是我的王冠，更是英格兰人民的自由与财产权。”\n\n “如果连国王的权利都无法保障，人民的财产权又如何能得到保护？”\n\n  “你们以暴政之名审判我，却称这是正义。”\n\n“我不是叛国者，我是你们的国王。”\n\n  “你们今日的判决，将为后世带来混乱。”\n\n “我将作为一个义人走向死亡，愿上帝宽恕我的敌人。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 5918,
+          "like_count": 93,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "查理一世（Charles I of England）在1649年1月的审判中，坚持王权神授和拒绝承认法庭合法性。\n\n “我想知道你们凭什么权力审判我？”\n\n“我不是对你们负责，而是对上帝和我的国家负责。”\n\n“我为英格兰人民的自由而战，不是为了我自己的权力。我所捍卫的不仅是我的王冠，更是英格兰人民的自由与财产权。” https://t.co/MCoaFb2LAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979785369840197632/apbjPWPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 598,
+          "like_count": 9682,
+          "listed_count": 4,
+          "media_count": 125,
+          "tweet_count": 3652
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T03:50:41.000Z",
+        "description": "Uber 司机\n\n油管频道：https://t.co/eZbJ6SM8Zo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCwgaZ…",
+                "end": 37,
+                "expanded_url": "https://www.youtube.com/channel/UCwgaZCW7xEySsKyvcv5mu0w",
+                "start": 14,
+                "url": "https://t.co/eZbJ6SM8Zo"
+              }
+            ]
+          }
+        },
+        "id": "1516262944534892549",
+        "name": "徐思远 | God wills it",
+        "pinned_tweet_id": "1977772029781725326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972491218161414144/cy0zWp73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29335,
+          "following_count": 712,
+          "like_count": 32333,
+          "listed_count": 188,
+          "media_count": 12235,
+          "tweet_count": 37460
+        },
+        "username": "Zealots2022",
+        "verified": true
+      }
+    ]
+  }
+}

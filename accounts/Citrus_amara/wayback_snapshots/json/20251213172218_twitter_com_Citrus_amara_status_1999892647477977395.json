@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1999798493263868364",
+    "created_at": "2025-12-13T17:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T18:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999892647477977395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "BeetiIsDog"
+        },
+        {
+          "end": 27,
+          "id": "1915124824126427137",
+          "start": 12,
+          "username": "nktblovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999892647477977395",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999809107809739189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeetiIsDog @nktblovekris99 很有可能。但是拼多多商家也不会乖乖听话的，形式上有了就行了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1999798493263868364",
+        "created_at": "2025-12-13T17:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T18:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999892647477977395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            },
+            {
+              "end": 27,
+              "id": "1915124824126427137",
+              "start": 12,
+              "username": "nktblovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999892647477977395",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999809107809739189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog @nktblovekris99 很有可能。但是拼多多商家也不会乖乖听话的，形式上有了就行了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "1999798493263868364",
+        "created_at": "2025-12-13T11:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999809107809739189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915124824126427137",
+              "start": 0,
+              "username": "nktblovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999809107809739189",
+        "in_reply_to_user_id": "1915124824126427137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999798493263868364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nktblovekris99 我觉得#无病历可购药 这个也会被干，以后不知道是不是不能上拼多多随便买处方药了，包括奥司他维这种流感药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1999680286733533427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 924,
+          "like_count": 14147,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 6600
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "这是一个只会转发和碎碎念的无脑仓鼠的账号，互fo请留言。|| 我的成分是：藤井风/药物/神经科学/oc/碎碎念/AI聊天(´- ̯-`)不参与争论不吵架不闲聊 || 另一个我：@5_HTIsUsagi   我老大：@sysjf0 神必菠萝冰激凌：@boluobingqiling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 88,
+                "username": "5_HTIsUsagi"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "username": "sysjf0"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "boluobingqiling"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/n7w34dGNLl"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "≤ 1 km",
+        "name": "ビーチイ小犬智商低",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998043902734110720/aqIraNX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 711,
+          "like_count": 27143,
+          "listed_count": 2,
+          "media_count": 385,
+          "tweet_count": 6273
+        },
+        "url": "https://t.co/n7w34dGNLl",
+        "username": "BeetiIsDog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "前世竹蜻蜓 @zqtlovekris99 翻车顺女HRT23.05.29/多意识体喵七休日系统/OSDD+cptsd/od💊ed BMI15 小猫 @Citrus_amara / pfp @LeonRui_ / 里帐 @Luminme_Vas",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Citrus_amara"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "http://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/D6mYti9yH7"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "name": "🐱🍥灰尾猫🍥🐱（秽土转生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 616,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 162
+        },
+        "url": "https://t.co/D6mYti9yH7",
+        "username": "nktblovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

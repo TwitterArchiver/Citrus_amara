@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1997399978432483333",
+    "created_at": "2025-12-06T20:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T21:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997406852552823166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958507577077342208",
+          "start": 0,
+          "username": "Vacue138950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997406852552823166",
+    "in_reply_to_user_id": "1958507577077342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997404420284330248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vacue138950 😖好吧，不过我其实并不认同自己是asd。我对自己最主要在意的就是三点，社交障碍、刻板行为、感官超敏。我也只想看看我这三点和asd相比有多像..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1997399978432483333",
+        "created_at": "2025-12-06T20:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T21:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997406852552823166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958507577077342208",
+              "start": 0,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997406852552823166",
+        "in_reply_to_user_id": "1958507577077342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997404420284330248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vacue138950 😖好吧，不过我其实并不认同自己是asd。我对自己最主要在意的就是三点，社交障碍、刻板行为、感官超敏。我也只想看看我这三点和asd相比有多像..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958507577077342208",
+        "conversation_id": "1997399978432483333",
+        "created_at": "2025-12-06T20:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T21:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997404420284330248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997404420284330248",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997399978432483333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 我认为这个谱系是有吸纳性的。如果怀疑过自己是ASD，最终都可能进入这个叙事闭环。但我想说的是，欢迎（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 907,
+          "like_count": 13873,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 6277
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Depression & Anxiety disorder | 如临深渊，如履薄冰｜需要互fo可以私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/somebody68405",
+                "end": 23,
+                "expanded_url": "https://ngl.link/somebody68405",
+                "start": 0,
+                "url": "https://t.co/jOVJYWSsWz"
+              }
+            ]
+          }
+        },
+        "id": "1958507577077342208",
+        "location": "幻想郷",
+        "name": "Vacue",
+        "pinned_tweet_id": "1997401990079623617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 462,
+          "like_count": 1467,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/jOVJYWSsWz",
+        "username": "Vacue138950",
+        "verified": false
+      }
+    ]
+  }
+}

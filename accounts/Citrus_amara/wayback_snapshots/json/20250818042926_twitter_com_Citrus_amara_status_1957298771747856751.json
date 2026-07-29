@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957298771747856751",
+    "created_at": "2025-08-18T04:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T05:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957298771747856751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/B_cat38324/status/1957277046192972040",
+          "start": 28,
+          "url": "https://t.co/mFVFlW4m7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957298771747856751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957277046192972040",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是，ghg互相网络搞涩情的时候跨女直接线下互相操了 https://t.co/mFVFlW4m7L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957298771747856751",
+        "created_at": "2025-08-18T04:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T05:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957298771747856751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1957277046192972040",
+              "start": 28,
+              "url": "https://t.co/mFVFlW4m7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957298771747856751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957277046192972040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是，ghg互相网络搞涩情的时候跨女直接线下互相操了 https://t.co/mFVFlW4m7L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1957277046192972040",
+        "created_at": "2025-08-18T03:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957277046192972040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957277046192972040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1245,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "其实说句不好听的。顺女搞的girl helps girl，跨女从一开始就在搞了。你去哪个城市旅游工作，都能找到好闺蜜带你回家洗香香分你一个鲨鲨给你抱，两个人还一起逛街一起聊创伤一起疗愈。🤦🏻‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 354,
+          "like_count": 3372,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1440
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18933,
+          "following_count": 191,
+          "like_count": 583,
+          "listed_count": 67,
+          "media_count": 90,
+          "tweet_count": 19059
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

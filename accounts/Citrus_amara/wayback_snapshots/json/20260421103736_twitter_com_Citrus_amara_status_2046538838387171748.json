@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2046530226793148476",
+    "created_at": "2026-04-21T10:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046538838387171748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpring_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046538838387171748",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046530226793148476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpring_wiki 因为只有愈美被滥用的多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2046530226793148476",
+        "created_at": "2026-04-21T10:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046538838387171748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpring_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046538838387171748",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046530226793148476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpring_wiki 因为只有愈美被滥用的多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "2046530226793148476",
+        "created_at": "2026-04-21T10:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046530226793148476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046530226793148476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个细节：这次特别强调的是愈美，而不是所有DXM复方制剂，也许是准备给将来其他配方的DXM复方制剂上市（比如Auvelity仿制药）留口子？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 1024,
+          "like_count": 19146,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 10940
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "Friend of transhumanist Yamu (not herself)/Left-libertarian/Free market+UBI/Cultural liberty/Agorism/Open source/Agnostic atheist/Non-binary with any pronouns",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuyamu.com",
+                "end": 23,
+                "expanded_url": "https://xuyamu.com/",
+                "start": 0,
+                "url": "https://t.co/9RfFlFZcqo"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpring Wiki (AnH+/acc)🏴",
+        "pinned_tweet_id": "1989628357081010426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4793,
+          "following_count": 943,
+          "like_count": 31771,
+          "listed_count": 11,
+          "media_count": 496,
+          "tweet_count": 7196
+        },
+        "url": "https://t.co/9RfFlFZcqo",
+        "username": "OverSpring_wiki",
+        "verified": true
+      }
+    ]
+  }
+}

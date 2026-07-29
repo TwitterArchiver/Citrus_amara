@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1956375858710733122",
+    "created_at": "2025-08-15T17:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T18:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956411112531890654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796427186557100032",
+          "start": 0,
+          "username": "brunsvigine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956411112531890654",
+    "in_reply_to_user_id": "1796427186557100032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956375858710733122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brunsvigine 已严肃系度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1956375858710733122",
+        "created_at": "2025-08-15T17:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T18:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956411112531890654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796427186557100032",
+              "start": 0,
+              "username": "brunsvigine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956411112531890654",
+        "in_reply_to_user_id": "1796427186557100032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956375858710733122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brunsvigine 已严肃系度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796427186557100032",
+        "conversation_id": "1956375858710733122",
+        "created_at": "2025-08-15T15:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T16:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956375858710733122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956375858710733122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 414,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吸毒的人越来越多了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 346,
+          "like_count": 3019,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1335
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T06:23:36.000Z",
+        "description": "Rfdiffudion",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pubmed.ncbi.nlm.nih.gov",
+                "end": 23,
+                "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/",
+                "start": 0,
+                "url": "https://t.co/E8tmKN4934"
+              }
+            ]
+          }
+        },
+        "id": "1796427186557100032",
+        "location": "Yakutat,Alaska",
+        "name": "みき さやか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937174609129816064/bV0ci-3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 178,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/E8tmKN4934",
+        "username": "brunsvigine",
+        "verified": false
+      }
+    ]
+  }
+}

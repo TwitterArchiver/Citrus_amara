@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957838253526221126",
+    "created_at": "2025-08-20T14:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T15:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958172061655765010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826536169800437760",
+          "start": 0,
+          "username": "SQ100722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958172061655765010",
+    "in_reply_to_user_id": "1826536169800437760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957838253526221126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SQ100722 我看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957838253526221126",
+        "created_at": "2025-08-20T14:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958172061655765010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826536169800437760",
+              "start": 0,
+              "username": "SQ100722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958172061655765010",
+        "in_reply_to_user_id": "1826536169800437760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957838253526221126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SQ100722 我看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826536169800437760",
+        "conversation_id": "1957838253526221126",
+        "created_at": "2025-08-19T16:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T17:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957838253526221126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957838253526221126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "屁股有一条缝，很臭.....我合不上它"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 373,
+          "like_count": 3701,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1582
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T08:25:55.000Z",
+        "description": "男/10♋️/宝宝：@konglong711633",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "konglong711633"
+              }
+            ]
+          }
+        },
+        "id": "1826536169800437760",
+        "location": "镇海区公园",
+        "name": "2727_SQ(淡推版",
+        "pinned_tweet_id": "1913682290238243164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917996570316029952/O_zDO0CO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 415,
+          "like_count": 19788,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 182
+        },
+        "username": "SQ100722",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1998284729305661499",
+    "created_at": "2025-12-09T06:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T07:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998284729305661499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shucaileibaozh…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/shucaileibaozh/status/1997958067535946200",
+          "start": 13,
+          "url": "https://t.co/v7YDbgZdwE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998284729305661499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997958067535946200",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我希望这只是一种政治隐喻 https://t.co/v7YDbgZdwE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997958064876711936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7osRj0acAA5qV6.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1998284729305661499",
+        "created_at": "2025-12-09T06:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998284729305661499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shucaileibaozh…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/shucaileibaozh/status/1997958067535946200",
+              "start": 13,
+              "url": "https://t.co/v7YDbgZdwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998284729305661499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997958067535946200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我希望这只是一种政治隐喻 https://t.co/v7YDbgZdwE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997958064876711936"
+          ]
+        },
+        "author_id": "1164356912525131776",
+        "conversation_id": "1997958067535946200",
+        "created_at": "2025-12-08T09:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997958067535946200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rLVrxnsctw",
+              "end": 33,
+              "expanded_url": "https://x.com/shucaileibaozh/status/1997958067535946200/photo/1",
+              "media_key": "3_1997958064876711936",
+              "start": 10,
+              "url": "https://t.co/rLVrxnsctw"
+            },
+            {
+              "display_url": "x.com/shucaileibaozh…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/shucaileibaozh/status/1997953262541287747",
+              "start": 34,
+              "url": "https://t.co/IVUwkElhzQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997958067535946200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 796,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997953262541287747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如何对付npd选手 https://t.co/rLVrxnsctw https://t.co/IVUwkElhzQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/吸毒 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 918,
+          "like_count": 13965,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 6406
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T02:01:48.000Z",
+        "description": "半工半读人",
+        "id": "1164356912525131776",
+        "location": "People's Republic of China",
+        "name": "胜利主义三叶同志",
+        "pinned_tweet_id": "1995505017974104118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993691022120157184/kZB2R20V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57641,
+          "following_count": 4309,
+          "like_count": 387103,
+          "listed_count": 44,
+          "media_count": 10567,
+          "tweet_count": 91323
+        },
+        "username": "shucaileibaozh",
+        "verified": false
+      }
+    ]
+  }
+}

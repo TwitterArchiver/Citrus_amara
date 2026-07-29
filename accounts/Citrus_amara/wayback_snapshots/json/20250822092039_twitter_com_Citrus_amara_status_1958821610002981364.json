@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1958821610002981364",
+    "created_at": "2025-08-22T09:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T10:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958821610002981364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oder_666/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/oder_666/status/1958820916172923302",
+          "start": 36,
+          "url": "https://t.co/VkOl44lhf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958821610002981364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958820916172923302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的精神不应该有问题，所以我必须没有问题。只要我还没疯我就要继续压抑！ https://t.co/VkOl44lhf7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1958821610002981364",
+        "created_at": "2025-08-22T09:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T10:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958821610002981364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oder_666/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/oder_666/status/1958820916172923302",
+              "start": 36,
+              "url": "https://t.co/VkOl44lhf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958821610002981364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958820916172923302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的精神不应该有问题，所以我必须没有问题。只要我还没疯我就要继续压抑！ https://t.co/VkOl44lhf7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1958820916172923302",
+        "created_at": "2025-08-22T09:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T10:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958820916172923302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yanluo1019/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Yanluo1019/status/1958692296326873323",
+              "start": 18,
+              "url": "https://t.co/Hq6pTIec1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958820916172923302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958692296326873323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的精神绝对没问题，所以我不去检查 https://t.co/Hq6pTIec1u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 378,
+          "like_count": 3930,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1644
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|精神病|欢迎互fo| 可以叫我Munou|中文名是無能🥰 我的互关可以找我扩列",
+        "id": "622036546",
+        "location": "精神病院",
+        "name": "むのう",
+        "pinned_tweet_id": "1957930634078556221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953135385317449728/x6Sb1ZoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 150,
+          "like_count": 5135,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1126
+        },
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

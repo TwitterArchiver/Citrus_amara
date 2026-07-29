@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1963934636687475070",
+    "created_at": "2025-09-06T09:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T10:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964261179326427467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697915168532086785",
+          "start": 0,
+          "username": "CH32767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964261179326427467",
+    "in_reply_to_user_id": "1697915168532086785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963934636687475070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CH32767 我操你真来啊？空调拉满防止热死，随时准备叫救护车。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1963934636687475070",
+        "created_at": "2025-09-06T09:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T10:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964261179326427467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697915168532086785",
+              "start": 0,
+              "username": "CH32767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964261179326427467",
+        "in_reply_to_user_id": "1697915168532086785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963934636687475070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CH32767 我操你真来啊？空调拉满防止热死，随时准备叫救护车。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697915168532086785",
+        "conversation_id": "1963934636687475070",
+        "created_at": "2025-09-05T11:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963934636687475070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963934636687475070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测试：450mg DNP，36h内禁食仅饮水，为防止低血糖期间仅允许摄入20g糖，其中包含药物中胶囊壳，糖衣，淀粉及粘合剂，当前体重63.8kg，按17：00计时，至7日早5点结束"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 403,
+          "like_count": 6049,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 2316
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:12:28.000Z",
+        "description": "反对od的oder/精分/男娘（友跨）/EMer/化学爱好者\n19/188cm/61kg\n不卖皮鼓，私聊询问省市等敏感信息直接拉黑\n让我们在没有黑暗的地方再见",
+        "id": "1697915168532086785",
+        "location": "DXM的孤对电子上",
+        "name": "氯酸甲酯",
+        "pinned_tweet_id": "1941532229538283544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916214654743023618/taTLRcdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 65,
+          "like_count": 2292,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 121
+        },
+        "username": "CH32767",
+        "verified": false
+      }
+    ]
+  }
+}

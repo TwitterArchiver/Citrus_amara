@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957327998702829673",
+    "created_at": "2025-08-18T06:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T07:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957335121922867439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1947652886273368065",
+          "start": 0,
+          "username": "lysol1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957335121922867439",
+    "in_reply_to_user_id": "1947652886273368065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957327998702829673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lysol1i 简直就是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957327998702829673",
+        "created_at": "2025-08-18T06:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T07:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957335121922867439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1947652886273368065",
+              "start": 0,
+              "username": "lysol1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957335121922867439",
+        "in_reply_to_user_id": "1947652886273368065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957327998702829673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lysol1i 简直就是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947652886273368065",
+        "conversation_id": "1957327998702829673",
+        "created_at": "2025-08-18T06:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T07:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957327998702829673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957327998702829673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在床上蛆了一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 354,
+          "like_count": 3382,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1444
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T13:40:15.000Z",
+        "description": "吸天地之灵气取日月之精华之桶",
+        "id": "1947652886273368065",
+        "name": "额你捅死了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957309669539799040/yos6KCwp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 23,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 96
+        },
+        "username": "lysol1i",
+        "verified": false
+      }
+    ]
+  }
+}

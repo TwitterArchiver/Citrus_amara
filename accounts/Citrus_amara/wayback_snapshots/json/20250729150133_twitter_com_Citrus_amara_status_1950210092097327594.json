@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950180150991041007",
+    "created_at": "2025-07-29T15:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T16:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950210092097327594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902297181157257218",
+          "start": 0,
+          "username": "transmasculine0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950210092097327594",
+    "in_reply_to_user_id": "1902297181157257218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950180150991041007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@transmasculine0 是这样的。我出柜后就炸了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950180150991041007",
+        "created_at": "2025-07-29T15:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T16:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950210092097327594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902297181157257218",
+              "start": 0,
+              "username": "transmasculine0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950210092097327594",
+        "in_reply_to_user_id": "1902297181157257218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950180150991041007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@transmasculine0 是这样的。我出柜后就炸了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902297181157257218",
+        "conversation_id": "1950180150991041007",
+        "created_at": "2025-07-29T13:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950180150991041007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transmasculine…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/transmasculine0/status/1950153895298154673",
+              "start": 83,
+              "url": "https://t.co/SFrHG4M2Om"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950180150991041007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950153895298154673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是说一句不要学我乱出柜，我敢出柜是因为一来我爸是个病弱小老头，体型和力气都没我大、二来是因为我自己打工经济不靠他。\n未成年或者大学生出柜不是被暴打一顿就是断生活费 https://t.co/SFrHG4M2Om"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。欢迎od的互关，欢迎私信。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "⑧⑨🍊苦橙🍊⑥④",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 205,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 574
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "人妖｜阳痿｜易性症｜无性恋｜打工攒手术费中｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/transmasculine0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/transmasculine0",
+                "start": 0,
+                "url": "https://t.co/9P42hW6enT"
+              }
+            ]
+          }
+        },
+        "id": "1902297181157257218",
+        "location": "🇨🇳🪜🇺🇸",
+        "name": "葵矢枢🏳️‍⚧️",
+        "pinned_tweet_id": "1919609393244692624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904354983451168768/2Ta31U7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 113,
+          "like_count": 3175,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/9P42hW6enT",
+        "username": "transmasculine0",
+        "verified": false
+      }
+    ]
+  }
+}

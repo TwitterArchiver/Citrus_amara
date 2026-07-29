@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1993177430698475821",
+    "created_at": "2025-11-25T04:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T05:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993177430698475821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TLciop/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/TLciop/status/1992902058765332485",
+          "start": 12,
+          "url": "https://t.co/BQU2sdAn3c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993177430698475821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992902058765332485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "索要开车进故宫的特权中 https://t.co/BQU2sdAn3c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1993177430698475821",
+        "created_at": "2025-11-25T04:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993177430698475821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TLciop/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/TLciop/status/1992902058765332485",
+              "start": 12,
+              "url": "https://t.co/BQU2sdAn3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993177430698475821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992902058765332485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "索要开车进故宫的特权中 https://t.co/BQU2sdAn3c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416577463279312908",
+        "conversation_id": "1992813614508683737",
+        "created_at": "2025-11-24T10:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992902058765332485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3232423830",
+              "start": 0,
+              "username": "david77785"
+            },
+            {
+              "end": 28,
+              "id": "1788485889225834496",
+              "start": 12,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992902058765332485",
+        "in_reply_to_user_id": "3232423830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10350,
+          "like_count": 14,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992887499518284048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@david77785 @YesterdayOrange 已经从索要平权变成要求特权了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 830,
+          "like_count": 13020,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 5625
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T01:56:10.000Z",
+        "description": "",
+        "id": "1416577463279312908",
+        "name": "TwilightR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901479545515257856/l-5UCb8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 490
+        },
+        "username": "TLciop",
+        "verified": false
+      }
+    ]
+  }
+}

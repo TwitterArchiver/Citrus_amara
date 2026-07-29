@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1976081362609488048",
+    "created_at": "2025-10-09T00:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T01:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976081362609488048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Citrus_amara/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Citrus_amara/status/1975922694886477824",
+          "start": 22,
+          "url": "https://t.co/TeLTR1lW1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976081362609488048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975922694886477824",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前几天我去北京的时候，我穿的还是短袖配衬衫 https://t.co/TeLTR1lW1S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1976081362609488048",
+        "created_at": "2025-10-09T00:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T01:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976081362609488048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Citrus_amara/status/1975922694886477824",
+              "start": 22,
+              "url": "https://t.co/TeLTR1lW1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976081362609488048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975922694886477824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前几天我去北京的时候，我穿的还是短袖配衬衫 https://t.co/TeLTR1lW1S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1975922694886477824",
+        "created_at": "2025-10-08T13:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T14:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975922694886477824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975922694886477824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操怎么冷成这个样子..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 513,
+          "like_count": 8439,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 3168
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

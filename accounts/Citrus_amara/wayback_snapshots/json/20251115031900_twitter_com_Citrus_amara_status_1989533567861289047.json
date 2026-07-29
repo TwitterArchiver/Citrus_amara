@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1989533567861289047",
+    "created_at": "2025-11-15T03:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T04:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989533567861289047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Citrus_amara/s…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/Citrus_amara/status/1989246467916329143",
+          "start": 67,
+          "url": "https://t.co/FKXPxX46BV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989533567861289047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989246467916329143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有就是沐雨，我真不知道号没了有啥好自杀的，我也不知道啥让他难过了。有药磕，有钱赚，在药圈还挺受欢迎，那他妈到底为什么会自杀啊... https://t.co/FKXPxX46BV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1989533567861289047",
+        "created_at": "2025-11-15T03:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989533567861289047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Citrus_amara/status/1989246467916329143",
+              "start": 67,
+              "url": "https://t.co/FKXPxX46BV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989533567861289047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989246467916329143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有就是沐雨，我真不知道号没了有啥好自杀的，我也不知道啥让他难过了。有药磕，有钱赚，在药圈还挺受欢迎，那他妈到底为什么会自杀啊... https://t.co/FKXPxX46BV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1989246467916329143",
+        "created_at": "2025-11-14T08:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989246467916329143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989246467916329143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 646,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实我不太能理解很多人抑郁的点在哪里，比如我自己和四年前的我自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 747,
+          "like_count": 11768,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 4885
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

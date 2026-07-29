@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1939399525346550019",
+    "created_at": "2025-07-10T12:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T13:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943280570940739633"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943280570940739633",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939399525346550019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能为你提供什么？\n情绪价值，用药指导。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1939399525346550019",
+        "created_at": "2025-07-10T12:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T13:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943280570940739633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943280570940739633",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939399525346550019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能为你提供什么？\n情绪价值，用药指导。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1939399525346550019",
+        "created_at": "2025-06-29T19:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T20:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939399525346550019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939399525346550019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望能找到和我一起滥用合法药物的朋友。\n我希望能找到可以购买到hrt药物的渠道。\n我希望有人可以和我一起自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "双相已确诊。oder。跨性别。请求互fo。\n叫我苦橙就好了。",
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "苦橙",
+        "pinned_tweet_id": "1939399525346550019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936145987841531904/Z4VVC4zG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 66,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

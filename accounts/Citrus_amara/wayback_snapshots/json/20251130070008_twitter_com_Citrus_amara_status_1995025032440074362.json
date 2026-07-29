@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995025029361262592"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1995025032440074362",
+    "created_at": "2025-11-30T07:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T08:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995025032440074362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RtRAYYytK4",
+          "end": 110,
+          "expanded_url": "https://x.com/Citrus_amara/status/1995025032440074362/photo/1",
+          "media_key": "3_1995025029361262592",
+          "start": 87,
+          "url": "https://t.co/RtRAYYytK4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995025032440074362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "...唉。\n谵妄剂我只吃过晚安。苯海拉明可能不是一种特别好的谵妄剂。我不知道阿托品或者颠茄片行不行。但我说的药都是垃圾。谵妄剂都是垃圾。\n也别自卑啊...！谵妄剂不好玩！！ https://t.co/RtRAYYytK4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995025029361262592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_AsbEXYAArrei.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995025029361262592"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1995025032440074362",
+        "created_at": "2025-11-30T07:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995025032440074362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtRAYYytK4",
+              "end": 110,
+              "expanded_url": "https://x.com/Citrus_amara/status/1995025032440074362/photo/1",
+              "media_key": "3_1995025029361262592",
+              "start": 87,
+              "url": "https://t.co/RtRAYYytK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995025032440074362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "...唉。\n谵妄剂我只吃过晚安。苯海拉明可能不是一种特别好的谵妄剂。我不知道阿托品或者颠茄片行不行。但我说的药都是垃圾。谵妄剂都是垃圾。\n也别自卑啊...！谵妄剂不好玩！！ https://t.co/RtRAYYytK4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 877,
+          "like_count": 13484,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 5952
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

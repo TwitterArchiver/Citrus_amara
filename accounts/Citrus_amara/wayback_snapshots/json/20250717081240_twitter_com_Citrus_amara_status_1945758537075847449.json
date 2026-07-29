@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1945090146606501942",
+    "created_at": "2025-07-17T08:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T09:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945758537075847449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797202819415752705",
+          "start": 0,
+          "username": "xwdlwr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945758537075847449",
+    "in_reply_to_user_id": "1797202819415752705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945090146606501942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xwdlwr 比齐鲁的150便宜1块钱/盒，相比起来我更喜欢150的。。\n但是为什么不买亚宝呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_1945090142034624512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv5ZLbwWgAAZURQ.jpg",
+        "width": 716
+      },
+      {
+        "height": 900,
+        "media_key": "3_1945090141753602048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv5ZLatWcAAfbBs.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1945090146606501942",
+        "created_at": "2025-07-17T08:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T09:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945758537075847449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797202819415752705",
+              "start": 0,
+              "username": "xwdlwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945758537075847449",
+        "in_reply_to_user_id": "1797202819415752705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945090146606501942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xwdlwr 比齐鲁的150便宜1块钱/盒，相比起来我更喜欢150的。。\n但是为什么不买亚宝呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945090142034624512",
+            "3_1945090141753602048"
+          ]
+        },
+        "author_id": "1797202819415752705",
+        "conversation_id": "1945090146606501942",
+        "created_at": "2025-07-15T11:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T12:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945090146606501942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VcMgiv65L9",
+              "end": 32,
+              "expanded_url": "https://x.com/xwdlwr/status/1945090146606501942/photo/1",
+              "media_key": "3_1945090142034624512",
+              "start": 9,
+              "url": "https://t.co/VcMgiv65L9"
+            },
+            {
+              "display_url": "pic.x.com/VcMgiv65L9",
+              "end": 32,
+              "expanded_url": "https://x.com/xwdlwr/status/1945090146606501942/photo/1",
+              "media_key": "3_1945090141753602048",
+              "start": 9,
+              "url": "https://t.co/VcMgiv65L9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945090146606501942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此价尚好?🤔🧐🤨 https://t.co/VcMgiv65L9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（但是没有系统名）。疑似双相。oder。跨性别。\n请求互fo。",
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "苦橙",
+        "pinned_tweet_id": "1939399525346550019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 67,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T09:45:30.000Z",
+        "description": "山竹別跑!!!/ 15岁高中无证含糖 🍥/玉林/ 喜欢睡觉 / 喜欢熬\n夜?/ 不想学习啦!!!/ 非常宅.…./随时可互fo / 其实是10\n后 / 不抽烟不喝酒不od不自残不自杀 / 168cm 53kg /不是机\n器人呀/HRT2025.3.22 \n已死保留@wdhswwcnm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 132,
+                "username": "wdhswwcnm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BAsensei",
+                "end": 23,
+                "expanded_url": "http://t.me/BAsensei",
+                "start": 0,
+                "url": "https://t.co/FvuOqGdCtL"
+              }
+            ]
+          }
+        },
+        "id": "1797202819415752705",
+        "location": "你❤️里",
+        "name": "爱吃山竹口牙🍥（慢性互fo版）🤤😚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941750149027373056/vmBXCc-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 250,
+          "like_count": 2141,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 579
+        },
+        "url": "https://t.co/FvuOqGdCtL",
+        "username": "xwdlwr",
+        "verified": false
+      }
+    ]
+  }
+}

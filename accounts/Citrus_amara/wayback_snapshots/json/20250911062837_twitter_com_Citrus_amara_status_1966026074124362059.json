@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1965859252251275765",
+    "created_at": "2025-09-11T06:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T07:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966026074124362059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658664482632253441",
+          "start": 0,
+          "username": "jujube8964"
+        },
+        {
+          "end": 26,
+          "id": "1879395690230738944",
+          "start": 12,
+          "username": "CuteKittenO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966026074124362059",
+    "in_reply_to_user_id": "1658664482632253441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966024911811715079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jujube8964 @CuteKittenO3O 错误的，应该加盐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1965859252251275765",
+        "created_at": "2025-09-11T06:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T07:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966026074124362059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658664482632253441",
+              "start": 0,
+              "username": "jujube8964"
+            },
+            {
+              "end": 26,
+              "id": "1879395690230738944",
+              "start": 12,
+              "username": "CuteKittenO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966026074124362059",
+        "in_reply_to_user_id": "1658664482632253441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966024911811715079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujube8964 @CuteKittenO3O 错误的，应该加盐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658664482632253441",
+        "conversation_id": "1965859252251275765",
+        "created_at": "2025-09-11T06:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T07:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966024911811715079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "CuteKittenO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966024911811715079",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965859252251275765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteKittenO3O 臣附议，薯条就应该直接吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 114,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 415,
+          "like_count": 6470,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 2496
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "🇨🇳🇨🇳我不懂什么卖淫赌博吸毒。我是三好学生，我是少先队员。我从来没有发表过对国家不利的消息。我爱国爱党爱社会。我始终坚持拥护中国共产党的领导与党的教诲，在中国共产党的领导下为社会添砖加瓦，为实现中华民族的伟大复兴，为社会主义的建设做贡献。我深知即使个人的力量渺小，也可以融入国家的整体。🇨🇳🇨🇳",
+        "id": "1658664482632253441",
+        "location": "党的光芒照耀下的每一寸伟大中国的领土",
+        "name": "党的光辉照冬枣",
+        "pinned_tweet_id": "1956031170053071371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964614874266521600/6X-PARwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 373,
+          "like_count": 1610,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 2110
+        },
+        "username": "jujube8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜🍧:@Chufeinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Chufeinya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6thcutek1tten1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/6thcutek1tten1",
+                "start": 0,
+                "url": "https://t.co/nRpYRqPS2U"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "name": "小猫",
+        "pinned_tweet_id": "1960304514504044996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964380508445679616/vaBwEQUe_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 525,
+          "like_count": 11913,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 5086
+        },
+        "url": "https://t.co/nRpYRqPS2U",
+        "username": "CuteKittenO3O",
+        "verified": false
+      }
+    ]
+  }
+}

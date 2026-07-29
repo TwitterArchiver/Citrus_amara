@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950441027258499092",
+    "created_at": "2025-07-30T06:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950442818738020491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1849315255379460096",
+          "start": 0,
+          "username": "ZhouCher2983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950442818738020491",
+    "in_reply_to_user_id": "1849315255379460096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950442086987419662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhouCher2983 我并没对你妈有多大占有欲我只是在陈述客观事实反倒是如同小脑萎缩一样扣下那咋了然后狂点输入法第一个渴望能用那三个字的无限循环让我破防的你精神胜利完美。你没活了能不能把我b了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950441027258499092",
+        "created_at": "2025-07-30T06:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950442818738020491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1849315255379460096",
+              "start": 0,
+              "username": "ZhouCher2983"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950442818738020491",
+        "in_reply_to_user_id": "1849315255379460096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950442086987419662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhouCher2983 我并没对你妈有多大占有欲我只是在陈述客观事实反倒是如同小脑萎缩一样扣下那咋了然后狂点输入法第一个渴望能用那三个字的无限循环让我破防的你精神胜利完美。你没活了能不能把我b了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849315255379460096",
+        "conversation_id": "1950441027258499092",
+        "created_at": "2025-07-30T06:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950442086987419662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950442086987419662",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950441874356875540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 可是我妈健在啊不要对别人的妈那么大占有欲好吗😭知道你没有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 217,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 616
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T05:01:55.000Z",
+        "description": "本人生理性别女 心理性别男 跨性别男同 劳攻：@gnawizvj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "gnawizvj"
+              }
+            ]
+          }
+        },
+        "id": "1849315255379460096",
+        "location": "新西兰",
+        "name": "重启的恶魔🩸",
+        "pinned_tweet_id": "1927962348699947383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943932918163750913/KTqQ-BUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 3,
+          "like_count": 3455,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 1847
+        },
+        "username": "ZhouCher2983",
+        "verified": false
+      }
+    ]
+  }
+}

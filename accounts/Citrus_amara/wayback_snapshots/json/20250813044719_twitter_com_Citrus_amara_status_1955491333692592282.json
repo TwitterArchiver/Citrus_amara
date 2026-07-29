@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954856418588467200"
+      ],
+      "media_source_tweet_id": [
+        "1954856427090231364"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1955491333692592282",
+    "created_at": "2025-08-13T04:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T05:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955491333692592282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1792575947469975552",
+          "start": 3,
+          "username": "Chigine1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bE3kIfFSHn",
+          "end": 68,
+          "expanded_url": "https://x.com/Chigine1/status/1954856427090231364/photo/1",
+          "media_key": "3_1954856418588467200",
+          "start": 45,
+          "url": "https://t.co/bE3kIfFSHn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955491333692592282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954856427090231364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chigine1: 百分之84%高等教育率的日本人相信中国高温烘烤北海道使其变热 https://t.co/bE3kIfFSHn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_1954856418588467200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyELjjDboAAuFzO.jpg",
+        "width": 699
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954856418588467200"
+          ],
+          "media_source_tweet_id": [
+            "1954856427090231364"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1955491333692592282",
+        "created_at": "2025-08-13T04:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955491333692592282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1792575947469975552",
+              "start": 3,
+              "username": "Chigine1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bE3kIfFSHn",
+              "end": 68,
+              "expanded_url": "https://x.com/Chigine1/status/1954856427090231364/photo/1",
+              "media_key": "3_1954856418588467200",
+              "start": 45,
+              "url": "https://t.co/bE3kIfFSHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955491333692592282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954856427090231364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chigine1: 百分之84%高等教育率的日本人相信中国高温烘烤北海道使其变热 https://t.co/bE3kIfFSHn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954856418588467200"
+          ]
+        },
+        "author_id": "1792575947469975552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1954856427090231364",
+        "created_at": "2025-08-11T10:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T11:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954856427090231364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bE3kIfFSHn",
+              "end": 54,
+              "expanded_url": "https://x.com/Chigine1/status/1954856427090231364/photo/1",
+              "media_key": "3_1954856418588467200",
+              "start": 31,
+              "url": "https://t.co/bE3kIfFSHn"
+            },
+            {
+              "display_url": "x.com/airi_fact_555/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/airi_fact_555/status/1948353435931165110",
+              "start": 55,
+              "url": "https://t.co/UTrmUkvxdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954856427090231364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 56833,
+          "like_count": 668,
+          "quote_count": 8,
+          "reply_count": 46,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948353435931165110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "百分之84%高等教育率的日本人相信中国高温烘烤北海道使其变热 https://t.co/bE3kIfFSHn https://t.co/UTrmUkvxdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 324,
+          "like_count": 2757,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1201
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T15:19:52.000Z",
+        "description": "发疯文字和键政内容（正在减少键政） 一个漂浮在中国大陆的幽灵 想到什么说什么 缺乏立场性 以前是做题蛆现在也是 在补充阅读量 长年唯心主义实践者 中原官话/普通话/英语 CPMandarin/Mandarin/English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chigine1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chigine1",
+                "start": 0,
+                "url": "https://t.co/Ii6gF9bQKi"
+              }
+            ]
+          }
+        },
+        "id": "1792575947469975552",
+        "location": "中国上海市宝山区上大路99号",
+        "name": "𝕮𝖍𝖎𝖌𝖎𝖓𝖊금기산",
+        "pinned_tweet_id": "1951995151645024621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915831868836220931/z8i5_a8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 1075,
+          "like_count": 64016,
+          "listed_count": 7,
+          "media_count": 1215,
+          "tweet_count": 13092
+        },
+        "url": "https://t.co/Ii6gF9bQKi",
+        "username": "Chigine1",
+        "verified": true
+      }
+    ]
+  }
+}

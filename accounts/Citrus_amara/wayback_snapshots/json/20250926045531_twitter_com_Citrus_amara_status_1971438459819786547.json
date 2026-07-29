@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1971438459819786547",
+    "created_at": "2025-09-26T04:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T05:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971438459819786547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RigorGirl/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/RigorGirl/status/1970420364447752641",
+          "start": 2,
+          "url": "https://t.co/NK2mw1c9h4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971438459819786547",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970420364447752641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤯 https://t.co/NK2mw1c9h4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1971438459819786547",
+        "created_at": "2025-09-26T04:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T05:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971438459819786547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RigorGirl/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/RigorGirl/status/1970420364447752641",
+              "start": 2,
+              "url": "https://t.co/NK2mw1c9h4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971438459819786547",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970420364447752641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤯 https://t.co/NK2mw1c9h4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "124187456",
+        "conversation_id": "1970406308957560915",
+        "created_at": "2025-09-23T09:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970420364447752641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970420364447752641",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3882,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970406308957560915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao7 如果不扔这些垃圾，保洁的工资你来发吗，傻逼🤭\n日本人不扔垃圾，是因为公共环卫工人他们请不起🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 462,
+          "like_count": 7689,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2882
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-18T15:00:13.000Z",
+        "description": "cyber cow girl | 科技狂热 | 只泡技术大牛 | 似是而非的八卦 | 头像是盗图经常换",
+        "id": "124187456",
+        "location": "HK",
+        "name": "RigorGirl",
+        "pinned_tweet_id": "1963574346712322092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963862970217418752/ce_uJr5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29539,
+          "following_count": 3062,
+          "like_count": 3742,
+          "listed_count": 266,
+          "media_count": 8913,
+          "tweet_count": 4017
+        },
+        "username": "RigorGirl",
+        "verified": false
+      }
+    ]
+  }
+}

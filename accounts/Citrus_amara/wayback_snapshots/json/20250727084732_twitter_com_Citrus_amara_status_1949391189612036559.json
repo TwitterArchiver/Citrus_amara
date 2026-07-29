@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949391189612036559",
+    "created_at": "2025-07-27T08:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T09:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949391189612036559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "TOKYOheshan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949391189612036559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949159273482850702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOKYOheshan: 我真的不理解那些翻墙出来只看黄不看政治的人，真正接触键政之后就会发现，键政是比做爱更爽的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949391189612036559",
+        "created_at": "2025-07-27T08:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T09:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949391189612036559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "TOKYOheshan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949391189612036559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949159273482850702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOKYOheshan: 我真的不理解那些翻墙出来只看黄不看政治的人，真正接触键政之后就会发现，键政是比做爱更爽的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909553877739085825",
+        "conversation_id": "1949159273482850702",
+        "created_at": "2025-07-26T17:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949159273482850702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949159273482850702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4369,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不理解那些翻墙出来只看黄不看政治的人，真正接触键政之后就会发现，键政是比做爱更爽的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "osdd-1a。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 164,
+          "like_count": 843,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 465
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "互联网冲浪找史炒作高手 07跨性别女同🏳️‍⚧️ IP🇯🇵東京池袋 成分：键政｜抽象｜二次元｜神友🌊｜自由民主｜反台独蓝统🇹🇼｜包蜜｜LGBTQ｜女裝｜舞萌痴｜明日方舟｜啤酒烧烤｜永雏塔菲｜東雪蓮｜进击的巨人｜MYGO｜平常会更新日常和抽象爱国TV 互fo扩列私信 欢迎线下一起玩 @heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 141,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京 豊島区",
+        "name": "抽象耶格尔🇯🇵 🇹🇼",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945752007501062144/N0rKOgE8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5196,
+          "following_count": 588,
+          "like_count": 676,
+          "listed_count": 12,
+          "media_count": 343,
+          "tweet_count": 568
+        },
+        "username": "TOKYOheshan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1956327554132181297",
+    "created_at": "2025-08-15T12:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T13:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956330862972166637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1048022597823164416",
+          "start": 0,
+          "username": "HiallouL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956330862972166637",
+    "in_reply_to_user_id": "1048022597823164416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956327554132181297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiallouL 站着尿尿如果你对不准的话会溅到外面。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1956327554132181297",
+        "created_at": "2025-08-15T12:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T13:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956330862972166637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1048022597823164416",
+              "start": 0,
+              "username": "HiallouL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956330862972166637",
+        "in_reply_to_user_id": "1048022597823164416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956327554132181297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiallouL 站着尿尿如果你对不准的话会溅到外面。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048022597823164416",
+        "conversation_id": "1956327554132181297",
+        "created_at": "2025-08-15T12:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T13:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956327554132181297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iminipotato/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/iminipotato/status/1956014130604990523",
+              "start": 24,
+              "url": "https://t.co/tFZjGnWyOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956327554132181297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956014130604990523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑死 刚还有人跟我说几把的好处是可以站着尿尿 https://t.co/tFZjGnWyOo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 341,
+          "like_count": 2986,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1292
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕  💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608389665610174464/O7Jr75LC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1202,
+          "like_count": 15846,
+          "listed_count": 4,
+          "media_count": 777,
+          "tweet_count": 4373
+        },
+        "username": "HiallouL",
+        "verified": false
+      }
+    ]
+  }
+}

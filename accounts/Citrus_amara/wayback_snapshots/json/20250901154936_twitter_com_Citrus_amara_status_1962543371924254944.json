@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1962543371924254944",
+    "created_at": "2025-09-01T15:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962543371924254944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Citrus_amara/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Citrus_amara/status/1962523653792256182",
+          "start": 22,
+          "url": "https://t.co/HTxfKB5DNp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962543371924254944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962523653792256182",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不，根本不是分离焦虑，就是焦虑，纯粹的焦虑 https://t.co/HTxfKB5DNp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1962543371924254944",
+        "created_at": "2025-09-01T15:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962543371924254944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Citrus_amara/status/1962523653792256182",
+              "start": 22,
+              "url": "https://t.co/HTxfKB5DNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962543371924254944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962523653792256182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不，根本不是分离焦虑，就是焦虑，纯粹的焦虑 https://t.co/HTxfKB5DNp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1962523653792256182",
+        "created_at": "2025-09-01T14:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962523653792256182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Citrus_amara/status/1962462432942551272",
+              "start": 13,
+              "url": "https://t.co/PEozZphHuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962523653792256182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962462432942551272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没错因为分离焦虑我无敌了 https://t.co/PEozZphHuX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 381,
+          "like_count": 5541,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 2116
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

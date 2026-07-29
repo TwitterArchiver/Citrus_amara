@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2065987609260666973",
+    "created_at": "2026-06-14T11:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066116249612927461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1488754158647738369",
+          "start": 0,
+          "username": "mingquan0326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066116249612927461",
+    "in_reply_to_user_id": "1488754158647738369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066109285155623410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingquan0326 我真的在虚空打舞萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2065987609260666973",
+        "created_at": "2026-06-14T11:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066116249612927461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1488754158647738369",
+              "start": 0,
+              "username": "mingquan0326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066116249612927461",
+        "in_reply_to_user_id": "1488754158647738369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066109285155623410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingquan0326 我真的在虚空打舞萌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488754158647738369",
+        "conversation_id": "2065987609260666973",
+        "created_at": "2026-06-14T10:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066109285155623410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066109285155623410",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065987609260666973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 起来虚空打乌蒙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 1110,
+          "like_count": 20574,
+          "listed_count": 5,
+          "media_count": 415,
+          "tweet_count": 11575
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-02T06:00:44.000Z",
+        "description": "看成分互fo同类\n未过门私信不回 \n🚪52lxfs\n🚪88开放pyq\n🚪188非绿照片语音视频不定期掉落\n问坐标10r",
+        "id": "1488754158647738369",
+        "location": "日本",
+        "name": "OvOkiiLyn",
+        "pinned_tweet_id": "2064741658642506207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051285983367438336/pExrT9qJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 124,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 294
+        },
+        "username": "mingquan0326",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948004896415834272",
+    "created_at": "2025-07-23T13:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T14:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948006160453206366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1947652886273368065",
+          "start": 0,
+          "username": "lysol1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948006160453206366",
+    "in_reply_to_user_id": "1947652886273368065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948005666456793286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lysol1i 没事的谢谢你！！只是在抖。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1948005666456793286].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1948005666456793286",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1948005666456793286"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948004896415834272",
+        "created_at": "2025-07-23T13:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T14:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948006160453206366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1947652886273368065",
+              "start": 0,
+              "username": "lysol1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948006160453206366",
+        "in_reply_to_user_id": "1947652886273368065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948005666456793286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lysol1i 没事的谢谢你！！只是在抖。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 110,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 328
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T13:40:15.000Z",
+        "description": "感觉术力口不如原神",
+        "id": "1947652886273368065",
+        "name": "额你捅死了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947804540453195778/JFRcOTrO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 7
+        },
+        "username": "lysol1i",
+        "verified": false
+      }
+    ]
+  }
+}

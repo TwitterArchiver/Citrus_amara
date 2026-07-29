@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2001746312945905900",
+    "created_at": "2025-12-18T22:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T23:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001780171817275414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1580263959751319554",
+          "start": 0,
+          "username": "kkndjhbh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001780171817275414",
+    "in_reply_to_user_id": "1580263959751319554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001746312945905900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkndjhbh 是pcp吧怎么met上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2001746312945905900",
+        "created_at": "2025-12-18T22:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T23:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001780171817275414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1580263959751319554",
+              "start": 0,
+              "username": "kkndjhbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001780171817275414",
+        "in_reply_to_user_id": "1580263959751319554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001746312945905900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkndjhbh 是pcp吧怎么met上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580263959751319554",
+        "conversation_id": "2001746312945905900",
+        "created_at": "2025-12-18T20:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T21:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001746312945905900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y65969y/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/y65969y/status/2001703186386817152",
+              "start": 27,
+              "url": "https://t.co/IIlz1AgvLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001746312945905900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001703186386817152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "扶梯一号 使用者反馈\n物质名称：4-keto-met https://t.co/IIlz1AgvLj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 941,
+          "like_count": 14422,
+          "listed_count": 4,
+          "media_count": 265,
+          "tweet_count": 6847
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T18:27:51.000Z",
+        "description": "全网同ID，oder可互fo 业余诗人 瘾君子 双相 轻中度精分 lgbt友好立场 只分享用药经历，不主动建议od。古罗马掌管色胺的执政官。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%89%B6%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%89%B6%E6%A2%AF",
+                "start": 0,
+                "url": "https://t.co/RIPVCzFX2S"
+              }
+            ]
+          }
+        },
+        "id": "1580263959751319554",
+        "location": "色胺星球",
+        "name": "扶梯",
+        "pinned_tweet_id": "2001288635757343032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998547095981064192/IbNgKkSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 111,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/RIPVCzFX2S",
+        "username": "kkndjhbh",
+        "verified": true
+      }
+    ]
+  }
+}

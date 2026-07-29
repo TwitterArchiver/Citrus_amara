@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1993529222992900383",
+    "created_at": "2025-11-26T03:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T04:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993529222992900383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kylooong/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/kylooong/status/1993286949197824337",
+          "start": 12,
+          "url": "https://t.co/zl5F9upD6Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993529222992900383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993286949197824337",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说的简单。虽然你说得对 https://t.co/zl5F9upD6Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1993529222992900383",
+        "created_at": "2025-11-26T03:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993529222992900383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kylooong/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kylooong/status/1993286949197824337",
+              "start": 12,
+              "url": "https://t.co/zl5F9upD6Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993529222992900383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993286949197824337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说的简单。虽然你说得对 https://t.co/zl5F9upD6Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922900250211254273",
+        "conversation_id": "1993286949197824337",
+        "created_at": "2025-11-25T11:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993286949197824337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizusumi_/stat…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/mizusumi_/status/1992649504013853008",
+              "start": 128,
+              "url": "https://t.co/vVD6is9h4S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993286949197824337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13737,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992649504013853008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从现实客观条件来说，性少数群体应该对自己在社会中的地位有清醒的认知，并以此为依据做出有利于自己的决策，隐忍到自己完全生活独立、降低原生家庭风险以后再舒心做自己。在吃拿家里的未成年阶段就把对抗白热化，对自己百害无一利。至于od和自杀倾向，我只能说有病早治。 https://t.co/vVD6is9h4S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 830,
+          "like_count": 13109,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 5718
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T06:22:11.000Z",
+        "description": "一只迟钝的呆龙/ furry暂时还没装/ 🌈/ 比较随和，欢迎扩列聊天/ Cybersecurity/ 最近在玩helldivers /表推垃圾桶碎碎念各种日常 /看到毛毛基本都会关注",
+        "id": "1922900250211254273",
+        "location": "Beijing",
+        "name": "凯凯凯凯龙",
+        "pinned_tweet_id": "1960378905791262894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959907459776335873/DUzQwQM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 681,
+          "like_count": 2196,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 1288
+        },
+        "username": "kylooong",
+        "verified": false
+      }
+    ]
+  }
+}

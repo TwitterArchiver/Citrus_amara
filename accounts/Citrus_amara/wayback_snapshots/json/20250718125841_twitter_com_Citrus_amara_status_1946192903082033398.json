@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946192903082033398",
+    "created_at": "2025-07-18T12:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T13:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946192903082033398"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1946192903082033398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说得对但是我真的受不了大姐姐，我看见大姐姐我就想爬他床上去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946192903082033398",
+        "created_at": "2025-07-18T12:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946192903082033398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946192903082033398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说得对但是我真的受不了大姐姐，我看见大姐姐我就想爬他床上去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别。\n互fo。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 73,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 137
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

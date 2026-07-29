@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1997864702043623926",
+    "created_at": "2025-12-08T03:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T04:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997864702043623926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/howell1816/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/howell1816/status/1997709707432415276",
+          "start": 19,
+          "url": "https://t.co/ngYPRSRyYd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997864702043623926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997709707432415276",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可能是我吧，我在剥削企业主和官僚系统 https://t.co/ngYPRSRyYd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1997864702043623926",
+        "created_at": "2025-12-08T03:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T04:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997864702043623926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/howell1816/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/howell1816/status/1997709707432415276",
+              "start": 19,
+              "url": "https://t.co/ngYPRSRyYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997864702043623926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997709707432415276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能是我吧，我在剥削企业主和官僚系统 https://t.co/ngYPRSRyYd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911624490544431104",
+        "conversation_id": "1997606213832646988",
+        "created_at": "2025-12-07T16:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997709707432415276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1715418222701531136",
+              "start": 0,
+              "username": "shen_shi88371"
+            },
+            {
+              "end": 25,
+              "id": "765098895437287424",
+              "start": 15,
+              "username": "Viola_lxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997709707432415276",
+        "in_reply_to_user_id": "1715418222701531136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997705980814172511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shen_shi88371 @Viola_lxE 那你就告诉我，中国剥削阶级是谁，地主，还是奴隶主？他们在哪里？ 哪个私人拥有土地所有权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/吸毒 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 916,
+          "like_count": 13938,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 6366
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:36:29.000Z",
+        "description": "立场硬，证据足\n怼造谣，护家国",
+        "id": "1911624490544431104",
+        "name": "howell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911624576619999232/30SHTIQQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 86,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1145
+        },
+        "username": "howell1816",
+        "verified": false
+      }
+    ]
+  }
+}

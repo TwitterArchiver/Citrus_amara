@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1972931738625032240",
+    "created_at": "2025-09-30T07:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T08:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972931738625032240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhishi_cook/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/zhishi_cook/status/1972826103611044177",
+          "start": 17,
+          "url": "https://t.co/DCrLYYXvPX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972931738625032240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972826103611044177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的头像就很有辨识度，来吃🍊吧！ https://t.co/DCrLYYXvPX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 206,
+        "media_key": "3_1972825912950562816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DityEaoAAGDFU.png",
+        "width": 377
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1972931738625032240",
+        "created_at": "2025-09-30T07:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T08:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972931738625032240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhishi_cook/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/zhishi_cook/status/1972826103611044177",
+              "start": 17,
+              "url": "https://t.co/DCrLYYXvPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972931738625032240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972826103611044177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的头像就很有辨识度，来吃🍊吧！ https://t.co/DCrLYYXvPX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972825912950562816"
+          ]
+        },
+        "author_id": "1312002569988841472",
+        "conversation_id": "1972826103611044177",
+        "created_at": "2025-09-30T00:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972826103611044177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1875115728166342656",
+              "start": 11,
+              "username": "3253212MCZ"
+            },
+            {
+              "end": 39,
+              "id": "1950815709061361664",
+              "start": 23,
+              "username": "sakuraiyumeyuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wj50TrTwFz",
+              "end": 63,
+              "expanded_url": "https://x.com/zhishi_cook/status/1972826103611044177/photo/1",
+              "media_key": "3_1972825912950562816",
+              "start": 40,
+              "url": "https://t.co/Wj50TrTwFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972826103611044177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 997,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们头像都好像\n@3253212MCZ\n@sakuraiyumeyuri https://t.co/Wj50TrTwFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 477,
+          "like_count": 7931,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 2948
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T12:12:55.000Z",
+        "description": "全宇宙最好的小孩/申必mtf🏳️‍⚧️🤔🤔/已出柜/有小证/家长不管(/ENFP-T/提问:https://t.co/bDeKeMQNaN / 会写php py的小孩/生产日期:2009-03-07/小号:@TypezhiQwQ/同类互fo喵🤓/笨蛋老婆:@Yuwen_Tang1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "TypezhiQwQ"
+              },
+              {
+                "end": 143,
+                "start": 128,
+                "username": "Yuwen_Tang1019"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zhishi_cook1",
+                "end": 69,
+                "expanded_url": "https://ngl.link/zhishi_cook1",
+                "start": 46,
+                "url": "https://t.co/bDeKeMQNaN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/842XMZv0Pp"
+              }
+            ]
+          }
+        },
+        "id": "1312002569988841472",
+        "location": "坐在唐毓文的大鸡巴上",
+        "name": "知式🍥",
+        "pinned_tweet_id": "1920328261478793373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920010651700973568/DmyTtkvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 1465,
+          "like_count": 1263,
+          "listed_count": 5,
+          "media_count": 350,
+          "tweet_count": 3439
+        },
+        "url": "https://t.co/842XMZv0Pp",
+        "username": "zhishi_cook",
+        "verified": true
+      }
+    ]
+  }
+}

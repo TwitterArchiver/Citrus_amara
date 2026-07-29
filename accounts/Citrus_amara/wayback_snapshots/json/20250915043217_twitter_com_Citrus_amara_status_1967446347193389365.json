@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967446331431030784"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1967446347193389365",
+    "created_at": "2025-09-15T04:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T05:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967446347193389365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2J4GxY853h",
+          "end": 64,
+          "expanded_url": "https://x.com/Citrus_amara/status/1967446347193389365/photo/1",
+          "media_key": "3_1967446331431030784",
+          "start": 41,
+          "url": "https://t.co/2J4GxY853h"
+        },
+        {
+          "display_url": "x.com/nekomakiQAQ/st…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/nekomakiQAQ/status/1967220611505373265",
+          "start": 65,
+          "url": "https://t.co/OLD0fS4CS4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967446347193389365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967220611505373265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉你们特别在意策划药的成分，那来，我随便找一个结构看看你们能不能解释它的药理！ https://t.co/2J4GxY853h https://t.co/OLD0fS4CS4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_1967446331431030784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G03GA7OXkAA1-V0.png",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967446331431030784"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1967446347193389365",
+        "created_at": "2025-09-15T04:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T05:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967446347193389365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2J4GxY853h",
+              "end": 64,
+              "expanded_url": "https://x.com/Citrus_amara/status/1967446347193389365/photo/1",
+              "media_key": "3_1967446331431030784",
+              "start": 41,
+              "url": "https://t.co/2J4GxY853h"
+            },
+            {
+              "display_url": "x.com/nekomakiQAQ/st…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/nekomakiQAQ/status/1967220611505373265",
+              "start": 65,
+              "url": "https://t.co/OLD0fS4CS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967446347193389365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967220611505373265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉你们特别在意策划药的成分，那来，我随便找一个结构看看你们能不能解释它的药理！ https://t.co/2J4GxY853h https://t.co/OLD0fS4CS4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1967220611505373265",
+        "created_at": "2025-09-14T13:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967220611505373265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967220611505373265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4907,
+          "like_count": 63,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "说实话的，我不怕得罪人，但我不推荐你们在推上买任何的未标明成分的策划药。吃了对身体有什么损害你根本就不知道，万一出事了去医院，医生问你吃了啥你都不知道成分，抢救都没法下手。真信他们说的无副作用么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 427,
+          "like_count": 6745,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 2582
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "| 💌 @HobartR6 | 🐱 @_FurryFur_ // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "http://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/HjMp9NwpfI"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷（日雌380！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966519121811738624/fRB6xh7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 946,
+          "like_count": 28023,
+          "listed_count": 15,
+          "media_count": 1190,
+          "tweet_count": 14382
+        },
+        "url": "https://t.co/HjMp9NwpfI",
+        "username": "nekomakiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

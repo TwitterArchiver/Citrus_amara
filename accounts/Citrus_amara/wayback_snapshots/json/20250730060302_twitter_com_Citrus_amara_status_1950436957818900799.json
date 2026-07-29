@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949782351573098505",
+    "created_at": "2025-07-30T06:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950436957818900799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661043919021539330",
+          "start": 0,
+          "username": "shuiyichengren2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950436957818900799",
+    "in_reply_to_user_id": "1661043919021539330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950394356994818322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuiyichengren2 实际上很少，我在网络和生活中都是深柜的。我遇到的顺性别和跨性别对我都很友好不会刻意强调我是amab。我也很尊重他们不会因为声称自己认同女然后乱来。我只是来发发牢骚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949782351573098505",
+        "created_at": "2025-07-30T06:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950436957818900799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661043919021539330",
+              "start": 0,
+              "username": "shuiyichengren2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950436957818900799",
+        "in_reply_to_user_id": "1661043919021539330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950394356994818322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiyichengren2 实际上很少，我在网络和生活中都是深柜的。我遇到的顺性别和跨性别对我都很友好不会刻意强调我是amab。我也很尊重他们不会因为声称自己认同女然后乱来。我只是来发发牢骚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661043919021539330",
+        "conversation_id": "1949782351573098505",
+        "created_at": "2025-07-30T03:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950394356994818322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950394356994818322",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949782351573098505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 在生活中也有人这样称呼你吗？如果有那就离你现在的社交圈子远一点。因为正常人没人这么说话。网络上看见了就当没看见，慢慢的进入正常的社交圈子就好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 216,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 602
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T16:18:46.000Z",
+        "description": "0411/Beta/FLR/处男/秃/胖/减肥/三观正/日常戴PA锁。。。年龄：96年。。。性取向：女神·大屌女神。。。喜欢 : 大阳具（阳具恋物癖）。。。不是同性恋。。。目标：妻主/大屌女神·男娘·MTF（解决性需求或生活照顾）相互尊重，感情为先。拒绝低素质和快餐文化。。",
+        "id": "1661043919021539330",
+        "location": "大连",
+        "name": "Water one",
+        "pinned_tweet_id": "1944064084720464381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867914554724012032/zXfupBbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2928,
+          "following_count": 311,
+          "like_count": 3245,
+          "listed_count": 14,
+          "media_count": 230,
+          "tweet_count": 584
+        },
+        "username": "shuiyichengren2",
+        "verified": false
+      }
+    ]
+  }
+}

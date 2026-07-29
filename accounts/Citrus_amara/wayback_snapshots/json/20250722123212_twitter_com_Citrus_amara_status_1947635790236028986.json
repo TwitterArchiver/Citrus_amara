@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947291890283393420",
+    "created_at": "2025-07-22T12:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T13:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947635790236028986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943628759074312192",
+          "start": 0,
+          "username": "k3633455837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947635790236028986",
+    "in_reply_to_user_id": "1943628759074312192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947613583036322146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k3633455837 你要干啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947291890283393420",
+        "created_at": "2025-07-22T12:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T13:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947635790236028986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943628759074312192",
+              "start": 0,
+              "username": "k3633455837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947635790236028986",
+        "in_reply_to_user_id": "1943628759074312192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947613583036322146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k3633455837 你要干啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943628759074312192",
+        "conversation_id": "1947291890283393420",
+        "created_at": "2025-07-22T11:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T12:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947613583036322146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947613583036322146",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947291890283393420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 你叫什么名字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 96,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 290
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T11:09:53.000Z",
+        "description": "念的碎碎念 | 阴暗的角落",
+        "id": "1943628759074312192",
+        "name": "反季雪.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943629292375580672/_6CI8BuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 177
+        },
+        "username": "k3633455837",
+        "verified": false
+      }
+    ]
+  }
+}

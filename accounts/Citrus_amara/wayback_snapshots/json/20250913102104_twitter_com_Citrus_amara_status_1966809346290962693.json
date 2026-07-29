@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1966708488224338359",
+    "created_at": "2025-09-13T10:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T11:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966809346290962693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893280336534216706",
+          "start": 0,
+          "username": "mtnyan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966809346290962693",
+    "in_reply_to_user_id": "1893280336534216706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966708488224338359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtnyan8964 来点圣约翰草胶囊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1966708488224338359",
+        "created_at": "2025-09-13T10:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966809346290962693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893280336534216706",
+              "start": 0,
+              "username": "mtnyan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966809346290962693",
+        "in_reply_to_user_id": "1893280336534216706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966708488224338359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtnyan8964 来点圣约翰草胶囊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893280336534216706",
+        "conversation_id": "1966708488224338359",
+        "created_at": "2025-09-13T03:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T04:37:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966707762093535464",
+          "1966708488224338359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966708488224338359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1956,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸听中医说的要让我把抗抑郁药停掉🙀🙀🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 426,
+          "like_count": 6539,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2533
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T12:43:12.000Z",
+        "description": "喵呜~",
+        "id": "1893280336534216706",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥🐱",
+        "pinned_tweet_id": "1966012698916704443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961227208519028737/3F0v-y9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 716,
+          "like_count": 4414,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1012
+        },
+        "username": "mtnyan8964",
+        "verified": true
+      }
+    ]
+  }
+}

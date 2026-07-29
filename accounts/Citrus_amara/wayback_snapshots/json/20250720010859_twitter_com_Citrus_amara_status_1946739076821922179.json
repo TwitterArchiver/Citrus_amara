@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946629278910783856",
+    "created_at": "2025-07-20T01:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T02:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946739076821922179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1465023585215389699",
+          "start": 0,
+          "username": "odskeleton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946739076821922179",
+    "in_reply_to_user_id": "1465023585215389699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946629278910783856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odskeleton 好多ym。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946629278910783856",
+        "created_at": "2025-07-20T01:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T02:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946739076821922179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1465023585215389699",
+              "start": 0,
+              "username": "odskeleton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946739076821922179",
+        "in_reply_to_user_id": "1465023585215389699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946629278910783856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odskeleton 好多ym。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465023585215389699",
+        "conversation_id": "1946629278910783856",
+        "created_at": "2025-07-19T17:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T18:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946629278910783856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946629278910783856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧48愈美＋8pr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别。\n互fo。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 78,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 168
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T18:23:45.000Z",
+        "description": "02/od/infp/双相/焦虑/我是纯废物",
+        "id": "1465023585215389699",
+        "location": "我想睡猫窝",
+        "name": "yirog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945074298525294592/PgF8K5Dt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 81,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "username": "odskeleton",
+        "verified": false
+      }
+    ]
+  }
+}

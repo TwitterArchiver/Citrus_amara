@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1958168693990670470",
+    "created_at": "2025-08-20T14:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T15:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958170522279133419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1261844107392987136",
+          "start": 0,
+          "username": "ccl216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958170522279133419",
+    "in_reply_to_user_id": "1261844107392987136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958168693990670470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccl216 呃...想问下雌潮是什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1958168693990670470",
+        "created_at": "2025-08-20T14:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958170522279133419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1261844107392987136",
+              "start": 0,
+              "username": "ccl216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958170522279133419",
+        "in_reply_to_user_id": "1261844107392987136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958168693990670470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccl216 呃...想问下雌潮是什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261844107392987136",
+        "conversation_id": "1958168693990670470",
+        "created_at": "2025-08-20T14:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958168693990670470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958168693990670470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在雌潮状态骑自行车好爽🥵\n因为车座会抵到会阴\n然后如果用心感受，骑快的时候可能感觉不那么强烈（毕竟剧烈运动的时候注意力转移的比较多）\n但是当你滑行的时候，你可以把所有注意力都放在会阴雌潮上，然后就感觉起飞了（\n自行车的速度和你的感觉一起起飞🥰\n这下知道为什么女巫骑个扫把就感觉在飞了🤪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 373,
+          "like_count": 3698,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1580
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T02:21:04.000Z",
+        "description": "灵性|音乐|释放法练习生|涩涩大湿|\n情绪垃圾桶\n|涩涩教学分享（还有一点几乎没有的修仙分享）https://t.co/h8IDQ4dy8z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/linjiangdesese",
+                "end": 70,
+                "expanded_url": "https://t.me/linjiangdesese",
+                "start": 47,
+                "url": "https://t.co/h8IDQ4dy8z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccl216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccl216",
+                "start": 0,
+                "url": "https://t.co/4RfkiQi61W"
+              }
+            ]
+          }
+        },
+        "id": "1261844107392987136",
+        "location": "哀丽秘榭",
+        "name": "小林澄🌈",
+        "pinned_tweet_id": "1844253160262730109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885716857380110336/wRd-sg51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 460,
+          "like_count": 29465,
+          "listed_count": 10,
+          "media_count": 1281,
+          "tweet_count": 4892
+        },
+        "url": "https://t.co/4RfkiQi61W",
+        "username": "ccl216",
+        "verified": false
+      }
+    ]
+  }
+}

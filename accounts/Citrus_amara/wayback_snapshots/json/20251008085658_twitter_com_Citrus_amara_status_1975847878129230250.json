@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969475885758889985"
+      ],
+      "media_source_tweet_id": [
+        "1969475893279277462"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1975847878129230250",
+    "created_at": "2025-10-08T08:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T09:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975847878129230250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1644734807736483840",
+          "start": 3,
+          "username": "ROBOHead_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/urzUFtLYPN",
+          "end": 48,
+          "expanded_url": "https://x.com/ROBOHead_2/status/1969475893279277462/photo/1",
+          "media_key": "3_1969475885758889985",
+          "start": 25,
+          "url": "https://t.co/urzUFtLYPN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975847878129230250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969475893279277462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ROBOHead_2: 谁来让我活下去🥺 https://t.co/urzUFtLYPN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_1969475885758889985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1T74iRbQAE4eVd.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969475885758889985"
+          ],
+          "media_source_tweet_id": [
+            "1969475893279277462"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1975847878129230250",
+        "created_at": "2025-10-08T08:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T09:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975847878129230250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1644734807736483840",
+              "start": 3,
+              "username": "ROBOHead_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/urzUFtLYPN",
+              "end": 48,
+              "expanded_url": "https://x.com/ROBOHead_2/status/1969475893279277462/photo/1",
+              "media_key": "3_1969475885758889985",
+              "start": 25,
+              "url": "https://t.co/urzUFtLYPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975847878129230250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969475893279277462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ROBOHead_2: 谁来让我活下去🥺 https://t.co/urzUFtLYPN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969475885758889985"
+          ]
+        },
+        "author_id": "1644734807736483840",
+        "conversation_id": "1969475893279277462",
+        "created_at": "2025-09-20T18:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T19:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969475893279277462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urzUFtLYPN",
+              "end": 32,
+              "expanded_url": "https://x.com/ROBOHead_2/status/1969475893279277462/photo/1",
+              "media_key": "3_1969475885758889985",
+              "start": 9,
+              "url": "https://t.co/urzUFtLYPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969475893279277462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 236918,
+          "like_count": 1680,
+          "quote_count": 63,
+          "reply_count": 106,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "谁来让我活下去🥺 https://t.co/urzUFtLYPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 511,
+          "like_count": 8412,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 3148
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T16:12:05.000Z",
+        "description": "你是谁 请支持萝卜头",
+        "id": "1644734807736483840",
+        "location": "New Eridu",
+        "name": "ROBOHead二号机",
+        "pinned_tweet_id": "1837365764061549052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973453229079011333/TKvcO2jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 925,
+          "like_count": 98388,
+          "listed_count": 5,
+          "media_count": 1337,
+          "tweet_count": 20909
+        },
+        "username": "ROBOHead_2",
+        "verified": false
+      }
+    ]
+  }
+}

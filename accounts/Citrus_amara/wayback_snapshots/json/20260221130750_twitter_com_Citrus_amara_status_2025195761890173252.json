@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025195761890173252",
+    "created_at": "2026-02-21T13:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025195761890173252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0voki33Me/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/0voki33Me/status/2025110693524242561",
+          "start": 8,
+          "url": "https://t.co/wd7K2OvSzX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025195761890173252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025110693524242561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "叶子和变性手术 https://t.co/wd7K2OvSzX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025195761890173252",
+        "created_at": "2026-02-21T13:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025195761890173252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0voki33Me/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/0voki33Me/status/2025110693524242561",
+              "start": 8,
+              "url": "https://t.co/wd7K2OvSzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025195761890173252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025110693524242561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叶子和变性手术 https://t.co/wd7K2OvSzX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2025110693524242561",
+        "created_at": "2026-02-21T07:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025110693524242561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025110693524242561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 961,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泰国对我最大的吸引确实是叶子，但同时我也很喜欢东南亚的风情文化和饮食，好想去泰国呀呀呀呀呀呀，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\n磕药的傻逼\nHRT：2025.8.28。\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "shsh548866"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 1017,
+          "like_count": 16967,
+          "listed_count": 6,
+          "media_count": 349,
+          "tweet_count": 9186
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 1107,
+          "like_count": 5211,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3653
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

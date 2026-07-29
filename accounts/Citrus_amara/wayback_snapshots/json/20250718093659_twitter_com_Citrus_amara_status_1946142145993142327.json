@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1945093244397760937",
+    "created_at": "2025-07-18T09:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T10:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946142145993142327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1048022597823164416",
+          "start": 0,
+          "username": "HiallouL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946142145993142327",
+    "in_reply_to_user_id": "1048022597823164416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945093244397760937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiallouL 我也一样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1945093244397760937",
+        "created_at": "2025-07-18T09:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T10:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946142145993142327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1048022597823164416",
+              "start": 0,
+              "username": "HiallouL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946142145993142327",
+        "in_reply_to_user_id": "1048022597823164416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945093244397760937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiallouL 我也一样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048022597823164416",
+        "conversation_id": "1945093244397760937",
+        "created_at": "2025-07-15T12:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T13:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945093244397760937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945093244397760937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 387,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果能让我拥有一副纯天然的美少年身体，我宁愿代价是去当男妓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（但是没有系统名）。疑似双相（有诊断但不认可）。oder。跨性别。\n请求互fo。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 73,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 129
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕  💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608389665610174464/O7Jr75LC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 1180,
+          "like_count": 15073,
+          "listed_count": 4,
+          "media_count": 768,
+          "tweet_count": 4149
+        },
+        "username": "HiallouL",
+        "verified": false
+      }
+    ]
+  }
+}

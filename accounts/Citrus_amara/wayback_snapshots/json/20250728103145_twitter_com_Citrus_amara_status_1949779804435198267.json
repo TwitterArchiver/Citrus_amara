@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949760710185017813",
+    "created_at": "2025-07-28T10:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T11:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949779804435198267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942926706517659648",
+          "start": 0,
+          "username": "jbreaking53448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949779804435198267",
+    "in_reply_to_user_id": "1942926706517659648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949761247622439191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jbreaking53448 爱你。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949760710185017813",
+        "created_at": "2025-07-28T10:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T11:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949779804435198267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942926706517659648",
+              "start": 0,
+              "username": "jbreaking53448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949779804435198267",
+        "in_reply_to_user_id": "1942926706517659648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949761247622439191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jbreaking53448 爱你。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942926706517659648",
+        "conversation_id": "1949760710185017813",
+        "created_at": "2025-07-28T09:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949761247622439191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949761247622439191",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949760710185017813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 抱抱橙子🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。欢迎od的互关，欢迎私信。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 179,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 511
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T12:40:07.000Z",
+        "description": "一个普通人而已，是les🏳️‍🌈/焦虑+强迫☹️友跨🏳️‍⚧️顺女",
+        "id": "1942926706517659648",
+        "location": "Hell",
+        "name": "清野♰",
+        "pinned_tweet_id": "1947350348550774808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946792577014865920/lNIx0XX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 433,
+          "like_count": 790,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 125
+        },
+        "username": "jbreaking53448",
+        "verified": true
+      }
+    ]
+  }
+}

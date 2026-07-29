@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2003481187839570360",
+    "created_at": "2025-12-24T23:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T00:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003967433410044013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697915168532086785",
+          "start": 0,
+          "username": "DXM8964LXM"
+        },
+        {
+          "end": 20,
+          "id": "1512976991976402949",
+          "start": 12,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003967433410044013",
+    "in_reply_to_user_id": "1697915168532086785",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003921263262380080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXM8964LXM @bghtnya 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2003481187839570360",
+        "created_at": "2025-12-24T23:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T00:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003967433410044013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697915168532086785",
+              "start": 0,
+              "username": "DXM8964LXM"
+            },
+            {
+              "end": 20,
+              "id": "1512976991976402949",
+              "start": 12,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003967433410044013",
+        "in_reply_to_user_id": "1697915168532086785",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003921263262380080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXM8964LXM @bghtnya 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697915168532086785",
+        "conversation_id": "2003481187839570360",
+        "created_at": "2025-12-24T20:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T21:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003921263262380080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 22,
+              "id": "1512976991976402949",
+              "start": 14,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003921263262380080",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003833973546398056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @bghtnya 姐姐我们一起吃可待因🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866丨主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 968,
+          "like_count": 14853,
+          "listed_count": 5,
+          "media_count": 278,
+          "tweet_count": 7171
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:12:28.000Z",
+        "description": "反对od的oder/精分/友跨翻车MTX无性别/EMer/化学，合成实操爱好者8964/住长江边某城\n18/189cm/60.8964kg\n不卖皮鼓，私聊询问省市等敏感信息直接拉黑8964\n姐姐：@Psych_Angel\n夫君：@SalviaSWC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "Psych_Angel"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "SalviaSWC"
+              }
+            ]
+          }
+        },
+        "id": "1697915168532086785",
+        "location": "DXM的孤对电子上",
+        "name": "氯酸甲酯🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986833213453475840/2QBWmnJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 133,
+          "like_count": 7534,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 710
+        },
+        "username": "DXM8964LXM",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8392,
+          "following_count": 2088,
+          "like_count": 173275,
+          "listed_count": 19,
+          "media_count": 3652,
+          "tweet_count": 44596
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

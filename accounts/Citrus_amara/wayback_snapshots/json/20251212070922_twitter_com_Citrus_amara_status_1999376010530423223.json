@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1999376010530423223",
+    "created_at": "2025-12-12T07:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T08:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999376010530423223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1253165636210978817",
+          "start": 3,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999376010530423223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999145851965538581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Exusiai159: 建议各位被封号的都去写申诉轰炸客服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1999376010530423223",
+        "created_at": "2025-12-12T07:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999376010530423223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1253165636210978817",
+              "start": 3,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999376010530423223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999145851965538581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Exusiai159: 建议各位被封号的都去写申诉轰炸客服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253165636210978817",
+        "conversation_id": "1999145851965538581",
+        "created_at": "2025-12-11T15:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T16:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999145851965538581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Exusiai159/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Exusiai159/status/1954228363071217869",
+              "start": 18,
+              "url": "https://t.co/C08Upewx8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999145851965538581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1281,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954228363071217869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建议各位被封号的都去写申诉轰炸客服 https://t.co/C08Upewx8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 918,
+          "like_count": 14044,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 6544
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "粥批，正太控，中推鹿野灸和能天使粉丝头子｜会转发正太黄推🔞，如有介意请不要关注｜推特用来当日记本记录碎碎念｜数码产品迷，Windows平板爱好者，半个车迷｜编程一生黑｜禁极端歧视仇恨言论｜有大量政治内容的账号恕不回fo｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 113,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使（圣诞限定）",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997128623422427139/WEFi81VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4945,
+          "following_count": 6220,
+          "like_count": 152512,
+          "listed_count": 12,
+          "media_count": 4627,
+          "tweet_count": 45631
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

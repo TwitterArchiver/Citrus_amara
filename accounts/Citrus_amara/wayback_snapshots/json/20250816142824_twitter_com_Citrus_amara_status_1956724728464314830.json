@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1956258084390887909",
+    "created_at": "2025-08-16T14:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T15:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956724728464314830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "28444928",
+          "start": 0,
+          "username": "QDIS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956724728464314830",
+    "in_reply_to_user_id": "28444928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956258084390887909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QDIS 你支特有的量产型做题蜘蛛\n我认真说的话，初中高中那种监狱一样的发型和服装管理肯定只能造出来一堆一个模子的人。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1147,
+        "media_key": "3_1956258077428342786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYGW1Ia4AIdvda.jpg",
+        "width": 720
+      },
+      {
+        "height": 1506,
+        "media_key": "3_1956258077281542145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYGW0la4AErztW.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1956258084390887909",
+        "created_at": "2025-08-16T14:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956724728464314830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "28444928",
+              "start": 0,
+              "username": "QDIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956724728464314830",
+        "in_reply_to_user_id": "28444928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956258084390887909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QDIS 你支特有的量产型做题蜘蛛\n我认真说的话，初中高中那种监狱一样的发型和服装管理肯定只能造出来一堆一个模子的人。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956258077428342786",
+            "3_1956258077281542145"
+          ]
+        },
+        "author_id": "28444928",
+        "conversation_id": "1956258084390887909",
+        "created_at": "2025-08-15T07:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956258084390887909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KwKMoIWDh1",
+              "end": 106,
+              "expanded_url": "https://x.com/QDIS/status/1956258084390887909/photo/1",
+              "media_key": "3_1956258077428342786",
+              "start": 83,
+              "url": "https://t.co/KwKMoIWDh1"
+            },
+            {
+              "display_url": "pic.x.com/KwKMoIWDh1",
+              "end": 106,
+              "expanded_url": "https://x.com/QDIS/status/1956258084390887909/photo/1",
+              "media_key": "3_1956258077281542145",
+              "start": 83,
+              "url": "https://t.co/KwKMoIWDh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956258084390887909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 485654,
+          "like_count": 1216,
+          "quote_count": 17,
+          "reply_count": 129,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "究竟是饮食还是基因还是生活习惯导致的\n\n为什么国内大陆集美十个九个都是这个形象这个气质?出去看 搞得我都快刻板印象了太标准了,出国见到这样的不开口我都知道从哪里来的 https://t.co/KwKMoIWDh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 352,
+          "like_count": 3143,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1362
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-02T23:18:10.000Z",
+        "description": "弊社专注于研究中国人",
+        "id": "28444928",
+        "location": "🌏︎",
+        "name": "東京圖支株式会社",
+        "pinned_tweet_id": "1950883357891444996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881001835189907457/tg6RtaAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 238,
+          "like_count": 11201,
+          "listed_count": 17,
+          "media_count": 287,
+          "tweet_count": 1631
+        },
+        "username": "QDIS",
+        "verified": false
+      }
+    ]
+  }
+}

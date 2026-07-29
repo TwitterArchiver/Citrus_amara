@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1999974743190204651",
+    "created_at": "2025-12-13T22:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T23:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999974743190204651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skywind3000/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/skywind3000/status/1999399772260827525",
+          "start": 8,
+          "url": "https://t.co/ES4WN08qT4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999974743190204651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999399772260827525",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支付宝.jpg https://t.co/ES4WN08qT4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1999974743190204651",
+        "created_at": "2025-12-13T22:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T23:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999974743190204651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skywind3000/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/skywind3000/status/1999399772260827525",
+              "start": 8,
+              "url": "https://t.co/ES4WN08qT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999974743190204651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999399772260827525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支付宝.jpg https://t.co/ES4WN08qT4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786479809647869952",
+        "conversation_id": "1999311299445162361",
+        "created_at": "2025-12-12T08:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999399772260827525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164388321545449472",
+              "start": 0,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999399772260827525",
+        "in_reply_to_user_id": "1164388321545449472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 40606,
+          "like_count": 45,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999311299445162361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwsl90 经常见有些没小孩的人天天思考啥人生的意义，存在，宇宙之类的问题然后把自己给思考抑郁了，一切都是虚无，但他们有了小孩以后各种心理疾病瞬间好了一大半，天天累的跟狗一样，哪里有空思考这种虚无缥缈的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1999680286733533427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 931,
+          "like_count": 14164,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 6609
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T08:12:53.000Z",
+        "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywind.me/blog",
+                "end": 23,
+                "expanded_url": "https://skywind.me/blog",
+                "start": 0,
+                "url": "https://t.co/UQNrDmhScr"
+              }
+            ]
+          }
+        },
+        "id": "786479809647869952",
+        "location": "Guangdong",
+        "name": "LIN WEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25418,
+          "following_count": 316,
+          "like_count": 6615,
+          "listed_count": 200,
+          "media_count": 1077,
+          "tweet_count": 8066
+        },
+        "url": "https://t.co/UQNrDmhScr",
+        "username": "skywind3000",
+        "verified": true
+      }
+    ]
+  }
+}

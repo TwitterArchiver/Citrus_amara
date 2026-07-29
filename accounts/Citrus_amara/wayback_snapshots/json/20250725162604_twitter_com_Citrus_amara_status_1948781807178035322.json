@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948781807178035322",
+    "created_at": "2025-07-25T16:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T17:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948781807178035322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1666599054917218305",
+          "start": 3,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948781807178035322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948421459451469853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirakira4th: 生理性阳痿怎么治"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948781807178035322",
+        "created_at": "2025-07-25T16:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T17:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948781807178035322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1666599054917218305",
+              "start": 3,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948781807178035322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948421459451469853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirakira4th: 生理性阳痿怎么治"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1948421459451469853",
+        "created_at": "2025-07-24T16:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T17:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948421459451469853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948421459451469853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3005,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "生理性阳痿怎么治"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 142,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 424
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "",
+        "id": "1666599054917218305",
+        "name": "Kira",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946087458736627712/L9mVPwHK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16924,
+          "following_count": 2793,
+          "like_count": 52926,
+          "listed_count": 24,
+          "media_count": 359,
+          "tweet_count": 16885
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

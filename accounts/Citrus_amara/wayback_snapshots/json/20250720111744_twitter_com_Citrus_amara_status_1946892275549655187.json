@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946810706109608368",
+    "created_at": "2025-07-20T11:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T12:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946892275549655187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946892275549655187",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 179,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946810706109608368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1946810702636990464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwR2BPebQAA_AZ7.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946810706109608368",
+        "created_at": "2025-07-20T11:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946892275549655187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946892275549655187",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946810706109608368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946810702636990464"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1946810706109608368",
+        "created_at": "2025-07-20T05:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T06:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946810706109608368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVMjh6cEO4",
+              "end": 36,
+              "expanded_url": "https://x.com/FurinaDF/status/1946810706109608368/photo/1",
+              "media_key": "3_1946810702636990464",
+              "start": 13,
+              "url": "https://t.co/pVMjh6cEO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946810706109608368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12291,
+          "like_count": 181,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "瑞幸咖啡配送员：李克强💀 https://t.co/pVMjh6cEO4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎mtf，ftm和地雷系给我私信。好感刷高了可以爆qq。\n需要墙内联系方式请给我打钱。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 80,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 223
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "Inspired by 浪人新闻 Ronin News",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/realRoninNews",
+                "end": 23,
+                "expanded_url": "http://t.me/realRoninNews",
+                "start": 0,
+                "url": "https://t.co/nHbDzdtdX8"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "河南驻马店",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36653,
+          "following_count": 2248,
+          "like_count": 27279,
+          "listed_count": 87,
+          "media_count": 5772,
+          "tweet_count": 10055
+        },
+        "url": "https://t.co/nHbDzdtdX8",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

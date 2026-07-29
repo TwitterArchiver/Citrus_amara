@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1990936818011836651",
+    "created_at": "2025-11-19T00:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T01:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990941819442762106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        },
+        {
+          "end": 20,
+          "id": "1817584080437014528",
+          "start": 13,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990941819442762106",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990936818011836651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion @N552AA 🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1990936818011836651",
+        "created_at": "2025-11-19T00:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990941819442762106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            },
+            {
+              "end": 20,
+              "id": "1817584080437014528",
+              "start": 13,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990941819442762106",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990936818011836651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion @N552AA 🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1990936818011836651",
+        "created_at": "2025-11-19T00:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990936818011836651"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "mtf"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "crypto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1817584080437014528",
+              "start": 1,
+              "username": "N552AA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/520illusion/status/1990914729896755395",
+              "start": 39,
+              "url": "https://t.co/l6JHfk5R2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990936818011836651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990914729896755395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和@N552AA 见面了 \n目前安全 不用担心了 \n#mtf #crypto https://t.co/l6JHfk5R2l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 784,
+          "like_count": 12209,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 5139
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "币安 欧易 bitget | All in crypto | 07年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁自杀向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | tg:https://t.co/ecnOMDGPjm  | 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 144,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 121,
+                "url": "https://t.co/ecnOMDGPjm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDGPjm"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳️‍⚧️",
+        "pinned_tweet_id": "1990511307083428069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908191260986486784/eh4n47Mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 202,
+          "like_count": 1300,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/ecnOMDGPjm",
+        "username": "520illusion",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/双相/ADHD/BPD/断续含糖/\n小证：2025-11-14/坐标上海/半家长党/抱抱最最可爱的姐姐: @yizhikapaiqaq 妹妹:@suikahsnya/主人：@ayumi_0222_\n/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "suikahsnya"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "ayumi_0222_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫",
+        "pinned_tweet_id": "1990743081273208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004171713146880/ZhbhI7xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 1015,
+          "like_count": 4077,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1446
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

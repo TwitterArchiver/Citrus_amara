@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1944900269633900866",
+    "created_at": "2025-07-16T08:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T09:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945404466749964725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        },
+        {
+          "end": 29,
+          "id": "1889453110650871808",
+          "start": 13,
+          "username": "qinghuan5865471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945404466749964725",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945382066767413251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 @qinghuan5865471 小镜音你再吃感康你的肝就要坏掉了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1944900269633900866",
+        "created_at": "2025-07-16T08:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T09:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945404466749964725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            },
+            {
+              "end": 29,
+              "id": "1889453110650871808",
+              "start": 13,
+              "username": "qinghuan5865471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945404466749964725",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945382066767413251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 @qinghuan5865471 小镜音你再吃感康你的肝就要坏掉了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882936483662663680",
+        "conversation_id": "1944900269633900866",
+        "created_at": "2025-07-16T07:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T08:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945382066767413251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889453110650871808",
+              "start": 0,
+              "username": "qinghuan5865471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945382066767413251",
+        "in_reply_to_user_id": "1889453110650871808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945364372181934489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinghuan5865471 我吃感康倒是会有很明显的外部幻觉咪啪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "双相已确诊。oder。跨性别。请求互fo。\n叫我苦橙就好了。",
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "苦橙",
+        "pinned_tweet_id": "1939399525346550019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 68,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 97
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼",
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1945207460291101049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882937483756765184/OocuXoje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 221,
+          "like_count": 3877,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 425
+        },
+        "username": "jngyn298282",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T23:15:14.000Z",
+        "description": "生产日期2011，0130。一个人，生产地来到我们的大东北☝🏻🤓辽宁本溪|姐姐@8nuecLav||老公@Washiyin_Neko||女鹅@Xiaokongyu233|。 赤伶，清欢，远山微暮，云舒，阿拉斯托都是我，QQ号2592258482，我很希望大家可以加我QQ一起打游戏一起聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "8nuecLav"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "Washiyin_Neko"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Xiaokongyu233"
+              }
+            ]
+          }
+        },
+        "id": "1889453110650871808",
+        "location": "辽宁本溪",
+        "name": "AD🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1920445082718568582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942356192744951808/ps-WV26e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 388,
+          "like_count": 1580,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 787
+        },
+        "username": "qinghuan5865471",
+        "verified": false
+      }
+    ]
+  }
+}

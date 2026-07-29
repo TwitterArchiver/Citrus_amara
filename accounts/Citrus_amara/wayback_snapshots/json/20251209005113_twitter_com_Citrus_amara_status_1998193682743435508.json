@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "1998193682743435508",
+    "created_at": "2025-12-09T00:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T01:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998193682743435508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2D_Printer/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/2D_Printer/status/1998007658826375312",
+          "start": 16,
+          "url": "https://t.co/kMZEOtKgIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998193682743435508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998007658826375312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "似乎也说明了一些人成瘾的机制。 https://t.co/kMZEOtKgIV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "1998193682743435508",
+        "created_at": "2025-12-09T00:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T01:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998193682743435508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2D_Printer/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/2D_Printer/status/1998007658826375312",
+              "start": 16,
+              "url": "https://t.co/kMZEOtKgIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998193682743435508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998007658826375312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "似乎也说明了一些人成瘾的机制。 https://t.co/kMZEOtKgIV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928115689958821893",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "1998007658826375312",
+        "created_at": "2025-12-08T12:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998007658826375312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998007658826375312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以前经常看北美刑侦类电视剧中有各色药物滥用的案例——\n有人正经吸海洛因\n有人飞叶子\n有人止痛药上瘾\n还有穷到吸消毒水的\n……\n各种奇葩琳琅满目\n我一度无法理解药物滥用到底是个什么状态\n让这么多人趋之若鹜\n直到我大概在大学毕业之后没多久\n因为隔三差五的偏头痛发作\n去药店咨询时被推荐了散利痛（非处方药）\n主要功效是退烧、止疼\n从那以后每次偏头痛发作就来两粒\n大约半小时起效\n非常方便\n唯一有点副作用的是\n如果使用时间正赶上临睡前\n那会导致当晚睡眠不太好\n虽说剂量不大\n但那种从“头疼欲裂”瞬间切换到“灵台清明”的巨大落差，确实让人有一种从深渊里被拯救的感觉\n人类对药物的使用还是需要慎之再慎"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2626,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前经常看北美刑侦类电视剧中有各色药物滥用的案例——\n有人正经吸海洛因\n有人飞叶子\n有人止痛药上瘾\n还有穷到吸消毒水的\n……\n各种奇葩琳琅满目\n我一度无法理解药物滥用到底是个什么状态\n让这么多人趋之若鹜\n直到我大概在大学毕业之后没多久\n因为隔三差五的偏头痛发作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/吸毒 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 918,
+          "like_count": 13955,
+          "listed_count": 4,
+          "media_count": 237,
+          "tweet_count": 6395
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T15:46:41.000Z",
+        "description": "",
+        "id": "1928115689958821893",
+        "name": "梨士忌与雪茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985744533863161856/ice3wDJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 211,
+          "like_count": 15918,
+          "listed_count": 11,
+          "media_count": 411,
+          "tweet_count": 6610
+        },
+        "username": "2D_Printer",
+        "verified": false
+      }
+    ]
+  }
+}

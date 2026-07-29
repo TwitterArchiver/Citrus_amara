@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2046760877014327499",
+    "created_at": "2026-04-22T01:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046760877014327499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_Shikieiki/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/_Shikieiki/status/2046626016270196823",
+          "start": 15,
+          "url": "https://t.co/95yBF3UDAl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046760877014327499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046626016270196823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😗😗其实我经常服用普瑞后开车 https://t.co/95yBF3UDAl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2046760877014327499",
+        "created_at": "2026-04-22T01:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046760877014327499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Shikieiki/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/_Shikieiki/status/2046626016270196823",
+              "start": 15,
+              "url": "https://t.co/95yBF3UDAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046760877014327499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046626016270196823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😗😗其实我经常服用普瑞后开车 https://t.co/95yBF3UDAl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "1998810919682638294",
+        "created_at": "2026-04-21T16:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046626016270196823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777730090924978176",
+              "start": 0,
+              "username": "Hiiragi_qin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046626016270196823",
+        "in_reply_to_user_id": "1777730090924978176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046625425280184609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiiragi_qin 服用物质开车不算毒驾吗(x)\n我的话，会引导自己去做喜欢的事情，从而达到改善情绪和自身的效果。不大在意周遭的事物或许可以减轻被害妄想)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 1039,
+          "like_count": 19213,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 10955
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Dissociatives.saved.my.life/Memantine",
+                "end": 23,
+                "expanded_url": "http://Dissociatives.saved.my.life/Memantine",
+                "start": 0,
+                "url": "https://t.co/uC2zrJxg3u"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2034690854695379175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 866,
+          "like_count": 25605,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 3397
+        },
+        "url": "https://t.co/uC2zrJxg3u",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

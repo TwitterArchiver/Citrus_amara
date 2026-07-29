@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2079520402897015271",
+    "created_at": "2026-07-21T10:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079520402897015271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1485827766712823810",
+          "start": 3,
+          "username": "catlogy110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079520402897015271",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999082510106665265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @catlogy110: I am a former drug addict.\nI used all kinds of illegal drugs in the past, but meth is the one I used the longest.\nIt's been…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1999082486803128321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74q7h6a4AEoha_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2079520402897015271",
+        "created_at": "2026-07-21T10:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079520402897015271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1485827766712823810",
+              "start": 3,
+              "username": "catlogy110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079520402897015271",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999082510106665265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @catlogy110: I am a former drug addict.\nI used all kinds of illegal drugs in the past, but meth is the one I used the longest.\nIt's been…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999082486803128321"
+          ]
+        },
+        "author_id": "1485827766712823810",
+        "conversation_id": "1999082510106665265",
+        "created_at": "2025-12-11T11:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999082510106665265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMYKSlyrKb",
+              "end": 301,
+              "expanded_url": "https://x.com/catlogy110/status/1999082510106665265/photo/1",
+              "media_key": "3_1999082486803128321",
+              "start": 278,
+              "url": "https://t.co/ZMYKSlyrKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999082510106665265",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1492,
+                "start": 1478,
+                "tag": "drugaddiction"
+              },
+              {
+                "end": 1511,
+                "start": 1493,
+                "tag": "addictionrecovery"
+              },
+              {
+                "end": 1531,
+                "start": 1512,
+                "tag": "recoveryispossible"
+              },
+              {
+                "end": 1542,
+                "start": 1532,
+                "tag": "addiction"
+              },
+              {
+                "end": 1565,
+                "start": 1543,
+                "tag": "mentalhealthawareness"
+              }
+            ]
+          },
+          "text": "I am a former drug addict.\nI used all kinds of illegal drugs in the past, but meth is the one I used the longest.\nIt's been six years since I stopped using meth. I no longer have any cravings for drugs.\n\nTo you, who is currently suffering from drug addiction:\nWhether the drugs you're using are illegal or legal, try to set aside judgments of right and wrong based on legal perspectives or social norms for now. Those aren't the real issues.\nRight now, you are using drugs—you need them—to survive.\nThat's why I will never tell you, \"You should quit drugs right now.\" Because right now, however clumsily, you are desperately trying to live.\nTaking drugs away from you now would be like taking away the crutches you need to walk. You wouldn't be able to walk... meaning it would become difficult for you to live.\nWe drug addicts are clumsy people who can't live well.\nYou don't need to force yourself to quit drugs. They're simply necessary for you right now.\nMaybe someday you won't need drugs anymore, or maybe you'll need them until you die.\n\nI'll say it again: \"You don't need to quit drugs right now.\"\nBut one thing I can say for sure is, life without drugs isn't so bad, you know?\nIf you're trying to quit drugs right now, just stop for today. If you can, tell yourself to do the same tomorrow.\n\nTo those suffering from drug addiction right now, those who just can't quit, those desperately trying to quit—whatever your situation.\nMay tomorrow be a wonderful day for you.\n\n#drugaddiction\n#addictionrecovery\n#recoveryispossible\n#addiction\n#mentalhealthawareness"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11597,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "I am a former drug addict.\nI used all kinds of illegal drugs in the past, but meth is the one I used the longest.\nIt's been six years since I stopped using meth. I no longer have any cravings for drugs.\n\nTo you, who is currently suffering from drug addiction:\nWhether the drugs https://t.co/ZMYKSlyrKb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "shsh548866"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 1191,
+          "like_count": 21142,
+          "listed_count": 5,
+          "media_count": 442,
+          "tweet_count": 11844
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-25T04:13:11.000Z",
+        "description": "ADHD ＋ASD、その他諸々障害（診断済）／元覚せい剤依存症／前科多々あり／元受刑者／イジメ・虐待サバイバー／現在、禁煙＆断酒中／就労継続支援B型／時々写真を撮ったり、音楽を奏でたりします／病み垢・薬物垢ではありませんので期待なさらず。日記みたいなもんです。#フォロバ100",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 130,
+                "tag": "フォロバ100"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/catlogy69…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/catlogy69?si=V7Ds2mz7TEqZZABu3KsqBg",
+                "start": 0,
+                "url": "https://t.co/RSl5BODdM5"
+              }
+            ]
+          }
+        },
+        "id": "1485827766712823810",
+        "location": "進入的想起の彼方",
+        "name": "猫学",
+        "pinned_tweet_id": "1999082510106665265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486546963545804804/pGeqMaNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5286,
+          "following_count": 4987,
+          "like_count": 353709,
+          "listed_count": 28,
+          "media_count": 7276,
+          "tweet_count": 113148
+        },
+        "url": "https://t.co/RSl5BODdM5",
+        "username": "catlogy110",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950441990073581788",
+    "created_at": "2025-07-30T06:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950441990073581788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZhouCher2983/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ZhouCher2983/status/1950441802093506859",
+          "start": 16,
+          "url": "https://t.co/DkZXLqUXP0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950441990073581788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950441802093506859",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽我笑死了扣了两下开始那咋了 https://t.co/DkZXLqUXP0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 184,
+        "media_key": "3_1950441722187821056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFcaZYbMAAC53T.png",
+        "width": 193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950441990073581788",
+        "created_at": "2025-07-30T06:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950441990073581788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZhouCher2983/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ZhouCher2983/status/1950441802093506859",
+              "start": 16,
+              "url": "https://t.co/DkZXLqUXP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950441990073581788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950441802093506859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽我笑死了扣了两下开始那咋了 https://t.co/DkZXLqUXP0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950441722187821056"
+          ]
+        },
+        "author_id": "1849315255379460096",
+        "conversation_id": "1950441614217732230",
+        "created_at": "2025-07-30T06:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950441802093506859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qqqxkXcyNl",
+              "end": 167,
+              "expanded_url": "https://x.com/ZhouCher2983/status/1950441802093506859/photo/1",
+              "media_key": "3_1950441722187821056",
+              "start": 144,
+              "url": "https://t.co/qqqxkXcyNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950441802093506859",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950441614217732230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了那咋了如何呢 https://t.co/qqqxkXcyNl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 217,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 614
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T05:01:55.000Z",
+        "description": "本人生理性别女 心理性别男 跨性别男同 劳攻：@gnawizvj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "gnawizvj"
+              }
+            ]
+          }
+        },
+        "id": "1849315255379460096",
+        "location": "新西兰",
+        "name": "重启的恶魔🩸",
+        "pinned_tweet_id": "1927962348699947383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943932918163750913/KTqQ-BUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 3,
+          "like_count": 3455,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 1845
+        },
+        "username": "ZhouCher2983",
+        "verified": false
+      }
+    ]
+  }
+}

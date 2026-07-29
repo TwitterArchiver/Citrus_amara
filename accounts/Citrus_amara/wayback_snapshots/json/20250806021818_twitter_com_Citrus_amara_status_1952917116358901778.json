@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952778305817411900",
+    "created_at": "2025-08-06T02:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T03:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952917116358901778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933898679452409856",
+          "start": 0,
+          "username": "choue868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952917116358901778",
+    "in_reply_to_user_id": "1933898679452409856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952916709721161865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choue868 我戒断也还好，就是焦虑，暴躁，抑郁。但是我不o的时候也一样焦虑暴躁抑郁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952778305817411900",
+        "created_at": "2025-08-06T02:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T03:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952917116358901778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933898679452409856",
+              "start": 0,
+              "username": "choue868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952917116358901778",
+        "in_reply_to_user_id": "1933898679452409856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952916709721161865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choue868 我戒断也还好，就是焦虑，暴躁，抑郁。但是我不o的时候也一样焦虑暴躁抑郁。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933898679452409856",
+        "conversation_id": "1952778305817411900",
+        "created_at": "2025-08-06T02:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T03:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952916709721161865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952916709721161865",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952915068913631476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 我遇见一个，戒断反应特别强烈，轻生厌世。\n还是注意一些。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 271,
+          "like_count": 1873,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 868
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T14:46:04.000Z",
+        "description": "",
+        "id": "1933898679452409856",
+        "name": "Lioniswaiting",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933898741045727232/GHYCkaCj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 229,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 343
+        },
+        "username": "choue868",
+        "verified": false
+      }
+    ]
+  }
+}

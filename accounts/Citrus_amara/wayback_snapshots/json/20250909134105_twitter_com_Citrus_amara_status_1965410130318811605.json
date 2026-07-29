@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1965103208667463727",
+    "created_at": "2025-09-09T13:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T14:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965410130318811605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "920862590103719938",
+          "start": 0,
+          "username": "gerradsecond"
+        },
+        {
+          "end": 26,
+          "id": "1353169870691549184",
+          "start": 14,
+          "username": "iPaulCanada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965410130318811605",
+    "in_reply_to_user_id": "920862590103719938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965286267870216299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gerradsecond @iPaulCanada 太伟大了祖国🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1965103208667463727",
+        "created_at": "2025-09-09T13:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965410130318811605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "920862590103719938",
+              "start": 0,
+              "username": "gerradsecond"
+            },
+            {
+              "end": 26,
+              "id": "1353169870691549184",
+              "start": 14,
+              "username": "iPaulCanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965410130318811605",
+        "in_reply_to_user_id": "920862590103719938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965286267870216299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gerradsecond @iPaulCanada 太伟大了祖国🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "920862590103719938",
+        "conversation_id": "1965103208667463727",
+        "created_at": "2025-09-09T05:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T06:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965286267870216299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353169870691549184",
+              "start": 0,
+              "username": "iPaulCanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965286267870216299",
+        "in_reply_to_user_id": "1353169870691549184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11380,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965103208667463727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPaulCanada 有木有一种可能，是祖国正在保护我们？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 409,
+          "like_count": 6331,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 2442
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-19T04:02:05.000Z",
+        "description": "",
+        "id": "920862590103719938",
+        "name": "gerradsecond",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1225634751379210243/x82eGxFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 713,
+          "like_count": 17564,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 2854
+        },
+        "username": "gerradsecond",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138583,
+          "following_count": 510,
+          "like_count": 7498,
+          "listed_count": 572,
+          "media_count": 9558,
+          "tweet_count": 15881
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

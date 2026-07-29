@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1972728494057742456",
+    "created_at": "2025-09-30T03:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T04:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972868331834343853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971006655430262784",
+          "start": 0,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972868331834343853",
+    "in_reply_to_user_id": "1971006655430262784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972728494057742456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FxxkApexLegend 喵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1972728494057742456",
+        "created_at": "2025-09-30T03:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T04:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972868331834343853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972868331834343853",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972728494057742456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend 喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971006655430262784",
+        "conversation_id": "1972728494057742456",
+        "created_at": "2025-09-29T18:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T19:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972728494057742456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972728494057742456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 374,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子服了。\n\n洗完澡全裸躺床上猫跑过来舔我奶子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 477,
+          "like_count": 7905,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2927
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "“青野怎麼不玩地平線去推特賣藥了”/我是「翎」 / 🏳️‍⚧️🍥MtX💛🤍💜🖤(she?/they) /26fall🇨🇦🇬🇧 / Apex地平線從新手到入門到賬號已註銷 / 舞萌痴/雷見證or反跨 / 里推@KagurazakaAkira ❤️@juhao0721 / 擔保買藥找@minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "KagurazakaAkira"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "juhao0721"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/All…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Allenium",
+                "start": 0,
+                "url": "https://t.co/a5iMW7sZie"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "在🇬🇧读书",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1971656298539503670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971157025330704384/YaGDwMwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 161,
+          "like_count": 649,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/a5iMW7sZie",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

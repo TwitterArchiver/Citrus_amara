@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948303237695603099",
+    "created_at": "2025-07-24T08:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T09:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948303237695603099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948303237695603099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948251935171109187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 跨圈最尴尬的事情。\n\n药娘A：我不混跨圈了，我爸妈不支持，要给我矫正。\n药娘B：我也不混跨圈了，我爸妈说支持我，让我回家。\n\n一个月后，两个人在同一间矫正中心见面了。🙆🏻‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948303237695603099",
+        "created_at": "2025-07-24T08:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T09:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948303237695603099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948303237695603099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948251935171109187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 跨圈最尴尬的事情。\n\n药娘A：我不混跨圈了，我爸妈不支持，要给我矫正。\n药娘B：我也不混跨圈了，我爸妈说支持我，让我回家。\n\n一个月后，两个人在同一间矫正中心见面了。🙆🏻‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1948251935171109187",
+        "created_at": "2025-07-24T05:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T06:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948251935171109187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948251935171109187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1148,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨圈最尴尬的事情。\n\n药娘A：我不混跨圈了，我爸妈不支持，要给我矫正。\n药娘B：我也不混跨圈了，我爸妈说支持我，让我回家。\n\n一个月后，两个人在同一间矫正中心见面了。🙆🏻‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 120,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 364
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17886,
+          "following_count": 186,
+          "like_count": 566,
+          "listed_count": 65,
+          "media_count": 89,
+          "tweet_count": 17997
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

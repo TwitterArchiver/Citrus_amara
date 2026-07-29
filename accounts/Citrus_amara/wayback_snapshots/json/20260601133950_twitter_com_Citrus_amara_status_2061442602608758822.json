@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2060185468608930112",
+    "created_at": "2026-06-01T13:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061442602608758822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999040656942223360",
+          "start": 0,
+          "username": "ewan114514"
+        },
+        {
+          "end": 24,
+          "id": "1958507577077342208",
+          "start": 12,
+          "username": "Vacue138950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061442602608758822",
+    "in_reply_to_user_id": "1999040656942223360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061435785841397812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ewan114514 @Vacue138950 我应当是一个观察者的视角。但我不是永恒不变的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2060185468608930112",
+        "created_at": "2026-06-01T13:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061442602608758822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999040656942223360",
+              "start": 0,
+              "username": "ewan114514"
+            },
+            {
+              "end": 24,
+              "id": "1958507577077342208",
+              "start": 12,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061442602608758822",
+        "in_reply_to_user_id": "1999040656942223360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061435785841397812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ewan114514 @Vacue138950 我应当是一个观察者的视角。但我不是永恒不变的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999040656942223360",
+        "conversation_id": "2060185468608930112",
+        "created_at": "2026-06-01T13:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061435785841397812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 26,
+              "id": "1958507577077342208",
+              "start": 14,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061435785841397812",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061434857918750765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @Vacue138950 永恒的自我的概念真的存在吗，或是语言塑造出来的方便描述个体的符号呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 1089,
+          "like_count": 20363,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 11485
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T08:57:00.000Z",
+        "description": "𝓜𝓮𝓻𝓻𝔂 𝓒𝓱𝓻𝓲𝓼𝓽𝓶𝓪𝓼, 𝓜𝓻. 𝓛𝓪𝔀𝓻𝓮𝓷𝓬𝓮  |  抬头望见参宿四，心中思念springwind",
+        "id": "1999040656942223360",
+        "location": "第六病室",
+        "name": "伊万(absolute",
+        "pinned_tweet_id": "2042905392410431801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862844606312448/skmkLiUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 199,
+          "like_count": 12801,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 623
+        },
+        "username": "ewan114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Signal VacueNexus.99 | 空宇回寰無駐形，道極荒墟不聞歌 | qpr: @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1958507577077342208",
+        "location": "幻想郷",
+        "name": "Vacue",
+        "pinned_tweet_id": "1997401990079623617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 749,
+          "like_count": 3542,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1039
+        },
+        "username": "Vacue138950",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2018241912864756036",
+    "created_at": "2026-02-02T09:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T10:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018252355364426087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018252355364426087",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018241912864756036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo 实际上可以。用点小巧思绕过去就好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018241912864756036",
+        "created_at": "2026-02-02T09:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T10:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018252355364426087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018252355364426087",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018241912864756036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo 实际上可以。用点小巧思绕过去就好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755765450707709952",
+        "conversation_id": "2018241912864756036",
+        "created_at": "2026-02-02T08:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018241912864756036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018241912864756036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是ai能用来查询自杀方法就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 998,
+          "like_count": 16256,
+          "listed_count": 6,
+          "media_count": 324,
+          "tweet_count": 8642
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "福瑞！术力口！| feat.君 | 我希望我最后能感谢这一切，因为我和你在一起",
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "2013590979693953234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004504021785071616/3r_0Vu5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 2292,
+          "like_count": 50328,
+          "listed_count": 6,
+          "media_count": 1726,
+          "tweet_count": 10901
+        },
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

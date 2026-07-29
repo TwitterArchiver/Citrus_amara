@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949770782319722946",
+    "created_at": "2025-07-30T13:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T14:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950547415980724680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3241826436",
+          "start": 0,
+          "username": "kounotei_taraku"
+        },
+        {
+          "end": 33,
+          "id": "1342814506234257409",
+          "start": 17,
+          "username": "MgLGfsfs0UaNQeO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950547415980724680",
+    "in_reply_to_user_id": "3241826436",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949822160027218140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kounotei_taraku @MgLGfsfs0UaNQeO その通りだ。中国共産党は過ちを反省し、改善しているが、民主的な監視がないため、中国共産党が挽回しようとする前にすでに災難が起きていることが非常に多い。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949770782319722946",
+        "created_at": "2025-07-30T13:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950547415980724680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3241826436",
+              "start": 0,
+              "username": "kounotei_taraku"
+            },
+            {
+              "end": 33,
+              "id": "1342814506234257409",
+              "start": 17,
+              "username": "MgLGfsfs0UaNQeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950547415980724680",
+        "in_reply_to_user_id": "3241826436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949822160027218140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kounotei_taraku @MgLGfsfs0UaNQeO その通りだ。中国共産党は過ちを反省し、改善しているが、民主的な監視がないため、中国共産党が挽回しようとする前にすでに災難が起きていることが非常に多い。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3241826436",
+        "conversation_id": "1949770782319722946",
+        "created_at": "2025-07-28T13:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T14:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949822160027218140"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "中国 市民",
+              "probability": 0.4406,
+              "start": 17,
+              "type": "Organization"
+            },
+            {
+              "end": 81,
+              "normalized_text": "ロシア",
+              "probability": 0.9224,
+              "start": 79,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1342814506234257409",
+              "start": 0,
+              "username": "MgLGfsfs0UaNQeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949822160027218140",
+        "in_reply_to_user_id": "1342814506234257409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949770782319722946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MgLGfsfs0UaNQeO 中国 市民の立場に立っていない。一党独裁で権力を批判する自由も政治的自由もない。権力を監視する野党もメディアも 存在しない。ロシアでさえ選挙やってるのに中国人には 投票権がない。10年前には人権派弁護士が一斉に大量逮捕。国内報道は一切ない。天安門事件は口にもできない。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 224,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 633
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-11T02:46:39.000Z",
+        "description": "リベラル保守の視点でツイートします",
+        "id": "3241826436",
+        "name": "鴻乃亭多楽（３代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585492270727340037/yBDBtX6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 99,
+          "like_count": 5,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 1152
+        },
+        "username": "kounotei_taraku",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-26T12:49:01.000Z",
+        "description": "神戸の普通の会社員。中国歴史好き。祖父は原爆投下直後に現場救護へいった元衛生兵。子供の頃からその悲惨な現場の話を聞かされた。",
+        "id": "1342814506234257409",
+        "name": "とよ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364195348957159424/bPU_1rk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3360,
+          "following_count": 2013,
+          "like_count": 43878,
+          "listed_count": 54,
+          "media_count": 105,
+          "tweet_count": 7877
+        },
+        "username": "MgLGfsfs0UaNQeO",
+        "verified": false
+      }
+    ]
+  }
+}

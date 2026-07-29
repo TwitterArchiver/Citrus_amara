@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2061673845023789317",
+    "created_at": "2026-06-02T04:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061673845023789317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1549648542339403777",
+          "start": 3,
+          "username": "pedrinhokkkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061673845023789317",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061471910051901856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pedrinhokkkj: 12 caixas de Zolpidem por mes = 720 reais\n12 caixas de Xanax por mes = 720 reais\n2 caixa de Vevanse por mês = 1200 reais…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2061673845023789317",
+        "created_at": "2026-06-02T04:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061673845023789317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1549648542339403777",
+              "start": 3,
+              "username": "pedrinhokkkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061673845023789317",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061471910051901856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pedrinhokkkj: 12 caixas de Zolpidem por mes = 720 reais\n12 caixas de Xanax por mes = 720 reais\n2 caixa de Vevanse por mês = 1200 reais…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549648542339403777",
+        "conversation_id": "2061471910051901856",
+        "created_at": "2026-06-01T15:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:34:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061471399139594726",
+          "2061471910051901856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061471910051901856",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {},
+          "text": "12 caixas de Zolpidem por mes = 720 reais\n12 caixas de Xanax por mes = 720 reais\n2 caixa de Vevanse por mês = 1200 reais\n1 caixa de clonazepam  = 35 reais\n1 caixa de fluoxetina = 85 reais\n1 caixa de Litio = 50 conto\n\nagora vem os ilícitos\n20g de weed pra ansiedade = 400 reais\n24g de cogu pra fugir da realidade = 350 reais \n\n3560 reais por mês só pra eu ficar vivo, ta valendo mais a pena morrer"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 166452,
+          "like_count": 957,
+          "quote_count": 224,
+          "reply_count": 136,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "12 caixas de Zolpidem por mes = 720 reais\n12 caixas de Xanax por mes = 720 reais\n2 caixa de Vevanse por mês = 1200 reais\n1 caixa de clonazepam  = 35 reais\n1 caixa de fluoxetina = 85 reais\n1 caixa de Litio = 50 conto\n\nagora vem os ilícitos\n20g de weed pra ansiedade = 400 reais\n24g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 1088,
+          "like_count": 20380,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 11492
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T06:53:06.000Z",
+        "description": "Bixeiro tier S++//1kk+ profit.\nChallenger BR//GM NA 180 MS.",
+        "id": "1549648542339403777",
+        "name": "Little Peter",
+        "pinned_tweet_id": "2044810009045852244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055184315093270528/U0ide6hR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 57,
+          "like_count": 2526,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1398
+        },
+        "username": "pedrinhokkkj",
+        "verified": true
+      }
+    ]
+  }
+}

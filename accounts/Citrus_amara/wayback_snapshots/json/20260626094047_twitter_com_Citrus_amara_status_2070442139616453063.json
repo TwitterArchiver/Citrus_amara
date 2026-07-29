@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2069955724739072168",
+    "created_at": "2026-06-26T09:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070442139616453063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724267127031672832",
+          "start": 0,
+          "username": "aliebwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070442139616453063",
+    "in_reply_to_user_id": "1724267127031672832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069955724739072168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliebwa 高血糖😙\n强力枇杷露没什么劲的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2069955724739072168",
+        "created_at": "2026-06-26T09:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070442139616453063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724267127031672832",
+              "start": 0,
+              "username": "aliebwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070442139616453063",
+        "in_reply_to_user_id": "1724267127031672832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069955724739072168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliebwa 高血糖😙\n强力枇杷露没什么劲的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724267127031672832",
+        "conversation_id": "2069955724739072168",
+        "created_at": "2026-06-25T01:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069955724739072168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069955724739072168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 849,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请问强力枇杷露会有什么副作用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n---\nAutism/Plurality/BPD/药物滥用/双相\n\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 1134,
+          "like_count": 20847,
+          "listed_count": 5,
+          "media_count": 424,
+          "tweet_count": 11687
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T03:25:00.000Z",
+        "description": "",
+        "id": "1724267127031672832",
+        "name": "idi",
+        "pinned_tweet_id": "1791115717347279245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005893629219627008/uLj6ERYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 1102,
+          "like_count": 1215,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 1736
+        },
+        "url": "",
+        "username": "aliebwa",
+        "verified": false
+      }
+    ]
+  }
+}

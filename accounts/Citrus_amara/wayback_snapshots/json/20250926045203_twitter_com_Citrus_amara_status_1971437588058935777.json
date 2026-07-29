@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971367878495739904",
+        "3_1971368070787760129"
+      ],
+      "media_source_tweet_id": [
+        "1971368090962391272",
+        "1971368090962391272"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1971437588058935777",
+    "created_at": "2025-09-26T04:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T05:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971437588058935777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S2oZv5D9VN",
+          "end": 48,
+          "expanded_url": "https://x.com/FurinaDF/status/1971368090962391272/photo/1",
+          "media_key": "3_1971367878495739904",
+          "start": 25,
+          "url": "https://t.co/S2oZv5D9VN"
+        },
+        {
+          "display_url": "pic.x.com/S2oZv5D9VN",
+          "end": 48,
+          "expanded_url": "https://x.com/FurinaDF/status/1971368090962391272/photo/1",
+          "media_key": "3_1971368070787760129",
+          "start": 25,
+          "url": "https://t.co/S2oZv5D9VN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971437588058935777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971368090962391272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 妈的，跟共产党拼了！ https://t.co/S2oZv5D9VN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1971367878495739904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1u0pAdaoAAGvy4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 389,
+        "media_key": "3_1971368070787760129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1u00MzaAAE_OjX.png",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971367878495739904",
+            "3_1971368070787760129"
+          ],
+          "media_source_tweet_id": [
+            "1971368090962391272",
+            "1971368090962391272"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1971437588058935777",
+        "created_at": "2025-09-26T04:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T05:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971437588058935777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2oZv5D9VN",
+              "end": 48,
+              "expanded_url": "https://x.com/FurinaDF/status/1971368090962391272/photo/1",
+              "media_key": "3_1971367878495739904",
+              "start": 25,
+              "url": "https://t.co/S2oZv5D9VN"
+            },
+            {
+              "display_url": "pic.x.com/S2oZv5D9VN",
+              "end": 48,
+              "expanded_url": "https://x.com/FurinaDF/status/1971368090962391272/photo/1",
+              "media_key": "3_1971368070787760129",
+              "start": 25,
+              "url": "https://t.co/S2oZv5D9VN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971437588058935777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971368090962391272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: 妈的，跟共产党拼了！ https://t.co/S2oZv5D9VN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971367878495739904",
+            "3_1971368070787760129"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1971368090962391272",
+        "created_at": "2025-09-26T00:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T01:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971368090962391272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2oZv5D9VN",
+              "end": 34,
+              "expanded_url": "https://x.com/FurinaDF/status/1971368090962391272/photo/1",
+              "media_key": "3_1971367878495739904",
+              "start": 11,
+              "url": "https://t.co/S2oZv5D9VN"
+            },
+            {
+              "display_url": "pic.x.com/S2oZv5D9VN",
+              "end": 34,
+              "expanded_url": "https://x.com/FurinaDF/status/1971368090962391272/photo/1",
+              "media_key": "3_1971368070787760129",
+              "start": 11,
+              "url": "https://t.co/S2oZv5D9VN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971368090962391272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9235,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "妈的，跟共产党拼了！ https://t.co/S2oZv5D9VN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 461,
+          "like_count": 7685,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2879
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "偷井盖专家，河南驻马店实验小学四年级在读@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1970377072712524139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52638,
+          "following_count": 2316,
+          "like_count": 28780,
+          "listed_count": 150,
+          "media_count": 6853,
+          "tweet_count": 11320
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

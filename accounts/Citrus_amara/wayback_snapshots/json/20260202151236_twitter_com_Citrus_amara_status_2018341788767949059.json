@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2018341788767949059",
+    "created_at": "2026-02-02T15:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T16:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018341788767949059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ngn202403/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ngn202403/status/2018307066771931324",
+          "start": 4,
+          "url": "https://t.co/e8ItATmkKG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018341788767949059",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018307066771931324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "，，， https://t.co/e8ItATmkKG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018341788767949059",
+        "created_at": "2026-02-02T15:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018341788767949059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ngn202403/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ngn202403/status/2018307066771931324",
+              "start": 4,
+              "url": "https://t.co/e8ItATmkKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018341788767949059",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018307066771931324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "，，， https://t.co/e8ItATmkKG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780544345781006336",
+        "conversation_id": "2017961136524853679",
+        "created_at": "2026-02-02T12:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018307066771931324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "85875473",
+              "start": 0,
+              "username": "CDTChinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018307066771931324",
+        "in_reply_to_user_id": "85875473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017961136524853679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CDTChinese 打了那么多字能解释清楚国女不是世界马桶吗？不能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 997,
+          "like_count": 16304,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 8669
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T10:30:32.000Z",
+        "description": "He/Him. The opinion expressed in my likes/retweets does not represent my own position.\n男性主义，少数群体友好（限认同男性主义）\n机器人不要关注我！！！！！",
+        "id": "1780544345781006336",
+        "name": "😹⛓️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015786679399751680/j4HUIA_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 233,
+          "like_count": 38960,
+          "listed_count": 5,
+          "media_count": 455,
+          "tweet_count": 12548
+        },
+        "username": "ngn202403",
+        "verified": false
+      }
+    ]
+  }
+}

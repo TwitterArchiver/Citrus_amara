@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1997105314605179301",
+    "created_at": "2025-12-06T00:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T01:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997105314605179301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momo_yu_Apple/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/momo_yu_Apple/status/1996058081005097396",
+          "start": 8,
+          "url": "https://t.co/ZLY6WF4Ia0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997105314605179301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996058081005097396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个还能催乳吗 https://t.co/ZLY6WF4Ia0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1997105314605179301",
+        "created_at": "2025-12-06T00:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T01:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997105314605179301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momo_yu_Apple/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/momo_yu_Apple/status/1996058081005097396",
+              "start": 8,
+              "url": "https://t.co/ZLY6WF4Ia0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997105314605179301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996058081005097396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个还能催乳吗 https://t.co/ZLY6WF4Ia0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505851491734720515",
+        "conversation_id": "1996058081005097396",
+        "created_at": "2025-12-03T03:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996058081005097396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996058081005097396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 18311,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那些买多潘立酮催乳的mtf是不是疯了？嫌色普龙不够伤肝，嫌自己奶子不够大才这样做吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 896,
+          "like_count": 13762,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 6222
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T10:19:23.000Z",
+        "description": "04年大龄||178/70(减肥中)/80a||终身不可srs||🚪60接线下实习圆角||部分言论不要太较真||学习化妆ing",
+        "id": "1505851491734720515",
+        "name": "玉茉茉喵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982279720688320512/fMn-1YUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 301,
+          "like_count": 487,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 1092
+        },
+        "username": "momo_yu_Apple",
+        "verified": false
+      }
+    ]
+  }
+}

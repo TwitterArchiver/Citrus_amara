@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1980508795047670224",
+    "created_at": "2025-10-21T05:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T06:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980508795047670224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1971006655430262784",
+          "start": 3,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980508795047670224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980180934646464529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FxxkApexLegend: 现在的女权主义叙事，就是铺天盖地地反对y染的参与。\n\n与其上网跪舔一个以你生来就有身份而延误你的叙事\n\n不如去爱你身边的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1980508795047670224",
+        "created_at": "2025-10-21T05:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T06:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980508795047670224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1971006655430262784",
+              "start": 3,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980508795047670224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980180934646464529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FxxkApexLegend: 现在的女权主义叙事，就是铺天盖地地反对y染的参与。\n\n与其上网跪舔一个以你生来就有身份而延误你的叙事\n\n不如去爱你身边的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971006655430262784",
+        "conversation_id": "1980180934646464529",
+        "created_at": "2025-10-20T07:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980180934646464529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980180934646464529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 240,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "现在的女权主义叙事，就是铺天盖地地反对y染的参与。\n\n与其上网跪舔一个以你生来就有身份而延误你的叙事\n\n不如去爱你身边的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979785369840197632/apbjPWPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 597,
+          "like_count": 9688,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 3658
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "“青野怎麼不玩地平線去推特賣藥了”/我是翎//舞萌痴☠️三角洲Apex手把🎮 / 181cm 54kg💛🤍💜🖤 /26fall🇨🇦🇬🇧 / Apex地平線從新手到入門到賬號已註銷 // 里推@KagurazakaAkira ❤️对象@juhao0721 / 擔保買藥找@minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "KagurazakaAkira"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "juhao0721"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEb0Sn"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇷🇸",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1978784252008239241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978429805264859136/qDtMghWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 282,
+          "like_count": 1533,
+          "listed_count": 4,
+          "media_count": 214,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/BKhBrEb0Sn",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

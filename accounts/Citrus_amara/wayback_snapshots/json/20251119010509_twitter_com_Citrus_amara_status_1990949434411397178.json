@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1990754122988179839",
+    "created_at": "2025-11-19T01:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T02:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990949434411397178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906235000300896256",
+          "start": 0,
+          "username": "jiexuanciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990949434411397178",
+    "in_reply_to_user_id": "1906235000300896256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990948038320533950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiexuanciallo 我是苦雨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1990754122988179839",
+        "created_at": "2025-11-19T01:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T02:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990949434411397178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906235000300896256",
+              "start": 0,
+              "username": "jiexuanciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990949434411397178",
+        "in_reply_to_user_id": "1906235000300896256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990948038320533950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiexuanciallo 我是苦雨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906235000300896256",
+        "conversation_id": "1990754122988179839",
+        "created_at": "2025-11-19T00:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990948038320533950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990948038320533950",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990754122988179839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 你是？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🌧苦雨🌧",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990946582339145728/KQD9GA4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 784,
+          "like_count": 12216,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 5142
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T06:40:26.000Z",
+        "description": "生日20100318||MTX无证含糖||https://t.co/39eJBTvAN5||173cm 50kg||ISFP-T||术力口||网络 服务器爱好者",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jiexuan.icu",
+                "end": 44,
+                "expanded_url": "https://www.jiexuan.icu",
+                "start": 21,
+                "url": "https://t.co/39eJBTvAN5"
+              }
+            ]
+          }
+        },
+        "id": "1906235000300896256",
+        "location": "香港",
+        "name": "介轩の🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909027854219894784/qnYMDgLb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 42,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 47
+        },
+        "username": "jiexuanciallo",
+        "verified": false
+      }
+    ]
+  }
+}

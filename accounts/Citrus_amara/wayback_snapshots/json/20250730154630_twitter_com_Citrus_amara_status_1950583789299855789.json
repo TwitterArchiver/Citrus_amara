@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950583789299855789",
+    "created_at": "2025-07-30T15:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T16:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950583789299855789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YEOL_LiSu/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/YEOL_LiSu/status/1950444882637861164",
+          "start": 20,
+          "url": "https://t.co/eeBeNiM1OM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950583789299855789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950444882637861164",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苦橙的推特是刷怪塔，下面会随机刷新神人 https://t.co/eeBeNiM1OM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950444876212195328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFfR_Cb0AASjID.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950444876388294657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFfR_sa4AEFio7.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950583789299855789",
+        "created_at": "2025-07-30T15:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T16:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950583789299855789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YEOL_LiSu/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/YEOL_LiSu/status/1950444882637861164",
+              "start": 20,
+              "url": "https://t.co/eeBeNiM1OM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950583789299855789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950444882637861164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苦橙的推特是刷怪塔，下面会随机刷新神人 https://t.co/eeBeNiM1OM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950444876212195328",
+            "3_1950444876388294657"
+          ]
+        },
+        "author_id": "1598150544157474818",
+        "conversation_id": "1950444882637861164",
+        "created_at": "2025-07-30T06:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950444882637861164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qqsr04VyBR",
+              "end": 28,
+              "expanded_url": "https://x.com/YEOL_LiSu/status/1950444882637861164/photo/1",
+              "media_key": "3_1950444876212195328",
+              "start": 5,
+              "url": "https://t.co/Qqsr04VyBR"
+            },
+            {
+              "display_url": "pic.x.com/Qqsr04VyBR",
+              "end": 28,
+              "expanded_url": "https://x.com/YEOL_LiSu/status/1950444882637861164/photo/1",
+              "media_key": "3_1950444876388294657",
+              "start": 5,
+              "url": "https://t.co/Qqsr04VyBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950444882637861164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2250,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么成份 https://t.co/Qqsr04VyBR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 226,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 642
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T03:03:12.000Z",
+        "description": "They/them/他/ta || 奠@YEOL_SuLi || 恋爱bot @doki_yeol || 🩵@NankyuSeiichi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "YEOL_SuLi"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "doki_yeol"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "NankyuSeiichi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yeolis…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yeolisu.bsky.social",
+                "start": 0,
+                "url": "https://t.co/QtXsS3XOUS"
+              }
+            ]
+          }
+        },
+        "id": "1598150544157474818",
+        "location": "Mooooooooooooon",
+        "name": "Yeol（厌男厌女厌enby反顺反跨反gender fluid",
+        "pinned_tweet_id": "1937869951727177869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598162202879758336/Eu9IOeYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1332,
+          "like_count": 110036,
+          "listed_count": 2,
+          "media_count": 1108,
+          "tweet_count": 17447
+        },
+        "url": "https://t.co/QtXsS3XOUS",
+        "username": "YEOL_LiSu",
+        "verified": false
+      }
+    ]
+  }
+}

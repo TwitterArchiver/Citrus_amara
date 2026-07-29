@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2047986964507533531",
+    "created_at": "2026-04-25T10:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047986964507533531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/N3kuv/status/2…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/N3kuv/status/2047920249719370091",
+          "start": 12,
+          "url": "https://t.co/o9IZwNYwpN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047986964507533531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047920249719370091",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2016年普瑞也没泛滥 https://t.co/o9IZwNYwpN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2047986964507533531",
+        "created_at": "2026-04-25T10:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047986964507533531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N3kuv/status/2…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/N3kuv/status/2047920249719370091",
+              "start": 12,
+              "url": "https://t.co/o9IZwNYwpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047986964507533531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047920249719370091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2016年普瑞也没泛滥 https://t.co/o9IZwNYwpN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2047920249719370091",
+        "created_at": "2026-04-25T06:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047920249719370091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047920249719370091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 237,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国对于处方药物管制这一方面大概主要一点就是根据社会影响力来评估药的滥用潜力。就比如普瑞巴林，药监局在2016就报告了此药致死的案例，但神经痛这个病比较特殊。他没有足够的证据证明此药有滥用潜力他是不能乱管制的。一旦普瑞巴林的滥用潜质泛滥起来，就可以开始对此药进行管制。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 1058,
+          "like_count": 19501,
+          "listed_count": 6,
+          "media_count": 402,
+          "tweet_count": 11034
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "无不良引导/药理学/拉康派精神分析/互关可以免费找我做心理咨询（回复慢请见谅）/匿名提问箱：https://t.co/N9ufw9zWMx\n（不卖策划药，不整hard drug）/现代犬儒主义者/后现代主义",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekuv",
+                "end": 69,
+                "expanded_url": "https://ngl.link/nekuv",
+                "start": 46,
+                "url": "https://t.co/N9ufw9zWMx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.psychonautwiki.org/wiki/Trihexyph…",
+                "end": 23,
+                "expanded_url": "https://m.psychonautwiki.org/wiki/Trihexyphenidyl",
+                "start": 0,
+                "url": "https://t.co/bE8vnoa6yU"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "location": "你家",
+        "name": "马戏猫专家号",
+        "pinned_tweet_id": "2047967882492187005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047525381545349120/HO-tdnCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 266,
+          "like_count": 3749,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/bE8vnoa6yU",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

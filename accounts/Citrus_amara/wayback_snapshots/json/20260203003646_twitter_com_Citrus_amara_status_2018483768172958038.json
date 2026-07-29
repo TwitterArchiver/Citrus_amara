@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2018483768172958038",
+    "created_at": "2026-02-03T00:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018483768172958038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WinbornN94577/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/WinbornN94577/status/2018372159387893781",
+          "start": 6,
+          "url": "https://t.co/iDUwvuBKNn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018483768172958038",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018372159387893781",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请输入文本 https://t.co/iDUwvuBKNn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2018372156133117952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKyyD7akAAMu_q.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018483768172958038",
+        "created_at": "2026-02-03T00:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018483768172958038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WinbornN94577/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/WinbornN94577/status/2018372159387893781",
+              "start": 6,
+              "url": "https://t.co/iDUwvuBKNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018483768172958038",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018372159387893781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请输入文本 https://t.co/iDUwvuBKNn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018372156133117952"
+          ]
+        },
+        "author_id": "1976224313339777024",
+        "conversation_id": "2018372159387893781",
+        "created_at": "2026-02-02T17:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T18:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018372159387893781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f22eIL2Iei",
+              "end": 34,
+              "expanded_url": "https://x.com/WinbornN94577/status/2018372159387893781/photo/1",
+              "media_key": "3_2018372156133117952",
+              "start": 11,
+              "url": "https://t.co/f22eIL2Iei"
+            },
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2018370917324452047",
+              "start": 35,
+              "url": "https://t.co/ZZFTju4LNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018372159387893781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6539,
+          "like_count": 52,
+          "quote_count": 7,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018370917324452047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先悄悄给大家报一下。 https://t.co/f22eIL2Iei https://t.co/ZZFTju4LNJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 996,
+          "like_count": 16323,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 8682
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "药物Wiki混子🏴‍☠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2009440325455294908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 82,
+          "like_count": 3086,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

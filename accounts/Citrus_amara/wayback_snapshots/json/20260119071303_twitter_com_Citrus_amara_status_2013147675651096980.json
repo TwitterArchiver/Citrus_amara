@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2013147675651096980",
+    "created_at": "2026-01-19T07:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T08:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013147675651096980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaowuqvq/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/miaowuqvq/status/2013093416725278821",
+          "start": 15,
+          "url": "https://t.co/qdEdn86dWK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013147675651096980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013093416725278821",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "先杀习近平再杀特朗普然后自杀 https://t.co/qdEdn86dWK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2013147675651096980",
+        "created_at": "2026-01-19T07:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T08:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013147675651096980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaowuqvq/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/miaowuqvq/status/2013093416725278821",
+              "start": 15,
+              "url": "https://t.co/qdEdn86dWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013147675651096980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013093416725278821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先杀习近平再杀特朗普然后自杀 https://t.co/qdEdn86dWK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829679457411477504",
+        "conversation_id": "2013093416725278821",
+        "created_at": "2026-01-19T03:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013093416725278821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013093416725278821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "\\给你一把枪5颗子弹,这把枪可以射给世界上的任何人,不需要瞄准不需要靠近,想象这个人然后开枪,子弹会找到他并杀了他,但是代价是最后一发会贯穿你自己的头颅,如果你给别人用,那她射两发你就会死,你会怎么用这把枪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "谁的橙子？\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "超级苦苦苦苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 993,
+          "like_count": 15732,
+          "listed_count": 5,
+          "media_count": 309,
+          "tweet_count": 8255
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T00:35:58.000Z",
+        "description": "密斯卡托尼克大学语言科教授  民俗学者 幻想乡驻外贤者 猎巫漏网之鱼 混沌恶KP  奈亚拉斯提普祭祀 白酒妖精 反支分子 L公司主管 替身使者 废墟图书馆成人层司书 百合狂魔 热爱动漫小说 精日 深度妹控 修习战车道 塞尔德兰大公 骑砍领主加拿大退役JK 酒豪萝莉 永远18岁的平板少女绮梦天禄是也 给你梨 吃了就是朋友",
+        "id": "1829679457411477504",
+        "location": "加拿大 马卡姆/幻想乡 雾之湖 /赛尔德兰帝国 银辉城大公",
+        "name": "绮梦天禄哒呦！♀️💵🏳️‍🌈🎌🗾🍐🍐🍐🍐🍐",
+        "pinned_tweet_id": "2006949644811813048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 2779,
+          "like_count": 7140,
+          "listed_count": 6,
+          "media_count": 591,
+          "tweet_count": 12405
+        },
+        "username": "miaowuqvq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1955917514099339696",
+    "created_at": "2025-08-15T02:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T03:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956187478978707927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1683775057552883714",
+          "start": 0,
+          "username": "RealWuling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956187478978707927",
+    "in_reply_to_user_id": "1683775057552883714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956181762629099862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealWuling 我没事谢谢你。。我的推被我删了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1955917514099339696",
+        "created_at": "2025-08-15T02:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T03:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956187478978707927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1683775057552883714",
+              "start": 0,
+              "username": "RealWuling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956187478978707927",
+        "in_reply_to_user_id": "1683775057552883714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956181762629099862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealWuling 我没事谢谢你。。我的推被我删了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683775057552883714",
+        "conversation_id": "1955917514099339696",
+        "created_at": "2025-08-15T02:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T03:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956181762629099862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956181762629099862",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955917514099339696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 苦橙你怎么了！！！\n这么长时间了怎么还不发推哇！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1955912384192897525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 339,
+          "like_count": 2962,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1277
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T09:44:05.000Z",
+        "description": "^ヾ(≧▽≦*)o\n友跨ww是想变可爱的男孩子！可以找我来玩！欢迎互fo\nINFP-T 想变可爱猫猫！喜欢百合贴贴ww\n08在上高三ww所以如果没回复真的很抱歉！！\ntg：https://t.co/Nz4nVVMPFb\ntg频道：https://t.co/uMouQiyGKz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wuling1337",
+                "end": 109,
+                "expanded_url": "http://t.me/wuling1337",
+                "start": 86,
+                "url": "https://t.co/Nz4nVVMPFb"
+              },
+              {
+                "display_url": "t.me/wulingNya",
+                "end": 138,
+                "expanded_url": "http://t.me/wulingNya",
+                "start": 115,
+                "url": "https://t.co/uMouQiyGKz"
+              }
+            ]
+          }
+        },
+        "id": "1683775057552883714",
+        "name": "WuLing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948002983318605824/i8KwtzuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 123,
+          "like_count": 2797,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 368
+        },
+        "username": "RealWuling",
+        "verified": false
+      }
+    ]
+  }
+}

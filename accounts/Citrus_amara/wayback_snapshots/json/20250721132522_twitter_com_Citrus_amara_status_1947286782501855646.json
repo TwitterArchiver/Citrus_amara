@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946841663151943715",
+    "created_at": "2025-07-21T13:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T14:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947286782501855646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697580552793051136",
+          "start": 0,
+          "username": "yyc20090"
+        },
+        {
+          "end": 23,
+          "id": "1656608807034982400",
+          "start": 10,
+          "username": "Kitty_3_cake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947286782501855646",
+    "in_reply_to_user_id": "1697580552793051136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947286631662157904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyc20090 @Kitty_3_cake 嗯嗯要的就是很辣呀！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946841663151943715",
+        "created_at": "2025-07-21T13:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T14:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947286782501855646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697580552793051136",
+              "start": 0,
+              "username": "yyc20090"
+            },
+            {
+              "end": 23,
+              "id": "1656608807034982400",
+              "start": 10,
+              "username": "Kitty_3_cake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947286782501855646",
+        "in_reply_to_user_id": "1697580552793051136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947286631662157904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyc20090 @Kitty_3_cake 嗯嗯要的就是很辣呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697580552793051136",
+        "conversation_id": "1946841663151943715",
+        "created_at": "2025-07-21T13:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T14:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947286631662157904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 27,
+              "id": "1656608807034982400",
+              "start": 14,
+              "username": "Kitty_3_cake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947286631662157904",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947286320734236819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @Kitty_3_cake 😋下次试试👉👈 不会很辣嘛🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 97,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 262
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "20090718  妹妹@LiciiQAQ 窝重度缺爱😡👊 会割手👉👈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1697580552793051136",
+        "name": "yyxx🍥",
+        "pinned_tweet_id": "1940990553124151499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934155305077919744/xZ_qsmex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 283,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 192
+        },
+        "username": "yyc20090",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T10:35:11.000Z",
+        "description": "(^=⩌⩊⩌=^ )੭叫我貓貓/坏貓/其他爱称都行 给你带来开心我很荣幸哦 碎碎念机器 思维跳脱话比较多 不用礼貌回关 贱人来了我会掐死你。有时候会取关拉黑人。@Xy000812",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "Xy000812"
+              }
+            ]
+          }
+        },
+        "id": "1656608807034982400",
+        "location": "Kitty♡love😽",
+        "name": "貓很壞",
+        "pinned_tweet_id": "1940302304630251709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936118749846728704/BRpP8gXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 181,
+          "like_count": 5448,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3418
+        },
+        "username": "Kitty_3_cake",
+        "verified": false
+      }
+    ]
+  }
+}

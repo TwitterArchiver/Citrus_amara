@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1982362877827903845",
+    "created_at": "2025-10-26T08:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T09:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982362877827903845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shsh548866/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/shsh548866/status/1981961864033808431",
+          "start": 29,
+          "url": "https://t.co/ptbHf3tSyF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982362877827903845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981961864033808431",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你知道吗，这个人放学回来的第一天晚上私聊我对我说我是奶龙 https://t.co/ptbHf3tSyF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 236,
+        "media_key": "3_1981961860959055872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4FXz8jWMAAjvf0.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1982362877827903845",
+        "created_at": "2025-10-26T08:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T09:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982362877827903845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shsh548866/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/shsh548866/status/1981961864033808431",
+              "start": 29,
+              "url": "https://t.co/ptbHf3tSyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982362877827903845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981961864033808431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你知道吗，这个人放学回来的第一天晚上私聊我对我说我是奶龙 https://t.co/ptbHf3tSyF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981961860959055872"
+          ]
+        },
+        "author_id": "1948615711041126400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981961864033808431",
+        "created_at": "2025-10-25T05:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T06:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981961864033808431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGiUlGWeil",
+              "end": 23,
+              "expanded_url": "https://x.com/shsh548866/status/1981961864033808431/photo/1",
+              "media_key": "3_1981961860959055872",
+              "start": 0,
+              "url": "https://t.co/CGiUlGWeil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981961864033808431",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CGiUlGWeil"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 633,
+          "like_count": 10058,
+          "listed_count": 4,
+          "media_count": 148,
+          "tweet_count": 3959
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T05:27:18.000Z",
+        "description": "不是很想说话，真的是健全批慎关。\n\n不要死要活下去哦，因为游戏结局都是死。在死之前努力用这个奇怪属性的人物玩这场游戏吧！好好享受游戏^^\n\n闺蜜@@Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1948615711041126400",
+        "location": "比奇堡",
+        "name": "某某酱(上学仅周末有空)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977058663648182275/USORusJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 238,
+          "like_count": 1892,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 208
+        },
+        "username": "shsh548866",
+        "verified": false
+      }
+    ]
+  }
+}

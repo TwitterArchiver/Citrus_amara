@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051242935350652928"
+      ],
+      "media_source_tweet_id": [
+        "2051242941491126469"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2051298237701906576",
+    "created_at": "2026-05-04T13:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051298237701906576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "126581934",
+          "start": 3,
+          "username": "dearemon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7sRnaRjZ2H",
+          "end": 66,
+          "expanded_url": "https://x.com/dearemon/status/2051242941491126469/photo/1",
+          "media_key": "3_2051242935350652928",
+          "start": 43,
+          "url": "https://t.co/7sRnaRjZ2H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051298237701906576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051242941491126469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dearemon: 我問Gemini能不能一夜瘦個兩三公斤，結果它這樣回答： https://t.co/7sRnaRjZ2H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_2051242935350652928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHd6lO2a8AAxsz2.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051242935350652928"
+          ],
+          "media_source_tweet_id": [
+            "2051242941491126469"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2051298237701906576",
+        "created_at": "2026-05-04T13:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051298237701906576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "126581934",
+              "start": 3,
+              "username": "dearemon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7sRnaRjZ2H",
+              "end": 66,
+              "expanded_url": "https://x.com/dearemon/status/2051242941491126469/photo/1",
+              "media_key": "3_2051242935350652928",
+              "start": 43,
+              "url": "https://t.co/7sRnaRjZ2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051298237701906576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051242941491126469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dearemon: 我問Gemini能不能一夜瘦個兩三公斤，結果它這樣回答： https://t.co/7sRnaRjZ2H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051242935350652928"
+          ]
+        },
+        "author_id": "126581934",
+        "conversation_id": "2051242941491126469",
+        "created_at": "2026-05-04T10:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051242941491126469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7sRnaRjZ2H",
+              "end": 52,
+              "expanded_url": "https://x.com/dearemon/status/2051242941491126469/photo/1",
+              "media_key": "3_2051242935350652928",
+              "start": 29,
+              "url": "https://t.co/7sRnaRjZ2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051242941491126469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 16987,
+          "like_count": 319,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我問Gemini能不能一夜瘦個兩三公斤，結果它這樣回答： https://t.co/7sRnaRjZ2H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2050691530143551704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 1102,
+          "like_count": 19865,
+          "listed_count": 6,
+          "media_count": 407,
+          "tweet_count": 11212
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54772,
+          "following_count": 672,
+          "like_count": 5785,
+          "listed_count": 208,
+          "media_count": 28524,
+          "tweet_count": 387662
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

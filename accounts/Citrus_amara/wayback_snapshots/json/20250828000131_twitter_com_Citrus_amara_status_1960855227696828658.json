@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1960695413540897189",
+    "created_at": "2025-08-28T00:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T01:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960855227696828658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896812508289404928",
+          "start": 0,
+          "username": "erciyuanha87431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960855227696828658",
+    "in_reply_to_user_id": "1896812508289404928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960849902717821262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erciyuanha87431 。。那是药物过量引发的正常生理反应\n几乎所有药厂都不会想着加催吐剂。本来药就卖不了多少钱了还加催吐剂成本更高了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960695413540897189",
+        "created_at": "2025-08-28T00:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T01:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960855227696828658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896812508289404928",
+              "start": 0,
+              "username": "erciyuanha87431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960855227696828658",
+        "in_reply_to_user_id": "1896812508289404928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960849902717821262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erciyuanha87431 。。那是药物过量引发的正常生理反应\n几乎所有药厂都不会想着加催吐剂。本来药就卖不了多少钱了还加催吐剂成本更高了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896812508289404928",
+        "conversation_id": "1960695413540897189",
+        "created_at": "2025-08-27T23:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T00:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960849902717821262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960849902717821262",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960849728452612311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 安眠药不是有防自杀机制吗？给你催吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 371,
+          "like_count": 4665,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1853
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T06:38:52.000Z",
+        "description": "有双相情感障碍纯疯子一个💀～超级喜欢交朋友（包容万物支持平权主义🇨🇳）\n关爱🍥小药娘🏳️‍⚧️🏳️‍🌈🇨🇳\n求互粉\n并未吃糖🍥\n主播的神秘小老妹儿：@LiciiQAQ  @yingyang_MTF\n逃生舱：@zhoyhng276158\n引路人：@Lianshufa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "yingyang_MTF"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zhoyhng276158"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Lianshufa"
+              }
+            ]
+          }
+        },
+        "id": "1896812508289404928",
+        "location": "类固醇星球",
+        "name": "🐹宇航🐹（关爱药娘版🏳️‍⚧️🏳️‍🌈（我爱福瑞🥵🐾）互Of至少有头像）",
+        "pinned_tweet_id": "1949569082938081444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958985099825094656/cJURlWyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 1341,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1619
+        },
+        "username": "erciyuanha87431",
+        "verified": false
+      }
+    ]
+  }
+}

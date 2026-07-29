@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957517119098155267",
+    "created_at": "2025-08-18T18:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T19:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957517848374354161"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1957517848374354161",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957517119098155267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉我看不懂我现任，，我至今不清楚他性取向"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957517119098155267",
+        "created_at": "2025-08-18T18:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T19:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957517848374354161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957517848374354161",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957517119098155267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉我看不懂我现任，，我至今不清楚他性取向"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957517119098155267",
+        "created_at": "2025-08-18T18:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T19:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957517119098155267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kokomiovo33/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kokomiovo33/status/1957087146331783484",
+              "start": 9,
+              "url": "https://t.co/nxT07nYCUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957517119098155267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957087146331783484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接这种男友可以吗 https://t.co/nxT07nYCUY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 357,
+          "like_count": 3468,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1475
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

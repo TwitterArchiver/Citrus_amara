@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2063568854585131418",
+    "created_at": "2026-06-07T10:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063568854585131418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RyuuseiMk1WEAS…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/RyuuseiMk1WEAS/status/2063050223346176191",
+          "start": 7,
+          "url": "https://t.co/A3pCl9DryJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063568854585131418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063050223346176191",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的梦中情屋 https://t.co/A3pCl9DryJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063050220242399232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFtPqtW8AAEMfA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2063568854585131418",
+        "created_at": "2026-06-07T10:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063568854585131418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RyuuseiMk1WEAS…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/RyuuseiMk1WEAS/status/2063050223346176191",
+              "start": 7,
+              "url": "https://t.co/A3pCl9DryJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063568854585131418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063050223346176191",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的梦中情屋 https://t.co/A3pCl9DryJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063050220242399232"
+          ]
+        },
+        "author_id": "1986894257194737665",
+        "conversation_id": "2063050223346176191",
+        "created_at": "2026-06-06T00:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063050223346176191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R8r5B91YaE",
+              "end": 38,
+              "expanded_url": "https://x.com/RyuuseiMk1WEAS/status/2063050223346176191/photo/1",
+              "media_key": "3_2063050220242399232",
+              "start": 15,
+              "url": "https://t.co/R8r5B91YaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063050223346176191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13839,
+          "like_count": 197,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我接下來就在這禁閉求生六個月 https://t.co/R8r5B91YaE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 1095,
+          "like_count": 20499,
+          "listed_count": 5,
+          "media_count": 415,
+          "tweet_count": 11533
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T20:31:38.000Z",
+        "description": "Perché la nostra vita è dominata dalla scontentezza, dall'angoscia, dalla paura della guerra, dalla guerra? \n(Pier Paolo Pasolini, La Rabbia, 1963)",
+        "id": "1986894257194737665",
+        "location": "Le monologue du meurtre",
+        "name": "scorchingAsteRiA",
+        "pinned_tweet_id": "2063428991030018274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043721630887944192/n9dg2haI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 786,
+          "like_count": 3422,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 994
+        },
+        "username": "RyuuseiMk1WEAS",
+        "verified": false
+      }
+    ]
+  }
+}

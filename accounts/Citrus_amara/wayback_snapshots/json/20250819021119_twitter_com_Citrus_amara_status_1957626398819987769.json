@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1955545336031989762",
+    "created_at": "2025-08-19T02:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T03:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957626398819987769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "233804919",
+          "start": 0,
+          "username": "Lanszhang"
+        },
+        {
+          "end": 18,
+          "id": "1842037275615535104",
+          "start": 11,
+          "username": "Wiflty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957626398819987769",
+    "in_reply_to_user_id": "233804919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957522021165985872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanszhang @Wiflty 哦好吧你不是激女你没在中国生活我知道了。我没啥情绪我只是觉得你作为顺性别看不见跨性别们所面临的困境"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1955545336031989762",
+        "created_at": "2025-08-19T02:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T03:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957626398819987769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "233804919",
+              "start": 0,
+              "username": "Lanszhang"
+            },
+            {
+              "end": 18,
+              "id": "1842037275615535104",
+              "start": 11,
+              "username": "Wiflty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957626398819987769",
+        "in_reply_to_user_id": "233804919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957522021165985872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanszhang @Wiflty 哦好吧你不是激女你没在中国生活我知道了。我没啥情绪我只是觉得你作为顺性别看不见跨性别们所面临的困境"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "233804919",
+        "conversation_id": "1955545336031989762",
+        "created_at": "2025-08-18T19:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T20:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957522021165985872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 21,
+              "id": "1842037275615535104",
+              "start": 14,
+              "username": "Wiflty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957522021165985872",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957511171734663590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @Wiflty 我不是激女也没想你死，更没有在中国生活，我不知道我的话戳到你的什么创伤记忆让你情绪这么大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 358,
+          "like_count": 3480,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1478
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-04T04:20:45.000Z",
+        "description": "日本語ペラペラ中国人。@L78783869",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "L78783869"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "smoggy-trade-1af.notion.site/From-A-Railway…",
+                "end": 23,
+                "expanded_url": "https://smoggy-trade-1af.notion.site/From-A-Railway-Carriage-739dab4bd0d146d996a8d28ee87b0039?pvs=74",
+                "start": 0,
+                "url": "https://t.co/Qsnbz0pF72"
+              }
+            ]
+          }
+        },
+        "id": "233804919",
+        "name": "lans",
+        "pinned_tweet_id": "1954896748767543441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938867454849036289/VgRUZ5LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7808,
+          "following_count": 1197,
+          "like_count": 63318,
+          "listed_count": 84,
+          "media_count": 4734,
+          "tweet_count": 66205
+        },
+        "url": "https://t.co/Qsnbz0pF72",
+        "username": "Lanszhang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T03:02:42.000Z",
+        "description": "永劫轮回",
+        "id": "1842037275615535104",
+        "name": "可鲸柳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956523101463756800/MJFTUW4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 147,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 371
+        },
+        "username": "Wiflty",
+        "verified": false
+      }
+    ]
+  }
+}

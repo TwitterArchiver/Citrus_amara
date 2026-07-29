@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026001708250533888"
+      ],
+      "media_source_tweet_id": [
+        "2026001710356001001"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2026463399429943308",
+    "created_at": "2026-02-25T01:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T02:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026463399429943308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1968187553695272960",
+          "start": 3,
+          "username": "EzraRan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tYBvF9MDHY",
+          "end": 74,
+          "expanded_url": "https://x.com/EzraRan_/status/2026001710356001001/photo/1",
+          "media_key": "3_2026001708250533888",
+          "start": 51,
+          "url": "https://t.co/tYBvF9MDHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026463399429943308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026001710356001001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EzraRan_: 你们那些用籽岷照片P图键政还传播的，籽岷被有型大手亲吻不会伤心，不会哭！ https://t.co/tYBvF9MDHY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_2026001708250533888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB3N0cabkAADeaq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026001708250533888"
+          ],
+          "media_source_tweet_id": [
+            "2026001710356001001"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026463399429943308",
+        "created_at": "2026-02-25T01:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026463399429943308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1968187553695272960",
+              "start": 3,
+              "username": "EzraRan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYBvF9MDHY",
+              "end": 74,
+              "expanded_url": "https://x.com/EzraRan_/status/2026001710356001001/photo/1",
+              "media_key": "3_2026001708250533888",
+              "start": 51,
+              "url": "https://t.co/tYBvF9MDHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026463399429943308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026001710356001001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EzraRan_: 你们那些用籽岷照片P图键政还传播的，籽岷被有型大手亲吻不会伤心，不会哭！ https://t.co/tYBvF9MDHY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026001708250533888"
+          ]
+        },
+        "author_id": "1968187553695272960",
+        "conversation_id": "2026001710356001001",
+        "created_at": "2026-02-23T18:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T19:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026001710356001001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYBvF9MDHY",
+              "end": 60,
+              "expanded_url": "https://x.com/EzraRan_/status/2026001710356001001/photo/1",
+              "media_key": "3_2026001708250533888",
+              "start": 37,
+              "url": "https://t.co/tYBvF9MDHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026001710356001001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 76122,
+          "like_count": 713,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "你们那些用籽岷照片P图键政还传播的，籽岷被有型大手亲吻不会伤心，不会哭！ https://t.co/tYBvF9MDHY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 1030,
+          "like_count": 17136,
+          "listed_count": 6,
+          "media_count": 358,
+          "tweet_count": 9306
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "EzraRanレン エジュラです丨\nSocial Liberalism,Multiculturalism,LIBERALISM丨Liberté Égalité Fraternité🇫🇷丨Egalitarianism&EQUAL opportunity丨\n🇯🇵 #国民民主党 🇹🇼 #民衆党 支持丨ガンディ推",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 130,
+                "tag": "国民民主党"
+              },
+              {
+                "end": 144,
+                "start": 140,
+                "tag": "民衆党"
+              }
+            ]
+          }
+        },
+        "id": "1968187553695272960",
+        "location": "先有獨立人格之國民，\n才有強大安寧之國家。",
+        "name": "漣 絵樹羅",
+        "pinned_tweet_id": "1982437804266442854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 2123,
+          "like_count": 28104,
+          "listed_count": 7,
+          "media_count": 1215,
+          "tweet_count": 8850
+        },
+        "username": "EzraRan_",
+        "verified": false
+      }
+    ]
+  }
+}

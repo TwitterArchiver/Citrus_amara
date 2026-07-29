@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947915431877984490",
+    "created_at": "2025-07-23T07:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T08:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947915431877984490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1866728880158982144",
+          "start": 3,
+          "username": "TianAn_men8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947915431877984490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947702523676262742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TianAn_men8964: 大家对男性外形要求真的好低，一般说干净清爽就好，这是对一包湿纸巾的要求。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947915431877984490",
+        "created_at": "2025-07-23T07:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T08:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947915431877984490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1866728880158982144",
+              "start": 3,
+              "username": "TianAn_men8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947915431877984490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947702523676262742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TianAn_men8964: 大家对男性外形要求真的好低，一般说干净清爽就好，这是对一包湿纸巾的要求。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866728880158982144",
+        "conversation_id": "1947702523676262742",
+        "created_at": "2025-07-22T16:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T17:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947702523676262742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947702523676262742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12853,
+          "like_count": 347,
+          "quote_count": 6,
+          "reply_count": 20,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "大家对男性外形要求真的好低，一般说干净清爽就好，这是对一包湿纸巾的要求。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 99,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 290
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T06:17:14.000Z",
+        "description": "小狗碎碎念 / hentai coser / brat",
+        "id": "1866728880158982144",
+        "name": "neko",
+        "pinned_tweet_id": "1941311706262863908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946151080523595776/LdS3WsVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 47,
+          "like_count": 900,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 115
+        },
+        "username": "TianAn_men8964",
+        "verified": false
+      }
+    ]
+  }
+}

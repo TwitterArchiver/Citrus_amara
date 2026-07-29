@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1962088057785520286",
+    "created_at": "2025-08-31T09:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T10:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962088057785520286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qaq5777/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/qaq5777/status/1961836297791983994",
+          "start": 8,
+          "url": "https://t.co/SVROsOC42n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962088057785520286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961836297791983994",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没有喜欢的人 https://t.co/SVROsOC42n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1962088057785520286",
+        "created_at": "2025-08-31T09:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T10:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962088057785520286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qaq5777/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/qaq5777/status/1961836297791983994",
+              "start": 8,
+              "url": "https://t.co/SVROsOC42n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962088057785520286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961836297791983994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有喜欢的人 https://t.co/SVROsOC42n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "1961836297791983994",
+        "created_at": "2025-08-30T16:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961836297791983994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961836297791983994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6953,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "凭什么你们喜欢谁就能和谁在一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。取关麻烦双向。忘记回fo请私聊\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 377,
+          "like_count": 5248,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 2042
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "想发什么发什么 很无聊的一个人^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kbg.mi.le.mileoffice.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://kbg.mi.le.mileoffice.com/index.php#/register?code=0xQPXqQf",
+                "start": 0,
+                "url": "https://t.co/clDC5C127S"
+              }
+            ]
+          }
+        },
+        "id": "1863473278247141376",
+        "location": "置顶关评推广自辨 🪜👇🏻",
+        "name": "不加冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895054154084564992/SkRpTx_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38455,
+          "following_count": 308,
+          "like_count": 11523,
+          "listed_count": 73,
+          "media_count": 170,
+          "tweet_count": 4698
+        },
+        "url": "https://t.co/clDC5C127S",
+        "username": "qaq5777",
+        "verified": false
+      }
+    ]
+  }
+}

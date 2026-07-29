@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979393467181678592",
+        "3_1979393476207730688",
+        "3_1979393477562482688"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1979393480125214850",
+    "created_at": "2025-10-18T03:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T04:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979393480125214850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8BzN6kPQzJ",
+          "end": 122,
+          "expanded_url": "https://x.com/Citrus_amara/status/1979393480125214850/photo/1",
+          "media_key": "3_1979393467181678592",
+          "start": 99,
+          "url": "https://t.co/8BzN6kPQzJ"
+        },
+        {
+          "display_url": "pic.x.com/8BzN6kPQzJ",
+          "end": 122,
+          "expanded_url": "https://x.com/Citrus_amara/status/1979393480125214850/photo/1",
+          "media_key": "3_1979393476207730688",
+          "start": 99,
+          "url": "https://t.co/8BzN6kPQzJ"
+        },
+        {
+          "display_url": "pic.x.com/8BzN6kPQzJ",
+          "end": 122,
+          "expanded_url": "https://x.com/Citrus_amara/status/1979393480125214850/photo/1",
+          "media_key": "3_1979393477562482688",
+          "start": 99,
+          "url": "https://t.co/8BzN6kPQzJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979393480125214850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.不会...？但其实我不知道你是谁\n2.下次o的时候喝一点牛奶吧...？\n3.我觉得对我来说，有创伤的创造型这种描述更准确。所以我是自己造了一个新的意识体😇而且我的印象里我小时候也喜欢自说自话。 https://t.co/8BzN6kPQzJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979393467181678592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3g33wIXwAAv4_E.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979393476207730688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3g34RwWYAAcO9W.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979393477562482688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3g34WzWQAAqdkw.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979393467181678592",
+            "3_1979393476207730688",
+            "3_1979393477562482688"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1979393480125214850",
+        "created_at": "2025-10-18T03:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T04:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979393480125214850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BzN6kPQzJ",
+              "end": 122,
+              "expanded_url": "https://x.com/Citrus_amara/status/1979393480125214850/photo/1",
+              "media_key": "3_1979393467181678592",
+              "start": 99,
+              "url": "https://t.co/8BzN6kPQzJ"
+            },
+            {
+              "display_url": "pic.x.com/8BzN6kPQzJ",
+              "end": 122,
+              "expanded_url": "https://x.com/Citrus_amara/status/1979393480125214850/photo/1",
+              "media_key": "3_1979393476207730688",
+              "start": 99,
+              "url": "https://t.co/8BzN6kPQzJ"
+            },
+            {
+              "display_url": "pic.x.com/8BzN6kPQzJ",
+              "end": 122,
+              "expanded_url": "https://x.com/Citrus_amara/status/1979393480125214850/photo/1",
+              "media_key": "3_1979393477562482688",
+              "start": 99,
+              "url": "https://t.co/8BzN6kPQzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979393480125214850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.不会...？但其实我不知道你是谁\n2.下次o的时候喝一点牛奶吧...？\n3.我觉得对我来说，有创伤的创造型这种描述更准确。所以我是自己造了一个新的意识体😇而且我的印象里我小时候也喜欢自说自话。 https://t.co/8BzN6kPQzJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 女儿@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 594,
+          "like_count": 9380,
+          "listed_count": 4,
+          "media_count": 118,
+          "tweet_count": 3551
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

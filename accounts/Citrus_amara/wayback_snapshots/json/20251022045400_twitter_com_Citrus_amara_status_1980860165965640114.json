@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1980860165965640114",
+    "created_at": "2025-10-22T04:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T05:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980860165965640114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824818634809806848",
+          "start": 3,
+          "username": "hsgmxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980860165965640114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980789803865239916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsgmxz: 不知不觉就1100+fo了\n感谢各位的一路陪伴\n那窝就来个抽奖吧\n开奖时间看帖子热度吧\n一等奖 100元支付宝口令红包 ×1\n二等奖 国补两盒（可折70元）×1\n三等奖 国补一盒（可折35元）×2\n特殊奖 \n如果这里抽到mtf的话就送国补一盒×1\n参与方…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_1980789800975130624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30t1E3W4AAulGQ.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1980860165965640114",
+        "created_at": "2025-10-22T04:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T05:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980860165965640114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824818634809806848",
+              "start": 3,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980860165965640114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980789803865239916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsgmxz: 不知不觉就1100+fo了\n感谢各位的一路陪伴\n那窝就来个抽奖吧\n开奖时间看帖子热度吧\n一等奖 100元支付宝口令红包 ×1\n二等奖 国补两盒（可折70元）×1\n三等奖 国补一盒（可折35元）×2\n特殊奖 \n如果这里抽到mtf的话就送国补一盒×1\n参与方…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980789800975130624"
+          ]
+        },
+        "author_id": "1824818634809806848",
+        "conversation_id": "1980789803865239916",
+        "created_at": "2025-10-22T00:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T01:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980789803865239916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PiyNNF2IYt",
+              "end": 189,
+              "expanded_url": "https://x.com/hsgmxz/status/1980789803865239916/photo/1",
+              "media_key": "3_1980789800975130624",
+              "start": 166,
+              "url": "https://t.co/PiyNNF2IYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980789803865239916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉就1100+fo了\n感谢各位的一路陪伴\n那窝就来个抽奖吧\n开奖时间看帖子热度吧\n一等奖 100元支付宝口令红包 ×1\n二等奖 国补两盒（可折70元）×1\n三等奖 国补一盒（可折35元）×2\n特殊奖 \n如果这里抽到mtf的话就送国补一盒×1\n参与方式：关注+转贴+评论+点赞\n如果抽到bot就换下一位\n希望大家都好好的... https://t.co/PiyNNF2IYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979785369840197632/apbjPWPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 601,
+          "like_count": 9748,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 3722
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|14岁mtf🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|11.1.24|同类互fo|极度社恐|重焦重郁|intp-t|匿名提问箱https://t.co/eJ9r7Nq5dA|❤️@hrklovehonoka|为这世界献出心脏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 131,
+                "username": "hrklovehonoka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 128,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 105,
+                "url": "https://t.co/eJ9r7Nq5dA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHeeR"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1980564107050078532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956290303792660480/uak33Kmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 1200,
+          "like_count": 7701,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1254
+        },
+        "url": "https://t.co/Xrx6CgHeeR",
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

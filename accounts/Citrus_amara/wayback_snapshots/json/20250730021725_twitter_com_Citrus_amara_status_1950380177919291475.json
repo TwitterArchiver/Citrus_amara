@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949782351573098505",
+    "created_at": "2025-07-30T02:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T03:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950380177919291475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1330075972557803522",
+          "start": 0,
+          "username": "GreyGreyWater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950380177919291475",
+    "in_reply_to_user_id": "1330075972557803522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950322285975617996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreyGreyWater 争这种事情有什么意义。。你觉得我是男的也没问题，我没挑你脸你也别跳我脸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949782351573098505",
+        "created_at": "2025-07-30T02:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T03:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950380177919291475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1330075972557803522",
+              "start": 0,
+              "username": "GreyGreyWater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950380177919291475",
+        "in_reply_to_user_id": "1330075972557803522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950322285975617996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreyGreyWater 争这种事情有什么意义。。你觉得我是男的也没问题，我没挑你脸你也别跳我脸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1330075972557803522",
+        "conversation_id": "1949782351573098505",
+        "created_at": "2025-07-29T22:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T23:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950322285975617996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950322285975617996",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949782351573098505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 对二元来说 切之前就是男的 切之后就是女的 望周知🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。欢迎od的互关，欢迎私信。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 205,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 588
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T09:10:06.000Z",
+        "description": "下头看黄蝻",
+        "id": "1330075972557803522",
+        "name": "灰灰水",
+        "pinned_tweet_id": "1763801395017474340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709625234922627072/TnTWx8ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 458,
+          "like_count": 1782,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 3038
+        },
+        "username": "GreyGreyWater",
+        "verified": false
+      }
+    ]
+  }
+}

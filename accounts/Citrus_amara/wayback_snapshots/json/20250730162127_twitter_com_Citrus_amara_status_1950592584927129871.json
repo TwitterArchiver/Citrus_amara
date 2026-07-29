@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950583789299855789",
+    "created_at": "2025-07-30T16:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T17:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950592584927129871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882098140087803904",
+          "start": 0,
+          "username": "JSHBLIFE_D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950592584927129871",
+    "in_reply_to_user_id": "1882098140087803904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950587235981500437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JSHBLIFE_D 我真不懂了，是不是因为我太包容了导致很多神人喜欢来我推特下面乱喷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950583789299855789",
+        "created_at": "2025-07-30T16:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T17:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950592584927129871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882098140087803904",
+              "start": 0,
+              "username": "JSHBLIFE_D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950592584927129871",
+        "in_reply_to_user_id": "1882098140087803904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950587235981500437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JSHBLIFE_D 我真不懂了，是不是因为我太包容了导致很多神人喜欢来我推特下面乱喷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882098140087803904",
+        "conversation_id": "1950583789299855789",
+        "created_at": "2025-07-30T16:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T17:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950587235981500437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950587235981500437",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950583789299855789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 相比其他来说好像是真的😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 227,
+          "like_count": 1225,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 645
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T16:09:08.000Z",
+        "description": "向往，但不是\n个人特征:情绪不稳|文理杂学|苏法同精|反差（？|屑摄影师|咸阳|想学漫画的速写生|航天|不成功的发疯者很成功的作死家\n目前执政者:For Infinite",
+        "id": "1882098140087803904",
+        "name": "🌨神奈酱~LIFE💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950135100508950529/0vzn-kz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 74,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 49
+        },
+        "username": "JSHBLIFE_D",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2046531776944980370",
+    "created_at": "2026-04-21T13:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046574901675667782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2029078604659990528",
+          "start": 0,
+          "username": "zdtdyeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046574901675667782",
+    "in_reply_to_user_id": "2029078604659990528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046567387051520480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zdtdyeo 所以我一直在找人转发啊。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2046531776944980370",
+        "created_at": "2026-04-21T13:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046574901675667782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2029078604659990528",
+              "start": 0,
+              "username": "zdtdyeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046574901675667782",
+        "in_reply_to_user_id": "2029078604659990528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046567387051520480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zdtdyeo 所以我一直在找人转发啊。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029078604659990528",
+        "conversation_id": "2046531776944980370",
+        "created_at": "2026-04-21T12:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046567387051520480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046567387051520480",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046531776944980370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 因为你的内容od多 所以看到你这个投票的oder多 不od的人刷不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 1030,
+          "like_count": 19174,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 10949
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T06:17:02.000Z",
+        "description": "🍥｜保质期2005～*｜hrt2022.5.1｜休学｜｜山东临沂｜想要认识更多的人",
+        "id": "2029078604659990528",
+        "name": "可可",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029127548303753217/rFs6uf1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 78,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 372
+        },
+        "username": "zdtdyeo",
+        "verified": false
+      }
+    ]
+  }
+}

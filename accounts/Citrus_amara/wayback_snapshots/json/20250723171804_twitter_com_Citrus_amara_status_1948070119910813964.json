@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948070119910813964",
+    "created_at": "2025-07-23T17:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T18:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948070119910813964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sxshuishuimao/…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/sxshuishuimao/status/1948045963693838607",
+          "start": 56,
+          "url": "https://t.co/oVRQzDMbWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948070119910813964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948045963693838607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有可能diy本来就是错误的。但是我们没有那么多医疗资源，我们只能diy。\n我只能说需不需要hrt自己想清楚 https://t.co/oVRQzDMbWC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948070119910813964",
+        "created_at": "2025-07-23T17:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T18:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948070119910813964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sxshuishuimao/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/sxshuishuimao/status/1948045963693838607",
+              "start": 56,
+              "url": "https://t.co/oVRQzDMbWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948070119910813964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948045963693838607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有可能diy本来就是错误的。但是我们没有那么多医疗资源，我们只能diy。\n我只能说需不需要hrt自己想清楚 https://t.co/oVRQzDMbWC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1948045963693838607",
+        "created_at": "2025-07-23T15:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T16:31:29.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948043296443707841",
+          "1948044755713380662",
+          "1948045963693838607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948045963693838607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "不知道是因为我自己没撑到伞吃得晚还是怎么回事，我觉得至少16-7岁才能自己决定吃，之前都必须要医生同意，不然就是乱吃，16-7吃导致大骨架男相那就男相呗，没有医疗资源就只能这样，日后可能被歧视也很正常，被歧视我觉得也是开始吃糖前必须要考虑清楚的，接受不了就别跨\n泥们觉得呢？还是我是劳保？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 112,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 340
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜互fo｜INFP-t｜ HRT咨詢｜不吃肉不是素食主義者喵｜灌注水貓謝謝喵｜拼圖積木代拼｜最愛14歲｜是豪貓不o不圓不割不死｜提問箱鏈接↓｜❤️对象@mengqing5735｜偷情对象@saonanaa｜网恋对象@hiner233等",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "mengqing5735"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "saonanaa"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "hiner233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 1019,
+          "like_count": 191,
+          "listed_count": 5,
+          "media_count": 1426,
+          "tweet_count": 8093
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

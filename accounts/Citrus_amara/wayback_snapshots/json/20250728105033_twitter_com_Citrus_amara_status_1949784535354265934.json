@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949641340855480485",
+    "created_at": "2025-07-28T10:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T11:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949784535354265934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "909909858949922818",
+          "start": 0,
+          "username": "rnpgpsl40404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949784535354265934",
+    "in_reply_to_user_id": "909909858949922818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949641340855480485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnpgpsl40404 我家到不怎么在意。我一般把碗放桌子上吃，但是需要我吃很快的时候我会端着碗吭哧吭哧吃完。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949641340855480485",
+        "created_at": "2025-07-28T10:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T11:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949784535354265934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "909909858949922818",
+              "start": 0,
+              "username": "rnpgpsl40404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949784535354265934",
+        "in_reply_to_user_id": "909909858949922818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949641340855480485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnpgpsl40404 我家到不怎么在意。我一般把碗放桌子上吃，但是需要我吃很快的时候我会端着碗吭哧吭哧吃完。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909909858949922818",
+        "conversation_id": "1949641340855480485",
+        "created_at": "2025-07-28T01:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T02:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949641340855480485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949641340855480485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1633,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然但是\n在我的意识里\n端起饭碗吃饭才是很没素质的吃法\n\n碗就应该放在桌上不动才对啊。jpg\n端起饭碗吃饭是个啥啊.jpg\n无法理解你们大陆北方人.jpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。欢迎od的互关，欢迎私信。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 180,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 525
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "不要用你的专业去挑战别人的爱好，你干活是为了赚钱，他只是喜欢干一分钱都不要\ntips only\nequal rights = equal responsibilities\nsoftware engineering is not engineering\nALL Mercedes owners are psychopath",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+YJ1lMWwYDs0wO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+YJ1lMWwYDs0wODAx",
+                "start": 0,
+                "url": "https://t.co/JOxivvsUPj"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "New Jersey, USA",
+        "name": "Eng. ootori",
+        "pinned_tweet_id": "1940957957476569483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10621,
+          "following_count": 6031,
+          "like_count": 145724,
+          "listed_count": 22,
+          "media_count": 5965,
+          "tweet_count": 74134
+        },
+        "url": "https://t.co/JOxivvsUPj",
+        "username": "rnpgpsl40404",
+        "verified": false
+      }
+    ]
+  }
+}

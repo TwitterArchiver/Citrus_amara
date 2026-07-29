@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952890493370835296",
+    "created_at": "2025-08-06T00:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T01:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952891690056073695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1568756978599735297",
+          "start": 0,
+          "username": "wwwwwnie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952891690056073695",
+    "in_reply_to_user_id": "1568756978599735297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952890493370835296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwwwnie 据说已经停产了。这玩意半衰期超长..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952890493370835296",
+        "created_at": "2025-08-06T00:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T01:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952891690056073695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1568756978599735297",
+              "start": 0,
+              "username": "wwwwwnie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952891690056073695",
+        "in_reply_to_user_id": "1568756978599735297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952890493370835296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwwwnie 据说已经停产了。这玩意半衰期超长..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568756978599735297",
+        "conversation_id": "1952890493370835296",
+        "created_at": "2025-08-06T00:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T01:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952890493370835296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952890493370835296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没有十一酸雌二醇，为什么没有十一酸雌二醇，哪里可以搞到这个东西，我也想用十一酸😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 270,
+          "like_count": 1862,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 865
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T00:23:17.000Z",
+        "description": "| 生活推，碎碎念 | 2023-5🍥持证含糖 | 医学专业硕士，精神病已康复（健全b） | 学着勇敢面对现实的世界和真实的自己 | 虽然终会离开，仍想把一面之缘的你们记住 |",
+        "id": "1568756978599735297",
+        "location": "安徽，合肥",
+        "name": "wwwene～🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944915604747526146/WXxPqIxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 663,
+          "like_count": 2081,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1304
+        },
+        "username": "wwwwwnie",
+        "verified": false
+      }
+    ]
+  }
+}

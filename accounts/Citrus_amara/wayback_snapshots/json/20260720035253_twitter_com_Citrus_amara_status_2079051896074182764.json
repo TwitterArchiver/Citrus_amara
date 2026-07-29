@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078910300741660672"
+      ],
+      "media_source_tweet_id": [
+        "2078910310837354709"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2079051896074182764",
+    "created_at": "2026-07-20T03:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079051896074182764"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 12,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "73876279",
+          "start": 3,
+          "username": "SCA_DI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F2Yy6MShiQ",
+          "end": 85,
+          "expanded_url": "https://x.com/SCA_DI/status/2078910310837354709/photo/1",
+          "media_key": "3_2078910300741660672",
+          "start": 62,
+          "url": "https://t.co/F2Yy6MShiQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079051896074182764",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1737
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078910310837354709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SCA_DI: #素晴らしき日々\n\n7              /                     20 https://t.co/F2Yy6MShiQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1667,
+        "media_key": "3_2078910300741660672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnF52ubcAACN5H.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078910300741660672"
+          ]
+        },
+        "author_id": "73876279",
+        "conversation_id": "2078910310837354709",
+        "created_at": "2026-07-19T18:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078910310837354709"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2Yy6MShiQ",
+              "end": 73,
+              "expanded_url": "https://x.com/SCA_DI/status/2078910310837354709/photo/1",
+              "media_key": "3_2078910300741660672",
+              "start": 50,
+              "url": "https://t.co/F2Yy6MShiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078910310837354709",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 569,
+          "impression_count": 107347,
+          "like_count": 5634,
+          "quote_count": 55,
+          "reply_count": 62,
+          "retweet_count": 1737
+        },
+        "reply_settings": "everyone",
+        "text": "#素晴らしき日々\n\n7              /                     20 https://t.co/F2Yy6MShiQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078910300741660672"
+          ],
+          "media_source_tweet_id": [
+            "2078910310837354709"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2079051896074182764",
+        "created_at": "2026-07-20T03:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079051896074182764"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "73876279",
+              "start": 3,
+              "username": "SCA_DI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2Yy6MShiQ",
+              "end": 85,
+              "expanded_url": "https://x.com/SCA_DI/status/2078910310837354709/photo/1",
+              "media_key": "3_2078910300741660672",
+              "start": 62,
+              "url": "https://t.co/F2Yy6MShiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079051896074182764",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1737
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078910310837354709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SCA_DI: #素晴らしき日々\n\n7              /                     20 https://t.co/F2Yy6MShiQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "shsh548866"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 1186,
+          "like_count": 21116,
+          "listed_count": 5,
+          "media_count": 442,
+          "tweet_count": 11824
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-13T12:48:05.000Z",
+        "description": "片腕に五本の指を持つ男。 満三歳で独学によって言語習得（日本語）。 思索https://t.co/T4C7MUpDGW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/scadithink",
+                "end": 59,
+                "expanded_url": "https://twitter.com/scadithink",
+                "start": 36,
+                "url": "https://t.co/T4C7MUpDGW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "keromakura.net",
+                "end": 23,
+                "expanded_url": "http://www.keromakura.net/",
+                "start": 0,
+                "url": "https://t.co/9p3c8DNBgD"
+              }
+            ]
+          }
+        },
+        "id": "73876279",
+        "location": "ケロQ　枕",
+        "name": "SCA自（すかぢ）",
+        "pinned_tweet_id": "1640806796746166272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078927241724284928/ALhav1E5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92852,
+          "following_count": 1711,
+          "like_count": 85572,
+          "listed_count": 1225,
+          "media_count": 341,
+          "tweet_count": 57707
+        },
+        "url": "https://t.co/9p3c8DNBgD",
+        "username": "SCA_DI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1944440089540448372",
+    "created_at": "2025-07-13T16:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T17:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944440089540448372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gogh1988174/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/gogh1988174/status/1944350758050369888",
+          "start": 11,
+          "url": "https://t.co/dTnNpEENxB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944440089540448372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944350758050369888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。炸柜几乎必家暴 https://t.co/dTnNpEENxB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944350748080222208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvu4tCoWMAAy6mV.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1944440089540448372",
+        "created_at": "2025-07-13T16:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T17:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944440089540448372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gogh1988174/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/gogh1988174/status/1944350758050369888",
+              "start": 11,
+              "url": "https://t.co/dTnNpEENxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944440089540448372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944350758050369888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。炸柜几乎必家暴 https://t.co/dTnNpEENxB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944350748080222208"
+          ]
+        },
+        "author_id": "1729782382386126848",
+        "conversation_id": "1944350758050369888",
+        "created_at": "2025-07-13T10:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944350758050369888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oAZQHlmDv",
+              "end": 63,
+              "expanded_url": "https://x.com/gogh1988174/status/1944350758050369888/photo/1",
+              "media_key": "3_1944350748080222208",
+              "start": 40,
+              "url": "https://t.co/8oAZQHlmDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944350758050369888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8624,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "炸柜了，糖，药，小玩具，假发，cos服全扔了\n这是每个家暴党都会必经的流程吗？ https://t.co/8oAZQHlmDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "双相已确诊。oder。跨性别。请求互fo。\n叫我苦橙就好了。",
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "苦橙",
+        "pinned_tweet_id": "1939399525346550019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936145987841531904/Z4VVC4zG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 63,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T08:40:57.000Z",
+        "description": "友跨顺男/性别认知障碍/02大龄/天残党/无证含糖/不再od了/HRT2025.3.11/不太成熟/ISFP拖延症/深柜未rle/m/主人 @Tang_1019 /会互fo的\n之前有的照片都不太好看，就只发了一点点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "Tang_1019"
+              }
+            ]
+          }
+        },
+        "id": "1729782382386126848",
+        "name": "沃沃",
+        "pinned_tweet_id": "1909167006815027273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923436857150537730/VetELcJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 943,
+          "like_count": 3642,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 236
+        },
+        "username": "gogh1988174",
+        "verified": false
+      }
+    ]
+  }
+}

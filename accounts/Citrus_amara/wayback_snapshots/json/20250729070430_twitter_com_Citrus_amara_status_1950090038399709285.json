@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950090038399709285",
+    "created_at": "2025-07-29T07:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T08:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950090038399709285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/B_cat38324/status/1949477954213364187",
+          "start": 7,
+          "url": "https://t.co/XpwuNsjuup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950090038399709285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949477954213364187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再写点要去了 https://t.co/XpwuNsjuup"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950090038399709285",
+        "created_at": "2025-07-29T07:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T08:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950090038399709285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1949477954213364187",
+              "start": 7,
+              "url": "https://t.co/XpwuNsjuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950090038399709285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949477954213364187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再写点要去了 https://t.co/XpwuNsjuup"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1949477954213364187",
+        "created_at": "2025-07-27T14:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T15:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949477954213364187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949477954213364187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 21275,
+          "like_count": 223,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没有下体焦虑的跨妹说留着牛子耻辱play很爽。但其实即使没有下体焦虑srs之后也是更爽的。首先，用不了多久，自己关于牛子的记忆就会被彻底删除。害怕使用牛子的恐惧会完全消失。在每个月的发情期会主动用食指和中指分开穴口邀约主人进入。如果主人不答应就只好用湿哒哒的下体在主人的大腿上蹭豆豆……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。欢迎od的互关，欢迎私信。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "⑧⑨🍊苦橙🍊⑥④",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 191,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 566
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "戈培猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18139,
+          "following_count": 186,
+          "like_count": 569,
+          "listed_count": 65,
+          "media_count": 89,
+          "tweet_count": 18150
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

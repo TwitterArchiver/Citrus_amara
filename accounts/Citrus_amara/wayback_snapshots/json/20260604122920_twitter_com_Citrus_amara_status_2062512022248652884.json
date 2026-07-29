@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2062512022248652884",
+    "created_at": "2026-06-04T12:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062512022248652884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lianshufa/stat…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/lianshufa/status/2062467564228452669",
+          "start": 36,
+          "url": "https://t.co/ymRaCgTJmE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062512022248652884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062467564228452669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对竞赛机制有点混乱了。这个是预赛还是国初？预赛还会有获奖证书吗...？ https://t.co/ymRaCgTJmE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062467539926765568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9bTNYb0AAonFz.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2062512022248652884",
+        "created_at": "2026-06-04T12:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062512022248652884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lianshufa/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/lianshufa/status/2062467564228452669",
+              "start": 36,
+              "url": "https://t.co/ymRaCgTJmE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062512022248652884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062467564228452669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对竞赛机制有点混乱了。这个是预赛还是国初？预赛还会有获奖证书吗...？ https://t.co/ymRaCgTJmE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062467539926765568"
+          ]
+        },
+        "author_id": "1892197607109476352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2062467564228452669",
+        "created_at": "2026-06-04T09:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062467564228452669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Kt8SCHCXx",
+              "end": 40,
+              "expanded_url": "https://x.com/lianshufa/status/2062467564228452669/photo/1",
+              "media_key": "3_2062467539926765568",
+              "start": 17,
+              "url": "https://t.co/1Kt8SCHCXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062467564228452669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2221,
+          "like_count": 80,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱北京市化学竞赛 省级预赛二等奖 https://t.co/1Kt8SCHCXx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 1093,
+          "like_count": 20437,
+          "listed_count": 5,
+          "media_count": 413,
+          "tweet_count": 11510
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T13:01:39.000Z",
+        "description": "个人主页:https://t.co/zZum0DqESa｜生日2009.10.02｜两性畸形?｜X?tF｜舞萌痴｜化学竞赛｜弹电吉他🎸",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 28,
+                "expanded_url": "http://lsfself.top",
+                "start": 5,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 23,
+                "expanded_url": "http://lsfself.top",
+                "start": 0,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          }
+        },
+        "id": "1892197607109476352",
+        "location": "北京回龙观医院门诊2层13诊室",
+        "name": "lsf",
+        "pinned_tweet_id": "2062467564228452669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035628512263221248/duwFcH0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4191,
+          "following_count": 1789,
+          "like_count": 2533,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/zZum0DqESa",
+        "username": "lianshufa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946536927257317672",
+    "created_at": "2025-07-20T10:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T11:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946883380143853944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1257094935955640320",
+          "start": 0,
+          "username": "sYb0svzdtRqEY2r"
+        },
+        {
+          "end": 30,
+          "id": "1762050911332081664",
+          "start": 17,
+          "username": "BucketFallen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946883380143853944",
+    "in_reply_to_user_id": "1257094935955640320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946769844063609142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sYb0svzdtRqEY2r @BucketFallen 看你多北，我在北京一样一天一洗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946536927257317672",
+        "created_at": "2025-07-20T10:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T11:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946883380143853944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1257094935955640320",
+              "start": 0,
+              "username": "sYb0svzdtRqEY2r"
+            },
+            {
+              "end": 30,
+              "id": "1762050911332081664",
+              "start": 17,
+              "username": "BucketFallen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946883380143853944",
+        "in_reply_to_user_id": "1257094935955640320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946769844063609142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sYb0svzdtRqEY2r @BucketFallen 看你多北，我在北京一样一天一洗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257094935955640320",
+        "conversation_id": "1946536927257317672",
+        "created_at": "2025-07-20T03:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T04:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946769844063609142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 27,
+              "id": "1762050911332081664",
+              "start": 14,
+              "username": "BucketFallen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946769844063609142",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946576136286134317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @BucketFallen 北方三天一洗的都常见，南方一天一洗我都嫌少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎mtf，ftm和地雷系给我私信。好感刷高了可以爆qq。\n需要墙内联系方式请给我打钱。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 81,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 223
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T23:49:32.000Z",
+        "description": "No room for racism💪💪🏼💪🏿\n\nfk Japan🖕🏻,fk Fascism🖕🏻",
+        "id": "1257094935955640320",
+        "name": "Smith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605371514559135745/FRNUVhel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 79,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 631
+        },
+        "username": "sYb0svzdtRqEY2r",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T09:44:15.000Z",
+        "description": "一个勤劳淳朴的湖北农民 Introvert nerd coomer edgylord loser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rez331.straw.page",
+                "end": 23,
+                "expanded_url": "https://rez331.straw.page",
+                "start": 0,
+                "url": "https://t.co/vHuBpTCNle"
+              }
+            ]
+          }
+        },
+        "id": "1762050911332081664",
+        "location": "18岁",
+        "name": "进击的退步b",
+        "pinned_tweet_id": "1946911640311755162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944810777480978433/VtKe9LuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 462,
+          "like_count": 1255,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1123
+        },
+        "url": "https://t.co/vHuBpTCNle",
+        "username": "BucketFallen",
+        "verified": false
+      }
+    ]
+  }
+}

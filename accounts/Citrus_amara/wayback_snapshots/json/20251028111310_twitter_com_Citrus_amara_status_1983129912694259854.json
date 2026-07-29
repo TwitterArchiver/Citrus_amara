@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1983107741897077107",
+    "created_at": "2025-10-28T11:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T12:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983129912694259854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617685747116675073",
+          "start": 0,
+          "username": "_mucha_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983129912694259854",
+    "in_reply_to_user_id": "1617685747116675073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983107741897077107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 好多好东西妈妈我想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1983107712834756608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Vp9TbaYAA4YoN.jpg",
+        "width": 767
+      },
+      {
+        "height": 759,
+        "media_key": "3_1983107720594309120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Vp9wVbwAACytv.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1983107729398083586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Vp-RIasAIbtLV.jpg",
+        "width": 773
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1983107738998845441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Vp-05asAEBeXx.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983107741897077107",
+        "created_at": "2025-10-28T11:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983129912694259854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617685747116675073",
+              "start": 0,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983129912694259854",
+        "in_reply_to_user_id": "1617685747116675073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983107741897077107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 好多好东西妈妈我想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983107712834756608",
+            "3_1983107720594309120",
+            "3_1983107729398083586",
+            "3_1983107738998845441"
+          ]
+        },
+        "author_id": "1617685747116675073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983107741897077107",
+        "created_at": "2025-10-28T09:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983107741897077107"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "右美"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "思诺思"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "氯硝西泮"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "劳拉西泮"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "阿普唑仑"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "外烟"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "od"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "白云山"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "唑吡坦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U9bz2pBZN3",
+              "end": 71,
+              "expanded_url": "https://x.com/_mucha_000/status/1983107741897077107/photo/1",
+              "media_key": "3_1983107712834756608",
+              "start": 48,
+              "url": "https://t.co/U9bz2pBZN3"
+            },
+            {
+              "display_url": "pic.x.com/U9bz2pBZN3",
+              "end": 71,
+              "expanded_url": "https://x.com/_mucha_000/status/1983107741897077107/photo/1",
+              "media_key": "3_1983107720594309120",
+              "start": 48,
+              "url": "https://t.co/U9bz2pBZN3"
+            },
+            {
+              "display_url": "pic.x.com/U9bz2pBZN3",
+              "end": 71,
+              "expanded_url": "https://x.com/_mucha_000/status/1983107741897077107/photo/1",
+              "media_key": "3_1983107729398083586",
+              "start": 48,
+              "url": "https://t.co/U9bz2pBZN3"
+            },
+            {
+              "display_url": "pic.x.com/U9bz2pBZN3",
+              "end": 71,
+              "expanded_url": "https://x.com/_mucha_000/status/1983107741897077107/photo/1",
+              "media_key": "3_1983107738998845441",
+              "start": 48,
+              "url": "https://t.co/U9bz2pBZN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983107741897077107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "消遣\n#右美 ＃思诺思 ＃氯硝西泮 ＃劳拉西泮 ＃阿普唑仑 ＃外烟 ＃od #白云山 #唑吡坦 https://t.co/U9bz2pBZN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 635,
+          "like_count": 10216,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 4069
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "Love Pays for Itself 丨ODWiki编辑丨写歌打音游的丨拖家带口→@molmolxing/@634LIVINLIMBO/@Nijika_overdose/@elsa_yrt/@ZTYQ_0319",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "molmolxing"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "634LIVINLIMBO"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "Nijika_overdose"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "elsa_yrt"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "ZTYQ_0319"
+              }
+            ]
+          }
+        },
+        "id": "1617685747116675073",
+        "name": "旋宫牧雨🖤胺樂天使",
+        "pinned_tweet_id": "1946032506266120662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965065011598180352/CTte4Z94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 747,
+          "like_count": 56756,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 8349
+        },
+        "username": "_mucha_000",
+        "verified": true
+      }
+    ]
+  }
+}

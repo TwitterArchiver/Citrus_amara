@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2047285298758095002",
+    "created_at": "2026-04-23T12:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047285298758095002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044319134326964224",
+          "start": 3,
+          "username": "Allenium114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047285298758095002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047175429128397224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Allenium114: 建制派：一拳呼到自由派脸上\n自由派：我们可以好好相处吗\n\n凛&amp;葱娘：你们自由派这么对待我们为什么要尊重自由派"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2047285298758095002",
+        "created_at": "2026-04-23T12:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047285298758095002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044319134326964224",
+              "start": 3,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047285298758095002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047175429128397224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Allenium114: 建制派：一拳呼到自由派脸上\n自由派：我们可以好好相处吗\n\n凛&amp;葱娘：你们自由派这么对待我们为什么要尊重自由派"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2047175429128397224",
+        "created_at": "2026-04-23T04:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047175429128397224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047175429128397224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 769,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "建制派：一拳呼到自由派脸上\n自由派：我们可以好好相处吗\n\n凛&amp;葱娘：你们自由派这么对待我们为什么要尊重自由派"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 1050,
+          "like_count": 19411,
+          "listed_count": 6,
+          "media_count": 401,
+          "tweet_count": 11015
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "西南梦游山tv之翎早上因为熬夜而半梦半醒的起来上早八看见 x大号@xldmtx又被封了无助的爬起打开apex被顶猎一脚踢死想打六目标发现才 8w分被自己区的满地都是无助的爬回床上结果镜子照出巨人般的骨架不禁悲从中来打开前摄被长发男蛆一样的外观丑晕奇异搞笑的盖上被子割完手接着等死又被家长发现割手一顿批判顿觉这辈子有了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "xldmtx"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "location": "棍母所栖之处",
+        "name": "🍁🍥iLYA🍥🍁",
+        "pinned_tweet_id": "2047174700795883807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044319211884032000/COXjezdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 191,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 539
+        },
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

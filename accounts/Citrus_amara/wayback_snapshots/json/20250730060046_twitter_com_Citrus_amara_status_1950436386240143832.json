@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950436386240143832",
+    "created_at": "2025-07-30T06:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950436386240143832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1650406569287495680",
+          "start": 3,
+          "username": "bxsl1660061"
+        },
+        {
+          "end": 33,
+          "id": "1902297181157257218",
+          "start": 17,
+          "username": "transmasculine0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950436386240143832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950199287825961209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bxsl1660061: @transmasculine0 我爸翻出我的针管以为我打人妖药，后来知道是吸毒之后他就放心了😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950436386240143832",
+        "created_at": "2025-07-30T06:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950436386240143832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1650406569287495680",
+              "start": 3,
+              "username": "bxsl1660061"
+            },
+            {
+              "end": 33,
+              "id": "1902297181157257218",
+              "start": 17,
+              "username": "transmasculine0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950436386240143832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950199287825961209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bxsl1660061: @transmasculine0 我爸翻出我的针管以为我打人妖药，后来知道是吸毒之后他就放心了😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650406569287495680",
+        "conversation_id": "1950153895298154673",
+        "created_at": "2025-07-29T14:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T15:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950199287825961209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902297181157257218",
+              "start": 0,
+              "username": "transmasculine0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950199287825961209",
+        "in_reply_to_user_id": "1902297181157257218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950153895298154673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@transmasculine0 我爸翻出我的针管以为我打人妖药，后来知道是吸毒之后他就放心了😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 216,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 601
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T07:49:38.000Z",
+        "description": "",
+        "id": "1650406569287495680",
+        "name": "不醒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864029347939835904/W03xMx7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 184
+        },
+        "username": "bxsl1660061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "人妖｜阳痿｜易性症｜无性恋｜打工攒手术费中｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/transmasculine0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/transmasculine0",
+                "start": 0,
+                "url": "https://t.co/9P42hW6enT"
+              }
+            ]
+          }
+        },
+        "id": "1902297181157257218",
+        "location": "🇨🇳🪜🇺🇸",
+        "name": "葵矢枢🏳️‍⚧️",
+        "pinned_tweet_id": "1919609393244692624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904354983451168768/2Ta31U7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 113,
+          "like_count": 3188,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/9P42hW6enT",
+        "username": "transmasculine0",
+        "verified": false
+      }
+    ]
+  }
+}

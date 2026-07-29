@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1944900269633900866",
+    "created_at": "2025-07-16T08:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T09:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945397727925313636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889453110650871808",
+          "start": 0,
+          "username": "qinghuan5865471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945397727925313636",
+    "in_reply_to_user_id": "1889453110650871808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945338904049295506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinghuan5865471 你的胃很强大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1944900269633900866",
+        "created_at": "2025-07-16T08:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T09:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945397727925313636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889453110650871808",
+              "start": 0,
+              "username": "qinghuan5865471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945397727925313636",
+        "in_reply_to_user_id": "1889453110650871808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945338904049295506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinghuan5865471 你的胃很强大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889453110650871808",
+        "conversation_id": "1944900269633900866",
+        "created_at": "2025-07-16T04:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T05:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945338904049295506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945338904049295506",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945288310055702861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 没反应第一次16t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "双相已确诊。oder。跨性别。请求互fo。\n叫我苦橙就好了。",
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "苦橙",
+        "pinned_tweet_id": "1939399525346550019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 68,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 94
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T23:15:14.000Z",
+        "description": "生产日期2011，0130。一个人，生产地来到我们的大东北☝🏻🤓辽宁本溪|姐姐@8nuecLav||老公@Washiyin_Neko||女鹅@Xiaokongyu233|。 赤伶，清欢，远山微暮，云舒，阿拉斯托都是我，QQ号2592258482，我很希望大家可以加我QQ一起打游戏一起聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "8nuecLav"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "Washiyin_Neko"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Xiaokongyu233"
+              }
+            ]
+          }
+        },
+        "id": "1889453110650871808",
+        "location": "辽宁本溪",
+        "name": "AD🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1920445082718568582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942356192744951808/ps-WV26e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 388,
+          "like_count": 1580,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 786
+        },
+        "username": "qinghuan5865471",
+        "verified": false
+      }
+    ]
+  }
+}

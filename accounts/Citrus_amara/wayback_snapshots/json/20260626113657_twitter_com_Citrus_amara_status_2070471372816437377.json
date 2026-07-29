@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2070471372816437377",
+    "created_at": "2026-06-26T11:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070471372816437377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/zqtlovekris99/status/2070386827396255884",
+          "start": 57,
+          "url": "https://t.co/5axPfaN7Li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070471372816437377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070386827396255884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6月26日是第39个国际吸毒日。国家吸毒办提醒您：滥用麻精药品就是吸毒。你我参与，一起滥用，守护毒品，吸毒人生。 https://t.co/5axPfaN7Li"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070471372816437377",
+        "created_at": "2026-06-26T11:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070471372816437377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/2070386827396255884",
+              "start": 57,
+              "url": "https://t.co/5axPfaN7Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070471372816437377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070386827396255884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6月26日是第39个国际吸毒日。国家吸毒办提醒您：滥用麻精药品就是吸毒。你我参与，一起滥用，守护毒品，吸毒人生。 https://t.co/5axPfaN7Li"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070386827396255884",
+        "created_at": "2026-06-26T06:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070386827396255884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070386827396255884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6月26日是第39个国际禁毒日。国家禁毒办提醒您：滥用麻精药品就是吸毒。你我参与，拒绝滥用，守护未来，健康人生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n---\nAutism/Plurality/BPD/药物滥用/双相\n\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 1134,
+          "like_count": 20851,
+          "listed_count": 5,
+          "media_count": 424,
+          "tweet_count": 11691
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13507,
+          "following_count": 1703,
+          "like_count": 26297,
+          "listed_count": 16,
+          "media_count": 5443,
+          "tweet_count": 29034
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

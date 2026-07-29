@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950334566792896752",
+    "created_at": "2025-07-30T12:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T13:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950537373621567705"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 82,
+          "normalized_text": "日本",
+          "probability": 0.8523,
+          "start": 81,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "388740994",
+          "start": 0,
+          "username": "isaokingo"
+        },
+        {
+          "end": 27,
+          "id": "1177969108417040385",
+          "start": 11,
+          "username": "uanC3rZ0mGTAKEe"
+        },
+        {
+          "end": 44,
+          "id": "1342814506234257409",
+          "start": 28,
+          "username": "MgLGfsfs0UaNQeO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950537373621567705",
+    "in_reply_to_user_id": "388740994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950513473709900109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isaokingo @uanC3rZ0mGTAKEe @MgLGfsfs0UaNQeO 他国の領土に軍隊を送ることは侵略ではないのか？当時の国力比較からすれば、日本は外交手段で解決できたはずですよね？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950334566792896752",
+        "created_at": "2025-07-30T12:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950537373621567705"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 82,
+              "normalized_text": "日本",
+              "probability": 0.8523,
+              "start": 81,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "388740994",
+              "start": 0,
+              "username": "isaokingo"
+            },
+            {
+              "end": 27,
+              "id": "1177969108417040385",
+              "start": 11,
+              "username": "uanC3rZ0mGTAKEe"
+            },
+            {
+              "end": 44,
+              "id": "1342814506234257409",
+              "start": 28,
+              "username": "MgLGfsfs0UaNQeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950537373621567705",
+        "in_reply_to_user_id": "388740994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950513473709900109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isaokingo @uanC3rZ0mGTAKEe @MgLGfsfs0UaNQeO 他国の領土に軍隊を送ることは侵略ではないのか？当時の国力比較からすれば、日本は外交手段で解決できたはずですよね？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "388740994",
+        "conversation_id": "1950334566792896752",
+        "created_at": "2025-07-30T11:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950513473709900109"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "日本",
+              "probability": 0.8814,
+              "start": 43,
+              "type": "Place"
+            },
+            {
+              "end": 59,
+              "normalized_text": "日本",
+              "probability": 0.911,
+              "start": 58,
+              "type": "Place"
+            },
+            {
+              "end": 62,
+              "normalized_text": "中国",
+              "probability": 0.9089,
+              "start": 61,
+              "type": "Place"
+            },
+            {
+              "end": 110,
+              "normalized_text": "日本軍",
+              "probability": 0.564,
+              "start": 108,
+              "type": "Organization"
+            },
+            {
+              "end": 113,
+              "normalized_text": "中国",
+              "probability": 0.8604,
+              "start": 112,
+              "type": "Place"
+            },
+            {
+              "end": 136,
+              "normalized_text": "日本",
+              "probability": 0.8406,
+              "start": 135,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1177969108417040385",
+              "start": 0,
+              "username": "uanC3rZ0mGTAKEe"
+            },
+            {
+              "end": 33,
+              "id": "1342814506234257409",
+              "start": 17,
+              "username": "MgLGfsfs0UaNQeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950513473709900109",
+        "in_reply_to_user_id": "1177969108417040385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950505117859639377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uanC3rZ0mGTAKEe @MgLGfsfs0UaNQeO 第2 次世界大戦は日本では大東亜戦争といいます。日本は中国に侵略していません。通州事件に於いて、日本人が大量虐殺された事で、日本人保護の為に本格的に日本軍が中国に派遣されました。それまでは在中の日本人と日本の権益を護る為の 派兵でした。中華民国軍の攻撃に反撃していただけです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 224,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 629
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-11T08:17:25.000Z",
+        "description": "貧乏人暇なしです。1971年１０月３日パリの日本大使館近くの路上で昭和天皇(裕仁)と香淳皇后の車列に遭遇、手が届く距離で、お言葉を頂きましたが、その頃は学生で胸が熱くなりました。日本人で良かったと思いました。",
+        "id": "388740994",
+        "name": "日本救国党",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1018390921786769409/MjIPd5jG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6320,
+          "following_count": 6355,
+          "like_count": 120,
+          "listed_count": 22,
+          "media_count": 3,
+          "tweet_count": 1755
+        },
+        "username": "isaokingo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-28T15:31:45.000Z",
+        "description": "爱吃甜食 喜欢做梦 嗜好幻想",
+        "id": "1177969108417040385",
+        "location": "台湾",
+        "name": "Rian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800040877919715328/njdkO_rR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 11,
+          "like_count": 1055,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 721
+        },
+        "username": "uanC3rZ0mGTAKEe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-26T12:49:01.000Z",
+        "description": "神戸の普通の会社員。中国歴史好き。祖父は原爆投下直後に現場救護へいった元衛生兵。子供の頃からその悲惨な現場の話を聞かされた。",
+        "id": "1342814506234257409",
+        "name": "とよ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364195348957159424/bPU_1rk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3358,
+          "following_count": 2014,
+          "like_count": 43877,
+          "listed_count": 54,
+          "media_count": 105,
+          "tweet_count": 7875
+        },
+        "username": "MgLGfsfs0UaNQeO",
+        "verified": false
+      }
+    ]
+  }
+}

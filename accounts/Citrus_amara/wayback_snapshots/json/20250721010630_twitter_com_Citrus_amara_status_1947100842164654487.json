@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947100842164654487",
+    "created_at": "2025-07-21T01:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T02:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947100842164654487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HyotoChandesuy…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/HyotoChandesuyo/status/1947068145455481270",
+          "start": 8,
+          "url": "https://t.co/3cJi5VDcha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947100842164654487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947068145455481270",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已严肃0721 https://t.co/3cJi5VDcha"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947100842164654487",
+        "created_at": "2025-07-21T01:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T02:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947100842164654487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HyotoChandesuy…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/HyotoChandesuyo/status/1947068145455481270",
+              "start": 8,
+              "url": "https://t.co/3cJi5VDcha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947100842164654487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947068145455481270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已严肃0721 https://t.co/3cJi5VDcha"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680834021377593344",
+        "conversation_id": "1947068145455481270",
+        "created_at": "2025-07-20T22:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T23:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947068145455481270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947068145455481270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还能0721得了吗你们这些跨出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎mtf，ftm和地雷系给我私信。好感刷高了可以爆qq。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 83,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 233
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "MtXtM🍥｜Asexual｜一人ぼっちのパレードを",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原ひょと🍥",
+        "pinned_tweet_id": "1945313496645972432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946528122964168704/wzvtAWTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2547,
+          "following_count": 992,
+          "like_count": 115628,
+          "listed_count": 13,
+          "media_count": 4406,
+          "tweet_count": 30356
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

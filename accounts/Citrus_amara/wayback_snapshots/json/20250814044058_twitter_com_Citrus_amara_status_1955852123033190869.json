@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1955563373510488119",
+    "created_at": "2025-08-14T04:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T05:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955852123033190869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383473182854684674",
+          "start": 0,
+          "username": "yuanwangnan"
+        },
+        {
+          "end": 28,
+          "id": "1680508885394927616",
+          "start": 13,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955852123033190869",
+    "in_reply_to_user_id": "1383473182854684674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955841513533137338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanwangnan @04177_realname 幸好我早就和药娘切割了🏳️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1955563373510488119",
+        "created_at": "2025-08-14T04:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T05:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955852123033190869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383473182854684674",
+              "start": 0,
+              "username": "yuanwangnan"
+            },
+            {
+              "end": 28,
+              "id": "1680508885394927616",
+              "start": 13,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955852123033190869",
+        "in_reply_to_user_id": "1383473182854684674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955841513533137338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanwangnan @04177_realname 幸好我早就和药娘切割了🏳️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383473182854684674",
+        "conversation_id": "1955563373510488119",
+        "created_at": "2025-08-14T03:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T04:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955841513533137338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 29,
+              "id": "1680508885394927616",
+              "start": 14,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955841513533137338",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955578061694574902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @04177_realname 说过想把全世界的药娘都杀光的超大地图炮言论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 332,
+          "like_count": 2880,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1234
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "06",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/14isfourteen",
+                "end": 23,
+                "expanded_url": "http://github.com/14isfourteen",
+                "start": 0,
+                "url": "https://t.co/RbV99qPMjr"
+              }
+            ]
+          }
+        },
+        "id": "1383473182854684674",
+        "location": "广州",
+        "name": "十四",
+        "pinned_tweet_id": "1896590649316823248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3510,
+          "following_count": 136,
+          "like_count": 40679,
+          "listed_count": 13,
+          "media_count": 2018,
+          "tweet_count": 21276
+        },
+        "url": "https://t.co/RbV99qPMjr",
+        "username": "yuanwangnan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。❤️：@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11003,
+          "following_count": 6144,
+          "like_count": 64148,
+          "listed_count": 31,
+          "media_count": 2521,
+          "tweet_count": 18712
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

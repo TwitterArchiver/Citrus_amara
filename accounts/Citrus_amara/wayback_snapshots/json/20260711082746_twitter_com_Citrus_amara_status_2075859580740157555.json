@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075304299803074560"
+      ],
+      "media_source_tweet_id": [
+        "2075304321164759402"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075859580740157555",
+    "created_at": "2026-07-11T08:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075859580740157555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2043745937298792448",
+          "start": 3,
+          "username": "ivan20221126"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nw4Dn3nxWJ",
+          "end": 58,
+          "expanded_url": "https://x.com/ivan20221126/status/2075304321164759402/video/1",
+          "media_key": "7_2075304299803074560",
+          "start": 35,
+          "url": "https://t.co/Nw4Dn3nxWJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075859580740157555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075304321164759402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ivan20221126: 2024年的某天，你偶然得知了… https://t.co/Nw4Dn3nxWJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24800,
+        "height": 796,
+        "media_key": "7_2075304299803074560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075304299803074560/pu/img/r2uIU70d_RlEPx1l.jpg",
+        "public_metrics": {
+          "view_count": 762
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075304299803074560/pu/vid/avc1/320x352/rvq8aG5q3Ji72U8t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075304299803074560/pu/vid/avc1/480x530/_1zhGjnO6KryHv8h.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075304299803074560/pu/vid/avc1/720x796/fOHe62ncdjPXqP8i.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075304299803074560/pu/pl/zZbHt_vKfvpXQzh7.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075304299803074560"
+          ],
+          "media_source_tweet_id": [
+            "2075304321164759402"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075859580740157555",
+        "created_at": "2026-07-11T08:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075859580740157555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2043745937298792448",
+              "start": 3,
+              "username": "ivan20221126"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nw4Dn3nxWJ",
+              "end": 58,
+              "expanded_url": "https://x.com/ivan20221126/status/2075304321164759402/video/1",
+              "media_key": "7_2075304299803074560",
+              "start": 35,
+              "url": "https://t.co/Nw4Dn3nxWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075859580740157555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075304321164759402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ivan20221126: 2024年的某天，你偶然得知了… https://t.co/Nw4Dn3nxWJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075304299803074560"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2075304321164759402",
+        "created_at": "2026-07-09T19:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075304321164759402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nw4Dn3nxWJ",
+              "end": 40,
+              "expanded_url": "https://x.com/ivan20221126/status/2075304321164759402/video/1",
+              "media_key": "7_2075304299803074560",
+              "start": 17,
+              "url": "https://t.co/Nw4Dn3nxWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075304321164759402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1944,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "2024年的某天，你偶然得知了… https://t.co/Nw4Dn3nxWJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/od/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 1161,
+          "like_count": 21005,
+          "listed_count": 5,
+          "media_count": 431,
+          "tweet_count": 11761
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 133,
+          "like_count": 2609,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      }
+    ]
+  }
+}

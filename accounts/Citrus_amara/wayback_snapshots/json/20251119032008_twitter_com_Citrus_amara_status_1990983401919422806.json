@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1990983401919422806",
+    "created_at": "2025-11-19T03:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T04:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990983401919422806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Im_Just__Girl/…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Im_Just__Girl/status/1988439669881905472",
+          "start": 28,
+          "url": "https://t.co/7HyO2PgI7C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990983401919422806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988439669881905472",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "✍✍✍\n有点搞笑，我学的专业是理工科但是几乎没有男生学 https://t.co/7HyO2PgI7C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1990983401919422806",
+        "created_at": "2025-11-19T03:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990983401919422806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/1988439669881905472",
+              "start": 28,
+              "url": "https://t.co/7HyO2PgI7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990983401919422806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988439669881905472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✍✍✍\n有点搞笑，我学的专业是理工科但是几乎没有男生学 https://t.co/7HyO2PgI7C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "1988439669881905472",
+        "created_at": "2025-11-12T02:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988439669881905472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988439669881905472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 24044,
+          "like_count": 26,
+          "quote_count": 19,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再强调一遍，计算机跨是100%的男人，顺女中没有那么多学计算机的。理工跨是男跨，顺女中没有那么多理工科。文科社科商科医学农学艺术跨女都是100%的女性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 784,
+          "like_count": 12230,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 5147
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "理工跨子永远都是男跨，文科跨女就是女性，计算机CS跨永远是男人。理工跨的审美和长相就是对MTF最大的侮辱。I'm a Good girl. Please don't hurt me.👧\n洪水将至🌈。烧女诬的烟往上冒，直到永永远远（诬告男性的女人）！阴湿女，喜欢阴冷潮湿的气候 。被热带逼疯，Going troppo中",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "pinned_tweet_id": "1987920278366941404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977019999081709568/Vs0ILDtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 654,
+          "like_count": 9734,
+          "listed_count": 4,
+          "media_count": 93,
+          "tweet_count": 4680
+        },
+        "username": "Im_Just__Girl",
+        "verified": false
+      }
+    ]
+  }
+}

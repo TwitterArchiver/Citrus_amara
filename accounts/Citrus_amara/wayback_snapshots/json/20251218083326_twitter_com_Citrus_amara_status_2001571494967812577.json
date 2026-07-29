@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2001247246759944460",
+    "created_at": "2025-12-18T08:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T09:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001571494967812577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766135115309260800",
+          "start": 0,
+          "username": "Sakana430_"
+        },
+        {
+          "end": 24,
+          "id": "1506521082853216258",
+          "start": 12,
+          "username": "17891956wer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001571494967812577",
+    "in_reply_to_user_id": "1766135115309260800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001561901340524577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakana430_ @17891956wer 😮我吃sns不梦游哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2001247246759944460",
+        "created_at": "2025-12-18T08:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T09:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001571494967812577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766135115309260800",
+              "start": 0,
+              "username": "Sakana430_"
+            },
+            {
+              "end": 24,
+              "id": "1506521082853216258",
+              "start": 12,
+              "username": "17891956wer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001571494967812577",
+        "in_reply_to_user_id": "1766135115309260800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001561901340524577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakana430_ @17891956wer 😮我吃sns不梦游哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766135115309260800",
+        "conversation_id": "2001247246759944460",
+        "created_at": "2025-12-18T07:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001561901340524577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 26,
+              "id": "1506521082853216258",
+              "start": 14,
+              "username": "17891956wer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001561901340524577",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001388161113420030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @17891956wer 而且搭配普瑞能保留一部分梦游记忆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 942,
+          "like_count": 14376,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 6803
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T16:13:31.000Z",
+        "description": "",
+        "id": "1766135115309260800",
+        "location": "西班牙",
+        "name": "Yangyang🇪🇸",
+        "pinned_tweet_id": "1824150442462547985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897621684636819456/N490ZPYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 118,
+          "like_count": 830,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 630
+        },
+        "username": "Sakana430_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T06:39:55.000Z",
+        "description": "一个喜欢ACGN的死宅，灵魂自由，在精神世界中漫游~\n喝酒/吸烟/od/焦虑抑郁/休学中/中文/其他语言会用翻译器/诗歌/友跨/ACGN/电波系/猫猫\n欢迎互粉喵~",
+        "id": "1506521082853216258",
+        "location": "Shanghai",
+        "name": "秋风",
+        "pinned_tweet_id": "2000080287137726784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869799456050425858/n5q-m2lW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 154,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 261
+        },
+        "username": "17891956wer",
+        "verified": false
+      }
+    ]
+  }
+}

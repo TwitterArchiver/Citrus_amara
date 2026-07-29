@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2026129470990786737",
+    "created_at": "2026-02-24T04:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T05:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026152162858815488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1857669934341566467",
+          "start": 0,
+          "username": "baiyao105"
+        },
+        {
+          "end": 24,
+          "id": "2011873376445612032",
+          "start": 11,
+          "username": "zhinaqingchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026152162858815488",
+    "in_reply_to_user_id": "1857669934341566467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026132105235935360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiyao105 @zhinaqingchu 其实是焦虑。我感觉焦虑者更容易对普瑞上瘾\n可惜普瑞戒断会带来更严重的焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026129470990786737",
+        "created_at": "2026-02-24T04:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026152162858815488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1857669934341566467",
+              "start": 0,
+              "username": "baiyao105"
+            },
+            {
+              "end": 24,
+              "id": "2011873376445612032",
+              "start": 11,
+              "username": "zhinaqingchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026152162858815488",
+        "in_reply_to_user_id": "1857669934341566467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026132105235935360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiyao105 @zhinaqingchu 其实是焦虑。我感觉焦虑者更容易对普瑞上瘾\n可惜普瑞戒断会带来更严重的焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857669934341566467",
+        "conversation_id": "2026129470990786737",
+        "created_at": "2026-02-24T03:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026132105235935360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011873376445612032",
+              "start": 0,
+              "username": "zhinaqingchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026132105235935360",
+        "in_reply_to_user_id": "2011873376445612032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026129470990786737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinaqingchu 听说pr有欣快感的是真有神经痛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 1020,
+          "like_count": 17087,
+          "listed_count": 6,
+          "media_count": 355,
+          "tweet_count": 9270
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T06:20:19.000Z",
+        "description": "想死。 l 自残 / oder /精神病 l INFJ-t l 生日11.17 l 只是一个倾倒垃圾和视奸用的账号。/ 好闺闺: @emm101215",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "emm101215"
+              }
+            ]
+          }
+        },
+        "id": "1857669934341566467",
+        "name": "白杳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020476650681675776/N8B9tua-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 113,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "username": "baiyao105",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T18:50:02.000Z",
+        "description": "小睦静待死亡中......\n如果这个账号突然不再更新了，那就是小睦抵挡不住自我消亡的诱惑了~\n      永远的好朋友：@Natsumeann13        必定回fo，没回请私信喵☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "Natsumeann13"
+              }
+            ]
+          }
+        },
+        "id": "2011873376445612032",
+        "name": "支那人种清除计划Ver2.0 🇯🇵",
+        "pinned_tweet_id": "2015471136423948295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 602,
+          "like_count": 3075,
+          "listed_count": 21,
+          "media_count": 37,
+          "tweet_count": 780
+        },
+        "username": "zhinaqingchu",
+        "verified": false
+      }
+    ]
+  }
+}

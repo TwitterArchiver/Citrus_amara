@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2047286958561665260",
+    "created_at": "2026-04-23T12:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047286958561665260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Citrus_amara/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/Citrus_amara/status/2047171201798418762",
+          "start": 46,
+          "url": "https://t.co/BV9SIDmlY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047286958561665260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047171201798418762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有结论了，非oder投票太少。\n\n不过大趋势是反对禁用普瑞巴林。我想这或许代表了一些民意 https://t.co/BV9SIDmlY7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2047286958561665260",
+        "created_at": "2026-04-23T12:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047286958561665260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Citrus_amara/status/2047171201798418762",
+              "start": 46,
+              "url": "https://t.co/BV9SIDmlY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047286958561665260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047171201798418762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有结论了，非oder投票太少。\n\n不过大趋势是反对禁用普瑞巴林。我想这或许代表了一些民意 https://t.co/BV9SIDmlY7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2047171201798418762",
+        "created_at": "2026-04-23T04:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047171201798418762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Citrus_amara/status/2046531776944980370",
+              "start": 48,
+              "url": "https://t.co/1ssTs3yHvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047171201798418762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046531776944980370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "oder中135人反对禁用，25人支持禁用\n非oder中14人反对禁用，5人支持禁用\n呃。好吧 https://t.co/1ssTs3yHvZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 1050,
+          "like_count": 19411,
+          "listed_count": 6,
+          "media_count": 401,
+          "tweet_count": 11017
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

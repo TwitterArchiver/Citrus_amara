@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1943280314870083680",
+    "created_at": "2025-07-10T12:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T13:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943280314870083680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/drug_artist/status/1942216179843813669",
+          "start": 30,
+          "url": "https://t.co/djibiBafaO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943280314870083680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942216179843813669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要气死了。。我之前问别人他吃的啥药，他告诉我他吃富马酸。 https://t.co/djibiBafaO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1943280314870083680",
+        "created_at": "2025-07-10T12:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T13:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943280314870083680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/drug_artist/status/1942216179843813669",
+              "start": 30,
+              "url": "https://t.co/djibiBafaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943280314870083680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942216179843813669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要气死了。。我之前问别人他吃的啥药，他告诉我他吃富马酸。 https://t.co/djibiBafaO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893688350076542976",
+        "conversation_id": "1942216179843813669",
+        "created_at": "2025-07-07T13:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T14:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942216179843813669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942216179843813669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17943,
+          "like_count": 231,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我见过最离谱的快手嗑药精神小伙\n把富马酸喹硫平叫成富马酸\n把草酸艾司西酞普兰叫成草酸艾司\n…\n真的绷不住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "双相已确诊。oder。跨性别。请求互fo。\n叫我苦橙就好了。",
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "苦橙",
+        "pinned_tweet_id": "1939399525346550019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936145987841531904/Z4VVC4zG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 66,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "药物百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "location": "Xanax天国2mg省",
+        "name": "沐雨",
+        "pinned_tweet_id": "1928368769098788885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 147,
+          "like_count": 239,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

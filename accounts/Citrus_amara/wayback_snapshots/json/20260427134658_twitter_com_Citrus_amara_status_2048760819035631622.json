@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048741665519943680",
+        "3_2048741665511497729"
+      ],
+      "media_source_tweet_id": [
+        "2048741675821072427",
+        "2048741675821072427"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2048760819035631622",
+    "created_at": "2026-04-27T13:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048760819035631622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R2vsvLHG39",
+          "end": 79,
+          "expanded_url": "https://x.com/godspeedyou50/status/2048741675821072427/photo/1",
+          "media_key": "3_2048741665519943680",
+          "start": 56,
+          "url": "https://t.co/R2vsvLHG39"
+        },
+        {
+          "display_url": "pic.x.com/R2vsvLHG39",
+          "end": 79,
+          "expanded_url": "https://x.com/godspeedyou50/status/2048741675821072427/photo/1",
+          "media_key": "3_2048741665511497729",
+          "start": 56,
+          "url": "https://t.co/R2vsvLHG39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048760819035631622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048741675821072427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: 滴不泪频道谁有链接 这个骗子？ 赶紧滚行吗操你妈的一等奖都是自己小号内幕 https://t.co/R2vsvLHG39"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_2048741665519943680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6XsKnbwAA6ubb.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048741665511497729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6XsKla4AEvNqv.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048741665519943680",
+            "3_2048741665511497729"
+          ],
+          "media_source_tweet_id": [
+            "2048741675821072427",
+            "2048741675821072427"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2048760819035631622",
+        "created_at": "2026-04-27T13:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048760819035631622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2vsvLHG39",
+              "end": 79,
+              "expanded_url": "https://x.com/godspeedyou50/status/2048741675821072427/photo/1",
+              "media_key": "3_2048741665519943680",
+              "start": 56,
+              "url": "https://t.co/R2vsvLHG39"
+            },
+            {
+              "display_url": "pic.x.com/R2vsvLHG39",
+              "end": 79,
+              "expanded_url": "https://x.com/godspeedyou50/status/2048741675821072427/photo/1",
+              "media_key": "3_2048741665511497729",
+              "start": 56,
+              "url": "https://t.co/R2vsvLHG39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048760819035631622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048741675821072427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: 滴不泪频道谁有链接 这个骗子？ 赶紧滚行吗操你妈的一等奖都是自己小号内幕 https://t.co/R2vsvLHG39"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048741665519943680",
+            "3_2048741665511497729"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2048741675821072427",
+        "created_at": "2026-04-27T12:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048741675821072427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2vsvLHG39",
+              "end": 60,
+              "expanded_url": "https://x.com/godspeedyou50/status/2048741675821072427/photo/1",
+              "media_key": "3_2048741665519943680",
+              "start": 37,
+              "url": "https://t.co/R2vsvLHG39"
+            },
+            {
+              "display_url": "pic.x.com/R2vsvLHG39",
+              "end": 60,
+              "expanded_url": "https://x.com/godspeedyou50/status/2048741675821072427/photo/1",
+              "media_key": "3_2048741665511497729",
+              "start": 37,
+              "url": "https://t.co/R2vsvLHG39"
+            },
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2047146478389674301",
+              "start": 61,
+              "url": "https://t.co/AIQVOBnLsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048741675821072427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 676,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047146478389674301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "滴不泪频道谁有链接 这个骗子？ 赶紧滚行吗操你妈的一等奖都是自己小号内幕 https://t.co/R2vsvLHG39 https://t.co/AIQVOBnLsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 1071,
+          "like_count": 19631,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 11071
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 255,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2304
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

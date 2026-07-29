@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2046519686167470315",
+    "created_at": "2026-04-21T09:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046520195649515728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817244141115609088",
+          "start": 0,
+          "username": "Nijika_Dark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046520195649515728",
+    "in_reply_to_user_id": "1817244141115609088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046519686167470315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_Dark 不等普瑞进精二的消息出再卖嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2046519686167470315",
+        "created_at": "2026-04-21T09:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046520195649515728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817244141115609088",
+              "start": 0,
+              "username": "Nijika_Dark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046520195649515728",
+        "in_reply_to_user_id": "1817244141115609088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046519686167470315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_Dark 不等普瑞进精二的消息出再卖嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817244141115609088",
+        "conversation_id": "2046519686167470315",
+        "created_at": "2026-04-21T09:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046519686167470315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046519686167470315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "愈美普瑞早都戒了\n现在手里还荒了几盒愈美和普瑞\n准备卖了折现\n只卖认识的人🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 1023,
+          "like_count": 19131,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 10933
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T17:02:37.000Z",
+        "description": "@Nijika_overdose的附庸丨应该是虹夏丨我的大脑空空如也丨买🍥hrt💊rc下方群组❛˓◞˂̵✧❤️💙💜🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/70WOqFpsLV"
+              }
+            ]
+          }
+        },
+        "id": "1817244141115609088",
+        "location": "参宿四",
+        "name": "Nijika_Overdose",
+        "pinned_tweet_id": "2031979271053541450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817245083672145920/_Mn08Zha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 124,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/70WOqFpsLV",
+        "username": "Nijika_Dark",
+        "verified": false
+      }
+    ]
+  }
+}

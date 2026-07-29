@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1965235041824637065",
+    "created_at": "2025-09-09T02:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T03:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965235041824637065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oder_666/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/oder_666/status/1965009595530936719",
+          "start": 20,
+          "url": "https://t.co/EqevjgrrkR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965235041824637065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965009595530936719",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的评价是不建议任何药同乙醇一起服用。 https://t.co/EqevjgrrkR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1965235041824637065",
+        "created_at": "2025-09-09T02:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T03:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965235041824637065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oder_666/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/oder_666/status/1965009595530936719",
+              "start": 20,
+              "url": "https://t.co/EqevjgrrkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965235041824637065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965009595530936719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的评价是不建议任何药同乙醇一起服用。 https://t.co/EqevjgrrkR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1965009595530936719",
+        "created_at": "2025-09-08T11:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T12:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965009595530936719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965009595530936719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "pea是一种拟交感神经胺 会显著升高血压和加快心率 它的作用很强但很短 我不建议将pea和乙醇同时服用因为这会对心脏和血管系统产生巨大的压力 极大增加心脏负担 严重时可导致心肌缺血和心脏骤停 苯乙胺的兴奋作用与酒精的抑制作用混合 会导致神经系统的混乱 可能引起极度焦虑 紧张 烦躁不安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 410,
+          "like_count": 6265,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 2413
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|病み垢|偶尔性发电|欢迎互fo| 可以叫我Muno|中文名是無能🥰 我的互关可以找我扩列 LGBTQ🏳️‍🌈/mtf/ftm🏳️‍⚧️友好/里人格@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 89,
+                "username": "fuck_8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_6661",
+                "end": 23,
+                "expanded_url": "http://ngl.link/oder_6661",
+                "start": 0,
+                "url": "https://t.co/JP9NLRoDUd"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "精神病院",
+        "name": "むのう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962263595401760768/LXXU7WO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 180,
+          "like_count": 6321,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 1626
+        },
+        "url": "https://t.co/JP9NLRoDUd",
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

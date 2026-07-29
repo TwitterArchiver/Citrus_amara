@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2003614126896185435",
+    "created_at": "2025-12-24T01:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T02:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003642877331779801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1580263959751319554",
+          "start": 0,
+          "username": "kkndjhbh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003642877331779801",
+    "in_reply_to_user_id": "1580263959751319554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003614126896185435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkndjhbh 对很多致幻剂感兴趣，但是买不到。。\n想要很强很强的致幻剂T T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2003614126896185435",
+        "created_at": "2025-12-24T01:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T02:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003642877331779801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1580263959751319554",
+              "start": 0,
+              "username": "kkndjhbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003642877331779801",
+        "in_reply_to_user_id": "1580263959751319554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003614126896185435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkndjhbh 对很多致幻剂感兴趣，但是买不到。。\n想要很强很强的致幻剂T T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580263959751319554",
+        "conversation_id": "2003614126896185435",
+        "created_at": "2025-12-23T23:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T00:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003614126896185435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003614126896185435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家对致幻剂不感兴趣嘛？\n我认为致幻剂是最好的东西\n无论是lsd 4-ho-met 还是黑暗的DPT\n他们带给我的感觉和快乐我无法言说\n带给我的思维提升很多人也不信\n我自己本身对其他类的都不感兴趣\n看来需要做个用户调研了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 960,
+          "like_count": 14755,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 7090
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T18:27:51.000Z",
+        "description": "全网同ID，经过多个大fo推主认证。oder可互fo 业余诗人 瘾君子 双相 轻中度精分 lgbt友好立场，反传统男性主义。不主动建议od。古罗马掌管色胺的执政官。 带领更多人进入美妙世界 不做任何违法列管生意，产品全部合法合规。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%89%B6%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%89%B6%E6%A2%AF",
+                "start": 0,
+                "url": "https://t.co/RIPVCzFX2S"
+              }
+            ]
+          }
+        },
+        "id": "1580263959751319554",
+        "location": "色胺宇宙 提问⬇️",
+        "name": "扶梯",
+        "pinned_tweet_id": "2002727495230198135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001818403577925633/u23NNlI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 151,
+          "like_count": 1254,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/RIPVCzFX2S",
+        "username": "kkndjhbh",
+        "verified": true
+      }
+    ]
+  }
+}

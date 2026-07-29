@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947019249740046633",
+    "created_at": "2025-07-21T02:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T03:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947119761009045720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "ICANTRETAIN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947119761009045720",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947019249740046633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICANTRETAIN 有洗过没穿的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947019249740046633",
+        "created_at": "2025-07-21T02:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T03:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947119761009045720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "ICANTRETAIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947119761009045720",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947019249740046633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICANTRETAIN 有洗过没穿的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908086926391033856",
+        "conversation_id": "1947019249740046633",
+        "created_at": "2025-07-20T19:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T20:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947019249740046633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947019249740046633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友们有穿过没洗的白丝可以寄给我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。好感刷高了可以爆qq。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 83,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 237
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "发点日常，Telegram: https://t.co/V5FNSvbvz1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ICANTRETAIN",
+                "end": 38,
+                "expanded_url": "https://t.me/ICANTRETAIN",
+                "start": 15,
+                "url": "https://t.co/V5FNSvbvz1"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "name": "Mita🍥",
+        "pinned_tweet_id": "1946744072938586433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945175234753040384/H-pLCHF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 871,
+          "like_count": 11614,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 1634
+        },
+        "username": "ICANTRETAIN",
+        "verified": true
+      }
+    ]
+  }
+}

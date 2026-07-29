@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2026640801778823209",
+    "created_at": "2026-02-25T12:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T13:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026640801778823209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Overdose_DBD/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Overdose_DBD/status/2026632659770945693",
+          "start": 20,
+          "url": "https://t.co/7tp3DxhtM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026640801778823209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026632659770945693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我宣布右美沙芬合法化。一切事情我负责。 https://t.co/7tp3DxhtM3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1595,
+        "media_key": "3_2026632655543107584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCALqaPagAAXFRb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026640801778823209",
+        "created_at": "2026-02-25T12:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026640801778823209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/2026632659770945693",
+              "start": 20,
+              "url": "https://t.co/7tp3DxhtM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026640801778823209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026632659770945693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我宣布右美沙芬合法化。一切事情我负责。 https://t.co/7tp3DxhtM3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026632655543107584"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "conversation_id": "2026632659770945693",
+        "created_at": "2026-02-25T12:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026632659770945693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6thQv6al6Z",
+              "end": 168,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2026632659770945693/photo/1",
+              "media_key": "3_2026632655543107584",
+              "start": 145,
+              "url": "https://t.co/6thQv6al6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026632659770945693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的同僚爱德华先生已经永远无法成为药师了。\n玩诡辩 搞特殊 讲特例扩大到全体 顾头不顾腚，美金刚教主没点邪教手法真不能组建出个完整的美轮功的\n至于你们想的什么方案，最简单的道理就是十年，七亿人帮你200%执行方针，失控了你负责？历史上已经有个人给你们这教训，可惜你们没从历史中学到一点东西 https://t.co/6thQv6al6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 1029,
+          "like_count": 17179,
+          "listed_count": 6,
+          "media_count": 361,
+          "tweet_count": 9327
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/ALu7jA3QLL\n有事请点击https://t.co/VRpZNWpEVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/ALu7jA3QLL"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/VRpZNWpEVl"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4389,
+          "following_count": 61,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 705,
+          "tweet_count": 6942
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

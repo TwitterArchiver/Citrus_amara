@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1958352746349805810",
+    "created_at": "2025-08-21T02:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T03:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958352746349805810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jingxiaxin1/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/jingxiaxin1/status/1958083143610822862",
+          "start": 12,
+          "url": "https://t.co/5MSRHLtuba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958352746349805810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958083143610822862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我做实验的时候就这样↓ https://t.co/5MSRHLtuba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958083132303069184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyyCPAWb0AAVxyt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958083132319805440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyyCPAabMAAfVG0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958083132315561992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyyCPAZacAgxy_z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1958352746349805810",
+        "created_at": "2025-08-21T02:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T03:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958352746349805810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingxiaxin1/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/jingxiaxin1/status/1958083143610822862",
+              "start": 12,
+              "url": "https://t.co/5MSRHLtuba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958352746349805810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958083143610822862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我做实验的时候就这样↓ https://t.co/5MSRHLtuba"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958083132303069184",
+            "3_1958083132319805440",
+            "3_1958083132315561992"
+          ]
+        },
+        "author_id": "1453347244401430528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958083143610822862",
+        "created_at": "2025-08-20T08:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T09:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958083143610822862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lPARvDlSc",
+              "end": 53,
+              "expanded_url": "https://x.com/jingxiaxin1/status/1958083143610822862/photo/1",
+              "media_key": "3_1958083132303069184",
+              "start": 30,
+              "url": "https://t.co/8lPARvDlSc"
+            },
+            {
+              "display_url": "pic.x.com/8lPARvDlSc",
+              "end": 53,
+              "expanded_url": "https://x.com/jingxiaxin1/status/1958083143610822862/photo/1",
+              "media_key": "3_1958083132319805440",
+              "start": 30,
+              "url": "https://t.co/8lPARvDlSc"
+            },
+            {
+              "display_url": "pic.x.com/8lPARvDlSc",
+              "end": 53,
+              "expanded_url": "https://x.com/jingxiaxin1/status/1958083143610822862/photo/1",
+              "media_key": "3_1958083132315561992",
+              "start": 30,
+              "url": "https://t.co/8lPARvDlSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958083143610822862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2544,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不？5.1➕5.4🟰…10.2\n…补兑\n大脑好像有点宕机了 https://t.co/8lPARvDlSc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 374,
+          "like_count": 3757,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1589
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T13:06:09.000Z",
+        "description": "06年｜isfp-t｜175 55｜家长党｜持证含糖 HRT25.6.22🏳️‍⚧️｜中度焦虑 重度抑郁 每时每刻都相似｜轨交｜化学｜医学｜数码｜swift｜MTR｜Apple fans｜杭州、武汉随机掉落，可以来抓我｜call me小林plz｜不pass，努力变好看中｜羡慕健全mtf的每一天",
+        "id": "1453347244401430528",
+        "location": "London, England",
+        "name": "Rainb🍥w_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955561310017753088/SDZwZ7sH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 421,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 437
+        },
+        "username": "jingxiaxin1",
+        "verified": false
+      }
+    ]
+  }
+}

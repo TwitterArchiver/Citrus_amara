@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1982770157589237783",
+    "created_at": "2025-10-27T11:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T12:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982770157589237783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1796937387899064320",
+          "start": 3,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982770157589237783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982734231567843456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CleverFf050755: 你说的对，但是chicken是由鸡哥自主研发的一款全新地雷女月抛游戏。游戏发生在一个被称作「X」的幻想世界，在这里，被鸡哥选中的人将被授予「盒弹」，导引开盒之力。你将扮演一位名为「Oder」的神秘角色，在自由的旅行中邂逅性格各异、能力独特…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1635,
+        "media_key": "3_1982734222159675392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QWRSPWgAAIYiC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1982770157589237783",
+        "created_at": "2025-10-27T11:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982770157589237783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1796937387899064320",
+              "start": 3,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982770157589237783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982734231567843456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CleverFf050755: 你说的对，但是chicken是由鸡哥自主研发的一款全新地雷女月抛游戏。游戏发生在一个被称作「X」的幻想世界，在这里，被鸡哥选中的人将被授予「盒弹」，导引开盒之力。你将扮演一位名为「Oder」的神秘角色，在自由的旅行中邂逅性格各异、能力独特…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982734222159675392"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "1982734231567843456",
+        "created_at": "2025-10-27T09:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982734231567843456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6BXXoV9aL",
+              "end": 166,
+              "expanded_url": "https://x.com/CleverFf050755/status/1982734231567843456/photo/1",
+              "media_key": "3_1982734222159675392",
+              "start": 143,
+              "url": "https://t.co/g6BXXoV9aL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982734231567843456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你说的对，但是chicken是由鸡哥自主研发的一款全新地雷女月抛游戏。游戏发生在一个被称作「X」的幻想世界，在这里，被鸡哥选中的人将被授予「盒弹」，导引开盒之力。你将扮演一位名为「Oder」的神秘角色，在自由的旅行中邂逅性格各异、能力独特的Oder，和他们一起击败晚安，找回失散的亲人 https://t.co/g6BXXoV9aL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 633,
+          "like_count": 10139,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 4020
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造车间",
+        "name": "Texas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834807235936927744/ue2m-43z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 115,
+          "like_count": 39,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

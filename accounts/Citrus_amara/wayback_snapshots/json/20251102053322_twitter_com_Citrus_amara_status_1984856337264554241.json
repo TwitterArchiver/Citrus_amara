@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1984839558597657000",
+    "created_at": "2025-11-02T05:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T06:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984856337264554241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948615711041126400",
+          "start": 0,
+          "username": "shsh548866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984856337264554241",
+    "in_reply_to_user_id": "1948615711041126400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984839558597657000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shsh548866 超绝敏感gaba"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1984839558597657000",
+        "created_at": "2025-11-02T05:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T06:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984856337264554241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948615711041126400",
+              "start": 0,
+              "username": "shsh548866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984856337264554241",
+        "in_reply_to_user_id": "1948615711041126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984839558597657000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh548866 超绝敏感gaba"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948615711041126400",
+        "conversation_id": "1984839558597657000",
+        "created_at": "2025-11-02T04:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T05:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984839558597657000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984839558597657000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，我超，化学真的好神奇\n昨天吃了一片奥沙西冸(是第一次吃)感觉到了淡淡的幸福感，没有多余的兴奋只是平静的听着歌感到幸福，随后非常安静的睡觉，也没有做梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 669,
+          "like_count": 10608,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 4282
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T05:27:18.000Z",
+        "description": "不是很想说话，真的是健全批慎关。\n\n不要死要活下去哦，因为游戏结局都是死。在死之前努力用这个奇怪属性的人物玩这场游戏吧！好好享受游戏^^\n\n闺蜜@@Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1948615711041126400",
+        "location": "比奇堡",
+        "name": "某某酱(上学仅周末有空)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977058663648182275/USORusJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 242,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 237
+        },
+        "username": "shsh548866",
+        "verified": false
+      }
+    ]
+  }
+}

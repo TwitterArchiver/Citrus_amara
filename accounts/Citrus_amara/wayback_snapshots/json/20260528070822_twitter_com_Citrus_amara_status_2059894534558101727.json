@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2059894534558101727",
+    "created_at": "2026-05-28T07:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059894534558101727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moontidebemoth…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/moontidebemoth/status/2059252708339839048",
+          "start": 7,
+          "url": "https://t.co/ru05TGbQ9m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059894534558101727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059252708339839048",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得都很丑 https://t.co/ru05TGbQ9m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2059894534558101727",
+        "created_at": "2026-05-28T07:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059894534558101727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moontidebemoth…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/moontidebemoth/status/2059252708339839048",
+              "start": 7,
+              "url": "https://t.co/ru05TGbQ9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059894534558101727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059252708339839048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得都很丑 https://t.co/ru05TGbQ9m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626412170337746944",
+        "conversation_id": "2059252708339839048",
+        "created_at": "2026-05-26T12:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059252708339839048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059252708339839048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 26534,
+          "like_count": 144,
+          "quote_count": 3,
+          "reply_count": 40,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不是discrimination但从我个人角度而言男性生殖器官比女性生殖器官要丑点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "π@Vacue138950\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 30,
+                "start": 16,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjAAy3"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1087,
+          "like_count": 20263,
+          "listed_count": 5,
+          "media_count": 411,
+          "tweet_count": 11454
+        },
+        "url": "https://t.co/dk3VYjAAy3",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T02:44:27.000Z",
+        "description": "PDD人格障碍 穷且益坚 黄毛碎钻 语言！\nYuki need 電波系宅女 恋人 @Fuyugumomizuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "Fuyugumomizuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaiun7773283479",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaiun7773283479",
+                "start": 0,
+                "url": "https://t.co/XPRlg8xWde"
+              }
+            ]
+          }
+        },
+        "id": "1626412170337746944",
+        "location": "阶段四",
+        "name": "AOI99905230523cocbg",
+        "pinned_tweet_id": "2053063715273277741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862057214338314240/ykNDOPkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 154,
+          "like_count": 15753,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1689
+        },
+        "url": "https://t.co/XPRlg8xWde",
+        "username": "moontidebemoth",
+        "verified": false
+      }
+    ]
+  }
+}

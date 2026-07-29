@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948757954208952688",
+    "created_at": "2025-07-26T09:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T10:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949034457647726836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926720510982844416",
+          "start": 0,
+          "username": "DeRoss2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949034457647726836",
+    "in_reply_to_user_id": "1926720510982844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948757954208952688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeRoss2778 跨圈经典出神人然后被搬史到墙内"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "3_1948757945082150912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwthBq3XgAALBPR.jpg",
+        "width": 579
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948757954208952688",
+        "created_at": "2025-07-26T09:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T10:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949034457647726836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926720510982844416",
+              "start": 0,
+              "username": "DeRoss2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949034457647726836",
+        "in_reply_to_user_id": "1926720510982844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948757954208952688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeRoss2778 跨圈经典出神人然后被搬史到墙内"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948757945082150912"
+          ]
+        },
+        "author_id": "1926720510982844416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948757954208952688",
+        "created_at": "2025-07-25T14:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948757954208952688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsW6hTvi2l",
+              "end": 41,
+              "expanded_url": "https://x.com/DeRoss2778/status/1948757954208952688/photo/1",
+              "media_key": "3_1948757945082150912",
+              "start": 18,
+              "url": "https://t.co/lsW6hTvi2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948757954208952688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1136,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷，真给转墙内了我还刷到了，，， https://t.co/lsW6hTvi2l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 150,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 441
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T19:22:24.000Z",
+        "description": "想到什么就发什么的某不知名小号 封建自由，大一统费拉 本人是诸夏武士 姨学勇敢分子 #爱辉tv 连载中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "爱辉tv"
+              }
+            ]
+          }
+        },
+        "id": "1926720510982844416",
+        "location": "欧利蒂丝庄园",
+        "name": "德罗斯",
+        "pinned_tweet_id": "1948787812704104485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939890559092457472/m1CAx_Yp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 178,
+          "like_count": 1459,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 365
+        },
+        "username": "DeRoss2778",
+        "verified": false
+      }
+    ]
+  }
+}

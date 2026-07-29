@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949781403740049435",
+    "created_at": "2025-07-28T10:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T11:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949781403740049435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911828872334831616",
+          "start": 3,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949781403740049435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949780285568012656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Edward_8964: 你们好我是孩子妈妈 这个小畜生我天天在外面辛苦赚钱 他每天在家里自残吞药 我实在受不了他了 刚才趁他嗜睡我拿刀在他身上捅了一百三十刀 他已经没气了 各位节哀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949781403740049435",
+        "created_at": "2025-07-28T10:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T11:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949781403740049435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911828872334831616",
+              "start": 3,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949781403740049435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949780285568012656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Edward_8964: 你们好我是孩子妈妈 这个小畜生我天天在外面辛苦赚钱 他每天在家里自残吞药 我实在受不了他了 刚才趁他嗜睡我拿刀在他身上捅了一百三十刀 他已经没气了 各位节哀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1949780285568012656",
+        "created_at": "2025-07-28T10:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T11:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949780285568012656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beloveduren896…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/beloveduren8964/status/1949769717285040365",
+              "start": 80,
+              "url": "https://t.co/zs7tqDLMyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949780285568012656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949769717285040365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们好我是孩子妈妈 这个小畜生我天天在外面辛苦赚钱 他每天在家里自残吞药 我实在受不了他了 刚才趁他嗜睡我拿刀在他身上捅了一百三十刀 他已经没气了 各位节哀。 https://t.co/zs7tqDLMyl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。欢迎od的互关，欢迎私信。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 179,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 517
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "od不扩散就是个笑话，要是没扩散的话我tm就不会出现在这里 自由意志主义者 前世：@XuaEdward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XuaEdward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.fandom.com",
+                "end": 23,
+                "expanded_url": "http://nonexistent.fandom.com",
+                "start": 0,
+                "url": "https://t.co/jSvdcBPiBx"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "ZheJiang",
+        "name": "💊爱德华 gen4 转生体",
+        "pinned_tweet_id": "1931446534899740939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921599678090780672/CQrzT5_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 424,
+          "like_count": 3273,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1549
+        },
+        "url": "https://t.co/jSvdcBPiBx",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

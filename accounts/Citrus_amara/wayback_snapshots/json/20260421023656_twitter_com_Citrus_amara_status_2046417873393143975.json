@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2046417873393143975",
+    "created_at": "2026-04-21T02:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T03:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046417873393143975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033316131772170240",
+          "start": 3,
+          "username": "siliang481"
+        },
+        {
+          "end": 30,
+          "id": "1960348162616672256",
+          "start": 16,
+          "username": "rainw20100301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046417873393143975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046223518002762226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siliang481: @rainw20100301 张胜春一个人一夜之间买了几万盒pr80"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2046417873393143975",
+        "created_at": "2026-04-21T02:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046417873393143975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033316131772170240",
+              "start": 3,
+              "username": "siliang481"
+            },
+            {
+              "end": 30,
+              "id": "1960348162616672256",
+              "start": 16,
+              "username": "rainw20100301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046417873393143975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046223518002762226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siliang481: @rainw20100301 张胜春一个人一夜之间买了几万盒pr80"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033316131772170240",
+        "conversation_id": "2046222274836206061",
+        "created_at": "2026-04-20T13:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046223518002762226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960348162616672256",
+              "start": 0,
+              "username": "rainw20100301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046223518002762226",
+        "in_reply_to_user_id": "1960348162616672256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046223102879961512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainw20100301 张胜春一个人一夜之间买了几万盒pr80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 1021,
+          "like_count": 19092,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 10918
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T22:55:26.000Z",
+        "description": "我是烬夏，你可以叫我小烬。\n🌈0.8p/11年/我割手我抽烟/推当空间发\n推止于推/发言很跳脱/主页要素过多\n除了顺直男其他欢迎互fo",
+        "id": "2033316131772170240",
+        "name": "你眼睛的面積一定小於湖",
+        "pinned_tweet_id": "2045670982095163482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044747986090242048/U9VgLkaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 112,
+          "like_count": 1043,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 303
+        },
+        "username": "siliang481",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T14:26:50.000Z",
+        "description": "可以叫我雨温或uon\n10年丨♀️丨精神状态不稳定但温良丨od丨自残丨碎碎念 | 喜欢聊天！求同类互fo🫶没回fo是没看到，请一定要告诉我！",
+        "id": "1960348162616672256",
+        "location": "天国",
+        "name": "uon",
+        "pinned_tweet_id": "2044290333367017765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044998083092848640/LIM89P8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 155,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 191
+        },
+        "username": "rainw20100301",
+        "verified": false
+      }
+    ]
+  }
+}

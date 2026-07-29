@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1983129809266819274",
+    "created_at": "2025-10-28T11:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T12:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983129809266819274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaoning000/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/miaoning000/status/1983004850922356899",
+          "start": 19,
+          "url": "https://t.co/iue4cxp1Yn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983129809266819274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983004850922356899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我特别想举着两板愈美片和这种海报合影 https://t.co/iue4cxp1Yn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983004838435971072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4UMZObbYAAzdvE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983129809266819274",
+        "created_at": "2025-10-28T11:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983129809266819274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaoning000/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/miaoning000/status/1983004850922356899",
+              "start": 19,
+              "url": "https://t.co/iue4cxp1Yn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983129809266819274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983004850922356899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特别想举着两板愈美片和这种海报合影 https://t.co/iue4cxp1Yn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983004838435971072"
+          ]
+        },
+        "author_id": "1764820595387305984",
+        "conversation_id": "1983004850922356899",
+        "created_at": "2025-10-28T02:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983004850922356899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqDUq33c0g",
+              "end": 23,
+              "expanded_url": "https://x.com/miaoning000/status/1983004850922356899/photo/1",
+              "media_key": "3_1983004838435971072",
+              "start": 0,
+              "url": "https://t.co/XqDUq33c0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983004850922356899",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XqDUq33c0g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 635,
+          "like_count": 10216,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 4068
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高二网络寄生虫/🚪30￥/MTX/ overdose💊/双相/凉席印suki/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙",
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3650,
+          "following_count": 3739,
+          "like_count": 15078,
+          "listed_count": 5,
+          "media_count": 463,
+          "tweet_count": 7241
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

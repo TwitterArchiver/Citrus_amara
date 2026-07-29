@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946915761852723358",
+    "created_at": "2025-07-20T12:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T13:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946915761852723358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AnG1e_oiio15/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/AnG1e_oiio15/status/1946516898285531521",
+          "start": 5,
+          "url": "https://t.co/MEWBrVnjUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946915761852723358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946516898285531521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那完蛋了 https://t.co/MEWBrVnjUN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946915761852723358",
+        "created_at": "2025-07-20T12:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946915761852723358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnG1e_oiio15/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/AnG1e_oiio15/status/1946516898285531521",
+              "start": 5,
+              "url": "https://t.co/MEWBrVnjUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946915761852723358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946516898285531521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那完蛋了 https://t.co/MEWBrVnjUN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755860009878253569",
+        "conversation_id": "1946516898285531521",
+        "created_at": "2025-07-19T10:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T11:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946516898285531521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946516898285531521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11890,
+          "like_count": 213,
+          "quote_count": 4,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "成年之前谈的能叫恋爱吗。那都发小。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎mtf，ftm和地雷系给我私信。好感刷高了可以爆qq。\n需要墙内联系方式请给我打钱。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 79,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 209
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T07:43:52.000Z",
+        "description": "泛 | switch | intp | 不约不卡泡没门槛 | 要互关可以私信 会查成分 | 我的匿名提问箱：https://t.co/n7gls4tz6r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkpepper1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/pinkpepper1",
+                "start": 54,
+                "url": "https://t.co/n7gls4tz6r"
+              }
+            ]
+          }
+        },
+        "id": "1755860009878253569",
+        "name": "粉红胡椒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917361595056795648/ttSuLt_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 194,
+          "like_count": 11811,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 3539
+        },
+        "username": "AnG1e_oiio15",
+        "verified": true
+      }
+    ]
+  }
+}

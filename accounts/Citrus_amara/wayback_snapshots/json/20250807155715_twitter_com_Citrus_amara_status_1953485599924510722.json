@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "National Health Service",
+          "id": "1062025800591896576",
+          "name": "National Health Service"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "National Health Service",
+          "id": "1062025800591896576",
+          "name": "National Health Service"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1953485599924510722",
+    "created_at": "2025-08-07T15:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T16:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953485599924510722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xixi_epicene/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/xixi_epicene/status/1953368174809821412",
+          "start": 32,
+          "url": "https://t.co/89E3sQglVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953485599924510722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953368174809821412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我成年了我应该不需要父母同意了吧？全套心理咨询和hrt在哪领。 https://t.co/89E3sQglVa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1953485599924510722",
+        "created_at": "2025-08-07T15:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T16:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953485599924510722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xixi_epicene/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/xixi_epicene/status/1953368174809821412",
+              "start": 32,
+              "url": "https://t.co/89E3sQglVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953485599924510722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953368174809821412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我成年了我应该不需要父母同意了吧？全套心理咨询和hrt在哪领。 https://t.co/89E3sQglVa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "765807474964258816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1953368174809821412",
+        "created_at": "2025-08-07T08:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T09:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953368174809821412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkNews/statu…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/PinkNews/status/1952336739856531461",
+              "start": 150,
+              "url": "https://t.co/JJYauP8sag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953368174809821412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2632,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952336739856531461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看哪方面\n\n有在英国的中国籍mtf宣称nhs让跨性别者排期数年到十年才能等到第一次咨询且不能给青少年使用青春阻滞剂，是对跨性别者的高度尊重与支持同时还是医疗优先分配的模范\n\n但英国当地mtf听说在中国只要父母签字同意就能在几天到几月内获得全套心理咨询+hrt治疗也认为中国是应许之地\n\n未知全貌罢了 https://t.co/JJYauP8sag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。#odtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 275,
+          "like_count": 2048,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 929
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "已婚宅男 ♂/ 我老婆 @cosplay_riji /贞操锁讨论群组：https://t.co/2Vyp1e2bQa  / 支持创作及加入discord群组：https://t.co/W97Ha4pBXr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "cosplay_riji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ZK2MPOZDlbBiM…",
+                "end": 58,
+                "expanded_url": "https://t.me/+ZK2MPOZDlbBiMGE0",
+                "start": 35,
+                "url": "https://t.co/2Vyp1e2bQa"
+              },
+              {
+                "display_url": "buymeacoffee.com/xixiepicene",
+                "end": 102,
+                "expanded_url": "https://buymeacoffee.com/xixiepicene",
+                "start": 79,
+                "url": "https://t.co/W97Ha4pBXr"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "location": "Queensferry, Scotland",
+        "name": "汐矽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950424152407486464/Z5difr0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34324,
+          "following_count": 2028,
+          "like_count": 17944,
+          "listed_count": 105,
+          "media_count": 1261,
+          "tweet_count": 6849
+        },
+        "username": "xixi_epicene",
+        "verified": false
+      }
+    ]
+  }
+}

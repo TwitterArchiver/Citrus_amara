@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1959966311162753168",
+    "created_at": "2025-08-25T13:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T14:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959966311162753168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/horizon_tem/st…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/horizon_tem/status/1959217420897263680",
+          "start": 60,
+          "url": "https://t.co/REZB3iUqdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959966311162753168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959217420897263680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的没错确实是因为堕女婴导致的男女比例失调，但是老东西堕的女婴，为什么后果要小东西来承担？该杀的是那帮中年傻逼劳保吧。 https://t.co/REZB3iUqdR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1959217405370253312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzCJ2YzbQAA5Hv1.jpg",
+        "width": 960
+      },
+      {
+        "height": 720,
+        "media_key": "3_1959217405282091008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzCJ2YeaAAA9afn.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1959966311162753168",
+        "created_at": "2025-08-25T13:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T14:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959966311162753168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1959217420897263680",
+              "start": 60,
+              "url": "https://t.co/REZB3iUqdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959966311162753168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959217420897263680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的没错确实是因为堕女婴导致的男女比例失调，但是老东西堕的女婴，为什么后果要小东西来承担？该杀的是那帮中年傻逼劳保吧。 https://t.co/REZB3iUqdR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959217405370253312",
+            "3_1959217405282091008"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1959217420897263680",
+        "created_at": "2025-08-23T11:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T12:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959217420897263680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MbirGdKcJh",
+              "end": 33,
+              "expanded_url": "https://x.com/horizon_tem/status/1959217420897263680/photo/1",
+              "media_key": "3_1959217405370253312",
+              "start": 10,
+              "url": "https://t.co/MbirGdKcJh"
+            },
+            {
+              "display_url": "pic.x.com/MbirGdKcJh",
+              "end": 33,
+              "expanded_url": "https://x.com/horizon_tem/status/1959217420897263680/photo/1",
+              "media_key": "3_1959217405282091008",
+              "start": 10,
+              "url": "https://t.co/MbirGdKcJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959217420897263680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 147647,
+          "like_count": 693,
+          "quote_count": 11,
+          "reply_count": 40,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "真的是这样吗😨😨🤯 https://t.co/MbirGdKcJh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby。od的请陪我玩。#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论\n我爱你们",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 389,
+          "like_count": 4378,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1746
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1959955899419648055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958788478659080192/50PLjod7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5545,
+          "following_count": 2388,
+          "like_count": 45883,
+          "listed_count": 13,
+          "media_count": 887,
+          "tweet_count": 12504
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

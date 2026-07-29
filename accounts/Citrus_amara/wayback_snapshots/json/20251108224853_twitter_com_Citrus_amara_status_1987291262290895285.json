@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1987242209557782890",
+    "created_at": "2025-11-08T22:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T23:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987291262290895285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822447334749614080",
+          "start": 0,
+          "username": "chenwai29719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987291262290895285",
+    "in_reply_to_user_id": "1822447334749614080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987242209557782890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenwai29719 假货。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1575,
+        "media_key": "3_1987242201710272516",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5QaQOubIAQZO67.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1987242209557782890",
+        "created_at": "2025-11-08T22:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T23:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987291262290895285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822447334749614080",
+              "start": 0,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987291262290895285",
+        "in_reply_to_user_id": "1822447334749614080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987242209557782890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenwai29719 假货。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987242201710272516"
+          ]
+        },
+        "author_id": "1822447334749614080",
+        "conversation_id": "1987242209557782890",
+        "created_at": "2025-11-08T19:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T20:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987242209557782890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rA0JZPDG1A",
+              "end": 32,
+              "expanded_url": "https://x.com/chenwai29719/status/1987242209557782890/photo/1",
+              "media_key": "3_1987242201710272516",
+              "start": 9,
+              "url": "https://t.co/rA0JZPDG1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987242209557782890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种能不能买😨😨 https://t.co/rA0JZPDG1A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 702,
+          "like_count": 11000,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 4487
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "07/💊🩸/ftx/非二元性别/泛性恋/爱听摇滚金属/疑似多意识体/adhd+asd /抑郁焦虑但双相存疑\n忘记回fo请私信",
+        "id": "1822447334749614080",
+        "name": "尘外(普瑞愈美激推)",
+        "pinned_tweet_id": "1980068482650959937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985045271924137985/AfwlOWEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 131,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 381
+        },
+        "username": "chenwai29719",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951495253950865410"
+      ],
+      "media_source_tweet_id": [
+        "1951495265174827026"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1951545098719690914",
+    "created_at": "2025-08-02T07:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T08:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951545098719690914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1266206715839606784",
+          "start": 3,
+          "username": "hanabitaminc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2zn9nYdlrO",
+          "end": 41,
+          "expanded_url": "https://x.com/hanabitaminc/status/1951495265174827026/photo/1",
+          "media_key": "3_1951495253950865410",
+          "start": 18,
+          "url": "https://t.co/2zn9nYdlrO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951545098719690914",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 168
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951495265174827026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanabitaminc: https://t.co/2zn9nYdlrO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2980,
+        "media_key": "3_1951495253950865410",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxUamBCaIAIed-i.jpg",
+        "width": 2484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951495253950865410"
+          ],
+          "media_source_tweet_id": [
+            "1951495265174827026"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1951545098719690914",
+        "created_at": "2025-08-02T07:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T08:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951545098719690914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1266206715839606784",
+              "start": 3,
+              "username": "hanabitaminc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zn9nYdlrO",
+              "end": 41,
+              "expanded_url": "https://x.com/hanabitaminc/status/1951495265174827026/photo/1",
+              "media_key": "3_1951495253950865410",
+              "start": 18,
+              "url": "https://t.co/2zn9nYdlrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951545098719690914",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951495265174827026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanabitaminc: https://t.co/2zn9nYdlrO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951495253950865410"
+          ]
+        },
+        "author_id": "1266206715839606784",
+        "conversation_id": "1951495265174827026",
+        "created_at": "2025-08-02T04:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T05:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951495265174827026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zn9nYdlrO",
+              "end": 23,
+              "expanded_url": "https://x.com/hanabitaminc/status/1951495265174827026/photo/1",
+              "media_key": "3_1951495253950865410",
+              "start": 0,
+              "url": "https://t.co/2zn9nYdlrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951495265174827026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 31868,
+          "like_count": 2966,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2zn9nYdlrO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "8️⃣9️⃣🍊苦橙🍊6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 244,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 720
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T03:17:22.000Z",
+        "description": "人間が好きです　@hanabitaminb (現在、ご依頼とDMでのお返事できかねます🙇‍♂️)インスタ→ https://t.co/AmlunMW4by",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "hanabitaminb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hanabitaminc?i…",
+                "end": 77,
+                "expanded_url": "https://www.instagram.com/hanabitaminc?igsh=MWRicWF1YzZuMGN6MA%3D%3D&utm_source=qr",
+                "start": 54,
+                "url": "https://t.co/AmlunMW4by"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53144689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53144689",
+                "start": 0,
+                "url": "https://t.co/72PdX51Udv"
+              }
+            ]
+          }
+        },
+        "id": "1266206715839606784",
+        "location": "五億円欲しいです",
+        "name": "花巻 花郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610904608439959553/GjAHGmmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116604,
+          "following_count": 134,
+          "like_count": 52440,
+          "listed_count": 765,
+          "media_count": 286,
+          "tweet_count": 37089
+        },
+        "url": "https://t.co/72PdX51Udv",
+        "username": "hanabitaminc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948592402031411394",
+    "created_at": "2025-07-25T13:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T14:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948743465816273153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1454803007682453513",
+          "start": 0,
+          "username": "I_Xinnnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948743465816273153",
+    "in_reply_to_user_id": "1454803007682453513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948592402031411394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I_Xinnnnn 顺人已经习惯无视跨了。如果你觉得你和她关系很好的话可以出柜然后希望她能接受你。\n然后就是女的莫名其妙让一个顺男去家里住确实很危险无论是顺女还是跨女好吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948592402031411394",
+        "created_at": "2025-07-25T13:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T14:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948743465816273153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1454803007682453513",
+              "start": 0,
+              "username": "I_Xinnnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948743465816273153",
+        "in_reply_to_user_id": "1454803007682453513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948592402031411394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I_Xinnnnn 顺人已经习惯无视跨了。如果你觉得你和她关系很好的话可以出柜然后希望她能接受你。\n然后就是女的莫名其妙让一个顺男去家里住确实很危险无论是顺女还是跨女好吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454803007682453513",
+        "conversation_id": "1948592402031411394",
+        "created_at": "2025-07-25T03:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948592402031411394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948592402031411394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6512,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "男女之间真的能有女生之间级别的友谊吗？我觉得不太可能。\n因为引爆我gd的是这样一件事，以前字幕组里的好朋友，大家都聊的很好也一起打游戏。后来她说在哪个城市有一套房子，路过的组员可以去她家住哦，不过仅限女生。（1/2）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 140,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 412
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-31T13:31:05.000Z",
+        "description": "非二元/性别解放主义/hrt2023.6.25/对象@Rabbit_Pussy/愿化作一朵水仙花。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Rabbit_Pussy"
+              }
+            ]
+          }
+        },
+        "id": "1454803007682453513",
+        "location": "Chiba-ken, Japan",
+        "name": "依欣",
+        "pinned_tweet_id": "1872187369094603160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866142697205235712/V8vykQOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 983,
+          "like_count": 8310,
+          "listed_count": 5,
+          "media_count": 118,
+          "tweet_count": 1667
+        },
+        "username": "I_Xinnnnn",
+        "verified": false
+      }
+    ]
+  }
+}

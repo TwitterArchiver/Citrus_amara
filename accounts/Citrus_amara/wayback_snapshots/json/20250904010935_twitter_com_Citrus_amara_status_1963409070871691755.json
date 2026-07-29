@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1963409070871691755",
+    "created_at": "2025-09-04T01:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T02:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963409070871691755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597257668313260033",
+          "start": 3,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963409070871691755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962849067941445948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minokakay: 吴京没有当过一天兵，还有酒驾被交警抓的历史，一直塑造一个阳刚爱国的男儿形象，但抵制多元化。\n\n金星出身于解放军家庭，服过兵役，没有犯过法，这么多年来一直以跨女形象推动平权，普世价值和多元化。\n\n哪个是正能量的公众人物，不言而喻。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1963409070871691755",
+        "created_at": "2025-09-04T01:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T02:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963409070871691755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597257668313260033",
+              "start": 3,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963409070871691755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962849067941445948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minokakay: 吴京没有当过一天兵，还有酒驾被交警抓的历史，一直塑造一个阳刚爱国的男儿形象，但抵制多元化。\n\n金星出身于解放军家庭，服过兵役，没有犯过法，这么多年来一直以跨女形象推动平权，普世价值和多元化。\n\n哪个是正能量的公众人物，不言而喻。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1962849067941445948",
+        "created_at": "2025-09-02T12:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962849067941445948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962849067941445948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 255477,
+          "like_count": 2926,
+          "quote_count": 10,
+          "reply_count": 117,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "吴京没有当过一天兵，还有酒驾被交警抓的历史，一直塑造一个阳刚爱国的男儿形象，但抵制多元化。\n\n金星出身于解放军家庭，服过兵役，没有犯过法，这么多年来一直以跨女形象推动平权，普世价值和多元化。\n\n哪个是正能量的公众人物，不言而喻。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 392,
+          "like_count": 5837,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 2227
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9360,
+          "following_count": 927,
+          "like_count": 44600,
+          "listed_count": 34,
+          "media_count": 1396,
+          "tweet_count": 20800
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

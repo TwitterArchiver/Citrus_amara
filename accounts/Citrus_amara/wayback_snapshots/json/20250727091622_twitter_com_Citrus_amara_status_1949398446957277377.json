@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949395597191958905",
+    "created_at": "2025-07-27T09:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T10:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949398446957277377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 194,
+          "id": "1720665183188922368",
+          "start": 189,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "followings.You",
+          "end": 97,
+          "expanded_url": "http://followings.You",
+          "start": 74,
+          "unwound_url": "http://followings.You",
+          "url": "https://t.co/Xx25K7N2Z2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949398446957277377",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949395950038028621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok You can guess what kind of people I hate, and then find out from my https://t.co/Xx25K7N2Z2 HAVE TO name the five people I hate the most, even if I don't express hatred towards them. @grok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949395597191958905",
+        "created_at": "2025-07-27T09:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949398446957277377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 194,
+              "id": "1720665183188922368",
+              "start": 189,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "followings.You",
+              "end": 97,
+              "expanded_url": "http://followings.You",
+              "start": 74,
+              "unwound_url": "http://followings.You",
+              "url": "https://t.co/Xx25K7N2Z2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949398446957277377",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949395950038028621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok You can guess what kind of people I hate, and then find out from my https://t.co/Xx25K7N2Z2 HAVE TO name the five people I hate the most, even if I don't express hatred towards them. @grok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1949395597191958905",
+        "created_at": "2025-07-27T09:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949395950038028621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949395950038028621",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Based on analyzing your recent tweets, I found no explicit expressions of hatred toward specific individuals. Your posts focus on personal experiences, mental health, transgender issues, and drug use, without naming people you dislike. If you provide more context, I can refine the analysis."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949395597191958905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara Based on analyzing your recent tweets, I found no explicit expressions of hatred toward specific individuals. Your posts focus on personal experiences, mental health, transgender issues, and drug use, without naming people you dislike. If you provide more context, I can refine"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "osdd-1a。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 164,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 475
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5537951,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4490,
+          "media_count": 2402856,
+          "tweet_count": 27278448
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

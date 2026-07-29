@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1971193906701402310",
+    "created_at": "2025-09-25T12:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T13:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971193906701402310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shao_zhufeng/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/shao_zhufeng/status/1971001867930087534",
+          "start": 4,
+          "url": "https://t.co/wggnT2M37v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971193906701402310",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971001867930087534",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草？ https://t.co/wggnT2M37v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1971193906701402310",
+        "created_at": "2025-09-25T12:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T13:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971193906701402310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shao_zhufeng/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/shao_zhufeng/status/1971001867930087534",
+              "start": 4,
+              "url": "https://t.co/wggnT2M37v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971193906701402310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971001867930087534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草？ https://t.co/wggnT2M37v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4718589763",
+        "conversation_id": "1970699452349587686",
+        "created_at": "2025-09-25T00:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T01:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971001867930087534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1585942498253238273",
+              "start": 0,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971001867930087534",
+        "in_reply_to_user_id": "1585942498253238273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2639,
+          "like_count": 10,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970699452349587686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceEslight 女同性恋天然合法，这是物种繁衍过程中为了提高子代成活率，通过自然选择而形成的雌性之间的互助机制。没有雌性同性恋的群居哺乳动物整个族群灭亡率很高。人类在几万年前的母系氏族社会有过一段因环境巨变而导致非常非常艰难的岁月，就是靠女同互助抚养后代而存活。但男同是人类社会的毒瘤，必须铲除。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 460,
+          "like_count": 7600,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 2860
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-06T12:48:58.000Z",
+        "description": "人心惟危，道心惟微，惟精惟一，允执厥中。",
+        "id": "4718589763",
+        "name": "邵珠峰",
+        "pinned_tweet_id": "1248677193145823232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/888415182602424322/t0p_9R-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 513,
+          "like_count": 2412,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 2385
+        },
+        "username": "shao_zhufeng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949393998277226936",
+    "created_at": "2025-07-27T08:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T09:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949393998277226936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wwx67751673/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/wwx67751673/status/1949284241478656295",
+          "start": 28,
+          "url": "https://t.co/McE1GZjeiD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949393998277226936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949284241478656295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早晚反噬。可惜反噬的不是她而是其他可能被性侵害的女性。 https://t.co/McE1GZjeiD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 939,
+        "media_key": "3_1949284229692698624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw0_rd0asAAfva8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949393998277226936",
+        "created_at": "2025-07-27T08:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T09:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949393998277226936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wwx67751673/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/wwx67751673/status/1949284241478656295",
+              "start": 28,
+              "url": "https://t.co/McE1GZjeiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949393998277226936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949284241478656295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早晚反噬。可惜反噬的不是她而是其他可能被性侵害的女性。 https://t.co/McE1GZjeiD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949284229692698624"
+          ]
+        },
+        "author_id": "1343112727720460289",
+        "conversation_id": "1949284241478656295",
+        "created_at": "2025-07-27T01:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T02:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949284241478656295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9qkkANjSKp",
+              "end": 137,
+              "expanded_url": "https://x.com/wwx67751673/status/1949284241478656295/photo/1",
+              "media_key": "3_1949284229692698624",
+              "start": 114,
+              "url": "https://t.co/9qkkANjSKp"
+            },
+            {
+              "display_url": "x.com/wwx67751673/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/wwx67751673/status/1949139835232649391",
+              "start": 138,
+              "url": "https://t.co/nlQsOtN2Kn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949284241478656295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 15694,
+          "like_count": 233,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949139835232649391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种发言太出生了。毁掉别人的人生还不满意吗？\n司法本就是对血亲复仇的替代，不同于祭牲的对暴力的转移，司法是社会中的个体通过权力让渡以形成更大的暴力来完成对暴力的终止。但当司法无法终止暴力的时候，那不就只能回到“血亲复仇”了吗？ https://t.co/9qkkANjSKp https://t.co/nlQsOtN2Kn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "osdd-1a。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 164,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 469
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T08:33:31.000Z",
+        "description": "追求一个所有人都平静和谐的理想国，自己还在内部整修中。是个各个方面上的“半吊子”。\n\n(想象力恢复中)(INFP 测试题很好玩 可以看到一幅画上的一些小“点”)(升华欲望)(原始人)(背景是住院时拍的)(建议大家少吃知识罐头)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fr.whotwi.com/wwx67751673",
+                "end": 23,
+                "expanded_url": "https://fr.whotwi.com/wwx67751673",
+                "start": 0,
+                "url": "https://t.co/zY2mTFeixA"
+              }
+            ]
+          }
+        },
+        "id": "1343112727720460289",
+        "location": "梦境与现实之间",
+        "name": "luv(sic)pt wwx",
+        "pinned_tweet_id": "1763012714610446659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443855809281028104/447Qn3iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 994,
+          "like_count": 127972,
+          "listed_count": 8,
+          "media_count": 884,
+          "tweet_count": 33050
+        },
+        "url": "https://t.co/zY2mTFeixA",
+        "username": "wwx67751673",
+        "verified": false
+      }
+    ]
+  }
+}

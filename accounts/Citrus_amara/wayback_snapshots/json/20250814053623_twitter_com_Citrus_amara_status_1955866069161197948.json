@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1955847484057772137",
+    "created_at": "2025-08-14T05:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T06:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955866069161197948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955866069161197948",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955847484057772137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Kazumasski 啊啊啊宝宝你是一本临床医学概论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1955847484057772137",
+        "created_at": "2025-08-14T05:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T06:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955866069161197948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955866069161197948",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955847484057772137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Kazumasski 啊啊啊宝宝你是一本临床医学概论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908668668919398400",
+        "conversation_id": "1955847484057772137",
+        "created_at": "2025-08-14T04:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T05:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955847484057772137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955847484057772137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "啊宝宝你是一个肺炎、支气管炎、败血症、脓毒血症、肾盂肾炎、膀胱炎、尿道炎、化脓性脑膜炎、病毒性脑炎、结核性脑膜炎、脑脓肿、急性胃肠炎、胆囊炎、肝脓肿、胰腺炎、腹膜炎、肛周脓肿、皮肤软组织感染、丹毒、蜂窝织炎、骨髓炎、关节炎、盆腔炎、附件炎、霉菌性阴道炎、尖锐湿疣、淋病、非淋菌性尿道炎、创伤性气胸、肺挫伤、肋骨骨折、血气胸、心肌梗死、心律失常、心力衰竭、冠心病、心肌病、风湿性心脏病、脑梗死、脑出血、蛛网膜下腔出血、脑震荡、脑挫裂伤、颅内血肿、胃溃疡、十二指肠溃疡、胃出血、肠梗阻、阑尾炎、胆囊炎、胆结石、胰腺炎、肝硬化、肝癌、肾功能衰竭、肾小球肾炎、肾盂肾炎、膀胱炎、尿道炎、前列腺炎、前列腺增生、骨折、脱臼、扭伤、拉伤、软组织挫伤、颅脑损伤、脊髓损伤、烧伤、烫伤、冻伤、电击伤、中毒、气胸、血胸、脓胸、胸膜炎、肺栓塞、慢性阻塞性肺疾病、肺气肿、哮喘、间质性肺炎、支气管扩张、气胸、肺大疱、气胸、肺脓肿、胸膜炎、气胸、胸腔积液、心律失常、心力衰竭、心肌病、心肌炎、心包炎、风湿性心脏病、冠心病、先天性心脏病、高血压性心脏病、糖尿病、甲状腺功能亢进、甲状腺功能减退、肾上腺皮质功能亢进、肾上腺皮质功能减退、垂体瘤、尿崩症、系统性红斑狼疮、类风湿关节炎、干燥综合征、强直性脊柱炎、痛风、骨质疏松症、骨折、脱臼、扭伤、拉伤、软组织挫伤、颅脑损伤、脊髓损伤、烧伤、烫伤、冻伤、电击伤、中毒、气胸、血胸、脓胸、胸膜炎、肺栓塞、慢性阻塞性肺疾病、肺气肿、哮喘、间质性肺炎、支气管扩张、气胸、肺大疱、气胸、肺脓肿、胸膜炎、气胸、胸腔积液、心律失常、心力衰竭、心肌病、心肌炎、心包炎、风湿性心脏病、冠心病、先天性心脏病、高血压性心脏病、糖尿病、甲状腺功能亢进、甲状腺功能减退、肾上腺皮质功能亢进、肾上腺皮质功能减退、垂体瘤、尿崩症、系统性红斑狼疮、类风湿关节炎、干燥综合征、强直性脊柱炎、痛风、骨质疏松症、胃溃疡、十二指肠溃疡、胃出血、肠梗阻、阑尾炎、胆囊炎、胆结石、胰腺炎、肝硬化、肝癌、肾功能衰竭、肾小球肾炎、肾盂肾炎、膀胱炎、尿道炎、前列腺炎、前列腺增生、脑震荡、脑挫裂伤、颅内血肿、脑梗死、脑出血、蛛网膜下腔出血、心肌梗死、心律失常、心力衰竭、冠心病、心肌病、风湿性心脏病、气胸、血气胸、肺挫伤、肋骨骨折、创伤性气胸、胃溃疡、十二指肠溃疡、胃出血、肠梗阻、阑尾炎、胆囊炎、胆结石患者"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 96,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "啊宝宝你是一个肺炎、支气管炎、败血症、脓毒血症、肾盂肾炎、膀胱炎、尿道炎、化脓性脑膜炎、病毒性脑炎、结核性脑膜炎、脑脓肿、急性胃肠炎、胆囊炎、肝脓肿、胰腺炎、腹膜炎、肛周脓肿、皮肤软组织感染、丹毒、蜂窝织炎、骨髓炎、关节炎、盆腔炎、附件炎、霉菌性阴道炎、尖锐湿疣、淋病、非淋菌性尿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 333,
+          "like_count": 2884,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1239
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "みんなが悪魔で異常です｜佐々木 和真と申します｜インターネットの天使｜音ゲーマー｜13歳中2生｜あの人@chaox1220_2nd｜金金金金｜陰キャ｜サブ垢@hhaaiibot 音ゲー垢@bblloocckk_｜Xの住人｜メール✉️:sashisusesoowo@hotmail.com ｜よろしく申し上げます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "chaox1220_2nd"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "hhaaiibot"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "bblloocckk_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "irasutoya.com",
+                "end": 23,
+                "expanded_url": "http://irasutoya.com",
+                "start": 0,
+                "url": "https://t.co/vxqq8xI5xm"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "金金金金",
+        "name": "朽木牌手机9块9包邮 🏳️‍🌈 @赖床单推入",
+        "pinned_tweet_id": "1955495984949277070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953261706488233984/QwOOzoh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 3393,
+          "like_count": 3348,
+          "listed_count": 2,
+          "media_count": 775,
+          "tweet_count": 4189
+        },
+        "url": "https://t.co/vxqq8xI5xm",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1956190803640090892",
+    "created_at": "2025-08-15T17:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T18:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956407459167257000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "471019735",
+          "start": 0,
+          "username": "Gelm01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956407459167257000",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956407341961580950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gelm01 你要说我在农村甚至贫困地区出生的话那确实，可能我是afab的话我刚生下来就被淹死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1956190803640090892",
+        "created_at": "2025-08-15T17:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T18:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956407459167257000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "471019735",
+              "start": 0,
+              "username": "Gelm01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956407459167257000",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956407341961580950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gelm01 你要说我在农村甚至贫困地区出生的话那确实，可能我是afab的话我刚生下来就被淹死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1956190803640090892",
+        "created_at": "2025-08-15T17:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T18:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956407341961580950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "471019735",
+              "start": 0,
+              "username": "Gelm01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956407341961580950",
+        "in_reply_to_user_id": "471019735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956190803640090892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gelm01 不是优势，是独特体验。\n当然鉴于闹钟这个地域发展不平衡嗯，我只能说我是一线城市出生的独生子女。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 345,
+          "like_count": 3012,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1328
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-22T12:07:07.000Z",
+        "description": "🏳️‍⚧️干物女",
+        "id": "471019735",
+        "location": "月まで届け",
+        "name": "少年期の終り🏵✝️漫漫詅痴",
+        "pinned_tweet_id": "1949143480732651775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950436123228205056/4gqnxz2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 560,
+          "like_count": 2528,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 3062
+        },
+        "username": "Gelm01",
+        "verified": false
+      }
+    ]
+  }
+}

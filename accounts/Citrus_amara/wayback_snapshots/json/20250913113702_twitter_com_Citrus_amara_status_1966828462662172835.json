@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1966828462662172835",
+    "created_at": "2025-09-13T11:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T12:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966828462662172835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Drugs_Kitten/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Drugs_Kitten/status/1966825622887620656",
+          "start": 11,
+          "url": "https://t.co/6QQxbKvWj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966828462662172835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966825622887620656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "瑞幸或成中国最大毒枭 https://t.co/6QQxbKvWj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966825611772784650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uReSTbcAoVNOP.jpg",
+        "width": 1002
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966825611768590343",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uReSSbcAcTL-w.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1966828462662172835",
+        "created_at": "2025-09-13T11:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966828462662172835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Drugs_Kitten/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Drugs_Kitten/status/1966825622887620656",
+              "start": 11,
+              "url": "https://t.co/6QQxbKvWj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966828462662172835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966825622887620656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "瑞幸或成中国最大毒枭 https://t.co/6QQxbKvWj6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966825611772784650",
+            "3_1966825611768590343"
+          ]
+        },
+        "author_id": "1960026902418321408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966825622887620656",
+        "created_at": "2025-09-13T11:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966825622887620656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Q6hAgcuqR",
+              "end": 55,
+              "expanded_url": "https://x.com/Drugs_Kitten/status/1966825622887620656/photo/1",
+              "media_key": "3_1966825611772784650",
+              "start": 32,
+              "url": "https://t.co/2Q6hAgcuqR"
+            },
+            {
+              "display_url": "pic.x.com/2Q6hAgcuqR",
+              "end": 55,
+              "expanded_url": "https://x.com/Drugs_Kitten/status/1966825622887620656/photo/1",
+              "media_key": "3_1966825611768590343",
+              "start": 32,
+              "url": "https://t.co/2Q6hAgcuqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966825622887620656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国禁毒官方发的文章😅也不怪为什么大部分中国人对毒品一窍不通了 https://t.co/2Q6hAgcuqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 426,
+          "like_count": 6545,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2537
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊MediKitty🌌",
+        "pinned_tweet_id": "1960031991401005577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 146,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 260
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      }
+    ]
+  }
+}

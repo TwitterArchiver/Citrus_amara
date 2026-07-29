@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1993270734198915419",
+    "created_at": "2025-11-27T11:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993999010152243680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983506413164138496",
+          "start": 0,
+          "username": "Dekabrist_QAQ"
+        },
+        {
+          "end": 26,
+          "id": "1597468568290873344",
+          "start": 15,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 35,
+          "id": "1512976991976402949",
+          "start": 27,
+          "username": "bghtnya"
+        },
+        {
+          "end": 44,
+          "id": "1327197298930028544",
+          "start": 36,
+          "username": "un_krvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993999010152243680",
+    "in_reply_to_user_id": "1983506413164138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993342610224902329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dekabrist_QAQ @jingzhny11 @bghtnya @un_krvy 就是吗啡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1993270734198915419",
+        "created_at": "2025-11-27T11:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993999010152243680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983506413164138496",
+              "start": 0,
+              "username": "Dekabrist_QAQ"
+            },
+            {
+              "end": 26,
+              "id": "1597468568290873344",
+              "start": 15,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 35,
+              "id": "1512976991976402949",
+              "start": 27,
+              "username": "bghtnya"
+            },
+            {
+              "end": 44,
+              "id": "1327197298930028544",
+              "start": 36,
+              "username": "un_krvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993999010152243680",
+        "in_reply_to_user_id": "1983506413164138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993342610224902329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dekabrist_QAQ @jingzhny11 @bghtnya @un_krvy 就是吗啡。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983506413164138496",
+        "conversation_id": "1993270734198915419",
+        "created_at": "2025-11-25T15:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993342610224902329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 20,
+              "id": "1512976991976402949",
+              "start": 12,
+              "username": "bghtnya"
+            },
+            {
+              "end": 29,
+              "id": "1327197298930028544",
+              "start": 21,
+              "username": "un_krvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993342610224902329",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993340976803594316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 @bghtnya @un_krvy 不是 甘草片是阿扑吗啡 不是吗啡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 845,
+          "like_count": 13223,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 5815
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T12:09:44.000Z",
+        "description": "风便是你剩下的伴侣",
+        "id": "1983506413164138496",
+        "name": "原味鸡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983506534811525120/M5tF1jS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 41,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 215
+        },
+        "username": "Dekabrist_QAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，想当黄推的，生气时会支黑的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948009299256786944/HotJFJvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4161,
+          "following_count": 1979,
+          "like_count": 102126,
+          "listed_count": 16,
+          "media_count": 220,
+          "tweet_count": 13930
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8255,
+          "following_count": 2116,
+          "like_count": 170261,
+          "listed_count": 20,
+          "media_count": 3494,
+          "tweet_count": 43219
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "krvy|想要互fo|试图逃离药物|深渊",
+        "id": "1327197298930028544",
+        "location": "Macragge",
+        "name": "krvy #​心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985229486288457728/50BuRTaz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 234,
+          "like_count": 5686,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 824
+        },
+        "username": "un_krvy",
+        "verified": false
+      }
+    ]
+  }
+}

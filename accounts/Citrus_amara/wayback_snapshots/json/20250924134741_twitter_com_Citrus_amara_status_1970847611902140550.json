@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1970847611902140550",
+    "created_at": "2025-09-24T13:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T14:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970847611902140550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1743651797087277056",
+          "start": 3,
+          "username": "Aether9008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970847611902140550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970490511355166861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aether9008: 哪有什麼無辜的中國人，只不過是行行色色的各種支那豬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1970847611902140550",
+        "created_at": "2025-09-24T13:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970847611902140550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1743651797087277056",
+              "start": 3,
+              "username": "Aether9008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970847611902140550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970490511355166861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aether9008: 哪有什麼無辜的中國人，只不過是行行色色的各種支那豬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743651797087277056",
+        "conversation_id": "1970490511355166861",
+        "created_at": "2025-09-23T14:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T15:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970490511355166861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m32276803/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/m32276803/status/1970430029080469658",
+              "start": 26,
+              "url": "https://t.co/fqU0yArL5m"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1970490511355166861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 476,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970430029080469658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪有什麼無辜的中國人，只不過是行行色色的各種支那豬 https://t.co/fqU0yArL5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 450,
+          "like_count": 7480,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 2807
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T15:12:50.000Z",
+        "description": "看見會回跟，如果漏了可以留言\n日常👉@sora_kunidaime\nTelegram：https://t.co/ngpTT2PiFN\nMail：aether9008@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "sora_kunidaime"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aether_9008/",
+                "end": 66,
+                "expanded_url": "http://t.me/Aether_9008/",
+                "start": 43,
+                "url": "https://t.co/ngpTT2PiFN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aethernochannel",
+                "end": 23,
+                "expanded_url": "https://t.me/Aethernochannel",
+                "start": 0,
+                "url": "https://t.co/8Qm6arCeaX"
+              }
+            ]
+          }
+        },
+        "id": "1743651797087277056",
+        "location": "Kingdom of Khaenri'ah",
+        "name": "空ちゃん",
+        "pinned_tweet_id": "1957100078918942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952032323857534977/Eyvjc6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 2200,
+          "like_count": 23284,
+          "listed_count": 12,
+          "media_count": 1382,
+          "tweet_count": 4429
+        },
+        "url": "https://t.co/8Qm6arCeaX",
+        "username": "Aether9008",
+        "verified": false
+      }
+    ]
+  }
+}

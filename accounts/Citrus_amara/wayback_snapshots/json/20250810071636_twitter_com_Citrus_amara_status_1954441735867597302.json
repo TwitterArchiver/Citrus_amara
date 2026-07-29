@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1954441735867597302",
+    "created_at": "2025-08-10T07:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T08:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954441735867597302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/1954002529467117892",
+          "start": 47,
+          "url": "https://t.co/AuB3qqcopo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954441735867597302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954002529467117892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种情况99%是你没烤干，把产物放烘箱里烤一烤再称。\n当然为了数据好看有时候我会故意不考干✌ https://t.co/AuB3qqcopo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_1954002490309140480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx4C6YUa4AAmJPo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1954441735867597302",
+        "created_at": "2025-08-10T07:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T08:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954441735867597302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/1954002529467117892",
+              "start": 47,
+              "url": "https://t.co/AuB3qqcopo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954441735867597302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954002529467117892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种情况99%是你没烤干，把产物放烘箱里烤一烤再称。\n当然为了数据好看有时候我会故意不考干✌ https://t.co/AuB3qqcopo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954002490309140480"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "1954002529467117892",
+        "created_at": "2025-08-09T02:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T03:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954002529467117892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQAp03hmYV",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1954002529467117892/photo/1",
+              "media_key": "3_1954002490309140480",
+              "start": 0,
+              "url": "https://t.co/dQAp03hmYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954002529467117892",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 36292,
+          "like_count": 340,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dQAp03hmYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "L-星团",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 295,
+          "like_count": 2346,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1026
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14109,
+          "following_count": 41,
+          "like_count": 49,
+          "listed_count": 40,
+          "media_count": 4559,
+          "tweet_count": 4583
+        },
+        "username": "hsn8086xe",
+        "verified": false
+      }
+    ]
+  }
+}

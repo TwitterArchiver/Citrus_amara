@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2046615829496938645",
+    "created_at": "2026-04-22T00:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T01:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046751501872402695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1266316422428258311",
+          "start": 0,
+          "username": "mania_chan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046751501872402695",
+    "in_reply_to_user_id": "1266316422428258311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046615829496938645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mania_chan_ 😗nmpa肯定早就通好气了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2046615829496938645",
+        "created_at": "2026-04-22T00:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046751501872402695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1266316422428258311",
+              "start": 0,
+              "username": "mania_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046751501872402695",
+        "in_reply_to_user_id": "1266316422428258311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046615829496938645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mania_chan_ 😗nmpa肯定早就通好气了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266316422428258311",
+        "conversation_id": "2046615829496938645",
+        "created_at": "2026-04-21T15:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046615829496938645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046615829496938645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "个人感觉以简中的政策执行速度，Oder可以蹲蹲后续的，“通知”距离“落实”还有一定距离，就像人大代表提出成年人游戏防沉迷，但大家现在依然可以通宵打游戏一天\n这个通知最后也没说清是在什么时候实行，Oder们现在开始屯药至少是来得及的\n昨天狂酱就买了五盒玉米片，也发出来了目前没被晶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 1039,
+          "like_count": 19208,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 10953
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T10:32:25.000Z",
+        "description": "🇨🇳\n中文/English/Français\n✍🏻Writer/🎶Composer\n🟦Asexual/Gender-neutral\n💊od/selfharm_cutting/psy\n✝️Christian",
+        "id": "1266316422428258311",
+        "location": "Heaven",
+        "name": "Licentious_Chirp_肆鳴_",
+        "pinned_tweet_id": "2024013576336212268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045529322942062593/NLZAQaB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 244,
+          "like_count": 3319,
+          "listed_count": 2,
+          "media_count": 547,
+          "tweet_count": 2110
+        },
+        "username": "mania_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

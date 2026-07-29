@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1992134111948140691",
+    "created_at": "2025-11-22T07:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T08:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992134111948140691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/11chips_/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/11chips_/status/1992127203870679376",
+          "start": 17,
+          "url": "https://t.co/Ql8IXRodU8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992134111948140691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992127203870679376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你看连劝我停止hrt的话术都一样 https://t.co/Ql8IXRodU8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1992134111948140691",
+        "created_at": "2025-11-22T07:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992134111948140691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/11chips_/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/11chips_/status/1992127203870679376",
+              "start": 17,
+              "url": "https://t.co/Ql8IXRodU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992134111948140691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992127203870679376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你看连劝我停止hrt的话术都一样 https://t.co/Ql8IXRodU8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934928841476378624",
+        "conversation_id": "1991913513791725939",
+        "created_at": "2025-11-22T07:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992127203870679376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 30,
+              "id": "1444716723978981380",
+              "start": 14,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992127203870679376",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991989878415032818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @EleanorAnatidae 如果od是好的，你为什么不带着你爸爸妈妈爷爷奶奶一起去做呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 820,
+          "like_count": 12709,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 5416
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T10:59:34.000Z",
+        "description": "Everyone dies, but not everyone lives",
+        "id": "1934928841476378624",
+        "name": "我独自升级",
+        "pinned_tweet_id": "1985232384309219330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991929387395276800/9OgBMPZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 138,
+          "like_count": 668,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 167
+        },
+        "username": "11chips_",
+        "verified": false
+      }
+    ]
+  }
+}

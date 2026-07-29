@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076960978198282240"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2076962235025699157",
+    "created_at": "2026-07-14T09:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T10:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076962235025699157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J9KeFqfafR",
+          "end": 134,
+          "expanded_url": "https://x.com/Citrus_amara/status/2076962235025699157/photo/1",
+          "media_key": "3_2076960978198282240",
+          "start": 111,
+          "url": "https://t.co/J9KeFqfafR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076962235025699157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "仅列举药品的话，，\n各种国外的dxm制剂，比如盐野义。注意有一些是缓释的，trip体验可能不同。尽量买单方。\n美金刚，没吃过但可以o。\n强力枇杷露，甜的要死，药效也很无趣。\n复方甘草片。阿片。。！！\n白兔bron，阿片！ https://t.co/J9KeFqfafR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2076960978198282240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLZAWXbQAAA4wO.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076960978198282240"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2076962235025699157",
+        "created_at": "2026-07-14T09:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076962235025699157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9KeFqfafR",
+              "end": 134,
+              "expanded_url": "https://x.com/Citrus_amara/status/2076962235025699157/photo/1",
+              "media_key": "3_2076960978198282240",
+              "start": 111,
+              "url": "https://t.co/J9KeFqfafR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076962235025699157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仅列举药品的话，，\n各种国外的dxm制剂，比如盐野义。注意有一些是缓释的，trip体验可能不同。尽量买单方。\n美金刚，没吃过但可以o。\n强力枇杷露，甜的要死，药效也很无趣。\n复方甘草片。阿片。。！！\n白兔bron，阿片！ https://t.co/J9KeFqfafR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/od/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 1160,
+          "like_count": 21022,
+          "listed_count": 5,
+          "media_count": 436,
+          "tweet_count": 11771
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

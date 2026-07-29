@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1967774663536447719",
+    "created_at": "2025-09-17T06:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T07:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968194097375781277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833730895750283264",
+          "start": 0,
+          "username": "32_aug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968194097375781277",
+    "in_reply_to_user_id": "1833730895750283264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967774663536447719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@32_aug 习中特是大学思政教材里最抽象的一本。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967774653155520512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G07wnw9aMAAftRc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1967774663536447719",
+        "created_at": "2025-09-17T06:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968194097375781277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833730895750283264",
+              "start": 0,
+              "username": "32_aug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968194097375781277",
+        "in_reply_to_user_id": "1833730895750283264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967774663536447719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@32_aug 习中特是大学思政教材里最抽象的一本。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967774653155520512"
+          ]
+        },
+        "author_id": "1833730895750283264",
+        "conversation_id": "1967774663536447719",
+        "created_at": "2025-09-16T02:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T03:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967774663536447719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vBaWW3seJ",
+              "end": 30,
+              "expanded_url": "https://x.com/32_aug/status/1967774663536447719/photo/1",
+              "media_key": "3_1967774653155520512",
+              "start": 7,
+              "url": "https://t.co/5vBaWW3seJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967774663536447719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31314,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃学习🫡 https://t.co/5vBaWW3seJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 431,
+          "like_count": 6908,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 2611
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "はちです！中国人です！希望跟大家交朋友！｜フィルム｜ContaxG2お使います｜ポーラロイド｜ヨルシカ｜跑步训练｜箱根駅伝｜日常｜リズと青い鳥 ｜No politics 🚫 互fo查成分！日本語勉強しています！無言フォロー失礼します🙇 写真はこちら@ynmori136992",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 124,
+                "username": "ynmori136992"
+              }
+            ]
+          }
+        },
+        "id": "1833730895750283264",
+        "location": "Stockholm, Sweden",
+        "name": "Hachii",
+        "pinned_tweet_id": "1962008654842073413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966719354432876546/Evj5714N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 610,
+          "like_count": 67453,
+          "listed_count": 4,
+          "media_count": 2033,
+          "tweet_count": 19248
+        },
+        "username": "32_aug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948603399861403679",
+    "created_at": "2025-07-25T14:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T15:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948756354597847392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1718776457198280704",
+          "start": 0,
+          "username": "yng014522566684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948756354597847392",
+    "in_reply_to_user_id": "1718776457198280704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948603399861403679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yng014522566684 妈妈抽我我要pr！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1948603390512271360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrUdaObEAAKz4J.jpg",
+        "width": 630
+      },
+      {
+        "height": 1362,
+        "media_key": "3_1948603390524862464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrUdaRbMAA0NG-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1362,
+        "media_key": "3_1948603390461968389",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrUdaCbgAUzH3-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948603399861403679",
+        "created_at": "2025-07-25T14:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948756354597847392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1718776457198280704",
+              "start": 0,
+              "username": "yng014522566684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948756354597847392",
+        "in_reply_to_user_id": "1718776457198280704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948603399861403679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yng014522566684 妈妈抽我我要pr！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948603390512271360",
+            "3_1948603390524862464",
+            "3_1948603390461968389"
+          ]
+        },
+        "author_id": "1718776457198280704",
+        "conversation_id": "1948603399861403679",
+        "created_at": "2025-07-25T04:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948603399861403679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6guz6TZajJ",
+              "end": 136,
+              "expanded_url": "https://x.com/yng014522566684/status/1948603399861403679/photo/1",
+              "media_key": "3_1948603390512271360",
+              "start": 113,
+              "url": "https://t.co/6guz6TZajJ"
+            },
+            {
+              "display_url": "pic.x.com/6guz6TZajJ",
+              "end": 136,
+              "expanded_url": "https://x.com/yng014522566684/status/1948603399861403679/photo/1",
+              "media_key": "3_1948603390524862464",
+              "start": 113,
+              "url": "https://t.co/6guz6TZajJ"
+            },
+            {
+              "display_url": "pic.x.com/6guz6TZajJ",
+              "end": 136,
+              "expanded_url": "https://x.com/yng014522566684/status/1948603399861403679/photo/1",
+              "media_key": "3_1948603390461968389",
+              "start": 113,
+              "url": "https://t.co/6guz6TZajJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948603399861403679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5155,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我是白婴 坐标青岛\n165 55 kg \n一个人搬出来住了需要钱所以接线下\n接S调 我是绳师女S 有线下调教经验\nM也可以\n爸爸活接纯绿半绿过门槛咨询\n\n求转发+关注 参与\n抽一个人两盒愚昧片\n一个人两盒普瑞\n7.30号开奖 https://t.co/6guz6TZajJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 141,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 414
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T23:47:10.000Z",
+        "description": "🚪88接线下 我很好请给我钱",
+        "id": "1718776457198280704",
+        "name": "婴",
+        "pinned_tweet_id": "1948603399861403679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790813312378355713/4D4XM3PN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 93,
+          "like_count": 2046,
+          "listed_count": 4,
+          "media_count": 93,
+          "tweet_count": 547
+        },
+        "username": "yng014522566684",
+        "verified": false
+      }
+    ]
+  }
+}

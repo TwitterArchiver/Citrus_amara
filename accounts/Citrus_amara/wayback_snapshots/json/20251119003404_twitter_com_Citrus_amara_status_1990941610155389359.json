@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1990941610155389359",
+    "created_at": "2025-11-19T00:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T01:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990941610155389359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/N552AA/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/N552AA/status/1990892086166470769",
+          "start": 4,
+          "url": "https://t.co/wzEd98qzaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990941610155389359",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990892086166470769",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "7克。 https://t.co/wzEd98qzaN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1990941610155389359",
+        "created_at": "2025-11-19T00:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990941610155389359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N552AA/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/N552AA/status/1990892086166470769",
+              "start": 4,
+              "url": "https://t.co/wzEd98qzaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990941610155389359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990892086166470769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7克。 https://t.co/wzEd98qzaN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817584080437014528",
+        "conversation_id": "1990892086166470769",
+        "created_at": "2025-11-18T21:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T22:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990892086166470769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N552AA/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/N552AA/status/1989873821550354827",
+              "start": 28,
+              "url": "https://t.co/fXdE5fb107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990892086166470769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4748,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989873821550354827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喝了至少100ml 在晶哥面前 可能是最后一条消息了 https://t.co/fXdE5fb107"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 784,
+          "like_count": 12209,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 5138
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/双相/ADHD/BPD/断续含糖/\n小证：2025-11-14/坐标上海/半家长党/抱抱最最可爱的姐姐: @yizhikapaiqaq 妹妹:@suikahsnya/主人：@ayumi_0222_\n/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "suikahsnya"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "ayumi_0222_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫",
+        "pinned_tweet_id": "1990743081273208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004171713146880/ZhbhI7xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 1015,
+          "like_count": 4077,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1446
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

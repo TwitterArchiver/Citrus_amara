@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2005865905373192288",
+    "created_at": "2025-12-30T04:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T05:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005865905373192288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momo_yu_Apple/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/momo_yu_Apple/status/2005564083123503363",
+          "start": 18,
+          "url": "https://t.co/cjvqu58N15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005865905373192288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005564083123503363",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我已经准备退坑地球ol了，下辈子见 https://t.co/cjvqu58N15"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2005865905373192288",
+        "created_at": "2025-12-30T04:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T05:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005865905373192288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momo_yu_Apple/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/momo_yu_Apple/status/2005564083123503363",
+              "start": 18,
+              "url": "https://t.co/cjvqu58N15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005865905373192288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005564083123503363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经准备退坑地球ol了，下辈子见 https://t.co/cjvqu58N15"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505851491734720515",
+        "conversation_id": "2005564083123503363",
+        "created_at": "2025-12-29T08:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T09:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005564083123503363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005564083123503363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 25774,
+          "like_count": 93,
+          "quote_count": 20,
+          "reply_count": 47,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "暴论：建议所有长的不好看很男相的mtf尽早退坑\n\n因为你无论怎么努力也够不着“正常”长相的mtf，更别说好看的\n\n不然容貌焦虑可以逼着一个人付出生命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "鼠鼠，柠檬水，铃，做题蛆，神，罪人。\nHRT：2025.8.28。\n 妹妹@shsh548866丨主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 976,
+          "like_count": 15169,
+          "listed_count": 5,
+          "media_count": 289,
+          "tweet_count": 7445
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T10:19:23.000Z",
+        "description": "04年大龄||178/70(减肥中)/80a||终身不可srs||🚪60接线下实习圆角||部分言论不要太较真||学习化妆ing｜2026年12月18日离开地球",
+        "id": "1505851491734720515",
+        "name": "玉茉茉喵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982279720688320512/fMn-1YUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 299,
+          "like_count": 506,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 1117
+        },
+        "username": "momo_yu_Apple",
+        "verified": false
+      }
+    ]
+  }
+}

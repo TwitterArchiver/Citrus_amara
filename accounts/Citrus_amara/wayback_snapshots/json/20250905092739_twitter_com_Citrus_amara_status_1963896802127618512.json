@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1963566051989307866",
+    "created_at": "2025-09-05T09:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T10:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963896802127618512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723352247982239744",
+          "start": 0,
+          "username": "ban_le3330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963896802127618512",
+    "in_reply_to_user_id": "1723352247982239744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963893146598666688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ban_le3330 ftm真的有这种需求吗😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1963566051989307866",
+        "created_at": "2025-09-05T09:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T10:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963896802127618512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723352247982239744",
+              "start": 0,
+              "username": "ban_le3330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963896802127618512",
+        "in_reply_to_user_id": "1723352247982239744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963893146598666688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ban_le3330 ftm真的有这种需求吗😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723352247982239744",
+        "conversation_id": "1963566051989307866",
+        "created_at": "2025-09-05T09:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T10:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963893146598666688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963893146598666688",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963566051989307866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 挺好的，说明终于有更多人开始重视起性少数群体的生理需求了，深感欣慰🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 398,
+          "like_count": 5931,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 2265
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T14:49:46.000Z",
+        "description": "窝是一只小兔子丨这是窝可爱的女友：@binglvsuiyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "binglvsuiyu"
+              }
+            ]
+          }
+        },
+        "id": "1723352247982239744",
+        "location": "蛋糕之星",
+        "name": "彩音",
+        "pinned_tweet_id": "1889710512117584007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891381566615728128/-CvIiSSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 302,
+          "like_count": 3463,
+          "listed_count": 6,
+          "media_count": 121,
+          "tweet_count": 1434
+        },
+        "username": "ban_le3330",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949515216779133017",
+    "created_at": "2025-07-27T17:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949515216779133017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jike112_jike/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/jike112_jike/status/1948626122503081987",
+          "start": 11,
+          "url": "https://t.co/ORzfPlJuTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949515216779133017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948626122503081987",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想坐在鸡巴椅子上 https://t.co/ORzfPlJuTT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949515216779133017",
+        "created_at": "2025-07-27T17:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949515216779133017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jike112_jike/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/jike112_jike/status/1948626122503081987",
+              "start": 11,
+              "url": "https://t.co/ORzfPlJuTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949515216779133017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948626122503081987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想坐在鸡巴椅子上 https://t.co/ORzfPlJuTT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931807368349810688",
+        "conversation_id": "1948626122503081987",
+        "created_at": "2025-07-25T06:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T07:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948626122503081987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/1948329624943104068",
+              "start": 143,
+              "url": "https://t.co/1VQ3sFblhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948626122503081987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 29959,
+          "like_count": 270,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948329624943104068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国内的教育体制真的完全反男性，男性天生好动，而且很多人患有注意力缺陷障碍症（ADHD），他们适合边做边学，我看国外的老师都会给男孩安排各种实验课，课外实践课（都是动起来的那种），国内强行坐在那个鸡巴椅子上，男生睡足了也困，学个屁啊，我从来不听老师讲，都是自己直接做题，遇到不会的再去学 https://t.co/1VQ3sFblhY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "osdd-1a。双相。od。跨性别。欢迎od的互关，欢迎私信。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 173,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 496
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:52:43.000Z",
+        "description": "男性要学会保护自己",
+        "id": "931807368349810688",
+        "name": "jike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770473487389294594/AqsssmrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4994,
+          "following_count": 215,
+          "like_count": 6137,
+          "listed_count": 22,
+          "media_count": 593,
+          "tweet_count": 2279
+        },
+        "username": "jike112_jike",
+        "verified": false
+      }
+    ]
+  }
+}

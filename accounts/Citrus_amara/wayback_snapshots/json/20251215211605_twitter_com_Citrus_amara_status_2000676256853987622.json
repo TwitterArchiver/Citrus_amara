@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2000676256853987622",
+    "created_at": "2025-12-15T21:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T22:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000676256853987622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/B_cat38324/status/1996133871637966961",
+          "start": 2,
+          "url": "https://t.co/rISbfTPew9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000676256853987622",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996133871637966961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😢 https://t.co/rISbfTPew9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2000676256853987622",
+        "created_at": "2025-12-15T21:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T22:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000676256853987622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1996133871637966961",
+              "start": 2,
+              "url": "https://t.co/rISbfTPew9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000676256853987622",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996133871637966961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/rISbfTPew9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1996133871637966961",
+        "created_at": "2025-12-03T08:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996133871637966961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996133871637966961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 25879,
+          "like_count": 394,
+          "quote_count": 9,
+          "reply_count": 32,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "你之所以对任何多元化都包容，你心疼有色人种，心疼残障人士，心疼性少数，但是仍然痛苦，因为你从来没包容过你自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1999680286733533427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 934,
+          "like_count": 14249,
+          "listed_count": 4,
+          "media_count": 255,
+          "tweet_count": 6680
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22033,
+          "following_count": 197,
+          "like_count": 689,
+          "listed_count": 72,
+          "media_count": 96,
+          "tweet_count": 21662
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

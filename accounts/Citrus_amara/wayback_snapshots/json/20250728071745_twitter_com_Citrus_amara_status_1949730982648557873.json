@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949730982648557873",
+    "created_at": "2025-07-28T07:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T08:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949730982648557873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Arpeggio514/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Arpeggio514/status/1935384261600887112",
+          "start": 7,
+          "url": "https://t.co/bNPYMq4JzE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949730982648557873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935384261600887112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呦这套好帅 https://t.co/bNPYMq4JzE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1935384258799185921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtvdurGbsAE7aww.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949730982648557873",
+        "created_at": "2025-07-28T07:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T08:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949730982648557873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Arpeggio514/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Arpeggio514/status/1935384261600887112",
+              "start": 7,
+              "url": "https://t.co/bNPYMq4JzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949730982648557873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935384261600887112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呦这套好帅 https://t.co/bNPYMq4JzE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935384258799185921"
+          ]
+        },
+        "author_id": "1654908701772496896",
+        "conversation_id": "1935384261600887112",
+        "created_at": "2025-06-18T17:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T18:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935384261600887112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lI2is7c0Tc",
+              "end": 52,
+              "expanded_url": "https://x.com/Arpeggio514/status/1935384261600887112/photo/1",
+              "media_key": "3_1935384258799185921",
+              "start": 29,
+              "url": "https://t.co/lI2is7c0Tc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935384261600887112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 32041,
+          "like_count": 232,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "买完这套发现好几个推u也有，大家都把它当rle用中性装吗 https://t.co/lI2is7c0Tc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。欢迎od的互关，欢迎私信。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 176,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 505
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "归属感缺失",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "Arpeggio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947747597751619585/pgtzIACW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4850,
+          "following_count": 1163,
+          "like_count": 20279,
+          "listed_count": 8,
+          "media_count": 245,
+          "tweet_count": 3557
+        },
+        "username": "Arpeggio514",
+        "verified": false
+      }
+    ]
+  }
+}

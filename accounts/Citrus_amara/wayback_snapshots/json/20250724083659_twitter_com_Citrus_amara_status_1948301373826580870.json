@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948118892955484528",
+    "created_at": "2025-07-24T08:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T09:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948301373826580870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "622036546",
+          "start": 0,
+          "username": "oder_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948301373826580870",
+    "in_reply_to_user_id": "622036546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948118892955484528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oder_666 我想。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948118892955484528",
+        "created_at": "2025-07-24T08:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T09:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948301373826580870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "622036546",
+              "start": 0,
+              "username": "oder_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948301373826580870",
+        "in_reply_to_user_id": "622036546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948118892955484528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oder_666 我想。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1948118892955484528",
+        "created_at": "2025-07-23T20:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T21:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948118892955484528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948118892955484528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的互关可以找我扩列墙内"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 120,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 363
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|欢迎互fo",
+        "id": "622036546",
+        "location": "精神病院",
+        "name": "むのう",
+        "pinned_tweet_id": "1943307259796459789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947547511247540226/fKOdwvL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 82,
+          "like_count": 3293,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 633
+        },
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

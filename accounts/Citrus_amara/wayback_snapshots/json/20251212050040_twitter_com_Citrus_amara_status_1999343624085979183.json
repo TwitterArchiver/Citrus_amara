@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1999279556243653038",
+    "created_at": "2025-12-12T05:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999343624085979183"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999343624085979183",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999279556243653038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的意思是，你要是怕解离你为什么吃解离剂呢。你要是觉得dpdr不舒服你多吃点不就完了。药物在你自己手里。反正我吃低剂量dxm也一样会强化dpdr。不过dxm还附带眩晕，我的dpdr虽然也有但不会有dxm那么强的眩晕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1999279556243653038",
+        "created_at": "2025-12-12T05:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999343624085979183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999343624085979183",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999279556243653038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的意思是，你要是怕解离你为什么吃解离剂呢。你要是觉得dpdr不舒服你多吃点不就完了。药物在你自己手里。反正我吃低剂量dxm也一样会强化dpdr。不过dxm还附带眩晕，我的dpdr虽然也有但不会有dxm那么强的眩晕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1999279556243653038",
+        "created_at": "2025-12-12T00:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T01:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999279556243653038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/1999115529609773359",
+              "start": 29,
+              "url": "https://t.co/nQrHKr6myd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999279556243653038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999115529609773359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别的不说，人格解体也是解离啊？\n吃解离剂一定要解离✍✍✍ https://t.co/nQrHKr6myd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 918,
+          "like_count": 14035,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 6537
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

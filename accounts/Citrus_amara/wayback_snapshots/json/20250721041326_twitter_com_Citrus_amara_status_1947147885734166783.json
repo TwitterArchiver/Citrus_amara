@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947144312300675495",
+    "created_at": "2025-07-21T04:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T05:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947147885734166783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716325928479903744",
+          "start": 0,
+          "username": "qiu_song60259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947147885734166783",
+    "in_reply_to_user_id": "1716325928479903744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947144312300675495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiu_song60259 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1947144296836079616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwWla-tXoAAcQbj.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947144312300675495",
+        "created_at": "2025-07-21T04:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947147885734166783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716325928479903744",
+              "start": 0,
+              "username": "qiu_song60259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947147885734166783",
+        "in_reply_to_user_id": "1716325928479903744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947144312300675495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiu_song60259 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947144296836079616"
+          ]
+        },
+        "author_id": "1716325928479903744",
+        "conversation_id": "1947144312300675495",
+        "created_at": "2025-07-21T03:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T04:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947144312300675495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QOXykHrhE",
+              "end": 44,
+              "expanded_url": "https://x.com/qiu_song60259/status/1947144312300675495/photo/1",
+              "media_key": "3_1947144296836079616",
+              "start": 21,
+              "url": "https://t.co/3QOXykHrhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947144312300675495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会画这样的若只画你们谁要啊我可以画一点 https://t.co/3QOXykHrhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。好感刷高了可以爆qq。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 83,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 240
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:29:38.000Z",
+        "description": "No.1齐司礼（拒一切）infp 破壳日9.7 brat 废话很多 小女孩请多多找我互动互关我爱你们呀 叫我小抹和苦瓜什么的都可以随意呀 我喜欢转发一些我喜欢的东西 苦瓜必吃榜🥵🥵@DiKongFeiXing73 这素主人老公酱🥺🥺@Kongyiji_0 让我发身材照的拉黑/会看着回关男的陪聊回关打钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 90,
+                "username": "DiKongFeiXing73"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Kongyiji_0"
+              }
+            ]
+          }
+        },
+        "id": "1716325928479903744",
+        "location": "苦瓜田 🚪50纯绿（小女孩免费😋）",
+        "name": "抹茶小苦瓜",
+        "pinned_tweet_id": "1946195986100981773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923736903028817920/oVKIeFAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 545,
+          "like_count": 2396,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1691
+        },
+        "username": "qiu_song60259",
+        "verified": false
+      }
+    ]
+  }
+}

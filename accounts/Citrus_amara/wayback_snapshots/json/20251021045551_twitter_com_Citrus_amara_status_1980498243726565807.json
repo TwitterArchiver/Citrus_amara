@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1980389050818392343",
+    "created_at": "2025-10-21T04:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T05:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980498243726565807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1288715051872825344",
+          "start": 0,
+          "username": "2000213yp"
+        },
+        {
+          "end": 24,
+          "id": "622036546",
+          "start": 11,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980498243726565807",
+    "in_reply_to_user_id": "1288715051872825344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980412162867888379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2000213yp @overdose_six 普瑞几乎不代谢，直接原型过肾排出。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1980389050818392343",
+        "created_at": "2025-10-21T04:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T05:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980498243726565807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1288715051872825344",
+              "start": 0,
+              "username": "2000213yp"
+            },
+            {
+              "end": 24,
+              "id": "622036546",
+              "start": 11,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980498243726565807",
+        "in_reply_to_user_id": "1288715051872825344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980412162867888379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2000213yp @overdose_six 普瑞几乎不代谢，直接原型过肾排出。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1288715051872825344",
+        "conversation_id": "1980389050818392343",
+        "created_at": "2025-10-20T23:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T00:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980412162867888379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980412162867888379",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980389050818392343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 普瑞主要是通过肾代谢还是肝？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979785369840197632/apbjPWPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 597,
+          "like_count": 9682,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 3657
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T05:56:39.000Z",
+        "description": "",
+        "id": "1288715051872825344",
+        "name": "耍",
+        "pinned_tweet_id": "1867602745542529431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978336410991316992/kdl7C7-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 184,
+          "like_count": 2675,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 223
+        },
+        "username": "2000213yp",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科: https://t.co/BlAoDIjruc | 提问箱: https://t.co/b5c8bbmW1y | 里推: @fuck_8964 | 药物代购私信 | #overdose",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 91,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 31,
+                "expanded_url": "http://overdose.day",
+                "start": 8,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 62,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 39,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979516242659581952/1sHyJle7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 77,
+          "like_count": 10804,
+          "listed_count": 8,
+          "media_count": 424,
+          "tweet_count": 3071
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

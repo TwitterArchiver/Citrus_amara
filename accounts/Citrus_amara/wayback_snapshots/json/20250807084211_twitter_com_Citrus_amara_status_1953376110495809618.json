@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1953376110495809618",
+    "created_at": "2025-08-07T08:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T09:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953376110495809618"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1953376110495809618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "异维a酸的副作用里对我来说最恶心的是流鼻血。。哪怕10mg隔一天一服用都会流。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1953376110495809618",
+        "created_at": "2025-08-07T08:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T09:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953376110495809618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953376110495809618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "异维a酸的副作用里对我来说最恶心的是流鼻血。。哪怕10mg隔一天一服用都会流。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。#odtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 275,
+          "like_count": 1994,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 894
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

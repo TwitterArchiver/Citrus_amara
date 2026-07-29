@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992498280820006912",
+        "3_1992498281122054144",
+        "3_1992498281151434752"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1992498283730874643",
+    "created_at": "2025-11-23T07:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992498283730874643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VNExrrPi2V",
+          "end": 23,
+          "expanded_url": "https://x.com/Citrus_amara/status/1992498283730874643/photo/1",
+          "media_key": "3_1992498280820006912",
+          "start": 0,
+          "url": "https://t.co/VNExrrPi2V"
+        },
+        {
+          "display_url": "pic.x.com/VNExrrPi2V",
+          "end": 23,
+          "expanded_url": "https://x.com/Citrus_amara/status/1992498283730874643/photo/1",
+          "media_key": "3_1992498281122054144",
+          "start": 0,
+          "url": "https://t.co/VNExrrPi2V"
+        },
+        {
+          "display_url": "pic.x.com/VNExrrPi2V",
+          "end": 23,
+          "expanded_url": "https://x.com/Citrus_amara/status/1992498283730874643/photo/1",
+          "media_key": "3_1992498281151434752",
+          "start": 0,
+          "url": "https://t.co/VNExrrPi2V"
+        },
+        {
+          "display_url": "x.com/520illusion/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/520illusion/status/1992251774401388901",
+          "start": 24,
+          "url": "https://t.co/1P923eO0bd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992498283730874643",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992251774401388901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/VNExrrPi2V https://t.co/1P923eO0bd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_1992498280820006912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bGoTPaYAAYOFa.jpg",
+        "width": 387
+      },
+      {
+        "height": 664,
+        "media_key": "3_1992498281122054144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bGoUXbQAArqQJ.jpg",
+        "width": 462
+      },
+      {
+        "height": 447,
+        "media_key": "3_1992498281151434752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bGoUebkAAA4dc.png",
+        "width": 447
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992251763844337664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XmbH8WUAAxFE-.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992498280820006912",
+            "3_1992498281122054144",
+            "3_1992498281151434752"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1992498283730874643",
+        "created_at": "2025-11-23T07:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992498283730874643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNExrrPi2V",
+              "end": 23,
+              "expanded_url": "https://x.com/Citrus_amara/status/1992498283730874643/photo/1",
+              "media_key": "3_1992498280820006912",
+              "start": 0,
+              "url": "https://t.co/VNExrrPi2V"
+            },
+            {
+              "display_url": "pic.x.com/VNExrrPi2V",
+              "end": 23,
+              "expanded_url": "https://x.com/Citrus_amara/status/1992498283730874643/photo/1",
+              "media_key": "3_1992498281122054144",
+              "start": 0,
+              "url": "https://t.co/VNExrrPi2V"
+            },
+            {
+              "display_url": "pic.x.com/VNExrrPi2V",
+              "end": 23,
+              "expanded_url": "https://x.com/Citrus_amara/status/1992498283730874643/photo/1",
+              "media_key": "3_1992498281151434752",
+              "start": 0,
+              "url": "https://t.co/VNExrrPi2V"
+            },
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/520illusion/status/1992251774401388901",
+              "start": 24,
+              "url": "https://t.co/1P923eO0bd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992498283730874643",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992251774401388901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/VNExrrPi2V https://t.co/1P923eO0bd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992251763844337664"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1992251774401388901",
+        "created_at": "2025-11-22T15:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992251774401388901"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 151,
+              "start": 144,
+              "tag": "crypto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q14rWnilgb",
+              "end": 175,
+              "expanded_url": "https://x.com/520illusion/status/1992251774401388901/photo/1",
+              "media_key": "3_1992251763844337664",
+              "start": 152,
+              "url": "https://t.co/Q14rWnilgb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992251774401388901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 151,
+                "start": 144,
+                "tag": "crypto"
+              },
+              {
+                "end": 472,
+                "start": 465,
+                "tag": "crypto"
+              },
+              {
+                "end": 477,
+                "start": 473,
+                "tag": "mtf"
+              }
+            ]
+          },
+          "text": "在mtf群体中表现的太过正常是有罪吗\n\n我他妈才吃药两周上推特10天\n一周给了550万浏览量 1400fo\n\nN55的三个帖子给了我150万的浏览量\n远远超乎我的预期，让我猝不及防 \n以至于太多人在下面发表强攻击性言论\n花了几个小时拉黑了上百个骂我的人 \n居然还有人因为我在帖子后面加了 #crypto 标签认为我是恶意炒作\n我不玩crypto我哪来钱生活学习旅游？\n\n甚至某个北京mtf为蹭我流量 造谣我被警方控制胁迫 十几个造谣文章 有我一个帖子的浏览量高吗\n大一了还没有🧠 肆无忌惮鉴政 背后没人保 迟早蹲大牢 背后有人保 迟早把保你的人拖进大牢\n如果@会给他带流量 就不说是谁了\n\n我是被一位已停止hrt的mtf带入跨圈\n他把多的药给了我 不明不白的就走上了hrt这条路 当然了我自己的选择 不后悔\n\n我没有性别焦虑 没有精神疾病 没有手术打算 不抽烟 不喝酒 不od 不割腕 不鉴政 不接圆椒 不收门槛 不接广告 \n也不差钱 \n\n我讨厌对我不友好的人\n\n我叫ill 完整是illusion \n我会永远忠于18岁的自己\n\n#crypto #mtf"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10275,
+          "like_count": 51,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在mtf群体中表现的太过正常是有罪吗\n\n我他妈才吃药两周上推特10天\n一周给了550万浏览量 1400fo\n\nN55的三个帖子给了我150万的浏览量\n远远超乎我的预期，让我猝不及防 \n以至于太多人在下面发表强攻击性言论\n花了几个小时拉黑了上百个骂我的人 \n居然还有人因为我在帖子后面加了 #crypto https://t.co/Q14rWnilgb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 819,
+          "like_count": 12832,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 5492
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "Binance OKX  bitget | All in crypto | 08年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁向 | 坠落星空 | 梦幻主义|幻象丛生 | 蓝 | 终将成为你 | 清水 | 🚫 od 色情 花刀 🚫",
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳️‍⚧️",
+        "pinned_tweet_id": "1991602588656234589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908191260986486784/eh4n47Mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 214,
+          "like_count": 2474,
+          "listed_count": 5,
+          "media_count": 180,
+          "tweet_count": 1668
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

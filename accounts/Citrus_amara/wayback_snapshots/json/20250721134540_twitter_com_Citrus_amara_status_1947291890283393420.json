@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947291890283393420",
+    "created_at": "2025-07-21T13:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T14:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947291890283393420"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947291890283393420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不得不说苦橙这个怂b是真被爱出心理阴影了。现在想着如果再炸一次柜我就自杀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947291890283393420",
+        "created_at": "2025-07-21T13:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T14:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947291890283393420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947291890283393420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不得不说苦橙这个怂b是真被爱出心理阴影了。现在想着如果再炸一次柜我就自杀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 97,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 263
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

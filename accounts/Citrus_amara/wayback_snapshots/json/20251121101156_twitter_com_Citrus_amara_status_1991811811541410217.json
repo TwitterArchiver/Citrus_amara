@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1991811811541410217",
+    "created_at": "2025-11-21T10:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T11:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991811811541410217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nuominiang7588…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Nuominiang75884/status/1991748775212380316",
+          "start": 16,
+          "url": "https://t.co/BeCghgUe5b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991811811541410217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991748775212380316",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是黑皮和监护人的大手是可以的 https://t.co/BeCghgUe5b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1991811811541410217",
+        "created_at": "2025-11-21T10:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991811811541410217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nuominiang7588…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Nuominiang75884/status/1991748775212380316",
+              "start": 16,
+              "url": "https://t.co/BeCghgUe5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991811811541410217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991748775212380316",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是黑皮和监护人的大手是可以的 https://t.co/BeCghgUe5b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "1991748775212380316",
+        "created_at": "2025-11-21T06:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T07:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991748775212380316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991748775212380316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很奇怪…在中国……\n\n危机干预职业志愿者，社工职业志愿者，甚至是官方的心理干预中心，这三个哪怕合起来发力都无法让一个我们知道了明确身份信息的未成年自杀者在监护人不配合的情况下送医\n\n这是十分荒谬的，离谱到你们不会相信的情况，但是他是真实的\n\n我从来没有感觉这么无力过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 810,
+          "like_count": 12592,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 5352
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上 /08.11.23/摄影📷/精神病学/永不分离的@angeldust126185/心理干预",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "angeldust126185"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米",
+        "pinned_tweet_id": "1988525640388161951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906216622500573184/kaHJHOEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3752,
+          "following_count": 1492,
+          "like_count": 18478,
+          "listed_count": 4,
+          "media_count": 308,
+          "tweet_count": 2734
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946611276861645224",
+    "created_at": "2025-07-20T12:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T13:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946916562184679522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1796959726967889920",
+          "start": 0,
+          "username": "hami0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946916562184679522",
+    "in_reply_to_user_id": "1796959726967889920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946611276861645224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hami0721 唉愈美。唉金刚烷胺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946611276861645224",
+        "created_at": "2025-07-20T12:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946916562184679522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1796959726967889920",
+              "start": 0,
+              "username": "hami0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946916562184679522",
+        "in_reply_to_user_id": "1796959726967889920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946611276861645224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hami0721 唉愈美。唉金刚烷胺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796959726967889920",
+        "conversation_id": "1946611276861645224",
+        "created_at": "2025-07-19T16:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T17:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946611276861645224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946611276861645224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "青春没有售价，药片入口即化\n吃不了生活的苦，就要吃小药片的苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎mtf，ftm和地雷系给我私信。好感刷高了可以爆qq。\n需要墙内联系方式请给我打钱。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 79,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 213
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T17:39:36.000Z",
+        "description": "前支黑/岁静ing/喜欢学习药理学知识/欢迎来找我聊天or咨询/👮😡👊\n不卖东西！不卖东西！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/F7BbOBdexI"
+              }
+            ]
+          }
+        },
+        "id": "1796959726967889920",
+        "location": "lab 5",
+        "name": "hachimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900753595794116608/aTeKYG2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 304,
+          "like_count": 3085,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/F7BbOBdexI",
+        "username": "hami0721",
+        "verified": false
+      }
+    ]
+  }
+}

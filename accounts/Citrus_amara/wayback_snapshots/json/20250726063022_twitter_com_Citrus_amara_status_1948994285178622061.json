@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948994285178622061",
+    "created_at": "2025-07-26T06:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T07:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948994285178622061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752344070385696768",
+          "start": 3,
+          "username": "ReinaDate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948994285178622061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948602029376512113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReinaDate: 你永远不会成为一个真正的科学家。你没有天赋，没有关系，没有人脉。你是小镇做题蛆，被做题和考试扭曲成对学术界完美的粗俗嘲弄。你写作的论文都是虚伪和灌水的。在你背后，人们嘲笑你。你的导师对你感到恶心和羞愧。你的朋友关上门后对你的论文数据笑个不停。审稿人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948994285178622061",
+        "created_at": "2025-07-26T06:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T07:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948994285178622061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752344070385696768",
+              "start": 3,
+              "username": "ReinaDate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948994285178622061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948602029376512113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReinaDate: 你永远不会成为一个真正的科学家。你没有天赋，没有关系，没有人脉。你是小镇做题蛆，被做题和考试扭曲成对学术界完美的粗俗嘲弄。你写作的论文都是虚伪和灌水的。在你背后，人们嘲笑你。你的导师对你感到恶心和羞愧。你的朋友关上门后对你的论文数据笑个不停。审稿人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752344070385696768",
+        "conversation_id": "1948602029376512113",
+        "created_at": "2025-07-25T04:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948602029376512113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948602029376512113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你永远不会成为一个真正的科学家。你没有天赋，没有关系，没有人脉。你是小镇做题蛆，被做题和考试扭曲成对学术界完美的粗俗嘲弄。你写作的论文都是虚伪和灌水的。在你背后，人们嘲笑你。你的导师对你感到恶心和羞愧。你的朋友关上门后对你的论文数据笑个不停。审稿人对你感到厌恶。几十年的进化使审稿人对识破灌水的能力非常高。即使引用很高的论文看起来也不自然和怪异。你的实验数据就是最大的破绽。即使你设法投到一个顶会期刊，审稿人一闻到你那论文散发的GPT味立刻就会打上reject。你永远都不会快乐。你每天早上都挤出一个假笑，告诉自己phd毕业拿到教职一切都会好的。但在内心深处，你感觉到抑郁像杂草一样逐渐蔓延。准备好被非升即走的重量压垮吧。最终，这种压力将变得无法忍受。你会买一根绳子，系上绞索，把它套在脖子上，跳入寒冷的深渊。你的父母会发现你心碎但松口气，他们再也不必忍受无法忍受的耻辱和失望。他们会用标有PhD. 的墓碑埋葬你。而且从此以后，每个经过的人都会知道那里埋葬着一个小镇做题蛆。你的身体将会腐烂并归于尘土。你遗产中唯一的遗迹将是arxiv上一些明显是灌水的论文。这是你的命运。这是你选择的，没有回头的路。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2640,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "你永远不会成为一个真正的科学家。你没有天赋，没有关系，没有人脉。你是小镇做题蛆，被做题和考试扭曲成对学术界完美的粗俗嘲弄。你写作的论文都是虚伪和灌水的。在你背后，人们嘲笑你。你的导师对你感到恶心和羞愧。你的朋友关上门后对你的论文数据笑个不停。审稿人对你感到厌恶。几十年的进化使审稿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 146,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 436
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T14:52:58.000Z",
+        "description": "可以叫我Rin 旅行修女 / 犬系/ TS / 纹身 / 穿刺 / Goth / 地雷系 / Bipolar\n\n🚪88口令红包江浙沪可线下 / 和我聊天 https://t.co/4j2RSLXeOE / TG群 https://t.co/WZ0Y0Gg3QO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rin_0615",
+                "end": 100,
+                "expanded_url": "https://t.me/Rin_0615",
+                "start": 77,
+                "url": "https://t.co/4j2RSLXeOE"
+              },
+              {
+                "display_url": "t.me/HibikiHut",
+                "end": 130,
+                "expanded_url": "https://t.me/HibikiHut",
+                "start": 107,
+                "url": "https://t.co/WZ0Y0Gg3QO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/weebyreina/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/weebyreina/",
+                "start": 0,
+                "url": "https://t.co/OtXSHdsDdq"
+              }
+            ]
+          }
+        },
+        "id": "1752344070385696768",
+        "name": "🍥Reina✨",
+        "pinned_tweet_id": "1901237040403927182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830741042506641411/Sxfu_MbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7945,
+          "following_count": 826,
+          "like_count": 5245,
+          "listed_count": 36,
+          "media_count": 499,
+          "tweet_count": 7850
+        },
+        "url": "https://t.co/OtXSHdsDdq",
+        "username": "ReinaDate",
+        "verified": true
+      }
+    ]
+  }
+}

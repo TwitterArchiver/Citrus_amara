@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1955190032957935711",
+    "created_at": "2025-08-12T08:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T09:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955190032957935711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DeRoss2778/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/DeRoss2778/status/1955108233393373421",
+          "start": 36,
+          "url": "https://t.co/TcJBUQSINz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955190032957935711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955108233393373421",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得任何一个amab，他寸头不化妆穿个jk出去乱逛都会被路人骂变态。 https://t.co/TcJBUQSINz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1955190032957935711",
+        "created_at": "2025-08-12T08:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955190032957935711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DeRoss2778/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/DeRoss2778/status/1955108233393373421",
+              "start": 36,
+              "url": "https://t.co/TcJBUQSINz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955190032957935711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955108233393373421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得任何一个amab，他寸头不化妆穿个jk出去乱逛都会被路人骂变态。 https://t.co/TcJBUQSINz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926720510982844416",
+        "conversation_id": "1955108233393373421",
+        "created_at": "2025-08-12T03:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T04:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955108233393373421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YENA_QWQ/statu…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/YENA_QWQ/status/1953011804969591087",
+              "start": 97,
+              "url": "https://t.co/wFL9C7hJaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955108233393373421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1466,
+          "like_count": 28,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953011804969591087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你推很多跨出脑子都有问题，一边喊着打破二元性别秩序，一边又嫌自己或者别人不够pass不符合社会上对于女性的主流刻板印象，要不然就是一边喊着跨女权却还想当娇妻，所以 你推多的是花路这种拧巴的跨子 https://t.co/wFL9C7hJaK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 316,
+          "like_count": 2681,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1167
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T19:22:24.000Z",
+        "description": "想到什么就发什么的某不知名小号 封建自由，大一统费拉 本人是诸夏武士 姨学勇敢分子 #爱辉tv 连载中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "爱辉tv"
+              }
+            ]
+          }
+        },
+        "id": "1926720510982844416",
+        "location": "欧利蒂丝庄园",
+        "name": "德罗斯",
+        "pinned_tweet_id": "1950739332991484064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939890559092457472/m1CAx_Yp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 215,
+          "like_count": 2868,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 650
+        },
+        "username": "DeRoss2778",
+        "verified": false
+      }
+    ]
+  }
+}

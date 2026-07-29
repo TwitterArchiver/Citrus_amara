@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946841663151943715",
+    "created_at": "2025-07-21T04:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T05:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947147621534925185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1656608807034982400",
+          "start": 0,
+          "username": "Kitty_3_cake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947147621534925185",
+    "in_reply_to_user_id": "1656608807034982400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946841663151943715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kitty_3_cake ？这是我的xp。其实还挺爽的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946841663151943715",
+        "created_at": "2025-07-21T04:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947147621534925185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1656608807034982400",
+              "start": 0,
+              "username": "Kitty_3_cake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947147621534925185",
+        "in_reply_to_user_id": "1656608807034982400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946841663151943715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kitty_3_cake ？这是我的xp。其实还挺爽的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656608807034982400",
+        "conversation_id": "1946841663151943715",
+        "created_at": "2025-07-20T07:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T08:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946841663151943715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946841663151943715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6256,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？怎么会有人拿姜往屁眼里塞？。这个sm圈m有不死真身吗？。。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。好感刷高了可以爆qq。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 83,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 239
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T10:35:11.000Z",
+        "description": "(^=⩌⩊⩌=^ )੭叫我貓貓/坏貓/其他爱称都行 给你带来开心我很荣幸哦 碎碎念机器 思维跳脱话比较多 不用礼貌回关 贱人来了我会掐死你。有时候会取关拉黑人。@Xy000812",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "Xy000812"
+              }
+            ]
+          }
+        },
+        "id": "1656608807034982400",
+        "location": "Kitty♡love😽",
+        "name": "貓很壞",
+        "pinned_tweet_id": "1940302304630251709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936118749846728704/BRpP8gXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 179,
+          "like_count": 5275,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3299
+        },
+        "username": "Kitty_3_cake",
+        "verified": false
+      }
+    ]
+  }
+}

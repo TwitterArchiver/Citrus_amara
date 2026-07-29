@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025940950652997991",
+    "created_at": "2026-02-23T14:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025940950652997991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/snsODllxp/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/snsODllxp/status/2025635948311331195",
+          "start": 9,
+          "url": "https://t.co/vhip2fpFec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025940950652997991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025635948311331195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈的好想买... https://t.co/vhip2fpFec"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025635940975460352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByBJ_IbQAABH4H.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025635940971204608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByBJ_HaUAA8yiQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025635940975497216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByBJ_Ib0AAV2t8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025635941013127168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByBJ_RaAAAuxN3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025940950652997991",
+        "created_at": "2026-02-23T14:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025940950652997991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snsODllxp/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/snsODllxp/status/2025635948311331195",
+              "start": 9,
+              "url": "https://t.co/vhip2fpFec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025940950652997991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025635948311331195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈的好想买... https://t.co/vhip2fpFec"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025635940975460352",
+            "3_2025635940971204608",
+            "3_2025635940975497216",
+            "3_2025635941013127168"
+          ]
+        },
+        "author_id": "2018249562058797056",
+        "conversation_id": "2025573712003473865",
+        "created_at": "2026-02-22T18:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T19:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025635948311331195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6q0miIR2fk",
+              "end": 43,
+              "expanded_url": "https://x.com/snsODllxp/status/2025635948311331195/photo/1",
+              "media_key": "3_2025635940975460352",
+              "start": 20,
+              "url": "https://t.co/6q0miIR2fk"
+            },
+            {
+              "display_url": "pic.x.com/6q0miIR2fk",
+              "end": 43,
+              "expanded_url": "https://x.com/snsODllxp/status/2025635948311331195/photo/1",
+              "media_key": "3_2025635940971204608",
+              "start": 20,
+              "url": "https://t.co/6q0miIR2fk"
+            },
+            {
+              "display_url": "pic.x.com/6q0miIR2fk",
+              "end": 43,
+              "expanded_url": "https://x.com/snsODllxp/status/2025635948311331195/photo/1",
+              "media_key": "3_2025635940975497216",
+              "start": 20,
+              "url": "https://t.co/6q0miIR2fk"
+            },
+            {
+              "display_url": "pic.x.com/6q0miIR2fk",
+              "end": 43,
+              "expanded_url": "https://x.com/snsODllxp/status/2025635948311331195/photo/1",
+              "media_key": "3_2025635941013127168",
+              "start": 20,
+              "url": "https://t.co/6q0miIR2fk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025635948311331195",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025573712003473865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 这些吧…. https://t.co/6q0miIR2fk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1016,
+          "like_count": 17068,
+          "listed_count": 6,
+          "media_count": 352,
+          "tweet_count": 9256
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T09:06:15.000Z",
+        "description": "思诺思，劳拉西泮，扎来普隆，氯俏西泮，艾司唑仑，阿普、佑佐匹克隆等等精二类药物支持快递，精一类仅支持面交，全网最低价，因为我也是病人，只不过有点特殊一次能每种药能拿几十盒，十天可以去拿一次",
+        "id": "2018249562058797056",
+        "name": "出思诺思（精二类药物）",
+        "pinned_tweet_id": "2019574006291263665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025589201480417280/QbVAc1SW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 26,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 205
+        },
+        "username": "snsODllxp",
+        "verified": false
+      }
+    ]
+  }
+}

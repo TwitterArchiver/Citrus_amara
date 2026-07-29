@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1989550606206292040",
+    "created_at": "2025-11-15T05:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T06:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989573590614708245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1770798751524720640",
+          "start": 0,
+          "username": "ri_fumo"
+        },
+        {
+          "end": 21,
+          "id": "1780369819310981120",
+          "start": 9,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989573590614708245",
+    "in_reply_to_user_id": "1770798751524720640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989572001888178327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ri_fumo @520illusion 他妈的我刚查了一下原来就是戊酸...那咋做到缓释的..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1989550606206292040",
+        "created_at": "2025-11-15T05:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989573590614708245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1770798751524720640",
+              "start": 0,
+              "username": "ri_fumo"
+            },
+            {
+              "end": 21,
+              "id": "1780369819310981120",
+              "start": 9,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989573590614708245",
+        "in_reply_to_user_id": "1770798751524720640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989572001888178327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri_fumo @520illusion 他妈的我刚查了一下原来就是戊酸...那咋做到缓释的..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770798751524720640",
+        "conversation_id": "1989550606206292040",
+        "created_at": "2025-11-15T05:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989572001888178327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 26,
+              "id": "1780369819310981120",
+              "start": 14,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989572001888178327",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989564447153688807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @520illusion 是戊酸 ("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 747,
+          "like_count": 11797,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 4915
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T13:05:04.000Z",
+        "description": "ᗜ_ᗜ ᗜˬᗜ ᗜ‸ᗜ ᗜˬᗜ ᗜωᗜ ᗜˬᗜ ᗜ‸ᗜ ᗜᴗᗜ ᗜˬᗜ\n\nふも 🥵🤤 ふも 🥵🤤\nふも好吃 🤤 可食用ふも好 🤤\n\n闯进店里的杂鱼猫猫: @__touka_akizuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "__touka_akizuki"
+              }
+            ]
+          }
+        },
+        "id": "1770798751524720640",
+        "location": "幻想ふも鄉，魔法森林，霧雨魔法ふも店，D9221A6B",
+        "name": "ri☆fumo ᗜˬᗜ?",
+        "pinned_tweet_id": "1838279324618887376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830094266841899008/egZFquzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 160,
+          "like_count": 13039,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 4804
+        },
+        "username": "ri_fumo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "币安 欧易 bitget | All in crypto | 07年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁自杀向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | tg:https://t.co/ecnOMDGPjm  | 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 144,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 121,
+                "url": "https://t.co/ecnOMDGPjm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDGPjm"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908191260986486784/eh4n47Mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 300,
+          "like_count": 824,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/ecnOMDGPjm",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

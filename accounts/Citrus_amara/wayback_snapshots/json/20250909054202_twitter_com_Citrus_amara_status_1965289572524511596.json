@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1965289190658375822",
+    "created_at": "2025-09-09T05:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T06:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965289572524511596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "getout_ofmymind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965289572524511596",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965289190658375822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@getout_ofmymind mtf打雌二醇发情，ftm打睾酮也发情，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1965289190658375822",
+        "created_at": "2025-09-09T05:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T06:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965289572524511596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "getout_ofmymind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965289572524511596",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965289190658375822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@getout_ofmymind mtf打雌二醇发情，ftm打睾酮也发情，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545898408858161154",
+        "conversation_id": "1965289190658375822",
+        "created_at": "2025-09-09T05:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T06:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965289190658375822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965289190658375822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我草雄激素怎么这么坏，前几天恨不得天天冲（？抱着枕头碰到就想开冲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 410,
+          "like_count": 6283,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 2420
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "你的互联网邻居猫/#od #drugtwt #shtwt #ftx /啊啊不擅长社交果咩但是欢迎互关/ 发画的大号@StrawberryC208 这边算看中文推用的号",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 9,
+                "tag": "od"
+              },
+              {
+                "end": 21,
+                "start": 13,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 28,
+                "start": 22,
+                "tag": "shtwt"
+              },
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "ftx"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "StrawberryC208"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them/喵💛🤍💜🖤",
+        "name": "❔",
+        "pinned_tweet_id": "1964308533614150014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950017897885274112/ggj8EDJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 428,
+          "like_count": 283,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 450
+        },
+        "username": "getout_ofmymind",
+        "verified": false
+      }
+    ]
+  }
+}

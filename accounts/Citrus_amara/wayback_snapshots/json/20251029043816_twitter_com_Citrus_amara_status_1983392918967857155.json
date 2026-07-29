@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1983392918967857155",
+    "created_at": "2025-10-29T04:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T05:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983392918967857155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1850072961468043264",
+          "start": 3,
+          "username": "Guling_Nijika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983392918967857155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983350930805555263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guling_Nijika: 本人董晗 130730200212123830\n弟弟董曄 130730201406133812\n阿姨董玉濤 130730198411143842\n親爹董志強 132529197809153814\n親媽王海雲 1325291976053038…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983392918967857155",
+        "created_at": "2025-10-29T04:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T05:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983392918967857155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1850072961468043264",
+              "start": 3,
+              "username": "Guling_Nijika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983392918967857155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983350930805555263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guling_Nijika: 本人董晗 130730200212123830\n弟弟董曄 130730201406133812\n阿姨董玉濤 130730198411143842\n親爹董志強 132529197809153814\n親媽王海雲 1325291976053038…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850072961468043264",
+        "conversation_id": "1983350930805555263",
+        "created_at": "2025-10-29T01:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T02:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983350930805555263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983350930805555263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "本人董晗 130730200212123830\n弟弟董曄 130730201406133812\n阿姨董玉濤 130730198411143842\n親爹董志強 132529197809153814\n親媽王海雲 132529197605303825\n舅舅王海志 132529197903023813\n\n怕你们不知道我提一嘴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 636,
+          "like_count": 10271,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 4093
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T07:12:32.000Z",
+        "description": "今天我思考了吗",
+        "id": "1850072961468043264",
+        "location": "Winit420",
+        "name": "牯岭街普通虹夏#天苑四",
+        "pinned_tweet_id": "1977198260264878216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982437648179355648/Gyd20Lbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 216,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 468
+        },
+        "username": "Guling_Nijika",
+        "verified": false
+      }
+    ]
+  }
+}

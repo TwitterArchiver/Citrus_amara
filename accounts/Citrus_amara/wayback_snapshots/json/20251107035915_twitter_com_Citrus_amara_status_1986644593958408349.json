@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986109999232540672"
+      ],
+      "media_source_tweet_id": [
+        "1986110001354776644"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1986644593958408349",
+    "created_at": "2025-11-07T03:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T04:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986644593958408349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kGo0hQpmGd",
+          "end": 37,
+          "expanded_url": "https://x.com/anblk984/status/1986110001354776644/photo/1",
+          "media_key": "3_1986109999232540672",
+          "start": 14,
+          "url": "https://t.co/kGo0hQpmGd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986644593958408349",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986110001354776644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: https://t.co/kGo0hQpmGd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_1986109999232540672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AUhX0bYAA0aDn.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986109999232540672"
+          ],
+          "media_source_tweet_id": [
+            "1986110001354776644"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1986644593958408349",
+        "created_at": "2025-11-07T03:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T04:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986644593958408349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGo0hQpmGd",
+              "end": 37,
+              "expanded_url": "https://x.com/anblk984/status/1986110001354776644/photo/1",
+              "media_key": "3_1986109999232540672",
+              "start": 14,
+              "url": "https://t.co/kGo0hQpmGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986644593958408349",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986110001354776644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: https://t.co/kGo0hQpmGd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986109999232540672"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "1986110001354776644",
+        "created_at": "2025-11-05T16:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986110001354776644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGo0hQpmGd",
+              "end": 23,
+              "expanded_url": "https://x.com/anblk984/status/1986110001354776644/photo/1",
+              "media_key": "3_1986109999232540672",
+              "start": 0,
+              "url": "https://t.co/kGo0hQpmGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986110001354776644",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 50376,
+          "like_count": 479,
+          "quote_count": 7,
+          "reply_count": 31,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kGo0hQpmGd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 686,
+          "like_count": 10857,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 4421
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人   劳保爱习楠                                                                   \n狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anblk984",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anblk984",
+                "start": 0,
+                "url": "https://t.co/lbrp9vzziV"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "纳克萨玛斯          下面是匿名问题",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1939494973206090214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806502873544671232/5QMKRtxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8400,
+          "following_count": 922,
+          "like_count": 96838,
+          "listed_count": 51,
+          "media_count": 1590,
+          "tweet_count": 22468
+        },
+        "url": "https://t.co/lbrp9vzziV",
+        "username": "anblk984",
+        "verified": false
+      }
+    ]
+  }
+}

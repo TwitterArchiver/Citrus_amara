@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2060726118932721903",
+    "created_at": "2026-05-30T14:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060726118932721903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1245285695230554112",
+          "start": 3,
+          "username": "motivasyonhane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060726118932721903",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060456950169551168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @motivasyonhane: ŞAKA DEĞİL: Eğer bunu 29 MAYIS veya 30 MAYIS'ta görürseniz, 31 Mayıs'tan önce hayatınıza büyük bir bereket getiren sürp…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2060726118932721903",
+        "created_at": "2026-05-30T14:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060726118932721903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1245285695230554112",
+              "start": 3,
+              "username": "motivasyonhane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060726118932721903",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060456950169551168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @motivasyonhane: ŞAKA DEĞİL: Eğer bunu 29 MAYIS veya 30 MAYIS'ta görürseniz, 31 Mayıs'tan önce hayatınıza büyük bir bereket getiren sürp…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1245285695230554112",
+        "conversation_id": "2060456950169551168",
+        "created_at": "2026-05-29T20:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060456950169551168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060456950169551168",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 48793,
+          "like_count": 2865,
+          "quote_count": 12,
+          "reply_count": 709,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "ŞAKA DEĞİL: Eğer bunu 29 MAYIS veya 30 MAYIS'ta görürseniz, 31 Mayıs'tan önce hayatınıza büyük bir bereket getiren sürpriz bir tezahür alacaksınız; daha fazla para, iyi haberler, gerçek mutluluk ve taşan başarıyla birlikte. Talep etmek için \"111\" yazın."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 1093,
+          "like_count": 20342,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 11467
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-01T09:43:48.000Z",
+        "description": "🚀 Her gün %1 gelişim  🧠 Zihin • Disiplin • Başarı 📈 Finansal farkındalık 📚 Gelişim kitapları  👇 Değişim burada başlar",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shopier.com/motivasyonerx",
+                "end": 23,
+                "expanded_url": "https://www.shopier.com/motivasyonerx",
+                "start": 0,
+                "url": "https://t.co/q5XdJraByB"
+              }
+            ]
+          }
+        },
+        "id": "1245285695230554112",
+        "location": "Türkiye",
+        "name": "Motivasyon",
+        "pinned_tweet_id": "2038278234178023854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023023199928156160/eEk5sYGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104995,
+          "following_count": 952,
+          "like_count": 8687,
+          "listed_count": 536,
+          "media_count": 1620,
+          "tweet_count": 6678
+        },
+        "url": "https://t.co/q5XdJraByB",
+        "username": "motivasyonhane",
+        "verified": true
+      }
+    ]
+  }
+}

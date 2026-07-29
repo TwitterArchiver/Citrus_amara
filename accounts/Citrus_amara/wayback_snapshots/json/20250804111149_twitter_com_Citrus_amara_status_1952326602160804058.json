@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952326602160804058",
+    "created_at": "2025-08-04T11:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T12:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952326602160804058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826507351953997824",
+          "start": 3,
+          "username": "0lToTl0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952326602160804058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952274917153751156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0lToTl0: 每个女孩都应该存一张唧唧照，以防有变态给你发唧唧照，你就可以用那张照片回复他，再加上一句“你这照片把我整硬了。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952326602160804058",
+        "created_at": "2025-08-04T11:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T12:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952326602160804058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826507351953997824",
+              "start": 3,
+              "username": "0lToTl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952326602160804058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952274917153751156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0lToTl0: 每个女孩都应该存一张唧唧照，以防有变态给你发唧唧照，你就可以用那张照片回复他，再加上一句“你这照片把我整硬了。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826507351953997824",
+        "conversation_id": "1952274917153751156",
+        "created_at": "2025-08-04T07:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T08:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952274917153751156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952274917153751156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19952,
+          "like_count": 291,
+          "quote_count": 7,
+          "reply_count": 32,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "每个女孩都应该存一张唧唧照，以防有变态给你发唧唧照，你就可以用那张照片回复他，再加上一句“你这照片把我整硬了。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "8️⃣9️⃣🍊苦橙🍊6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 257,
+          "like_count": 1696,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 805
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T06:31:13.000Z",
+        "description": "幸福就像玻璃一样脆弱易碎/置顶关评推广非本人请自辨",
+        "id": "1826507351953997824",
+        "name": "痛定思痛",
+        "pinned_tweet_id": "1940758952616296714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943897808203132934/pe0siC2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18065,
+          "following_count": 181,
+          "like_count": 2976,
+          "listed_count": 36,
+          "media_count": 197,
+          "tweet_count": 1559
+        },
+        "username": "0lToTl0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1975461919034425733",
+    "created_at": "2025-10-07T07:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T08:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975461919034425733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MaoLi65876/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/MaoLi65876/status/1975460338759049467",
+          "start": 33,
+          "url": "https://t.co/8bBCJhvyU5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975461919034425733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975460338759049467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "劝和显得你很低情商。\n倾听并给出自己的建议就好。和或分交给对方。 https://t.co/8bBCJhvyU5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1975461919034425733",
+        "created_at": "2025-10-07T07:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T08:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975461919034425733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MaoLi65876/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/MaoLi65876/status/1975460338759049467",
+              "start": 33,
+              "url": "https://t.co/8bBCJhvyU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975461919034425733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975460338759049467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "劝和显得你很低情商。\n倾听并给出自己的建议就好。和或分交给对方。 https://t.co/8bBCJhvyU5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944685890736975872",
+        "conversation_id": "1975460338759049467",
+        "created_at": "2025-10-07T07:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T08:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975460338759049467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975460338759049467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友跟你吐槽对象时候，千万不要代入的太狠，也别劝分不劝和啥的，到时候人家俩说开了和好了显得你特小人，不盼着人家好似的，就劝和，和好了你有功劳，分了你没毛病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 507,
+          "like_count": 8325,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 3103
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T09:10:39.000Z",
+        "description": "喜欢看书尤其是哲学，社科，经济，政治，历史类，如果感兴趣的可以找我讨论。//\n精神状态不是很稳定，但喜欢听人倒苦水，因为觉得被需要了很开心",
+        "id": "1944685890736975872",
+        "name": "有美瑶卿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969829732406452224/ooJpAibP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 302,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 121
+        },
+        "username": "MaoLi65876",
+        "verified": false
+      }
+    ]
+  }
+}

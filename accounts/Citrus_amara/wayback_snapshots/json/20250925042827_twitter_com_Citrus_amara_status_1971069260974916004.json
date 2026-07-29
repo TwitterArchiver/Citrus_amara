@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1971069260974916004",
+    "created_at": "2025-09-25T04:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T05:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971069260974916004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/m32276803/stat…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/m32276803/status/1970749759184130049",
+          "start": 42,
+          "url": "https://t.co/BOD0CajmpE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971069260974916004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970749759184130049",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真希望你能线下县中杀几个你眼中的跨。毕竟你杀的大概率是顺直。顺直互害我最喜欢了。 https://t.co/BOD0CajmpE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1971069260974916004",
+        "created_at": "2025-09-25T04:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T05:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971069260974916004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m32276803/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/m32276803/status/1970749759184130049",
+              "start": 42,
+              "url": "https://t.co/BOD0CajmpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971069260974916004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970749759184130049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真希望你能线下县中杀几个你眼中的跨。毕竟你杀的大概率是顺直。顺直互害我最喜欢了。 https://t.co/BOD0CajmpE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360056361086722050",
+        "conversation_id": "1970448013043888159",
+        "created_at": "2025-09-24T07:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T08:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970749759184130049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1969244338564841472",
+              "start": 0,
+              "username": "JSR_BRinc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970749759184130049",
+        "in_reply_to_user_id": "1969244338564841472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970747313758060639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JSR_BRinc 我怎么样跟你没关系，不是跨就闭嘴看热闹就行，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 454,
+          "like_count": 7535,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 2840
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T02:41:36.000Z",
+        "description": "🚫LGBT，抵制破坏人类和谐的群体《你永遠都是男的》《永遠都是》《我的好兄弟，心裡有苦你對我說》国家一级运动员（射击） 2019年全国第三届青少年运动会第一名 射击世界杯德国站个人第2名 团体第1 ！",
+        "id": "1360056361086722050",
+        "name": "我爱说实话！你是性别cos！不是真的！",
+        "pinned_tweet_id": "1970821356855160967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970764688700121088/iCbb4J_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 2229,
+          "like_count": 8169,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1279
+        },
+        "username": "m32276803",
+        "verified": false
+      }
+    ]
+  }
+}

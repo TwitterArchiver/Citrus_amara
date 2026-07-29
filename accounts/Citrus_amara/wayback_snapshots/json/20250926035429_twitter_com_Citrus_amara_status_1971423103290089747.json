@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1971423103290089747",
+    "created_at": "2025-09-26T03:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T04:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971423103290089747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kim_Il_sung___…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Kim_Il_sung___/status/1971008820731314300",
+          "start": 13,
+          "url": "https://t.co/vppPzXBfiI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971423103290089747",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971008820731314300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "＼o/＼o/＼o/＼o/ https://t.co/vppPzXBfiI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1971423103290089747",
+        "created_at": "2025-09-26T03:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T04:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971423103290089747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kim_Il_sung___…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Kim_Il_sung___/status/1971008820731314300",
+              "start": 13,
+              "url": "https://t.co/vppPzXBfiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971423103290089747",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971008820731314300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "＼o/＼o/＼o/＼o/ https://t.co/vppPzXBfiI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556293137105969153",
+        "conversation_id": "1971008820731314300",
+        "created_at": "2025-09-25T00:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T01:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971008820731314300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971008820731314300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 648,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "现在od圈由我们朝鲜民主主义人民共和国接管了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 461,
+          "like_count": 7660,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2872
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:57:25.000Z",
+        "description": "伟大的金日成主席，永恒的太阳，他也是具有非凡思想理论智慧的伟人。他通过革命斗争，创立了知识渊博、独创性和民族性贯穿始终的思想和理论。他是一位具有卓越领导才能的伟人。他的领导是最英明、最科学的领导，也是把逆境变成顺境、把不幸变成福气的最伟大的领导。他实现了对革命和建设的全面领导，以及依靠人民解决一切问题的人民领导。",
+        "id": "1556293137105969153",
+        "location": "朝鮮民主主義人民共和国 平壌直轄市",
+        "name": "金日成🇰🇵",
+        "pinned_tweet_id": "1879234798675480897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905602278356291584/GxFgL-XJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 365,
+          "like_count": 9812,
+          "listed_count": 11,
+          "media_count": 263,
+          "tweet_count": 2808
+        },
+        "username": "Kim_Il_sung___",
+        "verified": false
+      }
+    ]
+  }
+}

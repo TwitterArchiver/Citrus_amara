@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2046591861813624916",
+    "created_at": "2026-04-23T08:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047236962457927681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1546875689646710785",
+          "start": 0,
+          "username": "the13thMaximum"
+        },
+        {
+          "end": 26,
+          "id": "1426839998830022658",
+          "start": 16,
+          "username": "MemeGh0st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047236962457927681",
+    "in_reply_to_user_id": "1546875689646710785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047235267459961297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@the13thMaximum @MemeGh0st 我确实推崇县中式自杀，并把它视为改变现有社会秩序的手段。\n革命总要流血，县中总比被坦克压有意义"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047235267459961297].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047235267459961297",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047235267459961297"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2046591861813624916",
+        "created_at": "2026-04-23T08:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047236962457927681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1546875689646710785",
+              "start": 0,
+              "username": "the13thMaximum"
+            },
+            {
+              "end": 26,
+              "id": "1426839998830022658",
+              "start": 16,
+              "username": "MemeGh0st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047236962457927681",
+        "in_reply_to_user_id": "1546875689646710785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047235267459961297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@the13thMaximum @MemeGh0st 我确实推崇县中式自杀，并把它视为改变现有社会秩序的手段。\n革命总要流血，县中总比被坦克压有意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 1044,
+          "like_count": 19398,
+          "listed_count": 6,
+          "media_count": 401,
+          "tweet_count": 11007
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T15:14:48.000Z",
+        "description": "privacy-anxious; posts usually locked / basically a museum of stuff I like. sorry for the spam / DMs closed. send your follow request first",
+        "id": "1546875689646710785",
+        "location": "Tau Ceti - Adrian",
+        "name": "Answer",
+        "pinned_tweet_id": "1961320458579595565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982513386844823552/WoW4n-VK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 227,
+          "like_count": 16026,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 4042
+        },
+        "username": "the13thMaximum",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T09:36:25.000Z",
+        "description": "Actually do not exist.",
+        "id": "1426839998830022658",
+        "name": "MemeGh0st",
+        "pinned_tweet_id": "1983899309616853296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958154261528784896/aQlA1hX2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 122,
+          "like_count": 767,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 285
+        },
+        "username": "MemeGh0st",
+        "verified": false
+      }
+    ]
+  }
+}

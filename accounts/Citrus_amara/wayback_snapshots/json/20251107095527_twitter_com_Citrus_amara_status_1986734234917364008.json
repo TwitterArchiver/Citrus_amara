@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1986734234917364008",
+    "created_at": "2025-11-07T09:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T10:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986734234917364008"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Letana358121/s…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/Letana358121/status/1986674287269519856",
+          "start": 126,
+          "url": "https://t.co/3y573q8jeL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986734234917364008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986674287269519856",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我21年就开始吃糖了，那时候右美沙芬还能随便买，25年才开始od，至今不抽烟，我唯一一次自杀是被家暴疯了，家暴后来也导致我的CPTSD。我身边的mtf没有一个OD和自杀的，只认识一个姐姐偶尔抽烟。如果你身边的人变mtf之后都那样，那我觉得是你的问题。 https://t.co/3y573q8jeL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1986734234917364008",
+        "created_at": "2025-11-07T09:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T10:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986734234917364008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Letana358121/s…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/Letana358121/status/1986674287269519856",
+              "start": 126,
+              "url": "https://t.co/3y573q8jeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986734234917364008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986674287269519856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我21年就开始吃糖了，那时候右美沙芬还能随便买，25年才开始od，至今不抽烟，我唯一一次自杀是被家暴疯了，家暴后来也导致我的CPTSD。我身边的mtf没有一个OD和自杀的，只认识一个姐姐偶尔抽烟。如果你身边的人变mtf之后都那样，那我觉得是你的问题。 https://t.co/3y573q8jeL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1986674287269519856",
+        "created_at": "2025-11-07T05:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986674287269519856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986674287269519856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1032,
+          "like_count": 15,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我身边的人变mtf之后的第一件事是od抽烟想自杀，感觉他们在接触这个概念之前都特别正常。。为啥呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 688,
+          "like_count": 10884,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 4437
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Can I be the winder of this broken world?/🏳️‍⚧️🇲🇴/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1983165560981713399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977686528920109056/ph2UQ47l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2892,
+          "following_count": 1282,
+          "like_count": 43367,
+          "listed_count": 8,
+          "media_count": 1932,
+          "tweet_count": 16510
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026681139855773696"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2026677157599068350",
+    "created_at": "2026-02-25T15:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026681142967967819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/py9UM3oXLb",
+          "end": 179,
+          "expanded_url": "https://x.com/Citrus_amara/status/2026681142967967819/photo/1",
+          "media_key": "3_2026681139855773696",
+          "start": 156,
+          "url": "https://t.co/py9UM3oXLb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026681142967967819",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026679898308264307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 我发现后藤的弱智大脑似乎分不清刘宣桢和别人。我和你所谓的“美金刚教主”从来没对你进行过任何攻击（在你b我之前）\n你骂爱德华我没意见你骂我我不骂回去那我觉得我也挺像水豚的。复仇为什么要去找无关的人。\n\n我喜欢爱德华吗？喜欢，但是也觉得爱德华傻逼。后藤为什么非要把中立的人逼成敌人呢，， https://t.co/py9UM3oXLb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026681139855773696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCA3wkYWUAAthyW.jpg",
+        "width": 1074
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026679894776705024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCA2oGGXcAAY-94.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026681139855773696"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026677157599068350",
+        "created_at": "2026-02-25T15:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026681142967967819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/py9UM3oXLb",
+              "end": 179,
+              "expanded_url": "https://x.com/Citrus_amara/status/2026681142967967819/photo/1",
+              "media_key": "3_2026681139855773696",
+              "start": 156,
+              "url": "https://t.co/py9UM3oXLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026681142967967819",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026679898308264307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 我发现后藤的弱智大脑似乎分不清刘宣桢和别人。我和你所谓的“美金刚教主”从来没对你进行过任何攻击（在你b我之前）\n你骂爱德华我没意见你骂我我不骂回去那我觉得我也挺像水豚的。复仇为什么要去找无关的人。\n\n我喜欢爱德华吗？喜欢，但是也觉得爱德华傻逼。后藤为什么非要把中立的人逼成敌人呢，， https://t.co/py9UM3oXLb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026679894776705024"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026677157599068350",
+        "created_at": "2026-02-25T15:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026679898308264307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3jZ326a95",
+              "end": 136,
+              "expanded_url": "https://x.com/Citrus_amara/status/2026679898308264307/photo/1",
+              "media_key": "3_2026679894776705024",
+              "start": 113,
+              "url": "https://t.co/Y3jZ326a95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026679898308264307",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026679024584388723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 我操这人说话咋莫名其妙的。吃思诺思了？\n\n冷知识，言语是用来交流的而不是用来自娱自乐的。这人这么说话谁看的懂我请问了。开头是锟斤拷后面开始人身公鸡。\n那我觉得你这个高中辍学打亲爹的废物也挺反动的。 https://t.co/Y3jZ326a95"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 1031,
+          "like_count": 17207,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 9345
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/ALu7jA3QLL\n有事请点击https://t.co/VRpZNWpEVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/ALu7jA3QLL"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/VRpZNWpEVl"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4389,
+          "following_count": 61,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 707,
+          "tweet_count": 6949
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

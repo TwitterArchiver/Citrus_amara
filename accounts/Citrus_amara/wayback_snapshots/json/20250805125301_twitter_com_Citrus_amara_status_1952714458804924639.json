@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952414246727266320",
+    "created_at": "2025-08-05T12:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T13:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952714458804924639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839830744316686336",
+          "start": 0,
+          "username": "shushuyun321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952714458804924639",
+    "in_reply_to_user_id": "1839830744316686336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952685645098541189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shushuyun321 呃，不小。\n主要是怕爆柜嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952414246727266320",
+        "created_at": "2025-08-05T12:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T13:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952714458804924639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839830744316686336",
+              "start": 0,
+              "username": "shushuyun321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952714458804924639",
+        "in_reply_to_user_id": "1839830744316686336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952685645098541189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shushuyun321 呃，不小。\n主要是怕爆柜嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839830744316686336",
+        "conversation_id": "1952414246727266320",
+        "created_at": "2025-08-05T10:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T11:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952685645098541189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952685645098541189",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952414246727266320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 家里人都大咩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 269,
+          "like_count": 1816,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 850
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T00:53:37.000Z",
+        "description": "amab trans🏳️‍⚧️丨坐标魔都丨186/63丨无证含糖丨半炸柜丨HRT:2017~2018 2025.3.21至今丨性取向正常🏳️‍🌈P丨❤️：@Rain_Antar1121 好妹妹：@iwlzff丨同类互fo喵丨呜呜呜不要骂我qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "Rain_Antar1121"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "iwlzff"
+              }
+            ]
+          }
+        },
+        "id": "1839830744316686336",
+        "location": "PRC",
+        "name": "芸舒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926064456888360960/MAGwaW4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 312,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1199
+        },
+        "username": "shushuyun321",
+        "verified": false
+      }
+    ]
+  }
+}

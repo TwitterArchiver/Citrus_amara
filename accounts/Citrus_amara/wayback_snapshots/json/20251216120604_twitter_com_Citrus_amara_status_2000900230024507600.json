@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "2000900230024507600",
+    "created_at": "2025-12-16T12:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T13:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000900230024507600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/damiaoedux/sta…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/damiaoedux/status/2000408047819346208",
+          "start": 43,
+          "url": "https://t.co/6uETBBzTfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000900230024507600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000408047819346208",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不太懂。掐头去尾求平均我高中就会写了，html也不是很难的东西。我甚至不是cs的。。 https://t.co/6uETBBzTfZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2000900230024507600",
+        "created_at": "2025-12-16T12:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000900230024507600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/damiaoedux/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/damiaoedux/status/2000408047819346208",
+              "start": 43,
+              "url": "https://t.co/6uETBBzTfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000900230024507600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000408047819346208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不太懂。掐头去尾求平均我高中就会写了，html也不是很难的东西。我甚至不是cs的。。 https://t.co/6uETBBzTfZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763921497138352128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2000408047819346208",
+        "created_at": "2025-12-15T03:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000408047819346208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000408047819346208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么现在很多学cs同学的找不到工作？\n\n说说我当年的同学，大四的时候我写了个去掉最高分最低分求平均分的程序，我们的学习委员还是啥委员站我旁边直呼大神好牛逼。。。\n\n大三下上java课老师写了个html里面放介标签，打开到浏览器就能看到一个文本框，教室一大半的人直呼神奇，老师都惊呆了。。。\n\n大学的教育质量这些年很可能不升的反降\n\n所以凭什么能给你一份月薪上万的工作呢？凭什么？凭什么？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 39172,
+          "like_count": 72,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么现在很多学cs同学的找不到工作？\n\n说说我当年的同学，大四的时候我写了个去掉最高分最低分求平均分的程序，我们的学习委员还是啥委员站我旁边直呼大神好牛逼。。。\n\n大三下上java课老师写了个html里面放介标签，打开到浏览器就能看到一个文本框，教室一大半的人直呼神奇，老师都惊呆了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 938,
+          "like_count": 14273,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 6712
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T13:38:04.000Z",
+        "description": "大喵前端致力于用认真、靠谱、踏实的教学方式，培养真正的程序员。\n8年来培养500+名零基础同学成功转行。\n曾将多名零基础、非科班的同学通过半年培养成为大厂正式员工。\n开设有 计算机预科班 和 前端就业班\n不要私信，直接加QQ/微信：285696737",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "damiaoedu.com",
+                "end": 23,
+                "expanded_url": "http://damiaoedu.com",
+                "start": 0,
+                "url": "https://t.co/38N849prrk"
+              }
+            ]
+          }
+        },
+        "id": "1763921497138352128",
+        "location": "杭州",
+        "name": "大喵CS、转码、预科班(9年讲师，能够教你学会编程)",
+        "pinned_tweet_id": "1971934528542556511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764187691653234688/JIvW3b3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8401,
+          "following_count": 49,
+          "like_count": 2749,
+          "listed_count": 39,
+          "media_count": 265,
+          "tweet_count": 2810
+        },
+        "url": "https://t.co/38N849prrk",
+        "username": "damiaoedux",
+        "verified": true
+      }
+    ]
+  }
+}

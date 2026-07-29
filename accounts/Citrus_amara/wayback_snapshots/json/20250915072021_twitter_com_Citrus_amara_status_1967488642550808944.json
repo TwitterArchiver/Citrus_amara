@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1967482791299555557",
+    "created_at": "2025-09-15T07:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T08:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967488642550808944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1361856317703393282",
+          "start": 0,
+          "username": "ThrumboABBBAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967488642550808944",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967484674227556373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThrumboABBBAA 还是说你能通过纳洛酮这三个字把它的药理推出来？💧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1967482791299555557",
+        "created_at": "2025-09-15T07:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T08:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967488642550808944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1361856317703393282",
+              "start": 0,
+              "username": "ThrumboABBBAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967488642550808944",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967484674227556373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThrumboABBBAA 还是说你能通过纳洛酮这三个字把它的药理推出来？💧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1967482791299555557",
+        "created_at": "2025-09-15T07:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T08:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967484674227556373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1361856317703393282",
+              "start": 0,
+              "username": "ThrumboABBBAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967484674227556373",
+        "in_reply_to_user_id": "1361856317703393282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967482791299555557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThrumboABBBAA ...那我问你，你策划药的成分不一样是一个化学结构式吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 426,
+          "like_count": 6771,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 2593
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T01:54:59.000Z",
+        "description": "使用暗属性魔法和破墙斧的萝莉控大叔 | 渥金和安博里的信徒 | 地摊经济学 | @Sana_Volfield@alive.bar",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tempes…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tempestmaiden.bsky.social",
+                "start": 0,
+                "url": "https://t.co/EmVVDpiohE"
+              }
+            ]
+          }
+        },
+        "id": "1361856317703393282",
+        "location": "Cepheus",
+        "name": "猫目敲子🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932677285402058752/8Q0iwHKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3021,
+          "following_count": 2045,
+          "like_count": 41794,
+          "listed_count": 10,
+          "media_count": 252,
+          "tweet_count": 9803
+        },
+        "url": "https://t.co/EmVVDpiohE",
+        "username": "ThrumboABBBAA",
+        "verified": false
+      }
+    ]
+  }
+}

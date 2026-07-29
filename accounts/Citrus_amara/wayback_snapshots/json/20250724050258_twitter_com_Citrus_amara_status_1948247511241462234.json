@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948247511241462234",
+    "created_at": "2025-07-24T05:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T06:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948247511241462234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/codyhunk/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/codyhunk/status/1948031524290580547",
+          "start": 6,
+          "url": "https://t.co/1PnfjnC2Fw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948247511241462234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948031524290580547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑死了。 https://t.co/1PnfjnC2Fw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1948031516287930368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjMV8ubkAAFtJF.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948247511241462234",
+        "created_at": "2025-07-24T05:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T06:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948247511241462234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/codyhunk/status/1948031524290580547",
+              "start": 6,
+              "url": "https://t.co/1PnfjnC2Fw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948247511241462234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948031524290580547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑死了。 https://t.co/1PnfjnC2Fw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948031516287930368"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1948031524290580547",
+        "created_at": "2025-07-23T14:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T15:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948031524290580547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFp5chbLF0",
+              "end": 23,
+              "expanded_url": "https://x.com/codyhunk/status/1948031524290580547/photo/1",
+              "media_key": "3_1948031516287930368",
+              "start": 0,
+              "url": "https://t.co/TFp5chbLF0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948031524290580547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 205981,
+          "like_count": 2762,
+          "quote_count": 10,
+          "reply_count": 40,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TFp5chbLF0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 116,
+          "like_count": 532,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 351
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，很喜欢和大家成为朋友，平时分享梗图。没啥雷点，爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏",
+        "pinned_tweet_id": "1947464239570161956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8242,
+          "following_count": 1792,
+          "like_count": 3756,
+          "listed_count": 15,
+          "media_count": 3095,
+          "tweet_count": 3360
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

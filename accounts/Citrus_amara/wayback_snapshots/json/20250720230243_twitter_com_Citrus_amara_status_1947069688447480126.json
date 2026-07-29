@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946938726476869979",
+    "created_at": "2025-07-20T23:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T00:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947069688447480126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1639664012907429890",
+          "start": 0,
+          "username": "Je1nFaur_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947069688447480126",
+    "in_reply_to_user_id": "1639664012907429890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946938726476869979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Je1nFaur_l 我也是。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946938726476869979",
+        "created_at": "2025-07-20T23:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T00:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947069688447480126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1639664012907429890",
+              "start": 0,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947069688447480126",
+        "in_reply_to_user_id": "1639664012907429890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946938726476869979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Je1nFaur_l 我也是。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639664012907429890",
+        "conversation_id": "1946938726476869979",
+        "created_at": "2025-07-20T14:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T15:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946938726476869979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946938726476869979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5483,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我暗恋一个人就会去开📦那个人🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎mtf，ftm和地雷系给我私信。好感刷高了可以爆qq。\n需要墙内联系方式请给我打钱。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 81,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 227
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T16:22:49.000Z",
+        "description": "我是Mio大王 叫我澪澪 宅女一枚呀\n女宝互关大欢迎 Cute girls plz interact!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "truthsocial.com",
+                "end": 23,
+                "expanded_url": "http://truthsocial.com",
+                "start": 0,
+                "url": "https://t.co/ak0vV5OHVi"
+              }
+            ]
+          }
+        },
+        "id": "1639664012907429890",
+        "location": "River Styx",
+        "name": "澪澪大王",
+        "pinned_tweet_id": "1939326757410349487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781719164769726464/I0Oci5da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 2738,
+          "like_count": 84770,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 6623
+        },
+        "url": "https://t.co/ak0vV5OHVi",
+        "username": "Je1nFaur_l",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1975189317233623121",
+    "created_at": "2025-10-06T13:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T14:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975189317233623121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/y0zarashi/status/1974752444589785328",
+          "start": 46,
+          "url": "https://t.co/ykCRKLAJfC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975189317233623121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974752444589785328",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么大量的晚安和普瑞连续服用三天就可以进地府了，再去服用孟婆汤，从此你就再也不是你自己了😁 https://t.co/ykCRKLAJfC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1975189317233623121",
+        "created_at": "2025-10-06T13:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975189317233623121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1974752444589785328",
+              "start": 46,
+              "url": "https://t.co/ykCRKLAJfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975189317233623121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974752444589785328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么大量的晚安和普瑞连续服用三天就可以进地府了，再去服用孟婆汤，从此你就再也不是你自己了😁 https://t.co/ykCRKLAJfC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "1974260167924449382",
+        "created_at": "2025-10-05T08:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T09:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974752444589785328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935176310663401472",
+              "start": 0,
+              "username": "S_Hyoscine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974752444589785328",
+        "in_reply_to_user_id": "1935176310663401472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 519,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974260167924449382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Hyoscine 20t晚安加40t150mg瑞普，连续服用三天就可以人格分裂，再去服用树皮或者蘑菇，就可以尝试杀掉自己的主人格，从此你就再也不是你自己了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 505,
+          "like_count": 8252,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 3089
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi",
+        "pinned_tweet_id": "1968999740789362908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961346431312433153/CHH_VSAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 286,
+          "like_count": 18,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 2385
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

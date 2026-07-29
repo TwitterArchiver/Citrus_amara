@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2026148329231450416",
+    "created_at": "2026-02-24T04:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T05:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026148329231450416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baiyuewww/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/baiyuewww/status/2025874315250426178",
+          "start": 6,
+          "url": "https://t.co/hGUznQ2O3W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026148329231450416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025874315250426178",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简直就是我 https://t.co/hGUznQ2O3W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026148329231450416",
+        "created_at": "2026-02-24T04:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026148329231450416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baiyuewww/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/baiyuewww/status/2025874315250426178",
+              "start": 6,
+              "url": "https://t.co/hGUznQ2O3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026148329231450416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025874315250426178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简直就是我 https://t.co/hGUznQ2O3W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967563670910894081",
+        "conversation_id": "2025627174733258849",
+        "created_at": "2026-02-23T10:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025874315250426178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1983516341400420352",
+              "start": 0,
+              "username": "astykxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025874315250426178",
+        "in_reply_to_user_id": "1983516341400420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025627174733258849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@astykxs 切前额叶来的，前额叶是高级认知器官，用来执行推理功能，没了前额叶就是一个只会凭第一印象做决定的傻子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 1019,
+          "like_count": 17087,
+          "listed_count": 6,
+          "media_count": 355,
+          "tweet_count": 9267
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T12:19:34.000Z",
+        "description": "我就是基本盘那咋了，国家对我好，我当然就支持国家，某些人啊自己没本事，只能当人下人，除了哭爹喊娘什么也不会了，一天到晚只能怨天尤人骂国家哦，真可怜🤭",
+        "id": "1967563670910894081",
+        "location": "中华人民共和国！",
+        "name": "B站任成轩🇨🇳",
+        "pinned_tweet_id": "2025897546892124654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025741203895971840/zU8Gl58x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 7,
+          "like_count": 1357,
+          "listed_count": 5,
+          "media_count": 12,
+          "tweet_count": 2439
+        },
+        "username": "baiyuewww",
+        "verified": false
+      }
+    ]
+  }
+}

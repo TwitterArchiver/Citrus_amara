@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "1950560304112222288",
+    "created_at": "2025-07-30T14:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T15:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950560304112222288"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "JK Rowling",
+          "probability": 0.9437,
+          "start": 41,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1369074408388714500",
+          "start": 3,
+          "username": "BadWritingTakes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950560304112222288",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949813985907216793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BadWritingTakes: I'm not saying that JK Rowling sounds like she's encouraging her notoriously abusive cult of violently misogynistic su…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 611,
+        "media_key": "3_1949813978768502784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw8he66WcAAPV8L.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "1950560304112222288",
+        "created_at": "2025-07-30T14:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T15:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950560304112222288"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "JK Rowling",
+              "probability": 0.9437,
+              "start": 41,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1369074408388714500",
+              "start": 3,
+              "username": "BadWritingTakes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950560304112222288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949813985907216793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BadWritingTakes: I'm not saying that JK Rowling sounds like she's encouraging her notoriously abusive cult of violently misogynistic su…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949813978768502784"
+          ]
+        },
+        "author_id": "1369074408388714500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "1949813985907216793",
+        "created_at": "2025-07-28T12:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T13:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949813985907216793"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "JK Rowling",
+              "probability": 0.943,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p93P6sIQSC",
+              "end": 266,
+              "expanded_url": "https://x.com/BadWritingTakes/status/1949813985907216793/photo/1",
+              "media_key": "3_1949813978768502784",
+              "start": 243,
+              "url": "https://t.co/p93P6sIQSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949813985907216793",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 27412,
+          "like_count": 2098,
+          "quote_count": 11,
+          "reply_count": 95,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "I'm not saying that JK Rowling sounds like she's encouraging her notoriously abusive cult of violently misogynistic supporters to attack women in bathrooms, I'm just not not saying that either.\n\nThis is important to clarify for legal reasons. https://t.co/p93P6sIQSC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 226,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 638
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T23:55:56.000Z",
+        "description": "Collecting the worst takes related to writing, books, and authors.\n(Comic books, scriptwriting and journalism included.)\n\nTags = Credit",
+        "id": "1369074408388714500",
+        "location": "DMs Open For Submissions",
+        "name": "Bad Writing Takes 🖊️🏳️‍🌈",
+        "pinned_tweet_id": "1582417835011497985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1369074881493671936/l_vv0c8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22494,
+          "following_count": 86,
+          "like_count": 20363,
+          "listed_count": 153,
+          "media_count": 2436,
+          "tweet_count": 9814
+        },
+        "username": "BadWritingTakes",
+        "verified": false
+      }
+    ]
+  }
+}

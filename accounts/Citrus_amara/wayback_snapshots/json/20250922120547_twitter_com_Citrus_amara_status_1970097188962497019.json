@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1969921833890722209",
+    "created_at": "2025-09-22T12:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T13:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970097188962497019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "989843582549876736",
+          "start": 0,
+          "username": "truthse74988062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970097188962497019",
+    "in_reply_to_user_id": "989843582549876736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970096662598295577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@truthse74988062 啊？思诺思宿醉感几乎没有啊..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1969921833890722209",
+        "created_at": "2025-09-22T12:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970097188962497019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "989843582549876736",
+              "start": 0,
+              "username": "truthse74988062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970097188962497019",
+        "in_reply_to_user_id": "989843582549876736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970096662598295577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@truthse74988062 啊？思诺思宿醉感几乎没有啊..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "989843582549876736",
+        "conversation_id": "1969921833890722209",
+        "created_at": "2025-09-22T12:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970096662598295577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970096662598295577",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970087959107182794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 我吃两个就很疲沓，三个状如死狗一整天缓不过来，吃一个屁效果没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 444,
+          "like_count": 7339,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 2748
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-27T12:27:55.000Z",
+        "description": "What cannot kills you will make you stronger",
+        "id": "989843582549876736",
+        "location": "Lienchiang County, Taiwan",
+        "name": "truth seeker",
+        "pinned_tweet_id": "1070229714495692800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/989847697434726400/qf69aDRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 466,
+          "like_count": 9753,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 95
+        },
+        "username": "truthse74988062",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952237930187014546",
+    "created_at": "2025-08-04T05:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T06:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952237930187014546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cangrace37/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/cangrace37/status/1951912149737259399",
+          "start": 19,
+          "url": "https://t.co/VnZIjAuSQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952237930187014546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951912149737259399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这下不得不支黑了，本人真是罕见出身😄 https://t.co/VnZIjAuSQX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952237930187014546",
+        "created_at": "2025-08-04T05:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T06:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952237930187014546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cangrace37/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/cangrace37/status/1951912149737259399",
+              "start": 19,
+              "url": "https://t.co/VnZIjAuSQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952237930187014546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951912149737259399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下不得不支黑了，本人真是罕见出身😄 https://t.co/VnZIjAuSQX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951261108054138881",
+        "conversation_id": "1951912149737259399",
+        "created_at": "2025-08-03T07:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T08:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951912149737259399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951912149737259399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3082,
+          "like_count": 32,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜……推上怎么那么多“支黑”啊，否认历史，无底线抹黑我们的国家……他们对的起自己的出身吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "8️⃣9️⃣🍊苦橙🍊6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 257,
+          "like_count": 1629,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 775
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T12:38:10.000Z",
+        "description": "为自由战要举起刀和枪，为自由死要昂首上战场 /🇨🇳女大学生 /马列毛主义 /进步开放包容",
+        "id": "1951261108054138881",
+        "name": "清风🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951262287148527616/rV2u0MVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 147,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "cangrace37",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1998292883989057574",
+    "created_at": "2025-12-10T14:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T15:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998758076590207386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2405324646",
+          "start": 0,
+          "username": "alexavad"
+        },
+        {
+          "end": 23,
+          "id": "1700948552078467072",
+          "start": 10,
+          "username": "Overdose_DBD"
+        },
+        {
+          "end": 35,
+          "id": "1912109703133646848",
+          "start": 24,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 52,
+          "id": "1804587925805596672",
+          "start": 36,
+          "username": "OverSpring_wiki"
+        },
+        {
+          "end": 63,
+          "id": "1796427186557100032",
+          "start": 53,
+          "username": "wplaceqwq"
+        },
+        {
+          "end": 74,
+          "id": "1659962043460354050",
+          "start": 64,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998758076590207386",
+    "in_reply_to_user_id": "2405324646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998757340754129084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexavad @Overdose_DBD @jzm1919810 @OverSpring_wiki @wplaceqwq @SalviaSWC 自切变成孤高战士也很诡异啊我说。为什么会有mtf自切还留一个的..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1998292883989057574",
+        "created_at": "2025-12-10T14:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998758076590207386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2405324646",
+              "start": 0,
+              "username": "alexavad"
+            },
+            {
+              "end": 23,
+              "id": "1700948552078467072",
+              "start": 10,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 35,
+              "id": "1912109703133646848",
+              "start": 24,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 52,
+              "id": "1804587925805596672",
+              "start": 36,
+              "username": "OverSpring_wiki"
+            },
+            {
+              "end": 63,
+              "id": "1796427186557100032",
+              "start": 53,
+              "username": "wplaceqwq"
+            },
+            {
+              "end": 74,
+              "id": "1659962043460354050",
+              "start": 64,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998758076590207386",
+        "in_reply_to_user_id": "2405324646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998757340754129084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexavad @Overdose_DBD @jzm1919810 @OverSpring_wiki @wplaceqwq @SalviaSWC 自切变成孤高战士也很诡异啊我说。为什么会有mtf自切还留一个的..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2405324646",
+        "conversation_id": "1998292883989057574",
+        "created_at": "2025-12-10T14:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998757340754129084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 25,
+              "id": "1912109703133646848",
+              "start": 14,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 39,
+              "id": "1866458229527764992",
+              "start": 26,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 56,
+              "id": "1804587925805596672",
+              "start": 40,
+              "username": "OverSpring_wiki"
+            },
+            {
+              "end": 67,
+              "id": "1796427186557100032",
+              "start": 57,
+              "username": "wplaceqwq"
+            },
+            {
+              "end": 78,
+              "id": "1659962043460354050",
+              "start": 68,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998757340754129084",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998639980051312905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD @jzm1919810 @Citrus_amara @OverSpring_wiki @wplaceqwq @SalviaSWC 原来这人真只有一个蛋啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 921,
+          "like_count": 14013,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 6461
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJn5p"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995958071848566784/UHqDL_cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 202,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/dq6IelJn5p",
+        "username": "alexavad",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64LosE\n有事请点击https://t.co/UdJgE8LpGT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64LosE"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/UdJgE8LpGT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4239,
+          "following_count": 57,
+          "like_count": 2,
+          "listed_count": 11,
+          "media_count": 567,
+          "tweet_count": 6320
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "昼と夜の間で 時が止まる 終わりのない 永遠の夕暮れ時\n🐦‍⬛\n请锁推且fo我的人一定让我回关，好吗？否则我的强迫症会受不了，只好取掉。谢谢。",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 207,
+          "like_count": 220,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 955
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用/Transhumanism/Left-libertarian/Free market with UBI/Absolute cultural liberty",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CW7Im"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpring Wiki",
+        "pinned_tweet_id": "1989628357081010426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998647469283094529/LM5S_m7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4623,
+          "following_count": 686,
+          "like_count": 23501,
+          "listed_count": 11,
+          "media_count": 405,
+          "tweet_count": 5575
+        },
+        "url": "https://t.co/YS4b5CW7Im",
+        "username": "OverSpring_wiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T06:23:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pubmed.ncbi.nlm.nih.gov",
+                "end": 23,
+                "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/",
+                "start": 0,
+                "url": "https://t.co/E8tmKN3Bdw"
+              }
+            ]
+          }
+        },
+        "id": "1796427186557100032",
+        "location": "Yakutat,Alaska",
+        "name": "橘 雪莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985415412910260224/DZO0cpci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 186,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/E8tmKN3Bdw",
+        "username": "wplaceqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1955,
+          "following_count": 718,
+          "like_count": 15266,
+          "listed_count": 7,
+          "media_count": 184,
+          "tweet_count": 4149
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

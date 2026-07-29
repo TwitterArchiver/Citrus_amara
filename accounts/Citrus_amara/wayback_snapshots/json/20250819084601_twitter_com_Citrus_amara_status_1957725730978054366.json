@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957691940872376332",
+    "created_at": "2025-08-19T08:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T09:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957725730978054366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1954427599943512064",
+          "start": 0,
+          "username": "yezi2435079205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957725730978054366",
+    "in_reply_to_user_id": "1954427599943512064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957695463941177847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezi2435079205 你觉得我是那种人吗🏳️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957691940872376332",
+        "created_at": "2025-08-19T08:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T09:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957725730978054366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1954427599943512064",
+              "start": 0,
+              "username": "yezi2435079205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957725730978054366",
+        "in_reply_to_user_id": "1954427599943512064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957695463941177847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezi2435079205 你觉得我是那种人吗🏳️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954427599943512064",
+        "conversation_id": "1957691940872376332",
+        "created_at": "2025-08-19T06:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T07:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957695463941177847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957695463941177847",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957691940872376332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 整点狠活，切蛋，抽奖送奶，包长粉的🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 360,
+          "like_count": 3535,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1502
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T06:20:33.000Z",
+        "description": "06年mtf，13岁hrt，双相+身体状况极差+经济状况堪忧，164cm/49kg长相一般。关注了会回关。\n出日雌360有五盒，退坑了。",
+        "id": "1954427599943512064",
+        "name": "yezi",
+        "pinned_tweet_id": "1956182236665143526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956171847491604480/jO8n1Ieh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 286,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 88
+        },
+        "username": "yezi2435079205",
+        "verified": false
+      }
+    ]
+  }
+}

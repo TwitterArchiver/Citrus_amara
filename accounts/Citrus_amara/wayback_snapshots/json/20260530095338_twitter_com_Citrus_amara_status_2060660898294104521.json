@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2060660898294104521",
+    "created_at": "2026-05-30T09:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060660898294104521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1437246015690706947",
+          "start": 3,
+          "username": "Samyooniee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060660898294104521",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060191851278135521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Samyooniee: necesito ketamina en mis venas"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2060660898294104521",
+        "created_at": "2026-05-30T09:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060660898294104521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437246015690706947",
+              "start": 3,
+              "username": "Samyooniee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060660898294104521",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060191851278135521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Samyooniee: necesito ketamina en mis venas"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437246015690706947",
+        "conversation_id": "2060191851278135521",
+        "created_at": "2026-05-29T02:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060191851278135521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060191851278135521",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4960,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "necesito ketamina en mis venas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 1094,
+          "like_count": 20337,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 11466
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T02:45:41.000Z",
+        "description": "tengo un serio problema con la weed y complejo de Tori Vega",
+        "id": "1437246015690706947",
+        "name": "alesitap :3",
+        "pinned_tweet_id": "2059829700357239149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894635749946904577/QLzYjCvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 81,
+          "like_count": 682,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1208
+        },
+        "username": "Samyooniee",
+        "verified": false
+      }
+    ]
+  }
+}

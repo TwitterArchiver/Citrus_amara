@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1971108039043449200",
+    "created_at": "2025-09-26T04:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T05:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971435890733154756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1266711219425034241",
+          "start": 0,
+          "username": "Mcdonaldism_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971435890733154756",
+    "in_reply_to_user_id": "1266711219425034241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971108039043449200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mcdonaldism_ 对权贵不失望但对china失望，懂了变支黑了😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1971108039043449200",
+        "created_at": "2025-09-26T04:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T05:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971435890733154756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1266711219425034241",
+              "start": 0,
+              "username": "Mcdonaldism_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971435890733154756",
+        "in_reply_to_user_id": "1266711219425034241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971108039043449200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mcdonaldism_ 对权贵不失望但对china失望，懂了变支黑了😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266711219425034241",
+        "conversation_id": "1971108039043449200",
+        "created_at": "2025-09-25T07:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T08:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971108039043449200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jinger9037/sta…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/Jinger9037/status/1970870141157282027",
+              "start": 139,
+              "url": "https://t.co/bxSKQ0AJuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971108039043449200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8117,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970870141157282027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "认真讲这种智力真是没什么救了。\n就于朦胧这件事而言害于朦胧的并非一般通过老钟人，而是红色背景权贵。懦弱追星妹选择不恨权贵组成的集体-党，转而对一般通过老钟组成的集体- China失望，并赠送反对权贵者一顶反动帽子。现在明白除了李某这种炒作狗见证逼们为啥不爱掺合这种事了吧。。。 https://t.co/bxSKQ0AJuq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 461,
+          "like_count": 7679,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2878
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-30T12:41:23.000Z",
+        "description": "粉红老保勿扰｜无论你是否是麦神的信徒，无论你的种族肤色性别，无论今天是星期几，你都可以享用13.9元麦当劳神教的1+1圣餐，麦神平等的爱世人，麦门🙏｜🐧相关❌盗图❌搬运",
+        "id": "1266711219425034241",
+        "location": "无所谓我会在网上到处拉屎",
+        "name": "温良肥海鸥🐦本窗口只能收麦当劳薯条🍟🍔",
+        "pinned_tweet_id": "1970215812910006763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920432920826687488/Qhhz0NjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6253,
+          "following_count": 1135,
+          "like_count": 42424,
+          "listed_count": 24,
+          "media_count": 300,
+          "tweet_count": 13601
+        },
+        "username": "Mcdonaldism_",
+        "verified": false
+      }
+    ]
+  }
+}

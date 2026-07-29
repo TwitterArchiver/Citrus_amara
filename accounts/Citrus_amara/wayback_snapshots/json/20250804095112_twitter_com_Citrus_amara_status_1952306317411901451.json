@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952206794002165817",
+    "created_at": "2025-08-04T09:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T10:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952306317411901451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948615711041126400",
+          "start": 0,
+          "username": "shsh548866"
+        },
+        {
+          "end": 22,
+          "id": "1639816523190763521",
+          "start": 12,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952306317411901451",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952306190714576960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shsh548866 @ggdxfulan 这俩也不是右美沙芬那种的中国特色，而是全世界的共识。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952206794002165817",
+        "created_at": "2025-08-04T09:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T10:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952306317411901451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948615711041126400",
+              "start": 0,
+              "username": "shsh548866"
+            },
+            {
+              "end": 22,
+              "id": "1639816523190763521",
+              "start": 12,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952306317411901451",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952306190714576960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh548866 @ggdxfulan 这俩也不是右美沙芬那种的中国特色，而是全世界的共识。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952206794002165817",
+        "created_at": "2025-08-04T09:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T10:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952306190714576960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948615711041126400",
+              "start": 0,
+              "username": "shsh548866"
+            },
+            {
+              "end": 22,
+              "id": "1639816523190763521",
+              "start": 12,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952306190714576960",
+        "in_reply_to_user_id": "1948615711041126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952305931754307659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh548866 @ggdxfulan lsd没有任何依赖性但是毒品。烟草有很强烈的成瘾性但不是毒品。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "8️⃣9️⃣🍊苦橙🍊6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 257,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 791
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T05:27:18.000Z",
+        "description": "不是很想说话",
+        "id": "1948615711041126400",
+        "location": "Nakano-ku, Tokyo",
+        "name": "鲜葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948618397698457600/MdNG1dTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 56,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "shsh548866",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "纯1、药娘攻、抖s、MtX、男同喜欢操男娘pyz，喜欢欺负人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8970,
+          "following_count": 440,
+          "like_count": 24594,
+          "listed_count": 20,
+          "media_count": 2770,
+          "tweet_count": 9317
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

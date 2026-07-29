@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1978980004424712293",
+    "created_at": "2025-10-17T00:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T01:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978980004424712293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FreeSino/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/FreeSino/status/1978494048764940770",
+          "start": 9,
+          "url": "https://t.co/I0LJAEPv8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978980004424712293",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978494048764940770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "肥的像ai生成的 https://t.co/I0LJAEPv8A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1749,
+        "media_key": "3_1978481284818329600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3T6PwBa4AAMEEb.jpg",
+        "width": 959
+      },
+      {
+        "height": 1333,
+        "media_key": "3_1978479488070774784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3T4nKna8AAnHn4.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1289,
+        "media_key": "3_1978479488452423680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3T4nMCacAA64LB.jpg",
+        "width": 860
+      },
+      {
+        "height": 680,
+        "media_key": "3_1978494046424412160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UF2ktaMAALOsi.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1978980004424712293",
+        "created_at": "2025-10-17T00:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T01:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978980004424712293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FreeSino/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/FreeSino/status/1978494048764940770",
+              "start": 9,
+              "url": "https://t.co/I0LJAEPv8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978980004424712293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978494048764940770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "肥的像ai生成的 https://t.co/I0LJAEPv8A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978481284818329600",
+            "3_1978479488070774784",
+            "3_1978479488452423680",
+            "3_1978494046424412160"
+          ]
+        },
+        "author_id": "106153216",
+        "conversation_id": "1978494048764940770",
+        "created_at": "2025-10-15T16:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:14:03.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978479491602436566",
+          "1978481286907126031",
+          "1978481338123694435",
+          "1978494048764940770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00WWXusKiu",
+              "end": 105,
+              "expanded_url": "https://x.com/FreeSino/status/1978494048764940770/photo/1",
+              "media_key": "3_1978481284818329600",
+              "start": 82,
+              "url": "https://t.co/00WWXusKiu"
+            },
+            {
+              "display_url": "pic.x.com/00WWXusKiu",
+              "end": 105,
+              "expanded_url": "https://x.com/FreeSino/status/1978494048764940770/photo/1",
+              "media_key": "3_1978479488070774784",
+              "start": 82,
+              "url": "https://t.co/00WWXusKiu"
+            },
+            {
+              "display_url": "pic.x.com/00WWXusKiu",
+              "end": 105,
+              "expanded_url": "https://x.com/FreeSino/status/1978494048764940770/photo/1",
+              "media_key": "3_1978479488452423680",
+              "start": 82,
+              "url": "https://t.co/00WWXusKiu"
+            },
+            {
+              "display_url": "pic.x.com/00WWXusKiu",
+              "end": 105,
+              "expanded_url": "https://x.com/FreeSino/status/1978494048764940770/photo/1",
+              "media_key": "3_1978494046424412160",
+              "start": 82,
+              "url": "https://t.co/00WWXusKiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978494048764940770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 789,
+                "id": "9300262",
+                "start": 780,
+                "username": "politico"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "politi.co/4onLnFu",
+                "end": 775,
+                "expanded_url": "https://politi.co/4onLnFu",
+                "start": 752,
+                "url": "https://t.co/2fQJ2AG6fo"
+              }
+            ]
+          },
+          "text": "“我爱希特勒”： 全国青年共和党各地组织者的种族歧视和仇恨言论的聊天记录曝光。\n\n全国青年共和党联合会是共和党面向18到40岁党员、拥有1.5万名成员的政治组织。\nPolitico的调查报道显示，这群年轻的共和党领导者在电报群中拿毒气室、奴隶制和强奸开玩笑，恶毒的攻击少数族裔和竞争对手。尽管担心他们的 Telegram 聊天群：“RESTOREYR WAR ROOM”（意为“重建青年共和党战情室”）的内容一旦泄露会发生什么，但他们还是不在乎。\n他们把黑人称为猴子和“西瓜人”，想把政治对手送进毒气室。他们谈论强奸敌人，还赞扬那些支持奴隶制的共和党人。\n堪萨斯青年共和党副主席威廉·亨德里克斯，在聊天中了“n–ga”和“n–guh”这两种带有种族辱骂意味的词，超过十几次。\n当时担任纽约州青年共和党副主席的鲍比·沃克（图二）赞扬强奸。当时担任同一组织主席的彼得·朱恩塔在六月发的信息里写道，“每个投反对票的人都要进毒气室。”朱恩塔指的是即将进行的内部选举投票。“我们能修好淋浴间吗？毒气室不符合希特勒的审美，”曾自称是纽约州青年共和党总法律顾问的乔·马利诺回复道。\n吉恩塔（图三）担任纽约州众议员迈克·赖利的幕僚长，今年早些时候，他最终以六个百分点的差距未能赢得青年共和党全国联合会主席的职位。堪萨斯主席德怀尔告诉吉恩塔，密歇根州的一名青年共和党人向他承诺，该组织“将投票选出最右翼的人”来领导这个全国性组织。“太好了。我爱希特勒。”吉恩塔回答道。\n\n这段长达2900多页的聊天记录让我们得以一窥新一代的共和党活动人士在私下是如何发表言论表达真实想法的。\n\n‘I love Hitler’: Leaked messages expose Young Republicans’ racist chat\n https://t.co/2fQJ2AG6fo via @politico"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 108980,
+          "like_count": 247,
+          "quote_count": 25,
+          "reply_count": 36,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "“我爱希特勒”： 全国青年共和党各地组织者的种族歧视和仇恨言论的聊天记录曝光。\n\n全国青年共和党联合会是共和党面向18到40岁党员、拥有1.5万名成员的政治组织。 https://t.co/00WWXusKiu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 589,
+          "like_count": 9239,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 3524
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-18T17:26:29.000Z",
+        "description": "蓝天同名",
+        "id": "106153216",
+        "name": "FreeSino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555958032625913858/FSWesFnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3495,
+          "following_count": 1116,
+          "like_count": 36908,
+          "listed_count": 29,
+          "media_count": 1137,
+          "tweet_count": 29208
+        },
+        "username": "FreeSino",
+        "verified": false
+      }
+    ]
+  }
+}

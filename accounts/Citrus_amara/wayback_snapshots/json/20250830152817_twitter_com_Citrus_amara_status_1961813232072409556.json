@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1961517228962247015",
+    "created_at": "2025-08-30T15:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961813232072409556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948615711041126400",
+          "start": 0,
+          "username": "shsh548866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961813232072409556",
+    "in_reply_to_user_id": "1948615711041126400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961517345215844666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shsh548866 像哲人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1961517228962247015",
+        "created_at": "2025-08-30T15:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961813232072409556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948615711041126400",
+              "start": 0,
+              "username": "shsh548866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961813232072409556",
+        "in_reply_to_user_id": "1948615711041126400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961517345215844666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh548866 像哲人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948615711041126400",
+        "conversation_id": "1961517228962247015",
+        "created_at": "2025-08-29T19:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T20:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961517345215844666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961517345215844666",
+        "in_reply_to_user_id": "1948615711041126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961517228962247015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说话是不是像伪人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。取关麻烦双向。忘记回fo请私聊\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 374,
+          "like_count": 5139,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 2009
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T05:27:18.000Z",
+        "description": "不是很想说话，真的是健全批慎关",
+        "id": "1948615711041126400",
+        "location": "Nakano-ku, Tokyo",
+        "name": "鲜葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961503017490096128/qRUpNgXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 144,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 79
+        },
+        "username": "shsh548866",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2002392408252637312",
+    "created_at": "2025-12-20T15:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002395357599162488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1097818576604536833",
+          "start": 0,
+          "username": "ValenceRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002395357599162488",
+    "in_reply_to_user_id": "1097818576604536833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002394054861193337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValenceRC dxm算强效nmda拮抗剂吗？我长期反复滥用过的只有dxm。mk-801我只使用过一次，并且口服而且剂量可能非常低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2002392408252637312",
+        "created_at": "2025-12-20T15:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002395357599162488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1097818576604536833",
+              "start": 0,
+              "username": "ValenceRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002395357599162488",
+        "in_reply_to_user_id": "1097818576604536833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002394054861193337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValenceRC dxm算强效nmda拮抗剂吗？我长期反复滥用过的只有dxm。mk-801我只使用过一次，并且口服而且剂量可能非常低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1097818576604536833",
+        "conversation_id": "2002392408252637312",
+        "created_at": "2025-12-20T15:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002394054861193337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002394054861193337",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002392408252637312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 大概率不是MK-801单独的问题，是所有强效NMDA拮抗剂共享的交叉耐受机制，在这种高亲和力配体神经受体层面的敏感度回调是一个漫长的生物物理过程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 945,
+          "like_count": 14562,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 6920
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-19T11:21:59.000Z",
+        "description": "🌐认准客服用户名: @ValenceRC\n🌐频道永久用户名: @ValenceRC_Channel\n\n🌐官方聊天群: @ValenceRC_Group",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "ValenceRC"
+              },
+              {
+                "end": 49,
+                "start": 31,
+                "username": "ValenceRC_Channel"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "ValenceRC_Group"
+              }
+            ]
+          }
+        },
+        "id": "1097818576604536833",
+        "location": "距離 0.8Km",
+        "name": "ValenceRC（崭新出炉）",
+        "pinned_tweet_id": "2002231589980270938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002218191842693120/j86WfGaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 16,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "ValenceRC",
+        "verified": false
+      }
+    ]
+  }
+}

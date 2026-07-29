@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1964608220498104767",
+    "created_at": "2025-09-07T08:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T09:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964613598753505391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963867793776070656",
+          "start": 0,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964613598753505391",
+    "in_reply_to_user_id": "1963867793776070656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964608220498104767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist1 我不行了，，这人也把我b了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964608210196975617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0OwwhubUAEh-Vg.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1964608220498104767",
+        "created_at": "2025-09-07T08:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T09:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964613598753505391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964613598753505391",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964608220498104767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 我不行了，，这人也把我b了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964608210196975617"
+          ]
+        },
+        "author_id": "1963867793776070656",
+        "conversation_id": "1964608220498104767",
+        "created_at": "2025-09-07T08:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T09:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964608220498104767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ukeYbAdBPD",
+              "end": 88,
+              "expanded_url": "https://x.com/drug_artist1/status/1964608220498104767/photo/1",
+              "media_key": "3_1964608210196975617",
+              "start": 65,
+              "url": "https://t.co/ukeYbAdBPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964608220498104767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很难想象很荣幸被黑人开苞的已婚人来评价我在药学方面的专业性，推特现在的od圈真是闹麻了，得赶紧毁灭od圈重建真正的高认知的药圈了 https://t.co/ukeYbAdBPD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 406,
+          "like_count": 6167,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 2351
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主（秽土转生版）\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "id": "1963867793776070656",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨（秽土转生）",
+        "pinned_tweet_id": "1963877436057108755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 30,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 75
+        },
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

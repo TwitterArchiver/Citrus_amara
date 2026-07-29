@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2048759750557643250",
+    "created_at": "2026-04-27T13:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048763376717930555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1605245047590780928",
+          "start": 0,
+          "username": "djx00919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048763376717930555",
+    "in_reply_to_user_id": "1605245047590780928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048759750557643250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@djx00919 想看你的身体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2048759750557643250",
+        "created_at": "2026-04-27T13:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048763376717930555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605245047590780928",
+              "start": 0,
+              "username": "djx00919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048763376717930555",
+        "in_reply_to_user_id": "1605245047590780928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048759750557643250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@djx00919 想看你的身体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605245047590780928",
+        "conversation_id": "2048759750557643250",
+        "created_at": "2026-04-27T13:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048759750557643250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048759750557643250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎不是你妈的，我推文怎么都没人看啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 1071,
+          "like_count": 19631,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 11072
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19男\n推特经常炸掉喵，梯子也没问题，根本不知道什么原因。想聊天的话可以私信喵 多和我互fo~\n||||||烟鬼 od 约炮 卖淫 有主的请远离我",
+        "id": "1605245047590780928",
+        "location": "北京",
+        "name": "uosɐɾ",
+        "pinned_tweet_id": "2033533610515644537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027707712088510464/W5dXjr5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 2733,
+          "like_count": 161788,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 10957
+        },
+        "username": "djx00919",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948053165414527482",
+    "created_at": "2025-07-24T11:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T12:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948342473618489737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1465023585215389699",
+          "start": 0,
+          "username": "odskeleton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948342473618489737",
+    "in_reply_to_user_id": "1465023585215389699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948053165414527482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odskeleton 我也想。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948053165414527482",
+        "created_at": "2025-07-24T11:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T12:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948342473618489737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1465023585215389699",
+              "start": 0,
+              "username": "odskeleton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948342473618489737",
+        "in_reply_to_user_id": "1465023585215389699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948053165414527482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odskeleton 我也想。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465023585215389699",
+        "conversation_id": "1948053165414527482",
+        "created_at": "2025-07-23T16:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T17:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948053165414527482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948053165414527482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我再瘦二十斤就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 123,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 373
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T18:23:45.000Z",
+        "description": "02/od/infp/双相/焦虑/互fo/我是纯废物/\n加🛰️随时私信",
+        "id": "1465023585215389699",
+        "location": "我想睡猫窝",
+        "name": "yirog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945074298525294592/PgF8K5Dt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 126,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 78
+        },
+        "username": "odskeleton",
+        "verified": false
+      }
+    ]
+  }
+}

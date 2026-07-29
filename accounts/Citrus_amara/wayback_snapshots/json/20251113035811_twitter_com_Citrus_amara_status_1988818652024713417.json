@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1988790433053564951",
+    "created_at": "2025-11-13T03:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T04:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988818652024713417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798724969695977472",
+          "start": 0,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988818652024713417",
+    "in_reply_to_user_id": "1798724969695977472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988790433053564951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdosewiki 不错。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_1988790429773684736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5maW9tbYAAPw-1.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1988790433053564951",
+        "created_at": "2025-11-13T03:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988818652024713417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988818652024713417",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988790433053564951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki 不错。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988790429773684736"
+          ]
+        },
+        "author_id": "1798724969695977472",
+        "conversation_id": "1988790433053564951",
+        "created_at": "2025-11-13T02:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T03:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988790433053564951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8aNZjwDOa",
+              "end": 23,
+              "expanded_url": "https://x.com/overdosewiki/status/1988790433053564951/photo/1",
+              "media_key": "3_1988790429773684736",
+              "start": 0,
+              "url": "https://t.co/f8aNZjwDOa"
+            },
+            {
+              "display_url": "x.com/drugwikiqwq/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/drugwikiqwq/status/1984249977594618032",
+              "start": 24,
+              "url": "https://t.co/yz2fPu9b7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988790433053564951",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984249977594618032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/f8aNZjwDOa https://t.co/yz2fPu9b7J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 731,
+          "like_count": 11489,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 4701
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "网站已经被鸡哥的DDoS Bomber炸成筛子了，没有制空权飞不起来。\nhttps://t.co/1UhiZIyBbg —— odwiki直属群。\nhttps://t.co/0rL89Pc8mI —— 后藤直属频道 高原整活观景台。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 59,
+                "expanded_url": "http://t.me/o_d_wiki",
+                "start": 36,
+                "url": "https://t.co/1UhiZIyBbg"
+              },
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 97,
+                "expanded_url": "http://t.me/HWA_FK1",
+                "start": 74,
+                "url": "https://t.co/0rL89Pc8mI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4Qiju"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki-后藤版",
+        "pinned_tweet_id": "1970498537562742884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988123432157114368/v5c6Wjqz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3851,
+          "following_count": 11,
+          "like_count": 442,
+          "listed_count": 6,
+          "media_count": 115,
+          "tweet_count": 640
+        },
+        "url": "https://t.co/6fVCD4Qiju",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1961788165833834822",
+    "created_at": "2025-08-30T14:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T15:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961801165521252463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1546875689646710785",
+          "start": 0,
+          "username": "RJ_Astro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961801165521252463",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961800841783869677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RJ_Astro 基于这个记忆形成了他自己的自我认同。\n至于心智...人脑有模拟他人思考的能力，而模拟他人思考的能力来源于对他人的记忆。\n呃因为我一直头脑风暴所以说的不太清楚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1961788165833834822",
+        "created_at": "2025-08-30T14:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961801165521252463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1546875689646710785",
+              "start": 0,
+              "username": "RJ_Astro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961801165521252463",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961800841783869677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RJ_Astro 基于这个记忆形成了他自己的自我认同。\n至于心智...人脑有模拟他人思考的能力，而模拟他人思考的能力来源于对他人的记忆。\n呃因为我一直头脑风暴所以说的不太清楚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1961788165833834822",
+        "created_at": "2025-08-30T14:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961800841783869677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1546875689646710785",
+              "start": 0,
+              "username": "RJ_Astro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961800841783869677",
+        "in_reply_to_user_id": "1546875689646710785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961799536403415392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RJ_Astro 可能不太准确，就是说创造型是先设定了一个人物模板，再通过交流给这个人物模板灌输记忆。人物模板（就是这个tulpa的自我认同）本身是没有自主思考的，但是通过交流，这个人物模板有了属于他的记忆，于是在此基础上发展出了自主思考的能力。\n这个创造过程区别于自发型的先产生了不属于主导的记忆，再——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。取关麻烦双向。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 371,
+          "like_count": 5115,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 2000
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T15:14:48.000Z",
+        "description": "let's skip the life...  \n  \n个人推。内容有关转发喜欢的创作、收藏神秘药品。  \n这个账号只用于收集有用信息，发推只为自己爽，只遵循当下所想。 精神状态不好，不推荐关注。",
+        "id": "1546875689646710785",
+        "name": "NotExisted",
+        "pinned_tweet_id": "1961320458579595565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875097547783688192/j5OHfJO-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 185,
+          "like_count": 11249,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1968
+        },
+        "username": "RJ_Astro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "1260987765946109952",
+          "name": "Holistic healing/nutrition"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+          "id": "917863840343191552",
+          "name": "Dietary Supplements"
+        }
+      }
+    ],
+    "conversation_id": "2001461546887659828",
+    "created_at": "2025-12-18T01:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T02:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001461546887659828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bitturing/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Bitturing/status/2001203717312585781",
+          "start": 6,
+          "url": "https://t.co/b2a9RJ1VJt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001461546887659828",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001203717312585781",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉酥糖酸梅 https://t.co/b2a9RJ1VJt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+              "id": "917863840343191552",
+              "name": "Dietary Supplements"
+            }
+          }
+        ],
+        "conversation_id": "2001461546887659828",
+        "created_at": "2025-12-18T01:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T02:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001461546887659828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bitturing/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Bitturing/status/2001203717312585781",
+              "start": 6,
+              "url": "https://t.co/b2a9RJ1VJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001461546887659828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001203717312585781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉酥糖酸梅 https://t.co/b2a9RJ1VJt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "958562247831367680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+              "id": "917863840343191552",
+              "name": "Dietary Supplements"
+            }
+          }
+        ],
+        "conversation_id": "2001203717312585781",
+        "created_at": "2025-12-17T08:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T09:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001203717312585781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001203717312585781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "医生绝不会告诉你的秘密：\n\n1. 焦虑 – 镁、B6、Omega-3\n\n2. 失眠 – 镁、B12、维生素D\n\n3. 脑雾 – B1、B12、Omega-3\n\n4. 性欲低下 – 锌、D、B3\n\n5. 经前综合征 – B6、镁、维生素E\n\n6. 便秘 – 镁、维生素C、膳食纤维\n\n7. 眼皮跳动 – 镁、B12、钾\n\n8. 易怒 – B1、B6、镁\n\n9. 糖分渴望 – 铬、镁、锌\n\n10. 抑郁 – D、B12、Omega-3"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1382,
+          "impression_count": 231917,
+          "like_count": 2387,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 574
+        },
+        "reply_settings": "everyone",
+        "text": "医生绝不会告诉你的秘密：\n\n1. 焦虑 – 镁、B6、Omega-3\n\n2. 失眠 – 镁、B12、维生素D\n\n3. 脑雾 – B1、B12、Omega-3\n\n4. 性欲低下 – 锌、D、B3\n\n5. 经前综合征 – B6、镁、维生素E\n\n6. 便秘 – 镁、维生素C、膳食纤维\n\n7. 眼皮跳动 – 镁、B12、钾\n\n8. 易怒 – B1、B6、镁\n\n9. 糖分渴望 – 铬、镁、锌\n\n10."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 941,
+          "like_count": 14325,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 6763
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T04:47:03.000Z",
+        "description": "🗺️大自然的搬运工 \n\n🕸️泛互联网 \n🔭科技 \n🤖AI \n📖学习 \n🪙Crypto #BTC \n💎投资 \n🪐Web3 \n\n🌍看都看了，点点关注",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "BTC"
+              }
+            ]
+          }
+        },
+        "id": "958562247831367680",
+        "name": "Bitturing",
+        "pinned_tweet_id": "2001181773431230558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640782991457931264/NiQ4O-sX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102041,
+          "following_count": 199,
+          "like_count": 16911,
+          "listed_count": 840,
+          "media_count": 3699,
+          "tweet_count": 5312
+        },
+        "username": "Bitturing",
+        "verified": true
+      }
+    ]
+  }
+}

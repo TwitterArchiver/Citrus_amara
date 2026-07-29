@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946872074800153050",
+    "created_at": "2025-07-20T09:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T10:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946872074800153050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624451741382221824",
+          "start": 3,
+          "username": "nya_QianZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946872074800153050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946846728289653075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nya_QianZi: 药娘的钱真好骗。\n反正她们也找不到实质性的证据。\n骗走了等她们自杀了再骗下一波就好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946872074800153050",
+        "created_at": "2025-07-20T09:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T10:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946872074800153050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624451741382221824",
+              "start": 3,
+              "username": "nya_QianZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946872074800153050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946846728289653075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nya_QianZi: 药娘的钱真好骗。\n反正她们也找不到实质性的证据。\n骗走了等她们自杀了再骗下一波就好了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624451741382221824",
+        "conversation_id": "1946846728289653075",
+        "created_at": "2025-07-20T08:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T09:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946846728289653075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946846728289653075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "药娘的钱真好骗。\n反正她们也找不到实质性的证据。\n骗走了等她们自杀了再骗下一波就好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎mtf，ftm和地雷系给我私信。好感刷高了可以爆qq。\n需要墙内联系方式请给我打钱。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 78,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 170
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T16:54:29.000Z",
+        "description": "舞萌吃/INFP-T/会回fo没回可能是忘了戳戳我/167cm60kg减肥中/大概聊天会回不然搞不好又被送扭了/2023.2.6/2023.10.16/2024.5.6",
+        "id": "1624451741382221824",
+        "location": "雨城区",
+        "name": "见雨neko🍥",
+        "pinned_tweet_id": "1937351443523993639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704492155966754816/2wAtZ-xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 762,
+          "like_count": 2427,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 1652
+        },
+        "username": "nya_QianZi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1978973003955282079",
+    "created_at": "2025-10-16T23:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T00:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978973003955282079"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 4,
+          "normalized_text": "China",
+          "probability": 0.9739,
+          "start": 0,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/CPUP2024/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/CPUP2024/status/1978007297571074540",
+          "start": 18,
+          "url": "https://t.co/xmB8wJslR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978973003955282079",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978007297571074540",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "China is Russia🇷🇺 https://t.co/xmB8wJslR1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1978973003955282079",
+        "created_at": "2025-10-16T23:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T00:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978973003955282079"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "China",
+              "probability": 0.9739,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CPUP2024/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/CPUP2024/status/1978007297571074540",
+              "start": 18,
+              "url": "https://t.co/xmB8wJslR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978973003955282079",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978007297571074540",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "China is Russia🇷🇺 https://t.co/xmB8wJslR1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799308675158605825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094401794473984",
+              "name": "Russian political issues"
+            }
+          }
+        ],
+        "conversation_id": "1978007297571074540",
+        "created_at": "2025-10-14T07:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T08:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978007297571074540"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Ukraine",
+              "probability": 0.9556,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 16,
+              "normalized_text": "Russia",
+              "probability": 0.9466,
+              "start": 11,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dakdar22/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/dakdar22/status/1976592992023781575",
+              "start": 21,
+              "url": "https://t.co/96aQj7ojnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978007297571074540",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16913,
+          "like_count": 17,
+          "quote_count": 21,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976592992023781575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ukraine is Russia 🇷🇺 https://t.co/96aQj7ojnz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 589,
+          "like_count": 9233,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "#葱娘酱巡回推友企划 此为原建制派bot号，原号没了。本不想注册新号，左右脑互搏还是有新号了@mikulovermua 新号键政少，更从心所欲。葱是左翼建制派，支持CPC领导之PRC。本人非粉蛆，但自豪于做某些人嘴里的粉蛆。ally&非二元性别 勿忘我们的骄傲🏳️‍🌈stand with🇷🇺🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "葱娘酱巡回推友企划"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华人民共和国PRC",
+        "name": "赛高の葱娘酱miku🇨🇳（老资历粉区这一块）",
+        "pinned_tweet_id": "1976622533433753902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963590527884169217/v8IKTJnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 1241,
+          "like_count": 34350,
+          "listed_count": 30,
+          "media_count": 701,
+          "tweet_count": 8870
+        },
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

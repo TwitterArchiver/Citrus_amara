@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1983027310682091585",
+    "created_at": "2025-10-28T06:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T07:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983062721777283360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1016552943774920704",
+          "start": 0,
+          "username": "Akinoyo_"
+        },
+        {
+          "end": 25,
+          "id": "1816123872087007235",
+          "start": 10,
+          "username": "jim71351321670"
+        },
+        {
+          "end": 39,
+          "id": "1769078117052854272",
+          "start": 26,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983062721777283360",
+    "in_reply_to_user_id": "1016552943774920704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983041295888085439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_ @jim71351321670 @huahuojiang_ 好诡异"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983027310682091585",
+        "created_at": "2025-10-28T06:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983062721777283360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1016552943774920704",
+              "start": 0,
+              "username": "Akinoyo_"
+            },
+            {
+              "end": 25,
+              "id": "1816123872087007235",
+              "start": 10,
+              "username": "jim71351321670"
+            },
+            {
+              "end": 39,
+              "id": "1769078117052854272",
+              "start": 26,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983062721777283360",
+        "in_reply_to_user_id": "1016552943774920704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983041295888085439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_ @jim71351321670 @huahuojiang_ 好诡异"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1016552943774920704",
+        "conversation_id": "1983027310682091585",
+        "created_at": "2025-10-28T05:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983041295888085439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816123872087007235",
+              "start": 0,
+              "username": "jim71351321670"
+            },
+            {
+              "end": 29,
+              "id": "1769078117052854272",
+              "start": 16,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983041295888085439",
+        "in_reply_to_user_id": "1816123872087007235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983027310682091585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jim71351321670 @huahuojiang_ 其实只要再跟她多hi几次就原谅你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 635,
+          "like_count": 10188,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 4049
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-10T05:21:23.000Z",
+        "description": "死亡才是歸處/MTF/INFP/Overdose/剩下不知道寫什麼就這樣吧",
+        "id": "1016552943774920704",
+        "location": "天國",
+        "name": "仿生喹硫平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978517410857488384/TtfwoOdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 871,
+          "like_count": 1910,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 1212
+        },
+        "username": "Akinoyo_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T14:51:17.000Z",
+        "description": "Chinese/mnber/English/Japanese\n  平壤江東郡現任執事【2025-2028】\n主人：@xmin240286 \n第二書記：@yanshiyo\n第三書記：",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xmin240286"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "yanshiyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "admin.khh.travel",
+                "end": 23,
+                "expanded_url": "https://admin.khh.travel/",
+                "start": 0,
+                "url": "https://t.co/sr3UvrcjOD"
+              }
+            ]
+          }
+        },
+        "id": "1816123872087007235",
+        "location": "Pyongyang, North Korea",
+        "name": "Left Wilting🇨🇳🇹🇼【江東執事】（機械人bot）",
+        "pinned_tweet_id": "1981236242730844224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968738138823737344/_2fdpg7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 594,
+          "like_count": 12664,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 2504
+        },
+        "url": "https://t.co/sr3UvrcjOD",
+        "username": "jim71351321670",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1982404549160976560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6715,
+          "following_count": 3639,
+          "like_count": 96043,
+          "listed_count": 19,
+          "media_count": 5767,
+          "tweet_count": 84322
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

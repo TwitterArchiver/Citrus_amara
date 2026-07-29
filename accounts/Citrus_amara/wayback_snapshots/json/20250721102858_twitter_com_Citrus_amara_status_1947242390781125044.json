@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946869473195303314",
+    "created_at": "2025-07-21T10:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T11:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947242390781125044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882424383224029184",
+          "start": 0,
+          "username": "wanbodaoba"
+        },
+        {
+          "end": 25,
+          "id": "1762050911332081664",
+          "start": 12,
+          "username": "BucketFallen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947242390781125044",
+    "in_reply_to_user_id": "1882424383224029184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947231014381670712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanbodaoba @BucketFallen 哎呀我草赛博自杀这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946869473195303314",
+        "created_at": "2025-07-21T10:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T11:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947242390781125044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882424383224029184",
+              "start": 0,
+              "username": "wanbodaoba"
+            },
+            {
+              "end": 25,
+              "id": "1762050911332081664",
+              "start": 12,
+              "username": "BucketFallen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947242390781125044",
+        "in_reply_to_user_id": "1882424383224029184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947231014381670712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanbodaoba @BucketFallen 哎呀我草赛博自杀这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882424383224029184",
+        "conversation_id": "1946869473195303314",
+        "created_at": "2025-07-21T09:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T10:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947231014381670712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762050911332081664",
+              "start": 0,
+              "username": "BucketFallen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947231014381670712",
+        "in_reply_to_user_id": "1762050911332081664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947230518661067124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BucketFallen 错了，先打字写遗书，然后一个月不上线，基本你推文下全是晚安了，然后开新号嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。好感刷高了可以爆qq。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 87,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 249
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T13:45:41.000Z",
+        "description": "波波～我的弯刀会杀光所有人，手起刀落，多么爽快，",
+        "id": "1882424383224029184",
+        "name": "哥萨克",
+        "pinned_tweet_id": "1947173925802414318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947162127535329280/EJysv3TA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 59,
+          "like_count": 5626,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 98
+        },
+        "username": "wanbodaoba",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T09:44:15.000Z",
+        "description": "一个勤劳淳朴的进步湖北农民 🏳️‍⚧️Introvert nerd coomer edgylord loser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rez331.straw.page",
+                "end": 23,
+                "expanded_url": "https://rez331.straw.page",
+                "start": 0,
+                "url": "https://t.co/vHuBpTCNle"
+              }
+            ]
+          }
+        },
+        "id": "1762050911332081664",
+        "location": "18岁",
+        "name": "后退的进步b🏳️‍⚧️",
+        "pinned_tweet_id": "1946911640311755162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944810777480978433/VtKe9LuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 502,
+          "like_count": 1488,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1256
+        },
+        "url": "https://t.co/vHuBpTCNle",
+        "username": "BucketFallen",
+        "verified": false
+      }
+    ]
+  }
+}

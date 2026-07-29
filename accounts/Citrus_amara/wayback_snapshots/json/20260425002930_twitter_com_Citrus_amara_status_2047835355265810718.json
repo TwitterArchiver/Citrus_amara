@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2047835355265810718",
+    "created_at": "2026-04-25T00:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047835355265810718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2032985503621095424",
+          "start": 3,
+          "username": "jianxiexingnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047835355265810718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047719492332167283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianxiexingnb: 不得了，！这个，愈美普瑞禁售。我要，o，感康？操你妈。，我要，肝？衰竭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2047835355265810718",
+        "created_at": "2026-04-25T00:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047835355265810718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2032985503621095424",
+              "start": 3,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047835355265810718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047719492332167283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianxiexingnb: 不得了，！这个，愈美普瑞禁售。我要，o，感康？操你妈。，我要，肝？衰竭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2047719492332167283",
+        "created_at": "2026-04-24T16:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047719492332167283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047719492332167283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 449,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不得了，！这个，愈美普瑞禁售。我要，o，感康？操你妈。，我要，肝？衰竭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 1057,
+          "like_count": 19472,
+          "listed_count": 6,
+          "media_count": 402,
+          "tweet_count": 11032
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2047246833131675722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 69,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 172
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

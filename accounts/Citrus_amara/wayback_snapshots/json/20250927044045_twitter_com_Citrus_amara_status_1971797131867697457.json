@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1971336039320125680",
+    "created_at": "2025-09-27T04:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T05:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971797131867697457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1244916618758475777",
+          "start": 0,
+          "username": "mqc986"
+        },
+        {
+          "end": 16,
+          "id": "1433678976564662273",
+          "start": 8,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971797131867697457",
+    "in_reply_to_user_id": "1244916618758475777",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971429034321134017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mqc986 @hsn8086 ？😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1971336039320125680",
+        "created_at": "2025-09-27T04:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971797131867697457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1244916618758475777",
+              "start": 0,
+              "username": "mqc986"
+            },
+            {
+              "end": 16,
+              "id": "1433678976564662273",
+              "start": 8,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971797131867697457",
+        "in_reply_to_user_id": "1244916618758475777",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971429034321134017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mqc986 @hsn8086 ？😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244916618758475777",
+        "conversation_id": "1971336039320125680",
+        "created_at": "2025-09-26T04:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T05:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971429034321134017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971429034321134017",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 29287,
+          "like_count": 477,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971336039320125680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 可是吊毛的最大功能不就是洗澡的时候当打泡浴球吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 465,
+          "like_count": 7759,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 2894
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-31T09:17:17.000Z",
+        "description": "ncr",
+        "id": "1244916618758475777",
+        "name": "mqc986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1244916748328898560/y2n6q2EH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 64,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "username": "mqc986",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97448,
+          "following_count": 991,
+          "like_count": 44467,
+          "listed_count": 220,
+          "media_count": 16025,
+          "tweet_count": 23499
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

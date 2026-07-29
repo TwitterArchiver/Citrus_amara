@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1968087280536670689",
+    "created_at": "2025-09-17T13:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968304081136677227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692055372318773250",
+          "start": 0,
+          "username": "yjX1637538"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968304081136677227",
+    "in_reply_to_user_id": "1692055372318773250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968087280536670689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yjX1637538 1不认可\n2支持\n3是\n4不愿意\n5不希望任何人去卖淫\n6都有道理\n7不正确\n8威权的问题在于权威是错的时候，没有人可以纠正\n9是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1968087280536670689",
+        "created_at": "2025-09-17T13:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968304081136677227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692055372318773250",
+              "start": 0,
+              "username": "yjX1637538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968304081136677227",
+        "in_reply_to_user_id": "1692055372318773250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968087280536670689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yjX1637538 1不认可\n2支持\n3是\n4不愿意\n5不希望任何人去卖淫\n6都有道理\n7不正确\n8威权的问题在于权威是错的时候，没有人可以纠正\n9是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692055372318773250",
+        "conversation_id": "1968087280536670689",
+        "created_at": "2025-09-16T22:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T23:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968087280536670689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968087280536670689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "左人大检验:\n1，你认可中华民族吗？\n2，你支持民族自决政策吗?\n3，你认为苏联是修正主义吗?\n4，你愿意去实践共产主义吗?\n5，你支持女性卖淫吗?\n6，你认为人民史观正确还是英雄史观正确?\n7，你认为十年大革命正确吗?\n8，你认为权威是对的吗?\n9，你认为湾湾是否是地区政权?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 431,
+          "like_count": 6972,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 2630
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T06:07:14.000Z",
+        "description": "骂我的折戟把酒诗出声，美蝶美暮美佳人😹😹😹",
+        "id": "1692055372318773250",
+        "location": "距离0.1公里",
+        "name": "0721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824574771281137668/Mwztkqe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 530,
+          "like_count": 86370,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 6920
+        },
+        "username": "yjX1637538",
+        "verified": false
+      }
+    ]
+  }
+}

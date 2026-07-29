@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978726948076437504"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1978726955882041797",
+    "created_at": "2025-10-16T07:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T08:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978726955882041797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P0kT191KZs",
+          "end": 92,
+          "expanded_url": "https://x.com/Citrus_amara/status/1978726955882041797/photo/1",
+          "media_key": "3_1978726948076437504",
+          "start": 69,
+          "url": "https://t.co/P0kT191KZs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978726955882041797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "致幻剂，会让你陷入思维循环。如果做好引导的话，很好玩。\n不能舌下，dpt刺激性很强，并且舌下吸收也很差。\n什么意思？dpt不太会把你弄死 https://t.co/P0kT191KZs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978726948076437504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XZrO-WwAA3nQK.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978726948076437504"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1978726955882041797",
+        "created_at": "2025-10-16T07:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T08:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978726955882041797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0kT191KZs",
+              "end": 92,
+              "expanded_url": "https://x.com/Citrus_amara/status/1978726955882041797/photo/1",
+              "media_key": "3_1978726948076437504",
+              "start": 69,
+              "url": "https://t.co/P0kT191KZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978726955882041797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致幻剂，会让你陷入思维循环。如果做好引导的话，很好玩。\n不能舌下，dpt刺激性很强，并且舌下吸收也很差。\n什么意思？dpt不太会把你弄死 https://t.co/P0kT191KZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 583,
+          "like_count": 9132,
+          "listed_count": 4,
+          "media_count": 111,
+          "tweet_count": 3480
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

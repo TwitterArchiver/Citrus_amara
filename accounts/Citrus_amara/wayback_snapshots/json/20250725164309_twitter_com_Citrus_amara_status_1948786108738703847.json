@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948786108738703847",
+    "created_at": "2025-07-25T16:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T17:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948786108738703847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "994627597966368768",
+          "start": 3,
+          "username": "linear_27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948786108738703847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947761791322492974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linear_27: 看到相关推文有感而发，如果推友对容貌感到焦虑，不妨去试试找照相馆拍公式照，高妆和高p会让你的面部缺陷全部消失，身份证照片用这个就再也不怕开户\n\n这是大约一年前拍的诈骗证件照，实际本人比这憔悴一万倍。真有仇人来找我也只会蹲一个月没发现，在倒垃圾的时候…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 626,
+        "media_key": "3_1947761788336148481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwfXBtzbEAEeIQR.jpg",
+        "width": 413
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948786108738703847",
+        "created_at": "2025-07-25T16:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T17:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948786108738703847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "994627597966368768",
+              "start": 3,
+              "username": "linear_27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948786108738703847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947761791322492974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linear_27: 看到相关推文有感而发，如果推友对容貌感到焦虑，不妨去试试找照相馆拍公式照，高妆和高p会让你的面部缺陷全部消失，身份证照片用这个就再也不怕开户\n\n这是大约一年前拍的诈骗证件照，实际本人比这憔悴一万倍。真有仇人来找我也只会蹲一个月没发现，在倒垃圾的时候…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947761788336148481"
+          ]
+        },
+        "author_id": "994627597966368768",
+        "conversation_id": "1947761791322492974",
+        "created_at": "2025-07-22T20:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T21:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947761791322492974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/unvC8HrlBN",
+              "end": 163,
+              "expanded_url": "https://x.com/linear_27/status/1947761791322492974/photo/1",
+              "media_key": "3_1947761788336148481",
+              "start": 140,
+              "url": "https://t.co/unvC8HrlBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947761791322492974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4579,
+          "like_count": 74,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看到相关推文有感而发，如果推友对容貌感到焦虑，不妨去试试找照相馆拍公式照，高妆和高p会让你的面部缺陷全部消失，身份证照片用这个就再也不怕开户\n\n这是大约一年前拍的诈骗证件照，实际本人比这憔悴一万倍。真有仇人来找我也只会蹲一个月没发现，在倒垃圾的时候问我妹子你见过照片上这个表字吗 https://t.co/unvC8HrlBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 142,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 427
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-10T17:17:53.000Z",
+        "description": "雑多垢 | 秘封病",
+        "id": "994627597966368768",
+        "location": "靜かな海",
+        "name": "カズネ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914348930747568129/bEcQDY9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 579,
+          "like_count": 18259,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 2863
+        },
+        "username": "linear_27",
+        "verified": false
+      }
+    ]
+  }
+}

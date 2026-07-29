@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1989925818038919294",
+    "created_at": "2025-11-16T06:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T07:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989942526078488799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1266194760651337728",
+          "start": 0,
+          "username": "Aulosta0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989942526078488799",
+    "in_reply_to_user_id": "1266194760651337728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989934215308423421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aulosta0101 甘草片啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1989925818038919294",
+        "created_at": "2025-11-16T06:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989942526078488799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1266194760651337728",
+              "start": 0,
+              "username": "Aulosta0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989942526078488799",
+        "in_reply_to_user_id": "1266194760651337728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989934215308423421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aulosta0101 甘草片啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266194760651337728",
+        "conversation_id": "1989925818038919294",
+        "created_at": "2025-11-16T05:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989934215308423421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989934215308423421",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989925818038919294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 宝宝在买什么呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 758,
+          "like_count": 11944,
+          "listed_count": 4,
+          "media_count": 174,
+          "tweet_count": 4997
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T02:29:24.000Z",
+        "description": "低浮上｜20↑成人 DBD🔪👻/OW🪷中文⭕ENG⭕\n如果需要知道的话我是沙弗莱｜INFP｜极光岛系统｜osdd-1b｜od｜大量负面内容｜玉玉角铝爆炸中｜喜欢和我互动的所有人",
+        "id": "1266194760651337728",
+        "name": "Tsavorite26",
+        "pinned_tweet_id": "1975460077068034528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975460367687147520/F_U_PkP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 282,
+          "like_count": 1283,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 145
+        },
+        "username": "Aulosta0101",
+        "verified": false
+      }
+    ]
+  }
+}

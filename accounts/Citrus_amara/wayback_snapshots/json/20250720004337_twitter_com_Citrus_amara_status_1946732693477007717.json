@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946732693477007717",
+    "created_at": "2025-07-20T00:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T01:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946732693477007717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705309152791117824",
+          "start": 3,
+          "username": "duyuming6489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946732693477007717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946099859825537076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duyuming6489: 霹雳霹雳绝对是全⏰最性压抑的平台，随便一个女的  高中生的身份就能恰烂钱到饱，把所有苦心做视频的人给埋没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946732693477007717",
+        "created_at": "2025-07-20T00:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T01:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946732693477007717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705309152791117824",
+              "start": 3,
+              "username": "duyuming6489"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946732693477007717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946099859825537076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duyuming6489: 霹雳霹雳绝对是全⏰最性压抑的平台，随便一个女的  高中生的身份就能恰烂钱到饱，把所有苦心做视频的人给埋没了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705309152791117824",
+        "conversation_id": "1946099859825537076",
+        "created_at": "2025-07-18T06:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T07:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946099859825537076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946099859825537076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 78362,
+          "like_count": 927,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "霹雳霹雳绝对是全⏰最性压抑的平台，随便一个女的  高中生的身份就能恰烂钱到饱，把所有苦心做视频的人给埋没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别。\n互fo。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 77,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 158
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T19:52:55.000Z",
+        "description": "改行影评推 特摄  美漫 西部 岁静小号：",
+        "id": "1705309152791117824",
+        "location": "伤心坡公墓",
+        "name": "杜聿明谈8964（冰封中）",
+        "pinned_tweet_id": "1862871214135668746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946543333037244416/0CdlU3bL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 368,
+          "like_count": 2457,
+          "listed_count": 7,
+          "media_count": 956,
+          "tweet_count": 5976
+        },
+        "username": "duyuming6489",
+        "verified": false
+      }
+    ]
+  }
+}

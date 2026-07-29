@@ -1,0 +1,593 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965149088292519936"
+      ],
+      "media_source_tweet_id": [
+        "1965149690678407539"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1469040355840462848",
+          "name": "Hollow Knight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403407197669715972",
+          "name": "Indie games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1469040355840462848",
+          "name": "Hollow Knight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491901038063878146",
+          "name": "Metroidvanias"
+        }
+      }
+    ],
+    "conversation_id": "1965231383351275587",
+    "created_at": "2025-09-09T01:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T02:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965231383351275587"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 12,
+          "tag": "Silksong"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "124525580",
+          "start": 3,
+          "username": "orobou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rMYDmjIHYe",
+          "end": 45,
+          "expanded_url": "https://x.com/orobou/status/1965149690678407539/photo/1",
+          "media_key": "3_1965149088292519936",
+          "start": 22,
+          "url": "https://t.co/rMYDmjIHYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965231383351275587",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 335
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965149690678407539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orobou: #Silksong https://t.co/rMYDmjIHYe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1965149088292519936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0WcrxpbwAAnYMj.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965149088292519936"
+          ],
+          "media_source_tweet_id": [
+            "1965149690678407539"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491901038063878146",
+              "name": "Metroidvanias"
+            }
+          }
+        ],
+        "conversation_id": "1965231383351275587",
+        "created_at": "2025-09-09T01:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T02:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965231383351275587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "Silksong"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "124525580",
+              "start": 3,
+              "username": "orobou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMYDmjIHYe",
+              "end": 45,
+              "expanded_url": "https://x.com/orobou/status/1965149690678407539/photo/1",
+              "media_key": "3_1965149088292519936",
+              "start": 22,
+              "url": "https://t.co/rMYDmjIHYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965231383351275587",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 335
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965149690678407539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orobou: #Silksong https://t.co/rMYDmjIHYe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965149088292519936"
+          ]
+        },
+        "author_id": "124525580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491901038063878146",
+              "name": "Metroidvanias"
+            }
+          }
+        ],
+        "conversation_id": "1965149690678407539",
+        "created_at": "2025-09-08T20:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T21:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965149690678407539"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "Silksong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMYDmjIHYe",
+              "end": 33,
+              "expanded_url": "https://x.com/orobou/status/1965149690678407539/photo/1",
+              "media_key": "3_1965149088292519936",
+              "start": 10,
+              "url": "https://t.co/rMYDmjIHYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965149690678407539",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 434,
+          "impression_count": 27786,
+          "like_count": 4046,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 335
+        },
+        "reply_settings": "everyone",
+        "text": "#Silksong https://t.co/rMYDmjIHYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 410,
+          "like_count": 6258,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 2410
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-19T17:48:11.000Z",
+        "description": "illustrator (alt @orovt) / designed @dooby3D🚃\nhttps://t.co/EKTx38DmnN https://t.co/DWhDuQYEOV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "orovt"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "dooby3D"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "subscribestar.adult/orobou",
+                "end": 69,
+                "expanded_url": "http://subscribestar.adult/orobou",
+                "start": 46,
+                "url": "https://t.co/EKTx38DmnN"
+              },
+              {
+                "display_url": "patreon.com/orobou",
+                "end": 93,
+                "expanded_url": "https://www.patreon.com/orobou",
+                "start": 70,
+                "url": "https://t.co/DWhDuQYEOV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/orobou",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/orobou",
+                "start": 0,
+                "url": "https://t.co/u0yNob6HNt"
+              }
+            ]
+          }
+        },
+        "id": "124525580",
+        "location": "異世界だったらいいなー",
+        "name": "Oro",
+        "pinned_tweet_id": "1963642982860804400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876491547643920384/cUf_9wM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143590,
+          "following_count": 979,
+          "like_count": 8786,
+          "listed_count": 793,
+          "media_count": 587,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/u0yNob6HNt",
+        "username": "orobou",
+        "verified": true
+      }
+    ]
+  }
+}

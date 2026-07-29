@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2018467134465290691",
+    "created_at": "2026-02-03T00:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018482310903959754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1199755609299505153",
+          "start": 0,
+          "username": "SiKongYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018482310903959754",
+    "in_reply_to_user_id": "1199755609299505153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018480800128532592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SiKongYun 放弃追责就没事了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018467134465290691",
+        "created_at": "2026-02-03T00:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018482310903959754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1199755609299505153",
+              "start": 0,
+              "username": "SiKongYun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018482310903959754",
+        "in_reply_to_user_id": "1199755609299505153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018480800128532592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiKongYun 放弃追责就没事了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199755609299505153",
+        "conversation_id": "2018467134465290691",
+        "created_at": "2026-02-03T00:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018480800128532592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018480800128532592",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018467134465290691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 他爹妈不是放弃追责了吗？还能有啥事～按黑皮的多一事不如少一事习惯现在该结案销户了～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 996,
+          "like_count": 16322,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 8680
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-27T18:23:38.000Z",
+        "description": "一只武汉死宅药娘，兔子饲养员@yukiusagidaze\n 不定期谜语、玉玉、自恋、色色、自闭、暴躁、发癫。别给我发奇怪的私信，🚪88打钱陪聊ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "yukiusagidaze"
+              }
+            ]
+          }
+        },
+        "id": "1199755609299505153",
+        "location": "三十三天-上大赤天 太清仙境 大赤天宫",
+        "name": "司空云",
+        "pinned_tweet_id": "1592978768964243456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016171120756719616/sroOeCWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17739,
+          "following_count": 1760,
+          "like_count": 78829,
+          "listed_count": 32,
+          "media_count": 8030,
+          "tweet_count": 39841
+        },
+        "username": "SiKongYun",
+        "verified": false
+      }
+    ]
+  }
+}

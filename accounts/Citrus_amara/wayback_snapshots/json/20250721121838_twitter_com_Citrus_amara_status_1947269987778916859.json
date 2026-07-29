@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947269700553240802",
+    "created_at": "2025-07-21T12:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947269987778916859"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947269987778916859",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947269700553240802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至少这几个都眼熟是吧。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1947269697122242560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwYXePLakAAHVau.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947269700553240802",
+        "created_at": "2025-07-21T12:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947269987778916859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947269987778916859",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947269700553240802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至少这几个都眼熟是吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947269697122242560"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947269700553240802",
+        "created_at": "2025-07-21T12:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947269700553240802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1448187795571286017",
+              "start": 22,
+              "username": "shuiyebush1"
+            },
+            {
+              "end": 44,
+              "id": "1697580552793051136",
+              "start": 35,
+              "username": "yyc20090"
+            },
+            {
+              "end": 64,
+              "id": "1762050911332081664",
+              "start": 51,
+              "username": "BucketFallen"
+            },
+            {
+              "end": 83,
+              "id": "1882936483662663680",
+              "start": 71,
+              "username": "jngyn298282"
+            },
+            {
+              "end": 96,
+              "id": "1889235272560488448",
+              "start": 84,
+              "username": "Haiki_Yuuki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 124,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1945321974923976704/Hclu7Ckx?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945321974923976704/Hclu7Ckx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/rFAg335Co5"
+            },
+            {
+              "display_url": "pic.x.com/paXdMEyB1R",
+              "end": 148,
+              "expanded_url": "https://x.com/Citrus_amara/status/1947269700553240802/photo/1",
+              "media_key": "3_1947269697122242560",
+              "start": 125,
+              "url": "https://t.co/paXdMEyB1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947269700553240802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @shuiyebush1 @yyc20090\n👰 配偶: @BucketFallen\n👶 孩子: @jngyn298282 @Haiki_Yuuki\n\n➡️ https://t.co/rFAg335Co5 https://t.co/paXdMEyB1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 96,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 257
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

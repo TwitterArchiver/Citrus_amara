@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2013169988098486628",
+    "created_at": "2026-01-19T08:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T09:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013169988098486628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lin_dialog/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/lin_dialog/status/2012576672457855314",
+          "start": 29,
+          "url": "https://t.co/mBbVxc5Vjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013169988098486628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012576672457855314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在巨他妈想去。我不想去是因为我觉得精神科都是傻逼。。 https://t.co/mBbVxc5Vjx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2013169988098486628",
+        "created_at": "2026-01-19T08:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T09:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013169988098486628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lin_dialog/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/lin_dialog/status/2012576672457855314",
+              "start": 29,
+              "url": "https://t.co/mBbVxc5Vjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013169988098486628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012576672457855314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在巨他妈想去。我不想去是因为我觉得精神科都是傻逼。。 https://t.co/mBbVxc5Vjx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2012576672457855314",
+        "created_at": "2026-01-17T17:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T18:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012576672457855314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012576672457855314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 11344,
+          "like_count": 138,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有些哲学家宁愿自杀 也不去看心理医生？\n他们无疑是聪明的，难道他们不知道医学能将他们变“正常”吗？\n柯本遗书里写道：与其苟延残喘，不如燃烧殆尽\n我觉得很贴切，他们知道医学可以将自己治愈 由此变成一个贴合社会的人，然后与世界数亿人一般苟延残喘，但这还是他们吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "谁的橙子？\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "超级苦苦苦苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 993,
+          "like_count": 15738,
+          "listed_count": 5,
+          "media_count": 309,
+          "tweet_count": 8259
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜more moots!｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信 选拒",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011688510689001472/Jxs1mRH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 180,
+          "like_count": 806,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1473
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1969387293493375088",
+    "created_at": "2025-09-20T13:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T14:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969387293493375088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CPUP2024/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/CPUP2024/status/1969020797764431990",
+          "start": 6,
+          "url": "https://t.co/VvTmWT1h10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969387293493375088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969020797764431990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是毕业了吗 https://t.co/VvTmWT1h10"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1969387293493375088",
+        "created_at": "2025-09-20T13:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T14:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969387293493375088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CPUP2024/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/CPUP2024/status/1969020797764431990",
+              "start": 6,
+              "url": "https://t.co/VvTmWT1h10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969387293493375088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969020797764431990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是毕业了吗 https://t.co/VvTmWT1h10"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799308675158605825",
+        "conversation_id": "1969020797764431990",
+        "created_at": "2025-09-19T12:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969020797764431990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969020797764431990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 34702,
+          "like_count": 167,
+          "quote_count": 17,
+          "reply_count": 77,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我的某些粉红思想正在褪色，我觉得我应该坦诚的告诉大家。\n在一些思考和一些事情后，我有了些改变。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 441,
+          "like_count": 7196,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 2707
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "#葱娘酱巡回推友企划 此为原建制派bot号，原号没了。本不想注册新号，左右脑互搏还是有新号了@mikulovermua 新号键政少，更从心所欲。葱是左翼建制派，支持CPC领导之PRC。本人非粉蛆，但骄傲于做某些人嘴里的粉蛆。ally&非二元性别 勿忘我们的骄傲🏳️‍🌈stand with🇷🇺🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "葱娘酱巡回推友企划"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华人民共和国PRC",
+        "name": "赛高の葱娘酱miku🇨🇳",
+        "pinned_tweet_id": "1968261955849957687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963590527884169217/v8IKTJnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 1203,
+          "like_count": 33607,
+          "listed_count": 33,
+          "media_count": 676,
+          "tweet_count": 8628
+        },
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

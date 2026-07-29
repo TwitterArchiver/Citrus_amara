@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952376228851433613",
+    "created_at": "2025-08-25T12:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T13:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959961155826270676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "1609844142313553921",
+          "start": 6,
+          "username": "Nijika_overdose"
+        },
+        {
+          "end": 34,
+          "id": "1617685747116675073",
+          "start": 23,
+          "username": "_mucha_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959961155826270676",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952383178091745712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @Nijika_overdose @_mucha_000 我不行了我怎么是宠物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952376228851433613",
+        "created_at": "2025-08-25T12:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T13:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959961155826270676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1609844142313553921",
+              "start": 6,
+              "username": "Nijika_overdose"
+            },
+            {
+              "end": 34,
+              "id": "1617685747116675073",
+              "start": 23,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959961155826270676",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952383178091745712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @Nijika_overdose @_mucha_000 我不行了我怎么是宠物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1952376228851433613",
+        "created_at": "2025-08-04T14:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952383178091745712"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 203,
+              "start": 194,
+              "tag": "INSANITY"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609844142313553921",
+              "start": 0,
+              "username": "Nijika_overdose"
+            },
+            {
+              "end": 28,
+              "id": "1617685747116675073",
+              "start": 17,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952383178091745712",
+        "in_reply_to_user_id": "1609844142313553921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 174,
+                "start": 165,
+                "tag": "INSANITY"
+              }
+            ]
+          },
+          "text": "_mucha_000 根据你的互关和互动排名，以下是家庭构成（仅用昵称）：\n\n父亲：Ijichi Nijika overdose  \n母亲：6orn3MO4ever  \n哥哥：Rollingirl.  \n弟弟：花死亡  \n姐姐：Star Neko🪼  \n妹妹：浅羽笠井子  \n死党：众神的阿优咪  \n朋友：住在星期八的柏树7.0【#INSANITY】  \n宠物：🍊苦橙🍊  \n恋人：VonLinne(四号机)  \n死党：生贄  \n老师：💊爱德华 gen4 转生体  \n前辈：✩带着蝴蝶结的魔法豚鼠₊⁺  \n后辈：穗_我爱你🏳️‍⚧️💛🤍💜🖤  \n一生一世的对手：VVV"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952382158351606101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_overdose @_mucha_000 _mucha_000 根据你的互关和互动排名，以下是家庭构成（仅用昵称）：\n\n父亲：Ijichi Nijika overdose  \n母亲：6orn3MO4ever  \n哥哥：Rollingirl.  \n弟弟：花死亡  \n姐姐：Star Neko🪼  \n妹妹：浅羽笠井子  \n死党：众神的阿优咪  \n朋友：住在星期八的柏树7.0【#INSANITY】  \n宠物：🍊苦橙🍊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby。od的请陪我玩。#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论\n我爱你们",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 389,
+          "like_count": 4376,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1743
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6081551,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 4799,
+          "media_count": 2584608,
+          "tweet_count": 41606261
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "💛🤍💜🖤丨这是什么？@Nijika_Dark",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Nijika_Dark"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "参宿四",
+        "name": "Ijichi Nijika overdose",
+        "pinned_tweet_id": "1945857232505094599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717189338696761344/IAcPRhA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 217,
+          "like_count": 2821,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 1984
+        },
+        "username": "Nijika_overdose",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "=牧雨║VocaloidP🤍Composer💙MUG🩶Music Anim🩵Psychoanalysis＆Psychopharmacolog🖤Chemistry║Love Pays for Itself║妹@molmolxing /姐@elsa_yrt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "molmolxing"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "elsa_yrt"
+              }
+            ]
+          }
+        },
+        "id": "1617685747116675073",
+        "name": "旋宫牧雨",
+        "pinned_tweet_id": "1957029397401374776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912839022357200896/yPcAZxE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 717,
+          "like_count": 54449,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 8031
+        },
+        "username": "_mucha_000",
+        "verified": true
+      }
+    ]
+  }
+}

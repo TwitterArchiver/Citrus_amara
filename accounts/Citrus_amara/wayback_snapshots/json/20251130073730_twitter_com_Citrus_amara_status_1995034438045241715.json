@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1995034438045241715",
+    "created_at": "2025-11-30T07:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T08:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995034438045241715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/T8O9K6Y4O/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/T8O9K6Y4O/status/1995026331730678168",
+          "start": 22,
+          "url": "https://t.co/TukKLEL9h4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995034438045241715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995026331730678168",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "除了性和自残之外我感觉我都齐了。唉跨出苦橙 https://t.co/TukKLEL9h4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1995034438045241715",
+        "created_at": "2025-11-30T07:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995034438045241715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/T8O9K6Y4O/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/T8O9K6Y4O/status/1995026331730678168",
+              "start": 22,
+              "url": "https://t.co/TukKLEL9h4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995034438045241715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995026331730678168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了性和自残之外我感觉我都齐了。唉跨出苦橙 https://t.co/TukKLEL9h4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909553877739085825",
+        "conversation_id": "1995026331730678168",
+        "created_at": "2025-11-30T07:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995026331730678168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995026331730678168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 220,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：跨出之所以能被称为跨出是因为和跨性别者的区别在于他们包括但不限于存在乱交，性交易，自残，抑郁症，躁郁症，仇恨原生家庭，常识缺失，智力障碍，过度用药，精神病等现象。他们的这些行为完全是在给普通跨性别者和单纯喜欢女装的男生招黑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 878,
+          "like_count": 13488,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 5964
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "🇯🇵東京在住｜🌊冲浪乐子人｜无政治立场｜日本語勉強中｜東雪蓮推し｜喜欢女装（不是跨）｜舞萌痴｜极端魔怔人会b｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/3nPaPIv",
+                "end": 23,
+                "expanded_url": "https://b23.tv/3nPaPIv",
+                "start": 0,
+                "url": "https://t.co/WHM5vAWoaJ"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "Toshima-ku, Tokyo",
+        "name": "抽象イェーガー",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978027432801398784/oPvsfquH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8607,
+          "following_count": 681,
+          "like_count": 1090,
+          "listed_count": 37,
+          "media_count": 600,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/WHM5vAWoaJ",
+        "username": "T8O9K6Y4O",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074850114473230336"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074852307548909572",
+    "created_at": "2026-07-08T13:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074852307548909572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qdHvWJrJ2F",
+          "end": 155,
+          "expanded_url": "https://x.com/Citrus_amara/status/2074852307548909572/photo/1",
+          "media_key": "3_2074850114473230336",
+          "start": 132,
+          "url": "https://t.co/qdHvWJrJ2F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074852307548909572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精品神药榜单里的都挺好吃的（乐）\n\n哌甲酯很适合工作，滥用的话请嚼碎吃，一般吃半t，吃完之后可以很容易地进入心流，不过心脏会有点难受。\n思诺思，伟大无需多言。去抑制，轻微的外幻，顺行性遗忘。用于安眠也很好用，起效快无残留。扎来普隆适合安眠不适合od。\n（1/2） https://t.co/qdHvWJrJ2F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2074850114473230336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtZL6NbAAA7r-g.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074850114473230336"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074852307548909572",
+        "created_at": "2026-07-08T13:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074852307548909572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qdHvWJrJ2F",
+              "end": 155,
+              "expanded_url": "https://x.com/Citrus_amara/status/2074852307548909572/photo/1",
+              "media_key": "3_2074850114473230336",
+              "start": 132,
+              "url": "https://t.co/qdHvWJrJ2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074852307548909572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精品神药榜单里的都挺好吃的（乐）\n\n哌甲酯很适合工作，滥用的话请嚼碎吃，一般吃半t，吃完之后可以很容易地进入心流，不过心脏会有点难受。\n思诺思，伟大无需多言。去抑制，轻微的外幻，顺行性遗忘。用于安眠也很好用，起效快无残留。扎来普隆适合安眠不适合od。\n（1/2） https://t.co/qdHvWJrJ2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/od/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 1152,
+          "like_count": 20972,
+          "listed_count": 5,
+          "media_count": 431,
+          "tweet_count": 11747
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

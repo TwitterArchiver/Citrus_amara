@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1978820309177241675",
+    "created_at": "2025-10-16T13:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T14:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978820309177241675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        },
+        {
+          "end": 129,
+          "id": "1879395690230738944",
+          "start": 116,
+          "username": "Psych_Angel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978820309177241675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978701629542006878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: 求求你们不要再吃亚硝酸钠了，真的一点都不无痛，而是剧痛。除了图片里说的我还补充一点，身体可能会因为觉得你药物过量而产生呕吐物，但此时你已经肌肉痉挛了没办法吐出来，所以会被呕吐物活活憋死。图来自 @Psych_Angel_ https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978701618662297600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XCo3jbUAAxom1.jpg",
+        "width": 867
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978701618695843840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XCo3rbMAABoZd.jpg",
+        "width": 867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1978820309177241675",
+        "created_at": "2025-10-16T13:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978820309177241675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 129,
+              "id": "1879395690230738944",
+              "start": 116,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978820309177241675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978701629542006878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: 求求你们不要再吃亚硝酸钠了，真的一点都不无痛，而是剧痛。除了图片里说的我还补充一点，身体可能会因为觉得你药物过量而产生呕吐物，但此时你已经肌肉痉挛了没办法吐出来，所以会被呕吐物活活憋死。图来自 @Psych_Angel_ https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978701618662297600",
+            "3_1978701618695843840"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978701629542006878",
+        "created_at": "2025-10-16T05:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978701629542006878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 110,
+              "id": "1879395690230738944",
+              "start": 97,
+              "username": "Psych_Angel_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivN3PaDmtx",
+              "end": 134,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1978701629542006878/photo/1",
+              "media_key": "3_1978701618662297600",
+              "start": 111,
+              "url": "https://t.co/ivN3PaDmtx"
+            },
+            {
+              "display_url": "pic.x.com/ivN3PaDmtx",
+              "end": 134,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1978701629542006878/photo/1",
+              "media_key": "3_1978701618695843840",
+              "start": 111,
+              "url": "https://t.co/ivN3PaDmtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978701629542006878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3698,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "求求你们不要再吃亚硝酸钠了，真的一点都不无痛，而是剧痛。除了图片里说的我还补充一点，身体可能会因为觉得你药物过量而产生呕吐物，但此时你已经肌肉痉挛了没办法吐出来，所以会被呕吐物活活憋死。图来自 @Psych_Angel_ https://t.co/ivN3PaDmtx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 586,
+          "like_count": 9203,
+          "listed_count": 4,
+          "media_count": 113,
+          "tweet_count": 3498
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1978721972730151397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10307,
+          "following_count": 1025,
+          "like_count": 22480,
+          "listed_count": 10,
+          "media_count": 3743,
+          "tweet_count": 23525
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜💊#Drugtwt｜BD/DPDR｜soulmate:@BelovedUren8964｜🍧:@Chufeinya 🍜:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6thcutek1tten1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/6thcutek1tten1",
+                "start": 0,
+                "url": "https://t.co/nRpYRqPkdm"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "1978107837193523387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971805789750022147/X3CZsxHf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 598,
+          "like_count": 15934,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 6867
+        },
+        "url": "https://t.co/nRpYRqPkdm",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

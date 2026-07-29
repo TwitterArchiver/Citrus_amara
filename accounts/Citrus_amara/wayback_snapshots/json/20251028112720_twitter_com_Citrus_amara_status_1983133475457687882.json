@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1983133443627102208"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1983133475457687882",
+    "created_at": "2025-10-28T11:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T12:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983133475457687882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lCjXj0IcGK",
+          "end": 31,
+          "expanded_url": "https://x.com/Citrus_amara/status/1983133475457687882/video/1",
+          "media_key": "7_1983133443627102208",
+          "start": 8,
+          "url": "https://t.co/lCjXj0IcGK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983133475457687882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是不是没传上去 https://t.co/lCjXj0IcGK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6955,
+        "height": 720,
+        "media_key": "7_1983133443627102208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983133443627102208/pu/img/zdxi5QGlfm5itDZD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983133443627102208/pu/vid/avc1/480x270/iI8VZMpW63MhUD6S.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983133443627102208/pu/vid/avc1/640x360/iJY7S1gNuorjRNbd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983133443627102208/pu/vid/avc1/1280x720/BHnMBxadvEjoZ4WG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983133443627102208/pu/pl/eJrlgi4MwBZuXlm7.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983133443627102208"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983133475457687882",
+        "created_at": "2025-10-28T11:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983133475457687882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCjXj0IcGK",
+              "end": 31,
+              "expanded_url": "https://x.com/Citrus_amara/status/1983133475457687882/video/1",
+              "media_key": "7_1983133443627102208",
+              "start": 8,
+              "url": "https://t.co/lCjXj0IcGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983133475457687882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是没传上去 https://t.co/lCjXj0IcGK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 635,
+          "like_count": 10219,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 4074
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

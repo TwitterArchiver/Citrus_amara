@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2079549450079670411",
+    "created_at": "2026-07-21T12:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079549450079670411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bocchi_Kk1/sta…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/Bocchi_Kk1/status/2079525116011315536",
+          "start": 66,
+          "url": "https://t.co/QuB1ClyQXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079549450079670411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079525116011315536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吗啡口服的起效剂量大约是10mg。对于阿片不敏感的人来说可能20mg才能有明显感觉。\n\n另，药典标准是0.02到0.15mg/L。 https://t.co/QuB1ClyQXX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2079523878414786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvz8xrbIAAPAL0.png",
+        "width": 1380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2079549450079670411",
+        "created_at": "2026-07-21T12:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079549450079670411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bocchi_Kk1/sta…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Bocchi_Kk1/status/2079525116011315536",
+              "start": 66,
+              "url": "https://t.co/QuB1ClyQXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079549450079670411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079525116011315536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吗啡口服的起效剂量大约是10mg。对于阿片不敏感的人来说可能20mg才能有明显感觉。\n\n另，药典标准是0.02到0.15mg/L。 https://t.co/QuB1ClyQXX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079523878414786560"
+          ]
+        },
+        "author_id": "1810616157059301376",
+        "conversation_id": "2079525116011315536",
+        "created_at": "2026-07-21T11:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079525116011315536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ROYph9d9aZ",
+              "end": 159,
+              "expanded_url": "https://x.com/Bocchi_Kk1/status/2079525116011315536/photo/1",
+              "media_key": "3_2079523878414786560",
+              "start": 136,
+              "url": "https://t.co/ROYph9d9aZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079525116011315536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 93,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强力枇杷露或许是一个很好的阿片类药物(前提是能忍着恶心喝下去)，一项研究可以说明每100mL强力枇杷露有着4mg的吗啡，pdd上售价也很便宜，该研究检测了12批无糖型强力枇杷露样品，测得其吗啡的平均含量为0.0402 mg/mL\n期刊：《中药材》2024年第47卷第7期 https://t.co/ROYph9d9aZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "shsh548866"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 1191,
+          "like_count": 21140,
+          "listed_count": 5,
+          "media_count": 442,
+          "tweet_count": 11845
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T10:05:14.000Z",
+        "description": "09/od/互fo/中抑中焦",
+        "id": "1810616157059301376",
+        "location": "你家",
+        "name": "可爱波奇大王💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051336863353536512/Wq2rULBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 126,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "Bocchi_Kk1",
+        "verified": false
+      }
+    ]
+  }
+}

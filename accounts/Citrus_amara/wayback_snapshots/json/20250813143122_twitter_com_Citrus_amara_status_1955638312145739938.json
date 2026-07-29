@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1955638312145739938",
+    "created_at": "2025-08-13T14:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955638312145739938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dingyi/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/dingyi/status/1955484017157083259",
+          "start": 7,
+          "url": "https://t.co/uEYqUhym33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955638312145739938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955484017157083259",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么久了啊。 https://t.co/uEYqUhym33"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_1955482774514905088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNFOQtbMAALasC.jpg",
+        "width": 1050
+      },
+      {
+        "height": 450,
+        "media_key": "3_1955482774565195776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNFOQ5akAA9lOT.jpg",
+        "width": 600
+      },
+      {
+        "height": 700,
+        "media_key": "3_1955482774594633728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNFORAbwAAR3B-.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1955638312145739938",
+        "created_at": "2025-08-13T14:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955638312145739938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dingyi/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/dingyi/status/1955484017157083259",
+              "start": 7,
+              "url": "https://t.co/uEYqUhym33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955638312145739938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955484017157083259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么久了啊。 https://t.co/uEYqUhym33"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955482774514905088",
+            "3_1955482774565195776",
+            "3_1955482774594633728"
+          ]
+        },
+        "author_id": "50683",
+        "conversation_id": "1955484017157083259",
+        "created_at": "2025-08-13T04:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955484017157083259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEH3FseEMM",
+              "end": 48,
+              "expanded_url": "https://x.com/dingyi/status/1955484017157083259/photo/1",
+              "media_key": "3_1955482774514905088",
+              "start": 25,
+              "url": "https://t.co/XEH3FseEMM"
+            },
+            {
+              "display_url": "pic.x.com/XEH3FseEMM",
+              "end": 48,
+              "expanded_url": "https://x.com/dingyi/status/1955484017157083259/photo/1",
+              "media_key": "3_1955482774565195776",
+              "start": 25,
+              "url": "https://t.co/XEH3FseEMM"
+            },
+            {
+              "display_url": "pic.x.com/XEH3FseEMM",
+              "end": 48,
+              "expanded_url": "https://x.com/dingyi/status/1955484017157083259/photo/1",
+              "media_key": "3_1955482774594633728",
+              "start": 25,
+              "url": "https://t.co/XEH3FseEMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955484017157083259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 50737,
+          "like_count": 390,
+          "quote_count": 10,
+          "reply_count": 27,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "天津大爆炸，整整十周年了。（2015.8.12） https://t.co/XEH3FseEMM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 329,
+          "like_count": 2823,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1225
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2006-12-08T15:10:12.000Z",
+        "description": "Design Newsletter ‣ https://t.co/f9dMX5LXfz\nDesign Engineer News ‣ https://t.co/qmrK2xQOz8\nPromote your product: dingyi@me.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "quaily.com/dingyi",
+                "end": 43,
+                "expanded_url": "https://quaily.com/dingyi",
+                "start": 20,
+                "url": "https://t.co/f9dMX5LXfz"
+              },
+              {
+                "display_url": "news.dex.group",
+                "end": 90,
+                "expanded_url": "https://news.dex.group/",
+                "start": 67,
+                "url": "https://t.co/qmrK2xQOz8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ding.one",
+                "end": 23,
+                "expanded_url": "http://ding.one",
+                "start": 0,
+                "url": "https://t.co/cf71jdxlkm"
+              }
+            ]
+          }
+        },
+        "id": "50683",
+        "location": " Tianjin",
+        "name": "ding.one",
+        "pinned_tweet_id": "1923527056857628747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508523236560027650/DA1UcGmv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163573,
+          "following_count": 4567,
+          "like_count": 4088,
+          "listed_count": 525,
+          "media_count": 2097,
+          "tweet_count": 54014
+        },
+        "url": "https://t.co/cf71jdxlkm",
+        "username": "dingyi",
+        "verified": true
+      }
+    ]
+  }
+}

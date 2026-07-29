@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1962834880972075323",
+    "created_at": "2025-09-02T11:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T12:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962834880972075323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sunxianghui41/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/sunxianghui41/status/1962791272092963297",
+          "start": 8,
+          "url": "https://t.co/fuXy3gnaVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962834880972075323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962791272092963297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我很厉害了✌ https://t.co/fuXy3gnaVj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1962834880972075323",
+        "created_at": "2025-09-02T11:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T12:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962834880972075323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sunxianghui41/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/sunxianghui41/status/1962791272092963297",
+              "start": 8,
+              "url": "https://t.co/fuXy3gnaVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962834880972075323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962791272092963297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我很厉害了✌ https://t.co/fuXy3gnaVj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521283085777575936",
+        "conversation_id": "1962672896506995167",
+        "created_at": "2025-09-02T08:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962791272092963297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1117644610396778501",
+              "start": 0,
+              "username": "canderyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962791272092963297",
+        "in_reply_to_user_id": "1117644610396778501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962782930373353829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canderyy 问题在于，如果真的是精神病症状\n正常的女生男生不可能考入大学\n高三的压力是巨大的\n正常人都有可能承受不住\n我不相信抑郁症精神病能承受住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 385,
+          "like_count": 5614,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 2169
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T00:18:56.000Z",
+        "description": "不敢沾染佛前茶\n只道最是人间不能留",
+        "id": "1521283085777575936",
+        "location": "Tianjin",
+        "name": "孤影客",
+        "pinned_tweet_id": "1962754123838726332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908871679968993281/W2zjXUts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 58,
+          "like_count": 6407,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 4428
+        },
+        "username": "sunxianghui41",
+        "verified": false
+      }
+    ]
+  }
+}

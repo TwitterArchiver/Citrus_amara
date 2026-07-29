@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1952281835091935708",
+    "created_at": "2025-08-04T08:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T09:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952283533797421240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1591801675836051456",
+          "start": 0,
+          "username": "kyuutaku_kari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952283533797421240",
+    "in_reply_to_user_id": "1591801675836051456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952281835091935708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyuutaku_kari 可以把药藏在其他药盒里，我当时过安检带了喹硫平没被翻。我觉得哪怕被发现了也不会把药倒出来去测成分，最多看看药盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1952281835091935708",
+        "created_at": "2025-08-04T08:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T09:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952283533797421240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1591801675836051456",
+              "start": 0,
+              "username": "kyuutaku_kari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952283533797421240",
+        "in_reply_to_user_id": "1591801675836051456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952281835091935708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyuutaku_kari 可以把药藏在其他药盒里，我当时过安检带了喹硫平没被翻。我觉得哪怕被发现了也不会把药倒出来去测成分，最多看看药盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591801675836051456",
+        "conversation_id": "1952281835091935708",
+        "created_at": "2025-08-04T08:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T09:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952281835091935708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952281835091935708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "機場安檢看到藥品會開箱檢查嗎😢會不會把我雌激素檢查出來呀被家長發現了就完了捏😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "8️⃣9️⃣🍊苦橙🍊6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 257,
+          "like_count": 1667,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 784
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T14:34:36.000Z",
+        "description": "07年滴MTF 🏳️‍⚧️/是夜貓子啦～♪ 喜歡音樂、攝影📸、數學和編程、寫作捏🤓！/大家可以叫我小雨捏🥳/中日英都還不錯捏🤗/如果大家互關我的話我會超級開心滴捏！求互fo捏🥰/比較喜歡寫繁體字捏/對國學方面也很有興趣捏☯︎/信仰道家者/求大家貼貼捏🥰在北京捏",
+        "id": "1591801675836051456",
+        "location": "北京某處洞天福地",
+        "name": "ほしのしずく🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948101785974906880/eutG3h6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 423,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 71
+        },
+        "username": "kyuutaku_kari",
+        "verified": false
+      }
+    ]
+  }
+}

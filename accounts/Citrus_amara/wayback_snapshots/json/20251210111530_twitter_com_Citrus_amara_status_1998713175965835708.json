@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1998611266680606727",
+    "created_at": "2025-12-10T11:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T12:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998713175965835708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915124824126427137",
+          "start": 0,
+          "username": "nktblovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998713175965835708",
+    "in_reply_to_user_id": "1915124824126427137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998698187016552892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nktblovekris99 原来一直是我理解错了...！\n这样想的话确实有点难区分了，苦橙系统里的大部分成员都没有自己的认同 ，导致交流屏障很厚。之前还出现过烈性很大的创伤让我们想不起来发育史..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1998611266680606727",
+        "created_at": "2025-12-10T11:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998713175965835708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915124824126427137",
+              "start": 0,
+              "username": "nktblovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998713175965835708",
+        "in_reply_to_user_id": "1915124824126427137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998698187016552892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nktblovekris99 原来一直是我理解错了...！\n这样想的话确实有点难区分了，苦橙系统里的大部分成员都没有自己的认同 ，导致交流屏障很厚。之前还出现过烈性很大的创伤让我们想不起来发育史..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915124824126427137",
+        "conversation_id": "1998611266680606727",
+        "created_at": "2025-12-10T10:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998698187016552892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998698187016552892",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998697311057187272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 失忆是区分osdd和did的，一般是有严重的长时间断片+身份解离是did，osdd也不是说完全没失忆，毕竟也是解离嘛，但是区分1a还是1b主要还是身份边界感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/吸毒 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 921,
+          "like_count": 14005,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 6440
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "前世竹蜻蜓 @zqtlovekris99 翻车顺女HRT23.05.29/多意识体喵七休日系统/OSDD+cptsd/od💊ed BMI15 小猫 @Citrus_amara / pfp @LeonRui_ / 里帐 @Luminme_Vas",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Citrus_amara"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "http://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/D6mYti9yH7"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "name": "🐱🍥灰尾猫🍥🐱（秽土转生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 596,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/D6mYti9yH7",
+        "username": "nktblovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

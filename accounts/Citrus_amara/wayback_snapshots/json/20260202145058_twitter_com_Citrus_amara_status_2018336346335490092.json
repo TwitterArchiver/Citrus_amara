@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2018336346335490092",
+    "created_at": "2026-02-02T14:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T15:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018336346335490092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose_six/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/overdose_six/status/2018333739257081896",
+          "start": 15,
+          "url": "https://t.co/jazq2wXoH0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018336346335490092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018333739257081896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像做梦一样。为什么爱德华会死 https://t.co/jazq2wXoH0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018336346335490092",
+        "created_at": "2026-02-02T14:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018336346335490092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_six/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/overdose_six/status/2018333739257081896",
+              "start": 15,
+              "url": "https://t.co/jazq2wXoH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018336346335490092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018333739257081896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像做梦一样。为什么爱德华会死 https://t.co/jazq2wXoH0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2018333739257081896",
+        "created_at": "2026-02-02T14:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018333739257081896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018333739257081896",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 去世了 继春风之后最黑暗的一天  为o圈做出贡献的人 oder们不会忘记 祝他一路走好 让我们为他送上祝福🕯️🕯️🕯️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 997,
+          "like_count": 16299,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 8662
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "太空极乐百科:https://t.co/yzGHPrJoAg  | 接受药物报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbntR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 30,
+                "expanded_url": "http://taikong.mom",
+                "start": 7,
+                "url": "https://t.co/yzGHPrJoAg"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 89,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 66,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikomg.mom",
+                "end": 23,
+                "expanded_url": "http://taikomg.mom",
+                "start": 0,
+                "url": "https://t.co/K8Wy74jyq7"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 95,
+          "like_count": 11288,
+          "listed_count": 8,
+          "media_count": 633,
+          "tweet_count": 3774
+        },
+        "url": "https://t.co/K8Wy74jyq7",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1962156316753109056",
+    "created_at": "2025-09-03T12:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T13:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963225272741671061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1783739407981228032",
+          "start": 0,
+          "username": "MasahiroV2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963225272741671061",
+    "in_reply_to_user_id": "1783739407981228032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962156316753109056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MasahiroV2 真名有什么特别吸引你的地方吗？我真不理解。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1962156316753109056",
+        "created_at": "2025-09-03T12:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T13:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963225272741671061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1783739407981228032",
+              "start": 0,
+              "username": "MasahiroV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963225272741671061",
+        "in_reply_to_user_id": "1783739407981228032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962156316753109056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MasahiroV2 真名有什么特别吸引你的地方吗？我真不理解。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783739407981228032",
+        "conversation_id": "1962156316753109056",
+        "created_at": "2025-08-31T14:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T15:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962156316753109056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962156316753109056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来人转告一下真名，我不是mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 390,
+          "like_count": 5822,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 2213
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T06:06:38.000Z",
+        "description": "由于派系斗争问题，本账号不再经常讨论跨性别议题，仅用于讨论天启宗教等。愿主福安之。",
+        "id": "1783739407981228032",
+        "name": "神乐阪正太🏰ماساهيرو🕋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962222541097066497/XgD48r1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 399,
+          "like_count": 22515,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 6259
+        },
+        "username": "MasahiroV2",
+        "verified": false
+      }
+    ]
+  }
+}

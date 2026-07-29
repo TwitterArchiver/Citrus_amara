@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960910395696156672"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1960910429208625619",
+    "created_at": "2025-08-28T03:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T04:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960910429208625619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DFA0Q8pZP2",
+          "end": 35,
+          "expanded_url": "https://x.com/Citrus_amara/status/1960910429208625619/photo/1",
+          "media_key": "3_1960910395696156672",
+          "start": 12,
+          "url": "https://t.co/DFA0Q8pZP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960910429208625619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也是吃上molly了。 https://t.co/DFA0Q8pZP2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1960910395696156672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzaNnZPXEAAftJT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960910395696156672"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960910429208625619",
+        "created_at": "2025-08-28T03:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T04:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960910429208625619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFA0Q8pZP2",
+              "end": 35,
+              "expanded_url": "https://x.com/Citrus_amara/status/1960910429208625619/photo/1",
+              "media_key": "3_1960910395696156672",
+              "start": 12,
+              "url": "https://t.co/DFA0Q8pZP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960910429208625619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是吃上molly了。 https://t.co/DFA0Q8pZP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 372,
+          "like_count": 4682,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1862
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

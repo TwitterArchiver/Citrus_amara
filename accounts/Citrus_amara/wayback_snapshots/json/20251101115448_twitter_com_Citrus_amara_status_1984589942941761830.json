@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1984117408437793193",
+    "created_at": "2025-11-01T11:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T12:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984589942941761830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926307161480568832",
+          "start": 0,
+          "username": "banzaixyg"
+        },
+        {
+          "end": 25,
+          "id": "1047409524447928321",
+          "start": 11,
+          "username": "AbigailLector"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984589942941761830",
+    "in_reply_to_user_id": "1926307161480568832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984410734420439480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banzaixyg @AbigailLector 何意味，你把其他人全点了其他人不会把你点了是吗那药商很善良了🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1984117408437793193",
+        "created_at": "2025-11-01T11:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T12:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984589942941761830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926307161480568832",
+              "start": 0,
+              "username": "banzaixyg"
+            },
+            {
+              "end": 25,
+              "id": "1047409524447928321",
+              "start": 11,
+              "username": "AbigailLector"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984589942941761830",
+        "in_reply_to_user_id": "1926307161480568832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984410734420439480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzaixyg @AbigailLector 何意味，你把其他人全点了其他人不会把你点了是吗那药商很善良了🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926307161480568832",
+        "conversation_id": "1984117408437793193",
+        "created_at": "2025-11-01T00:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T01:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984410734420439480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1047409524447928321",
+              "start": 0,
+              "username": "AbigailLector"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984410734420439480",
+        "in_reply_to_user_id": "1047409524447928321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984117408437793193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AbigailLector 要是一个药商真想宰人他就可以把大陆的同行全点了然后垄断市场一家独大而不是现在这样还在市场上公平竞争，感觉这两年药价都下来了，前几年还有五百一盒的日雌呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 665,
+          "like_count": 10539,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 4242
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@yaiikawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984103853646827520/2hCQevKI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 450,
+          "like_count": 3442,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1543
+        },
+        "username": "banzaixyg",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-03T08:54:25.000Z",
+        "description": "",
+        "id": "1047409524447928321",
+        "name": "🇹🇼 🇮🇱🇺🇦abigail.lector🇰🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960707342196158464/H9vbb3AK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 951,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 993
+        },
+        "username": "AbigailLector",
+        "verified": false
+      }
+    ]
+  }
+}

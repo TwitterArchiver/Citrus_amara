@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1995029506034471351",
+    "created_at": "2025-11-30T07:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T08:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995029506034471351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xianzhong_1953…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Xianzhong_1953/status/1994983558633664629",
+          "start": 22,
+          "url": "https://t.co/AI6UxYNm6A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995029506034471351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994983558633664629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出来全他妈是臭打工的。我操你妈傻逼应试教育 https://t.co/AI6UxYNm6A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1375,
+        "media_key": "3_1994983554699464707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-a-R6bkAMDJhM.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1995029506034471351",
+        "created_at": "2025-11-30T07:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995029506034471351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xianzhong_1953…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Xianzhong_1953/status/1994983558633664629",
+              "start": 22,
+              "url": "https://t.co/AI6UxYNm6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995029506034471351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994983558633664629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出来全他妈是臭打工的。我操你妈傻逼应试教育 https://t.co/AI6UxYNm6A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994983554699464707"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "conversation_id": "1994983558633664629",
+        "created_at": "2025-11-30T04:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994983558633664629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6ejC4LVoZ",
+              "end": 54,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1994983558633664629/photo/1",
+              "media_key": "3_1994983554699464707",
+              "start": 31,
+              "url": "https://t.co/M6ejC4LVoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994983558633664629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4890,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "以为考个好大学就能跨越阶层的，原生家庭一定处于底层穷逼阶层。 https://t.co/M6ejC4LVoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 877,
+          "like_count": 13487,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 5958
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "唯一账号，年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人。\n\n已拉黑1亿条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家。诅咒回复俺推特的粉蛆、战螂们死一户口本。\n体制内外的阶级对立和阶级矛盾才是墙内最大问题！",
+        "id": "912623216899715072",
+        "location": "Hawaii, USA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105401,
+          "following_count": 810,
+          "like_count": 240641,
+          "listed_count": 341,
+          "media_count": 22687,
+          "tweet_count": 43965
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

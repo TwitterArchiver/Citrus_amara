@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2001530371478032877",
+    "created_at": "2025-12-18T05:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T06:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001530371478032877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/2001240210609463682",
+          "start": 16,
+          "url": "https://t.co/zIkZYVV16W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001530371478032877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001240210609463682",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子就像机器，坏了打几下就好了 https://t.co/zIkZYVV16W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2001530371478032877",
+        "created_at": "2025-12-18T05:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T06:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001530371478032877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/2001240210609463682",
+              "start": 16,
+              "url": "https://t.co/zIkZYVV16W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001530371478032877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001240210609463682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子就像机器，坏了打几下就好了 https://t.co/zIkZYVV16W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "2001240210609463682",
+        "created_at": "2025-12-17T10:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001240210609463682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001240210609463682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 5782,
+          "like_count": 198,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "理解老中家庭的核心是“权力与控制”能顿悟许多事情\n\n问：当孩子有抑郁症表现，为什么家长反应是打骂孩子，而不是带孩子看精神科\n\n答：\n1.看病要花时间精力要花钱。打骂孩子不花钱，自己还能爽；\n2.孩子是自己的“产品”，产品有问题，等于自己作为“制造者”也有问题；\n3.“工具”只要能用，没人在意工具感受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 942,
+          "like_count": 14365,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 6799
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//奔四老登//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 131,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 108,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30535,
+          "following_count": 3626,
+          "like_count": 170325,
+          "listed_count": 101,
+          "media_count": 3711,
+          "tweet_count": 62707
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

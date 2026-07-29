@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1968597020362293611",
+    "created_at": "2025-09-18T08:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T09:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968597020362293611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mei_Na730/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Mei_Na730/status/1968247084211204281",
+          "start": 7,
+          "url": "https://t.co/bvYb3BfTTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968597020362293611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968247084211204281",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "非常喜欢这样 https://t.co/bvYb3BfTTw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1217,
+        "media_key": "3_1968247081262587904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CeSszbIAA7Wu8.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1968597020362293611",
+        "created_at": "2025-09-18T08:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T09:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968597020362293611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mei_Na730/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Mei_Na730/status/1968247084211204281",
+              "start": 7,
+              "url": "https://t.co/bvYb3BfTTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968597020362293611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968247084211204281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常喜欢这样 https://t.co/bvYb3BfTTw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968247081262587904"
+          ]
+        },
+        "author_id": "4880352669",
+        "conversation_id": "1968247084211204281",
+        "created_at": "2025-09-17T09:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968247084211204281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXcrOjHv0q",
+              "end": 63,
+              "expanded_url": "https://x.com/Mei_Na730/status/1968247084211204281/photo/1",
+              "media_key": "3_1968247081262587904",
+              "start": 40,
+              "url": "https://t.co/HXcrOjHv0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968247084211204281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 36669,
+          "like_count": 781,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "你們這些整天說自己是貓娘還時不時在那邊喵來喵去的\n\n最好通通都給我這樣上廁所😼 https://t.co/HXcrOjHv0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 434,
+          "like_count": 7028,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 2660
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-06T06:38:25.000Z",
+        "description": "MtF/BDSMer/是個外在靦腆，內心卻色到不行的M、sub、bottom+調皮的brat/泛性戀",
+        "id": "4880352669",
+        "location": "天天天国地獄国",
+        "name": "🍥超絶最かわ🍥莓娜",
+        "pinned_tweet_id": "1959912677083656500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965656353978068992/HwOFZBCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 106,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 168
+        },
+        "username": "Mei_Na730",
+        "verified": true
+      }
+    ]
+  }
+}

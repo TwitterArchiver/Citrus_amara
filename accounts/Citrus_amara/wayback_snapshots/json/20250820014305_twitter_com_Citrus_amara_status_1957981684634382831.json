@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957981684634382831",
+    "created_at": "2025-08-20T01:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T02:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957981684634382831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Simone_Luxem/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Simone_Luxem/status/1957719883057360992",
+          "start": 32,
+          "url": "https://t.co/wiL1lvbiZh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957981684634382831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957719883057360992",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "贫困会摧毁一切高尚的思想。当生存成为问题时，没有人会存在道德。 https://t.co/wiL1lvbiZh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957981684634382831",
+        "created_at": "2025-08-20T01:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T02:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957981684634382831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Simone_Luxem/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1957719883057360992",
+              "start": 32,
+              "url": "https://t.co/wiL1lvbiZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957981684634382831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957719883057360992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "贫困会摧毁一切高尚的思想。当生存成为问题时，没有人会存在道德。 https://t.co/wiL1lvbiZh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1957719883057360992",
+        "created_at": "2025-08-19T08:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T09:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957719883057360992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinoyumemi1…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/hoshinoyumemi11/status/1957517618157604886",
+              "start": 141,
+              "url": "https://t.co/e5eTHIVPz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957719883057360992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5879,
+          "like_count": 61,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957517618157604886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讽刺的是，真的“贫困底层”人，反而出于朴素的善良，或是生产需要，不会虐待动物\n农村谁家要是把耕了一辈子地的老牛宰了或者卖了，除非有极特殊的原因，否则会被一村人戳着脊梁骨骂上几十年的；家里的猫狗，虽然受限于经济和知识做不到科学饲养，但也会饿了给饭病了给药，死后也少有吃其肉剥其皮的， https://t.co/e5eTHIVPz5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 362,
+          "like_count": 3626,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1531
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4537,
+          "following_count": 221,
+          "like_count": 22165,
+          "listed_count": 13,
+          "media_count": 1652,
+          "tweet_count": 20182
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

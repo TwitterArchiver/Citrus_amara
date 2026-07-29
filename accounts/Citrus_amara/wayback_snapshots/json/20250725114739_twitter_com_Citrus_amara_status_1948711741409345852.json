@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948711005749399949",
+    "created_at": "2025-07-25T11:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T12:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948711741409345852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1446812995259027461",
+          "start": 0,
+          "username": "mh3DTdaCNIrVuYQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948711741409345852",
+    "in_reply_to_user_id": "1446812995259027461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948711394578174154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mh3DTdaCNIrVuYQ 不过ym有什么可写的。。我感觉大部分人都o过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948711005749399949",
+        "created_at": "2025-07-25T11:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T12:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948711741409345852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1446812995259027461",
+              "start": 0,
+              "username": "mh3DTdaCNIrVuYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948711741409345852",
+        "in_reply_to_user_id": "1446812995259027461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948711394578174154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mh3DTdaCNIrVuYQ 不过ym有什么可写的。。我感觉大部分人都o过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446812995259027461",
+        "conversation_id": "1948711005749399949",
+        "created_at": "2025-07-25T11:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T12:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948711394578174154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948711394578174154",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948711005749399949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 建议写磕后感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 138,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 408
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-09T12:21:36.000Z",
+        "description": "向我问问题吧https://t.co/6brfZkrFbG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mh3dtdacnirvuy…",
+                "end": 29,
+                "expanded_url": "https://ngl.link/mh3dtdacnirvuyq2",
+                "start": 6,
+                "url": "https://t.co/6brfZkrFbG"
+              }
+            ]
+          }
+        },
+        "id": "1446812995259027461",
+        "name": "氢氧根离子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446813092780728325/TZX8srDP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 93,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "username": "mh3DTdaCNIrVuYQ",
+        "verified": false
+      }
+    ]
+  }
+}

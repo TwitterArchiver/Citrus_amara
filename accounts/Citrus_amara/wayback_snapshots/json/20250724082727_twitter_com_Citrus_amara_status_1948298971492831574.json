@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948282262052860261",
+    "created_at": "2025-07-24T08:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T09:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948298971492831574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779149099084009472",
+          "start": 0,
+          "username": "MikuLoverr_"
+        },
+        {
+          "end": 24,
+          "id": "1904873292366036992",
+          "start": 13,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948298971492831574",
+    "in_reply_to_user_id": "1779149099084009472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948296198063878526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuLoverr_ @Chiyuyu520 中国药典上人用苯雌和兽用苯雌的质量标准完全一样，所以如果药厂严格执行的话应该不会有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948282262052860261",
+        "created_at": "2025-07-24T08:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T09:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948298971492831574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779149099084009472",
+              "start": 0,
+              "username": "MikuLoverr_"
+            },
+            {
+              "end": 24,
+              "id": "1904873292366036992",
+              "start": 13,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948298971492831574",
+        "in_reply_to_user_id": "1779149099084009472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948296198063878526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuLoverr_ @Chiyuyu520 中国药典上人用苯雌和兽用苯雌的质量标准完全一样，所以如果药厂严格执行的话应该不会有。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779149099084009472",
+        "conversation_id": "1948282262052860261",
+        "created_at": "2025-07-24T08:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T09:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948296198063878526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 25,
+              "id": "1904873292366036992",
+              "start": 14,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948296198063878526",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948295624241066294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @Chiyuyu520 苯雌这个问题我知道\n我只是担心作为兽药它会不会有一些杂质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 120,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 360
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人 /抑郁疯癫二相体/备证备术/167cm/48kg/hrt：2024.11.16/09年16岁理科牲/重庆一中唯一mtf（暴论）/音游痴，钢四战犯……/双相ADHD感统失调/恋人 @mikumiku3648 （存在相互夺舍关系）/tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 97,
+                "username": "mikumiku3648"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl5d1r"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "重庆 渝北",
+        "name": "emm🏳️‍⚧️🍥🥝",
+        "pinned_tweet_id": "1935374858705321997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930670465724612608/-qLodlKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 1144,
+          "like_count": 23110,
+          "listed_count": 9,
+          "media_count": 698,
+          "tweet_count": 11593
+        },
+        "url": "https://t.co/rz5fLl5d1r",
+        "username": "MikuLoverr_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1947726595684503627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2824,
+          "following_count": 1249,
+          "like_count": 3851,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 899
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

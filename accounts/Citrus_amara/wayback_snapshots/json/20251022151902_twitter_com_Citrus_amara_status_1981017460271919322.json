@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1981015228218495155",
+    "created_at": "2025-10-22T15:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T16:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981017460271919322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1546875689646710785",
+          "start": 0,
+          "username": "the13thMaximum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981017460271919322",
+    "in_reply_to_user_id": "1546875689646710785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981016663127740467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@the13thMaximum 没有😢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1981016663127740467].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1981016663127740467",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1981016663127740467"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1981015228218495155",
+        "created_at": "2025-10-22T15:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981017460271919322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1546875689646710785",
+              "start": 0,
+              "username": "the13thMaximum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981017460271919322",
+        "in_reply_to_user_id": "1546875689646710785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981016663127740467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@the13thMaximum 没有😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979785369840197632/apbjPWPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 605,
+          "like_count": 9812,
+          "listed_count": 4,
+          "media_count": 135,
+          "tweet_count": 3754
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T15:14:48.000Z",
+        "description": "😇",
+        "id": "1546875689646710785",
+        "name": "if:",
+        "pinned_tweet_id": "1961320458579595565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980000613778800640/BwY9BZJg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 197,
+          "like_count": 13338,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 2678
+        },
+        "username": "the13thMaximum",
+        "verified": false
+      }
+    ]
+  }
+}

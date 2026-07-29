@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1970345431012929672",
+    "created_at": "2025-09-23T04:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T05:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970345431012929672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/m32276803/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/m32276803/status/1969809916916547588",
+          "start": 3,
+          "url": "https://t.co/wDuLgL4r07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970345431012929672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969809916916547588",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈！ https://t.co/wDuLgL4r07"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1970345431012929672",
+        "created_at": "2025-09-23T04:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T05:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970345431012929672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m32276803/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/m32276803/status/1969809916916547588",
+              "start": 3,
+              "url": "https://t.co/wDuLgL4r07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970345431012929672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969809916916547588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈！ https://t.co/wDuLgL4r07"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360056361086722050",
+        "conversation_id": "1969698285767348677",
+        "created_at": "2025-09-21T17:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T18:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969809916916547588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1606701895719956482",
+              "start": 0,
+              "username": "LepuzArcticus"
+            },
+            {
+              "end": 26,
+              "id": "1817821126640496640",
+              "start": 15,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969809916916547588",
+        "in_reply_to_user_id": "1606701895719956482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 1,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969809717649395922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LepuzArcticus @MTNEKO8964 不要自欺欺人了，你永远不可能成为真正的女生，你就是男的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 445,
+          "like_count": 7373,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 2770
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T02:41:36.000Z",
+        "description": "《你永遠都是男的》《永遠都是》《我的好兄弟，心裡有苦你對我說》国家一级运动员（射击） 2019年全国第三届青少年运动会第一名 射击世界杯德国站个人第2名 团体第1 ！",
+        "id": "1360056361086722050",
+        "name": "小布尔乔亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523500929265410051/bcLQ3GPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 2228,
+          "like_count": 8159,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 716
+        },
+        "username": "m32276803",
+        "verified": false
+      }
+    ]
+  }
+}

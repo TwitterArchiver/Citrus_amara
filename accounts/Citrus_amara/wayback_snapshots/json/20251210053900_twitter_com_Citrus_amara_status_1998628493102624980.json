@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1997549056772718775",
+    "created_at": "2025-12-10T05:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T06:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998628493102624980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912109703133646848",
+          "start": 0,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 26,
+          "id": "1717746884633333760",
+          "start": 12,
+          "username": "amphibian1982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998628493102624980",
+    "in_reply_to_user_id": "1912109703133646848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997687868958097899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jzm1919810 @amphibian1982 蝇蕈醇？！这个东西不是危化么..怎么买到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1997549056772718775",
+        "created_at": "2025-12-10T05:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T06:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998628493102624980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 26,
+              "id": "1717746884633333760",
+              "start": 12,
+              "username": "amphibian1982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998628493102624980",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997687868958097899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 @amphibian1982 蝇蕈醇？！这个东西不是危化么..怎么买到的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912109703133646848",
+        "conversation_id": "1997549056772718775",
+        "created_at": "2025-12-07T15:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997687868958097899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717746884633333760",
+              "start": 0,
+              "username": "amphibian1982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997687868958097899",
+        "in_reply_to_user_id": "1717746884633333760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997663261550879148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amphibian1982 那吃点试试？别吃氧化苦参碱，那个极性了。\n\n我得2026才能试苦参碱，中间要离家没法买新药，而且试药的队列前面还排着蝇蕈醇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/吸毒 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 921,
+          "like_count": 13996,
+          "listed_count": 4,
+          "media_count": 242,
+          "tweet_count": 6430
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "昼と夜の間で 時が止まる 終わりのない 永遠の夕暮れ時\n🐦‍⬛\n请锁推且fo我的人一定让我回关，好吗？否则我的强迫症会受不了，只好取掉。谢谢。",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 205,
+          "like_count": 217,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 943
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T03:35:55.000Z",
+        "description": "我是一只支那猪，支那猪，快快乐乐把食吃。",
+        "id": "1717746884633333760",
+        "name": "PT141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717747146387275776/KhOPoRYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 500,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 222
+        },
+        "username": "amphibian1982",
+        "verified": false
+      }
+    ]
+  }
+}

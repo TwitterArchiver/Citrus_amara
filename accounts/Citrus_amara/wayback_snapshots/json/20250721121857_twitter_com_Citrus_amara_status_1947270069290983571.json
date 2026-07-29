@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947269700553240802",
+    "created_at": "2025-07-21T12:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947270069290983571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762050911332081664",
+          "start": 0,
+          "username": "BucketFallen"
+        },
+        {
+          "end": 26,
+          "id": "1448187795571286017",
+          "start": 14,
+          "username": "shuiyebush1"
+        },
+        {
+          "end": 36,
+          "id": "1697580552793051136",
+          "start": 27,
+          "username": "yyc20090"
+        },
+        {
+          "end": 49,
+          "id": "1882936483662663680",
+          "start": 37,
+          "username": "jngyn298282"
+        },
+        {
+          "end": 62,
+          "id": "1889235272560488448",
+          "start": 50,
+          "username": "Haiki_Yuuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947270069290983571",
+    "in_reply_to_user_id": "1762050911332081664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947269917142921378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BucketFallen @shuiyebush1 @yyc20090 @jngyn298282 @Haiki_Yuuki 恋母这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947269700553240802",
+        "created_at": "2025-07-21T12:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947270069290983571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762050911332081664",
+              "start": 0,
+              "username": "BucketFallen"
+            },
+            {
+              "end": 26,
+              "id": "1448187795571286017",
+              "start": 14,
+              "username": "shuiyebush1"
+            },
+            {
+              "end": 36,
+              "id": "1697580552793051136",
+              "start": 27,
+              "username": "yyc20090"
+            },
+            {
+              "end": 49,
+              "id": "1882936483662663680",
+              "start": 37,
+              "username": "jngyn298282"
+            },
+            {
+              "end": 62,
+              "id": "1889235272560488448",
+              "start": 50,
+              "username": "Haiki_Yuuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947270069290983571",
+        "in_reply_to_user_id": "1762050911332081664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947269917142921378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BucketFallen @shuiyebush1 @yyc20090 @jngyn298282 @Haiki_Yuuki 恋母这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762050911332081664",
+        "conversation_id": "1947269700553240802",
+        "created_at": "2025-07-21T12:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947269917142921378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 26,
+              "id": "1448187795571286017",
+              "start": 14,
+              "username": "shuiyebush1"
+            },
+            {
+              "end": 36,
+              "id": "1697580552793051136",
+              "start": 27,
+              "username": "yyc20090"
+            },
+            {
+              "end": 49,
+              "id": "1882936483662663680",
+              "start": 37,
+              "username": "jngyn298282"
+            },
+            {
+              "end": 62,
+              "id": "1889235272560488448",
+              "start": 50,
+              "username": "Haiki_Yuuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947269917142921378",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947269700553240802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @shuiyebush1 @yyc20090 @jngyn298282 @Haiki_Yuuki 妈妈我们结婚了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 96,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 258
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T09:44:15.000Z",
+        "description": "Introvert nerd coomer edgylord loser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rez331.straw.page",
+                "end": 23,
+                "expanded_url": "https://rez331.straw.page",
+                "start": 0,
+                "url": "https://t.co/vHuBpTCNle"
+              }
+            ]
+          }
+        },
+        "id": "1762050911332081664",
+        "location": "18岁",
+        "name": "湖北精神病人",
+        "pinned_tweet_id": "1946911640311755162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944810777480978433/VtKe9LuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 513,
+          "like_count": 1537,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/vHuBpTCNle",
+        "username": "BucketFallen",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "爱人是@Spartakist_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Spartakist_"
+              }
+            ]
+          }
+        },
+        "id": "1448187795571286017",
+        "name": "清水绯纱",
+        "pinned_tweet_id": "1922213803669741679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947234550041788416/mQK7xBIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5120,
+          "following_count": 615,
+          "like_count": 47244,
+          "listed_count": 16,
+          "media_count": 2338,
+          "tweet_count": 16500
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "20090718  妹妹@LiciiQAQ 窝重度缺爱😡👊 会割手👉👈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1697580552793051136",
+        "name": "yyxx🍥",
+        "pinned_tweet_id": "1940990553124151499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934155305077919744/xZ_qsmex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 275,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 170
+        },
+        "username": "yyc20090",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼",
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1945207460291101049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882937483756765184/OocuXoje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 140,
+          "like_count": 4702,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 488
+        },
+        "username": "jngyn298282",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T08:49:54.000Z",
+        "description": "Just a gamer\nR6/cs2/2077/ow2 etc",
+        "id": "1889235272560488448",
+        "name": "灰樹由貴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945880820897468416/K_rpb11v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 50,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 158
+        },
+        "username": "Haiki_Yuuki",
+        "verified": false
+      }
+    ]
+  }
+}

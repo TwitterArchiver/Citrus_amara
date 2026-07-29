@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1964522661243211971",
+    "created_at": "2025-09-07T03:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T04:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964538173117374892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964538173117374892",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964536638450843921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname PMID：37606510\n这篇文章做了在大鼠LPS诱导的脓毒症中，普瑞巴林对肾脏和肾内皮有保护作用。普瑞给药量是5mg/kg，换算成人类给药量就是300mg到400mg之间。\n不过我对普瑞巴林保护肾脏的研究不感兴趣。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1964522661243211971",
+        "created_at": "2025-09-07T03:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T04:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964538173117374892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964538173117374892",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964536638450843921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname PMID：37606510\n这篇文章做了在大鼠LPS诱导的脓毒症中，普瑞巴林对肾脏和肾内皮有保护作用。普瑞给药量是5mg/kg，换算成人类给药量就是300mg到400mg之间。\n不过我对普瑞巴林保护肾脏的研究不感兴趣。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680508885394927616",
+        "conversation_id": "1964522661243211971",
+        "created_at": "2025-09-07T03:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T04:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964536638450843921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964536638450843921",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964522661243211971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 但你并没有证明他有保护作用啊 你一直在证明没有损伤 这个我也持怀疑态度 但这不是重点 重点是你全都没有论证他有保护作用啊 严重偏题喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 405,
+          "like_count": 6133,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 2336
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "你的人生导师，提供问题解答服务，详情见置顶/逃生舱：@04177_truth（来互fo）/ ❤️：@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "04177_truth"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1961655141700157841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10993,
+          "following_count": 6077,
+          "like_count": 65087,
+          "listed_count": 34,
+          "media_count": 2665,
+          "tweet_count": 19479
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

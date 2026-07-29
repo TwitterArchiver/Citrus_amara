@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949782351573098505",
+    "created_at": "2025-07-30T09:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T10:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950487228964037102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491812865912688640",
+          "start": 0,
+          "username": "jiejie76480222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950487228964037102",
+    "in_reply_to_user_id": "1491812865912688640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950366603214004569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiejie76480222 你雷就雷你在我推特下面说干什么？我觉得你爱让别人叫自己什么都可以。那请问你能以同样的态度对待我吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949782351573098505",
+        "created_at": "2025-07-30T09:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T10:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950487228964037102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491812865912688640",
+              "start": 0,
+              "username": "jiejie76480222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950487228964037102",
+        "in_reply_to_user_id": "1491812865912688640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950366603214004569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiejie76480222 你雷就雷你在我推特下面说干什么？我觉得你爱让别人叫自己什么都可以。那请问你能以同样的态度对待我吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491812865912688640",
+        "conversation_id": "1949782351573098505",
+        "created_at": "2025-07-30T01:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T02:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950366603214004569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950366603214004569",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949782351573098505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 我很雷职工牛马社畜这种称呼。你们自己叫自己没问题但是别叫我牛马。我想当富豪的我不想当社畜也不想当牛马。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 221,
+          "like_count": 1178,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 627
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T16:34:58.000Z",
+        "description": "理而能循谓之顺也，刚而不屈谓之直也",
+        "id": "1491812865912688640",
+        "name": "杰杰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860163544798625792/5h3f_yJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 50,
+          "like_count": 402,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1501
+        },
+        "username": "jiejie76480222",
+        "verified": false
+      }
+    ]
+  }
+}

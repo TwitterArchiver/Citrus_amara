@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024766379606392833"
+      ],
+      "media_source_tweet_id": [
+        "2024766747081888046"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025511657343013268",
+    "created_at": "2026-02-22T10:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025511657343013268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zjOsv8mr7Z",
+          "end": 53,
+          "expanded_url": "https://x.com/SalviaSWC/status/2024766747081888046/photo/1",
+          "media_key": "3_2024766379606392833",
+          "start": 30,
+          "url": "https://t.co/zjOsv8mr7Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025511657343013268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024766747081888046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 左右脑互搏了喵......🤧 https://t.co/zjOsv8mr7Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 923,
+        "media_key": "3_2024766379606392833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlqS2mXwAELSfO.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024766379606392833"
+          ],
+          "media_source_tweet_id": [
+            "2024766747081888046"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025511657343013268",
+        "created_at": "2026-02-22T10:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025511657343013268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjOsv8mr7Z",
+              "end": 53,
+              "expanded_url": "https://x.com/SalviaSWC/status/2024766747081888046/photo/1",
+              "media_key": "3_2024766379606392833",
+              "start": 30,
+              "url": "https://t.co/zjOsv8mr7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025511657343013268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024766747081888046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 左右脑互搏了喵......🤧 https://t.co/zjOsv8mr7Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024766379606392833"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2024766747081888046",
+        "created_at": "2026-02-20T08:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024766747081888046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjOsv8mr7Z",
+              "end": 38,
+              "expanded_url": "https://x.com/SalviaSWC/status/2024766747081888046/photo/1",
+              "media_key": "3_2024766379606392833",
+              "start": 15,
+              "url": "https://t.co/zjOsv8mr7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024766747081888046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2360,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "左右脑互搏了喵......🤧 https://t.co/zjOsv8mr7Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\n磕药的傻逼\nHRT：2025.8.28。\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "shsh548866"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 1015,
+          "like_count": 17004,
+          "listed_count": 6,
+          "media_count": 351,
+          "tweet_count": 9202
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨OD知识开源化↓请支持FreeODwiki喵！|Say Know to Drugs 💊丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 848,
+          "like_count": 19567,
+          "listed_count": 10,
+          "media_count": 299,
+          "tweet_count": 5601
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

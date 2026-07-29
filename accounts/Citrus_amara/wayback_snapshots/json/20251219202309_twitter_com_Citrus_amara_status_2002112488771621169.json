@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2001975860589732113",
+    "created_at": "2025-12-19T20:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T21:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002112488771621169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732759010355339264",
+          "start": 0,
+          "username": "oOxaliSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002112488771621169",
+    "in_reply_to_user_id": "1732759010355339264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002100014060019996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oOxaliSs 应该是全ai的。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2002100014060019996].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2002100014060019996",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2002100014060019996"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2001975860589732113",
+        "created_at": "2025-12-19T20:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T21:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002112488771621169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732759010355339264",
+              "start": 0,
+              "username": "oOxaliSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002112488771621169",
+        "in_reply_to_user_id": "1732759010355339264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002100014060019996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oOxaliSs 应该是全ai的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 943,
+          "like_count": 14499,
+          "listed_count": 4,
+          "media_count": 265,
+          "tweet_count": 6896
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T13:49:09.000Z",
+        "description": "enby｜恐龙蘑菇猫头鹰 #drugtwt #妈妈终于同意我去当猫娘了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 13,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "tag": "妈妈终于同意我去当猫娘了"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2ZsWq7zlUwBjY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2ZsWq7zlUwBjYWE1",
+                "start": 0,
+                "url": "https://t.co/7mtuwegGcq"
+              }
+            ]
+          }
+        },
+        "id": "1732759010355339264",
+        "location": "they/them/ta/他",
+        "name": "oOxaliSs",
+        "pinned_tweet_id": "2000173821547229407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732781379421921280/v1gUWytM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 710,
+          "like_count": 35527,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 4942
+        },
+        "url": "https://t.co/7mtuwegGcq",
+        "username": "oOxaliSs",
+        "verified": false
+      }
+    ]
+  }
+}

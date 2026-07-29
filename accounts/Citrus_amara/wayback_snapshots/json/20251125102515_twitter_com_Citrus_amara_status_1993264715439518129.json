@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1993144783356019076",
+    "created_at": "2025-11-25T10:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993264715439518129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1002930388770025472",
+          "start": 0,
+          "username": "jiangNing01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993264715439518129",
+    "in_reply_to_user_id": "1002930388770025472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993144783356019076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangNing01 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1993144783356019076",
+        "created_at": "2025-11-25T10:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993264715439518129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1002930388770025472",
+              "start": 0,
+              "username": "jiangNing01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993264715439518129",
+        "in_reply_to_user_id": "1002930388770025472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993144783356019076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangNing01 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1002930388770025472",
+        "conversation_id": "1993144783356019076",
+        "created_at": "2025-11-25T02:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993144783356019076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993144783356019076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天看到QQ提示才知道自己已经22岁了诶…哈哈哈…哪有什么快乐，唉😔，我似乎已经讨厌别人对我说快乐…在我的记忆中快乐的事不多，好像就两件。一件是认识了Hej和Fe²⁺，第二件是有了自己的新家人。\n今天多少还是说几句祝福吧。祝自己三十岁得偿所愿，祝愿自己牵挂和爱我之人都平安顺遂，长乐未央……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 830,
+          "like_count": 13061,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 5658
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-02T15:10:13.000Z",
+        "description": "",
+        "id": "1002930388770025472",
+        "name": "江宁",
+        "pinned_tweet_id": "1993144783356019076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986288828307632128/8gRimNJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 266,
+          "like_count": 2091,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 445
+        },
+        "username": "jiangNing01",
+        "verified": false
+      }
+    ]
+  }
+}

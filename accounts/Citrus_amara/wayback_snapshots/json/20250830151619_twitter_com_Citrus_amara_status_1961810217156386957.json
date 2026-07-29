@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1961809623670825338",
+    "created_at": "2025-08-30T15:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961810217156386957"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1961810217156386957",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961809623670825338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或者说人不能拥有一只动物？如果人拥有一只动物，那么他理应可以随意处置动物，甚至包括虐杀：你绝对不会认为人把生菜这种物肢解算虐待吧？但是人不能把猫狗肢解。\n所以我认为动物有物的部分，也有属于自己的意识的一部分。人可以拥有动物的肉体，但必须尊重动物的意识。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1961809623670825338",
+        "created_at": "2025-08-30T15:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961810217156386957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961810217156386957",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961809623670825338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或者说人不能拥有一只动物？如果人拥有一只动物，那么他理应可以随意处置动物，甚至包括虐杀：你绝对不会认为人把生菜这种物肢解算虐待吧？但是人不能把猫狗肢解。\n所以我认为动物有物的部分，也有属于自己的意识的一部分。人可以拥有动物的肉体，但必须尊重动物的意识。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1961809623670825338",
+        "created_at": "2025-08-30T15:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961809623670825338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lycaropia/stat…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/Lycaropia/status/1961530646800863573",
+              "start": 98,
+              "url": "https://t.co/iThABfMuJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961809623670825338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961530646800863573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你先要给动物分个类，动物是物，是人，还是与物和人都不同的存在。\n人可以随意处理自己的所有物，比如人拥有一盘蘑菇，他当然可以吃掉它。人不能拥有一个人。人可以拥有一只动物，你认为动物属于哪种东西呢。 https://t.co/iThABfMuJ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。取关麻烦双向。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 371,
+          "like_count": 5135,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 2004
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

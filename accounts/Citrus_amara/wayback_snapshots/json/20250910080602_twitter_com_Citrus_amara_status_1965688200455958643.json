@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1965687927775875301",
+    "created_at": "2025-09-10T08:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T09:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965688200455958643"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1965688200455958643",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965687927775875301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我已经练成了看酸猜药名的神技"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1965687927775875301",
+        "created_at": "2025-09-10T08:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T09:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965688200455958643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965688200455958643",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965687927775875301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经练成了看酸猜药名的神技"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1965687927775875301",
+        "created_at": "2025-09-10T08:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T09:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965687927775875301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daozhir/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/daozhir/status/1965638671392260509",
+              "start": 4,
+              "url": "https://t.co/Yv9ZlVPWMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965687927775875301",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965638671392260509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "，，， https://t.co/Yv9ZlVPWMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 414,
+          "like_count": 6404,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 2465
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

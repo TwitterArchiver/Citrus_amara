@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1954171442096169197",
+    "created_at": "2025-08-10T07:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T08:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954442649164796259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814654715369816064",
+          "start": 0,
+          "username": "RosaritaCisner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954442649164796259",
+    "in_reply_to_user_id": "1814654715369816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954171442096169197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RosaritaCisner 但是od特别爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1954171442096169197",
+        "created_at": "2025-08-10T07:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T08:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954442649164796259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814654715369816064",
+              "start": 0,
+              "username": "RosaritaCisner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954442649164796259",
+        "in_reply_to_user_id": "1814654715369816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954171442096169197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RosaritaCisner 但是od特别爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814654715369816064",
+        "conversation_id": "1954171442096169197",
+        "created_at": "2025-08-09T13:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T14:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954171442096169197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954171442096169197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od一点也不酷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "L-星团",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 295,
+          "like_count": 2351,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1029
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T13:33:15.000Z",
+        "description": "",
+        "id": "1814654715369816064",
+        "name": "Yameii",
+        "pinned_tweet_id": "1936933939635204316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908060706609704963/3F3w2n0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 209,
+          "like_count": 1321,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 671
+        },
+        "username": "RosaritaCisner",
+        "verified": false
+      }
+    ]
+  }
+}

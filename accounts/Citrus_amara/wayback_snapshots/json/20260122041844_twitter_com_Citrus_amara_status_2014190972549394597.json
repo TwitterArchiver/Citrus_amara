@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014190966916186112"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2014190972549394597",
+    "created_at": "2026-01-22T04:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T05:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014190972549394597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dlvw8EKFeZ",
+          "end": 31,
+          "expanded_url": "https://x.com/Citrus_amara/status/2014190972549394597/photo/1",
+          "media_key": "3_2014190966916186112",
+          "start": 8,
+          "url": "https://t.co/dlvw8EKFeZ"
+        },
+        {
+          "display_url": "x.com/Citrus_amara/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Citrus_amara/status/2014001967778214106",
+          "start": 32,
+          "url": "https://t.co/3bj5wqTB83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014190972549394597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014001967778214106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "它昨天干啥了？ https://t.co/dlvw8EKFeZ https://t.co/3bj5wqTB83"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014190966916186112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PYA0TXAAA0AA6.jpg",
+        "width": 1373
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014190966916186112"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2014190972549394597",
+        "created_at": "2026-01-22T04:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014190972549394597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dlvw8EKFeZ",
+              "end": 31,
+              "expanded_url": "https://x.com/Citrus_amara/status/2014190972549394597/photo/1",
+              "media_key": "3_2014190966916186112",
+              "start": 8,
+              "url": "https://t.co/dlvw8EKFeZ"
+            },
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Citrus_amara/status/2014001967778214106",
+              "start": 32,
+              "url": "https://t.co/3bj5wqTB83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014190972549394597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014001967778214106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "它昨天干啥了？ https://t.co/dlvw8EKFeZ https://t.co/3bj5wqTB83"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2014001967778214106",
+        "created_at": "2026-01-21T15:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014001967778214106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014001967778214106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼠鼠发情了。可我是橙子我不能满足你的性欲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "谁的橙子？多意识体。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "shsh548866"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "超级苦苦苦苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1002,
+          "like_count": 15869,
+          "listed_count": 5,
+          "media_count": 311,
+          "tweet_count": 8331
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

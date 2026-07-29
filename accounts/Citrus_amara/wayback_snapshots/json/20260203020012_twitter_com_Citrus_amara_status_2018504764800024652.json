@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2018504764800024652",
+    "created_at": "2026-02-03T02:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T03:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018504764800024652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Overdose_DBD/s…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/Overdose_DBD/status/2018413826119700823",
+          "start": 66,
+          "url": "https://t.co/BlYQZ94zTO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018504764800024652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018413826119700823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "肾上腺素是谁打的？镜音怎么可能搞到肾上腺素？镜音为什么要带着肾上腺素见爱德华？镜音看护有点幽默那确实，但是说镜音害死了爱德华那就。 https://t.co/BlYQZ94zTO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018504764800024652",
+        "created_at": "2026-02-03T02:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018504764800024652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/2018413826119700823",
+              "start": 66,
+              "url": "https://t.co/BlYQZ94zTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018504764800024652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018413826119700823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "肾上腺素是谁打的？镜音怎么可能搞到肾上腺素？镜音为什么要带着肾上腺素见爱德华？镜音看护有点幽默那确实，但是说镜音害死了爱德华那就。 https://t.co/BlYQZ94zTO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "conversation_id": "2018413826119700823",
+        "created_at": "2026-02-02T19:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T20:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018413826119700823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/scutigera_kuma…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/scutigera_kuma/status/2018382316872306829",
+              "start": 130,
+              "url": "https://t.co/deFCnn3mLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018413826119700823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2964,
+          "like_count": 33,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018382316872306829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从9点开始叫不醒轻度打鼾，到15点重度打鼾，最后17点没动静眼色死百直至死亡，她错过了几乎整整八个小时导致他慢性呼吸抑制憋死。甚至发觉不对后也没掏纳洛酮阻断阿片类，而是拿肾上腺素帮助他肺出血更快死\n没人在乎他和她的私德，而是她在这之中的极端不负责任与毫无常识 https://t.co/deFCnn3mLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 998,
+          "like_count": 16326,
+          "listed_count": 6,
+          "media_count": 326,
+          "tweet_count": 8694
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/ALu7jA3QLL\n有事请点击https://t.co/VRpZNWpEVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/ALu7jA3QLL"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/VRpZNWpEVl"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4301,
+          "following_count": 60,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 669,
+          "tweet_count": 6705
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

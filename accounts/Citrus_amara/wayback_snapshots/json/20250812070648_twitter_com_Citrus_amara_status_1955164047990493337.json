@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1955114301519433749",
+    "created_at": "2025-08-12T07:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T08:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955164047990493337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1552927828064083968",
+          "start": 0,
+          "username": "liuhuaazi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955164047990493337",
+    "in_reply_to_user_id": "1552927828064083968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955114301519433749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuhuaazi 喝垃圾干什么，白酒就是史"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1955114301519433749",
+        "created_at": "2025-08-12T07:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T08:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955164047990493337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1552927828064083968",
+              "start": 0,
+              "username": "liuhuaazi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955164047990493337",
+        "in_reply_to_user_id": "1552927828064083968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955114301519433749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuhuaazi 喝垃圾干什么，白酒就是史"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552927828064083968",
+        "conversation_id": "1955114301519433749",
+        "created_at": "2025-08-12T03:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T04:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955114301519433749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955114301519433749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 384,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "白酒真难喝啊，有什么办法改善口感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 314,
+          "like_count": 2667,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1163
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T08:03:59.000Z",
+        "description": "喜欢@mikmikne 可爱的阳阳@Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "mikmikne"
+              },
+              {
+                "end": 31,
+                "start": 17,
+                "username": "Kiss_light233"
+              }
+            ]
+          }
+        },
+        "id": "1552927828064083968",
+        "name": "琉华子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841802650863517696/70Ugp_aF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 1526,
+          "like_count": 17616,
+          "listed_count": 15,
+          "media_count": 264,
+          "tweet_count": 7990
+        },
+        "username": "liuhuaazi",
+        "verified": false
+      }
+    ]
+  }
+}

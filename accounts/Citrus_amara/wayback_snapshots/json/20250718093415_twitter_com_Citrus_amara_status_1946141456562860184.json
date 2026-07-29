@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946141456562860184",
+    "created_at": "2025-07-18T09:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T10:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946141456562860184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946141456562860184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946070648960475362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 为什么 jk Rowling 反跨？为什么她声称没有魔法？其实我知道原因。\n\n因为之前有个跨女半夜来找她，把她逼到墙角跟她说「我会用我的大鸡巴狠狠地攻击你」。jk Rowling 大惊失色，大喊「除你武器，除你武器」。jk Rowling 能无料…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946141456562860184",
+        "created_at": "2025-07-18T09:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T10:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946141456562860184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946141456562860184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946070648960475362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 为什么 jk Rowling 反跨？为什么她声称没有魔法？其实我知道原因。\n\n因为之前有个跨女半夜来找她，把她逼到墙角跟她说「我会用我的大鸡巴狠狠地攻击你」。jk Rowling 大惊失色，大喊「除你武器，除你武器」。jk Rowling 能无料…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1946070648960475362",
+        "created_at": "2025-07-18T04:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T05:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946070648960475362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946070648960475362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5479,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "为什么 jk Rowling 反跨？为什么她声称没有魔法？其实我知道原因。\n\n因为之前有个跨女半夜来找她，把她逼到墙角跟她说「我会用我的大鸡巴狠狠地攻击你」。jk Rowling 大惊失色，大喊「除你武器，除你武器」。jk Rowling 能无料做 srs 手术的名声就传开了，不断有跨女去约她，她不胜其烦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（但是没有系统名）。疑似双相（有诊断但不认可）。oder。跨性别。\n请求互fo。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 73,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 128
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17727,
+          "following_count": 187,
+          "like_count": 565,
+          "listed_count": 64,
+          "media_count": 88,
+          "tweet_count": 17760
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

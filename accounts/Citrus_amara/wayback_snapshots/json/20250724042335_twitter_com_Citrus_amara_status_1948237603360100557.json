@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947527767009935745",
+    "created_at": "2025-07-24T04:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T05:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948237603360100557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "934723058039848960",
+          "start": 0,
+          "username": "SleepyIcarus_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948237603360100557",
+    "in_reply_to_user_id": "934723058039848960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947850117970874803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SleepyIcarus_ 去搞点毒理学的资料读一读，比亚硝酸钠好用的物质病不少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947527767009935745",
+        "created_at": "2025-07-24T04:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T05:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948237603360100557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "934723058039848960",
+              "start": 0,
+              "username": "SleepyIcarus_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948237603360100557",
+        "in_reply_to_user_id": "934723058039848960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947850117970874803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SleepyIcarus_ 去搞点毒理学的资料读一读，比亚硝酸钠好用的物质病不少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "934723058039848960",
+        "conversation_id": "1947527767009935745",
+        "created_at": "2025-07-23T02:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T03:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947850117970874803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947850117970874803",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947527767009935745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 感觉除了其他回复，还有一个原因是案例太多了。所以给大家造成一种吃了这个药一定会死的安心感。\n就像一个人寻死，乱吃莫名其妙的化工物，到头来很有可能死不了但是又充满痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 114,
+          "like_count": 524,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 345
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-26T09:58:38.000Z",
+        "description": "",
+        "id": "934723058039848960",
+        "name": "醒死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943244720836349955/1v-uebmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 186,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 856
+        },
+        "username": "SleepyIcarus_",
+        "verified": false
+      }
+    ]
+  }
+}

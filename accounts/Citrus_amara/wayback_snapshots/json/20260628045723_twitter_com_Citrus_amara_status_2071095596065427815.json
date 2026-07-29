@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2071065143417737706",
+    "created_at": "2026-06-28T04:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071095596065427815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865480322978349056",
+          "start": 0,
+          "username": "CharaG51669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071095596065427815",
+    "in_reply_to_user_id": "1865480322978349056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071065143417737706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharaG51669 控制好量就可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2071065143417737706",
+        "created_at": "2026-06-28T04:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071095596065427815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865480322978349056",
+              "start": 0,
+              "username": "CharaG51669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071095596065427815",
+        "in_reply_to_user_id": "1865480322978349056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071065143417737706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharaG51669 控制好量就可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865480322978349056",
+        "conversation_id": "2071065143417737706",
+        "created_at": "2026-06-28T02:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071065143417737706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071065143417737706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "频繁o普瑞加巴愈美能活多久，我几乎天天o。\no过美金刚和烷胺但是每次都很想吐所以不这俩了，然后最近还购入了白兔和盐野义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n---\nAutism/Plurality/BPD/药物滥用/双相\n\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 1139,
+          "like_count": 20872,
+          "listed_count": 5,
+          "media_count": 424,
+          "tweet_count": 11702
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:36:09.000Z",
+        "description": "06/INFP/抑郁/焦虑 /有老公/od/割手/抽烟/互fo请私信💖/欢迎私信/叫我小侑就好/现居深圳，欢迎小萌物们找我玩！\n提问箱：https://t.co/2km1uF0lIH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/onoderayuu",
+                "end": 91,
+                "expanded_url": "https://ngl.link/onoderayuu",
+                "start": 68,
+                "url": "https://t.co/2km1uF0lIH"
+              }
+            ]
+          }
+        },
+        "id": "1865480322978349056",
+        "name": "OnoderaYuu（侑）",
+        "pinned_tweet_id": "2070781014423769469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865662167120564224/GiHXnwwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 202,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "CharaG51669",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948238551193448595",
+    "created_at": "2025-07-24T05:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T06:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948247765252702604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1905095383241596928",
+          "start": 0,
+          "username": "xiaomaoyuovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948247765252702604",
+    "in_reply_to_user_id": "1905095383241596928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948238551193448595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomaoyuovo 🥹🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948238551193448595",
+        "created_at": "2025-07-24T05:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T06:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948247765252702604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905095383241596928",
+              "start": 0,
+              "username": "xiaomaoyuovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948247765252702604",
+        "in_reply_to_user_id": "1905095383241596928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948238551193448595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomaoyuovo 🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905095383241596928",
+        "conversation_id": "1948238551193448595",
+        "created_at": "2025-07-24T04:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T05:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948238551193448595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948238551193448595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一打开好多新朋友 谢谢宝宝们和我互关 我梯子有点慢 有些信息没回到 是梯子太慢了 我会慢慢都回完的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 117,
+          "like_count": 532,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 352
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T03:12:07.000Z",
+        "description": "喜欢你像是天空下了小猫雨 /",
+        "id": "1905095383241596928",
+        "name": "小猫雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905095617803898880/_BElXKQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 39,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "xiaomaoyuovo",
+        "verified": false
+      }
+    ]
+  }
+}

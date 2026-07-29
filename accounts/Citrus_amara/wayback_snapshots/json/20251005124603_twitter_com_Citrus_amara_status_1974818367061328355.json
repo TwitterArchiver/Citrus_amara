@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1974818367061328355",
+    "created_at": "2025-10-05T12:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T13:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974818367061328355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lawrenc0987443…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Lawrenc09874431/status/1969977209701167244",
+          "start": 21,
+          "url": "https://t.co/qWSjLvazRP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974818367061328355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969977209701167244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能信轮子的这辈子有了。反共靠宗教组织吗。 https://t.co/qWSjLvazRP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1974818367061328355",
+        "created_at": "2025-10-05T12:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974818367061328355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lawrenc0987443…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Lawrenc09874431/status/1969977209701167244",
+              "start": 21,
+              "url": "https://t.co/qWSjLvazRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974818367061328355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969977209701167244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能信轮子的这辈子有了。反共靠宗教组织吗。 https://t.co/qWSjLvazRP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596918985609601024",
+        "conversation_id": "1969977209701167244",
+        "created_at": "2025-09-22T04:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T05:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969977209701167244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969977209701167244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 564010,
+          "like_count": 1495,
+          "quote_count": 59,
+          "reply_count": 996,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "法轮功骗过我吗？没有\n法轮功害过我吗？没有\n法轮功犯法了吗？没有\n法轮功从政了吗？没有\n\n那对法轮功的滔天仇恨究竟从何而来？仅仅是因为有人不断给你洗脑而已。\n\n你讨厌人家是你的自由，但你到处污蔑人家也是很讨厌的，知道不？我就是因为今天被恶心到了，才出来说两句。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 504,
+          "like_count": 8218,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 3078
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T17:29:12.000Z",
+        "description": "今日幡然醒悟，原来中共国旗的红色是要拿人民的鲜血不断去染的。从茫茫戈壁到浩浩东海，亿万人的苦难无边无际。中共不亡，万民难安!  欢迎给我发私信或投稿，但我不能回复私信。\n\nAs long as the CCP is still in existence, the world won't have peace.",
+        "id": "1596918985609601024",
+        "name": "Lawrence of Gobi 愚蠢的精卫",
+        "pinned_tweet_id": "1974159088394424371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673899612019539971/4JAFu3q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33041,
+          "following_count": 2780,
+          "like_count": 56976,
+          "listed_count": 184,
+          "media_count": 7207,
+          "tweet_count": 25967
+        },
+        "username": "Lawrenc09874431",
+        "verified": true
+      }
+    ]
+  }
+}

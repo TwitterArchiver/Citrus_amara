@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2018194212563673173",
+    "created_at": "2026-02-03T02:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T03:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018516638937887131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919049320546086912",
+          "start": 0,
+          "username": "mizuame19953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018516638937887131",
+    "in_reply_to_user_id": "1919049320546086912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018194212563673173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuame19953 有点想买了可惜珠海太远了我懒得去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018194212563673173",
+        "created_at": "2026-02-03T02:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018516638937887131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919049320546086912",
+              "start": 0,
+              "username": "mizuame19953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018516638937887131",
+        "in_reply_to_user_id": "1919049320546086912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018194212563673173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame19953 有点想买了可惜珠海太远了我懒得去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919049320546086912",
+        "conversation_id": "2018194212563673173",
+        "created_at": "2026-02-02T05:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018194212563673173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizuame19953/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/mizuame19953/status/2018058229184680000",
+              "start": 39,
+              "url": "https://t.co/wmktm5KYGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018194212563673173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018058229184680000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实也可以买我一晚上探讨精神障碍药物治疗方案😁\n然后还能操我，属于是附加服务 https://t.co/wmktm5KYGK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 999,
+          "like_count": 16332,
+          "listed_count": 6,
+          "media_count": 326,
+          "tweet_count": 8707
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:20:06.000Z",
+        "description": "于45%vol泥中｜MtX｜aged 18｜精神病学｜搞笑卖淫男娘｜🚪15",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 23,
+                "expanded_url": "http://t.me/xiaosong2_33",
+                "start": 0,
+                "url": "https://t.co/OVc2TmiqC9"
+              }
+            ]
+          }
+        },
+        "id": "1919049320546086912",
+        "location": "珠海",
+        "name": "バタフライ 🏳️‍⚧️",
+        "pinned_tweet_id": "2018058229184680000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999857118820884480/8MrT1iRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 300,
+          "like_count": 29608,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/OVc2TmiqC9",
+        "username": "mizuame19953",
+        "verified": false
+      }
+    ]
+  }
+}

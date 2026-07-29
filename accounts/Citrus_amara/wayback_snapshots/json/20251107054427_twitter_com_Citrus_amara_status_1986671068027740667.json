@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1986469822411252026",
+    "created_at": "2025-11-07T05:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T06:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986671068027740667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658664482632253441",
+          "start": 0,
+          "username": "jujube8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986671068027740667",
+    "in_reply_to_user_id": "1658664482632253441",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986469822411252026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jujube8964 🤤🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1986469822411252026",
+        "created_at": "2025-11-07T05:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986671068027740667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658664482632253441",
+              "start": 0,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986671068027740667",
+        "in_reply_to_user_id": "1658664482632253441",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986469822411252026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujube8964 🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658664482632253441",
+        "conversation_id": "1986469822411252026",
+        "created_at": "2025-11-06T16:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T17:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986469822411252026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986469822411252026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3308,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好压抑，好想虐杀正太，我想看正太害怕恐惧的脸上沾满血然后我舔掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 686,
+          "like_count": 10869,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 4426
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "深爱着我的爱人，直到永远             \n                我个人阳痿/风湿/前列腺炎/腰间盘突出        回fo私信立马回喵",
+        "id": "1658664482632253441",
+        "location": "爱人的怀抱",
+        "name": "冬枣",
+        "pinned_tweet_id": "1985337246208471336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984312223637151744/2QZKQVoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 665,
+          "like_count": 2271,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 4124
+        },
+        "username": "jujube8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2026103038784774275",
+    "created_at": "2026-02-24T12:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026269279977447837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1443482942748037121",
+          "start": 0,
+          "username": "miyahanechan"
+        },
+        {
+          "end": 21,
+          "id": "1824818634809806848",
+          "start": 14,
+          "username": "hsgmxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026269279977447837",
+    "in_reply_to_user_id": "1443482942748037121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026231708589465882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyahanechan @hsgmxz 普瑞饱和了应该只会导致普瑞清除不掉啊。虽然这个情况透析是必须的\n\n普瑞是利尿剂，说不定是普瑞过多导致肾渗透压过高伤害肾？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2026103038784774275",
+        "created_at": "2026-02-24T12:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026269279977447837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443482942748037121",
+              "start": 0,
+              "username": "miyahanechan"
+            },
+            {
+              "end": 21,
+              "id": "1824818634809806848",
+              "start": 14,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026269279977447837",
+        "in_reply_to_user_id": "1443482942748037121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026231708589465882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyahanechan @hsgmxz 普瑞饱和了应该只会导致普瑞清除不掉啊。虽然这个情况透析是必须的\n\n普瑞是利尿剂，说不定是普瑞过多导致肾渗透压过高伤害肾？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443482942748037121",
+        "conversation_id": "2026103038784774275",
+        "created_at": "2026-02-24T09:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026231708589465882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1824818634809806848",
+              "start": 0,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026231708589465882",
+        "in_reply_to_user_id": "1443482942748037121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026229939482292694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsgmxz 感觉报肾衰像是pr把肾清除能力饱和了导致肌酐清不掉看指标像是肾衰，pr的HD清除率大概是四小时清50%，感觉及时血透好像有救回来的风险（逃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 1023,
+          "like_count": 17121,
+          "listed_count": 6,
+          "media_count": 357,
+          "tweet_count": 9295
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T07:48:58.000Z",
+        "description": "She/Her | 大号MtF | HRTing🍥（start at 21.8.1） | 抖S猛1铁T生科猫猫  | 欢迎扩列＆私信  | ban纯键政，黄推看xp随缘 | 笨蛋妹妹 @sUqlc1tOOHodYq4 | 接pymol绘图/组会PPT制作/药理/分子生物学/结构生物学/糖蛋白分析相关实验指导和文献精讲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 92,
+                "username": "sUqlc1tOOHodYq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orcid.org/0009-0003-3700…",
+                "end": 23,
+                "expanded_url": "http://orcid.org/0009-0003-3700-0290",
+                "start": 0,
+                "url": "https://t.co/lason4W6oS"
+              }
+            ]
+          }
+        },
+        "id": "1443482942748037121",
+        "location": "死了。",
+        "name": "みやはねちゃん",
+        "pinned_tweet_id": "1980186720663728241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973701434395996160/pLL8xFvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 722,
+          "like_count": 1504,
+          "listed_count": 12,
+          "media_count": 192,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/lason4W6oS",
+        "username": "miyahanechan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|永远14🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|2011.1.24|同类互fo|极度社恐|重焦重郁|intp-t||匿名提问箱https://t.co/eJ9r7NqD38|老婆：@chao_ching_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 133,
+                "username": "chao_ching_i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 129,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 106,
+                "url": "https://t.co/eJ9r7NqD38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHM4p"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2024977755281260725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010288262104088577/1zvRCsQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 1223,
+          "like_count": 9645,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 1566
+        },
+        "url": "https://t.co/Xrx6CgHM4p",
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

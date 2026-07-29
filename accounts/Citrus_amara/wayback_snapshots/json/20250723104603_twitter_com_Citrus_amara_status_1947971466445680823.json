@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947971466445680823",
+    "created_at": "2025-07-23T10:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T11:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947971466445680823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898723066911563776",
+          "start": 3,
+          "username": "AppleJuice_778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947971466445680823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947699423506796721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AppleJuice_778: 我要做那种心理和生理一起高潮的爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947971466445680823",
+        "created_at": "2025-07-23T10:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T11:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947971466445680823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1898723066911563776",
+              "start": 3,
+              "username": "AppleJuice_778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947971466445680823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947699423506796721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AppleJuice_778: 我要做那种心理和生理一起高潮的爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898723066911563776",
+        "conversation_id": "1947699423506796721",
+        "created_at": "2025-07-22T16:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T17:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947699423506796721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947699423506796721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7117,
+          "like_count": 125,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我要做那种心理和生理一起高潮的爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 103,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 307
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T13:10:39.000Z",
+        "description": "只喜欢碎碎念｜小号过互关@juicy77q｜无🚪不陪聊不线下不约不加v｜恶心私信直接发毕业证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "juicy77q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=XO8owifR",
+                "start": 0,
+                "url": "https://t.co/WGyQNi9MeF"
+              }
+            ]
+          }
+        },
+        "id": "1898723066911563776",
+        "location": "自用蜂鸟vpn",
+        "name": "睡不醒",
+        "pinned_tweet_id": "1947226672094458280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941852730055933952/TzJnMApD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9880,
+          "following_count": 159,
+          "like_count": 7060,
+          "listed_count": 19,
+          "media_count": 53,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/WGyQNi9MeF",
+        "username": "AppleJuice_778",
+        "verified": false
+      }
+    ]
+  }
+}

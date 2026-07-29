@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1988041497090953387",
+    "created_at": "2025-11-11T00:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T01:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988041497090953387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist1/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/drug_artist1/status/1987857013452537909",
+          "start": 9,
+          "url": "https://t.co/9uFJXauEUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988041497090953387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987857013452537909",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大独肖沐雨这一块 https://t.co/9uFJXauEUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_1987857010428399616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZJazra0AA2evD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1988041497090953387",
+        "created_at": "2025-11-11T00:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T01:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988041497090953387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist1/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/drug_artist1/status/1987857013452537909",
+              "start": 9,
+              "url": "https://t.co/9uFJXauEUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988041497090953387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987857013452537909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大独肖沐雨这一块 https://t.co/9uFJXauEUd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987857010428399616"
+          ]
+        },
+        "author_id": "1963867793776070656",
+        "conversation_id": "1987857013452537909",
+        "created_at": "2025-11-10T12:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987857013452537909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VgGEWa68gO",
+              "end": 59,
+              "expanded_url": "https://x.com/drug_artist1/status/1987857013452537909/photo/1",
+              "media_key": "3_1987857010428399616",
+              "start": 36,
+              "url": "https://t.co/VgGEWa68gO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987857013452537909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2135,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请输入文本:\n沐浴这个人诡计多端，准备和他玩的多个心眼，这比坑了不少人 https://t.co/VgGEWa68gO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 732,
+          "like_count": 11343,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 4576
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质直接私信我或联系TG: https://t.co/epYRPhCJVD ｜提问箱:https://t.co/ez10SQHDdD｜愿每一位药物滥用者都能脱离深渊｜提供药物/精神病咨询 ｜im crazy!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 70,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 47,
+                "url": "https://t.co/epYRPhCJVD"
+              },
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 99,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 76,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1985641950721294743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 90,
+          "like_count": 597,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

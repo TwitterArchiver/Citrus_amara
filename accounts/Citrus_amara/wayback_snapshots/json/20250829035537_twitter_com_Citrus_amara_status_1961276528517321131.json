@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1961275740776730887",
+    "created_at": "2025-08-29T03:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T04:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961276528517321131"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1961276528517321131",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961275740776730887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也要生一堆小东西当出气筒，等小东西们长大了我就把钱花光然后自杀✌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1961275740776730887",
+        "created_at": "2025-08-29T03:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961276528517321131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961276528517321131",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961275740776730887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要生一堆小东西当出气筒，等小东西们长大了我就把钱花光然后自杀✌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1961275740776730887",
+        "created_at": "2025-08-29T03:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961275740776730887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mirro50150y/st…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/mirro50150y/status/1960995093357437408",
+              "start": 101,
+              "url": "https://t.co/uQQlZzo8JK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961275740776730887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960995093357437408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们对孩子就好像孩子没有情感一样，只要能让孩子有吃有穿就不会忧虑。但是他们自己有吃有穿了又要孩子给他们情绪价值。养孩子当然就是用来吸血的，小时候吸情绪价值当情绪垃圾桶，长大了再爆金币养老。唉。老东西。 https://t.co/uQQlZzo8JK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。取关麻烦双向。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 362,
+          "like_count": 4868,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1976
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1987530967914045456",
+    "created_at": "2025-11-10T03:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T04:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987726574674661624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580893568675106817",
+          "start": 0,
+          "username": "reveriennn"
+        },
+        {
+          "end": 26,
+          "id": "1843518394056015872",
+          "start": 12,
+          "username": "xxxx123yyy545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987726574674661624",
+    "in_reply_to_user_id": "1580893568675106817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987682056558792771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reveriennn @xxxx123yyy545 自杀失败碎了...？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1987530967914045456",
+        "created_at": "2025-11-10T03:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T04:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987726574674661624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580893568675106817",
+              "start": 0,
+              "username": "reveriennn"
+            },
+            {
+              "end": 26,
+              "id": "1843518394056015872",
+              "start": 12,
+              "username": "xxxx123yyy545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987726574674661624",
+        "in_reply_to_user_id": "1580893568675106817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987682056558792771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reveriennn @xxxx123yyy545 自杀失败碎了...？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580893568675106817",
+        "conversation_id": "1987530967914045456",
+        "created_at": "2025-11-10T00:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T01:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987682056558792771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843518394056015872",
+              "start": 0,
+              "username": "xxxx123yyy545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987682056558792771",
+        "in_reply_to_user_id": "1843518394056015872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987530967914045456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxx123yyy545 碳酸钡和制造多意识体会有联系吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 722,
+          "like_count": 11215,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 4529
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T12:09:43.000Z",
+        "description": "这里什么也没有哦...",
+        "id": "1580893568675106817",
+        "name": "梦梦#心宿二",
+        "pinned_tweet_id": "1916116852817989637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581873239374319616/8uAOm084_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1717,
+          "like_count": 22201,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 4619
+        },
+        "username": "reveriennn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T05:06:59.000Z",
+        "description": "在下纪伊🍥！\n北三持证含糖小药娘/HRT2024/11/RLE/985本/高考政治100喵~/\n猎奇向地雷妹/INFP/血图gal/南北一生推！maiw25/偶尔见证。\n双相严重失眠烟酒o割日常推，喜欢被调教，同类互fo\n为拍期末作业不挂科接线下，视情况全国可飞\n前往约定之星ing",
+        "id": "1843518394056015872",
+        "location": "后海边地道老北京人",
+        "name": "纪~伊~接线下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843519143460646915/nykInaID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1027,
+          "like_count": 4858,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 1890
+        },
+        "username": "xxxx123yyy545",
+        "verified": false
+      }
+    ]
+  }
+}

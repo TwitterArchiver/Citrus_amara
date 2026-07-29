@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1960289977444556964",
+    "created_at": "2025-08-26T10:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T11:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960289980032446713"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960289980032446713",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960289977444556964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "——说法。你为了镇咳吃30片右美沙芬当然是过量的，但你为了娱乐吃30片右美沙芬就是正常剂量。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960289977444556964",
+        "created_at": "2025-08-26T10:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960289980032446713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960289980032446713",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960289977444556964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "——说法。你为了镇咳吃30片右美沙芬当然是过量的，但你为了娱乐吃30片右美沙芬就是正常剂量。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960289977444556964",
+        "created_at": "2025-08-26T10:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960289977444556964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960289977444556964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿司匹林低剂量可以预防血栓，高剂量则作为NSAID；吗啡皮下注射1~2mg即可镇咳，注射5~10mg则有镇痛作用...很多药物在不同的剂量下，都会产生完全不同的作用。\n我的意思是，od是否根本不存在，我们只是把低剂量的右美沙芬当做止咳药，高剂量的右美沙芬当做解离剂和抗抑郁药。根本没什么过量与不过量的——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby。od的请陪我玩。#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 355,
+          "like_count": 4484,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1769
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

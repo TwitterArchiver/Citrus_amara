@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1970455314953637955",
+    "created_at": "2025-09-23T11:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T12:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970455314953637955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdosewiki/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/overdosewiki/status/1970447772236292405",
+          "start": 8,
+          "url": "https://t.co/Dhq5UhfiIE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970455314953637955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970447772236292405",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还来啊有完没完 https://t.co/Dhq5UhfiIE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1970455314953637955",
+        "created_at": "2025-09-23T11:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T12:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970455314953637955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdosewiki/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/overdosewiki/status/1970447772236292405",
+              "start": 8,
+              "url": "https://t.co/Dhq5UhfiIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970455314953637955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970447772236292405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还来啊有完没完 https://t.co/Dhq5UhfiIE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798724969695977472",
+        "conversation_id": "1970447772236292405",
+        "created_at": "2025-09-23T11:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T12:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970447772236292405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970447772236292405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "实际上o圈早就烂透了，几个势力暗地里早就是利益勾结了，退圈之前我还会再爆一次这几个势力，尽请期待🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 448,
+          "like_count": 7405,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 2778
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92 官方站点。\n                                                         有关问题可以联系我们；\n 非个人账户。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1965855137060319684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969602419240943619/GcbhpGc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3695,
+          "following_count": 11,
+          "like_count": 441,
+          "listed_count": 6,
+          "media_count": 102,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

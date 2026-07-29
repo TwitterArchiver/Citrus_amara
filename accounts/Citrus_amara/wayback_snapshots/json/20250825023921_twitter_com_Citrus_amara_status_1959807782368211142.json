@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1959771922847404256",
+    "created_at": "2025-08-25T02:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T03:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959807782368211142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959807782368211142",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959771922847404256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname 鞋子咋机洗啊...\n学校里应该有刷鞋的吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1959771796536004609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzKCEM1bkAEixwu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1959771922847404256",
+        "created_at": "2025-08-25T02:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T03:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959807782368211142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959807782368211142",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959771922847404256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 鞋子咋机洗啊...\n学校里应该有刷鞋的吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959771796536004609"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1959771922847404256",
+        "created_at": "2025-08-25T00:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T01:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959771922847404256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7b8PXkMeB",
+              "end": 129,
+              "expanded_url": "https://x.com/04177_realname/status/1959771922847404256/photo/1",
+              "media_key": "3_1959771796536004609",
+              "start": 106,
+              "url": "https://t.co/Z7b8PXkMeB"
+            },
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/04177_realname/status/1959462247190954214",
+              "start": 130,
+              "url": "https://t.co/EEIijsreoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959771922847404256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959462247190954214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要进行斗争，我要民主，我要投票权，我要有用洗衣机解放双手的自由！ 后续是被骂了一顿 当众处刑 投票都没进行下去 不过有和我一样想法的人应该会主动找到我 没有就算了 既然进入集体就要忍受集体主义的弊端 放宽心吧 https://t.co/Z7b8PXkMeB https://t.co/EEIijsreoT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别enby。od的请陪我玩。#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "odtwt"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 385,
+          "like_count": 4301,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1729
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。❤️：@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11011,
+          "following_count": 6149,
+          "like_count": 64408,
+          "listed_count": 35,
+          "media_count": 2560,
+          "tweet_count": 18941
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

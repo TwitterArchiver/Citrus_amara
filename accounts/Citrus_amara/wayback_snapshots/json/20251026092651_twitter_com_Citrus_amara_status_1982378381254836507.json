@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1982378381254836507",
+    "created_at": "2025-10-26T09:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T10:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982378381254836507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/1982255425115295795",
+          "start": 12,
+          "url": "https://t.co/zOhPl1uzHr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982378381254836507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982255425115295795",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊我操xjp怎么这么坏 https://t.co/zOhPl1uzHr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1982255385021968384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4JixS5W8AA0xqS.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1982378381254836507",
+        "created_at": "2025-10-26T09:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982378381254836507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/1982255425115295795",
+              "start": 12,
+              "url": "https://t.co/zOhPl1uzHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982378381254836507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982255425115295795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊我操xjp怎么这么坏 https://t.co/zOhPl1uzHr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982255385021968384"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "1982255425115295795",
+        "created_at": "2025-10-26T01:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T02:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982255425115295795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FulSPhyArl",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1982255425115295795/photo/1",
+              "media_key": "3_1982255385021968384",
+              "start": 0,
+              "url": "https://t.co/FulSPhyArl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982255425115295795",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 8216,
+          "like_count": 195,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FulSPhyArl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 632,
+          "like_count": 10062,
+          "listed_count": 4,
+          "media_count": 148,
+          "tweet_count": 3966
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21639,
+          "following_count": 206,
+          "like_count": 53,
+          "listed_count": 60,
+          "media_count": 7191,
+          "tweet_count": 7215
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

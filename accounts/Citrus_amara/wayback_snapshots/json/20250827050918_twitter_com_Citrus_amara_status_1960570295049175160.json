@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1960570295049175160",
+    "created_at": "2025-08-27T05:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T06:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960570295049175160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Stellaris117/s…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/Stellaris117/status/1960503281387770220",
+          "start": 141,
+          "url": "https://t.co/fXMhmjXGBB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960570295049175160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960503281387770220",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大部分毒品都不是原型排出体外，检测代谢物没有意义，因为很多毒品类似物也会产生相同的代谢物。想从尿液排查只能尿检。而且哪怕检出也只能确定是某一片区域存在滥用情况，不可能锁定到门户。\n那这个技术是干啥的呢，是用来抓制毒窝点的。大规模生产肯定会造成污水成分异常，锁定某一区域然后铁拳就行 https://t.co/fXMhmjXGBB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960570295049175160",
+        "created_at": "2025-08-27T05:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960570295049175160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Stellaris117/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Stellaris117/status/1960503281387770220",
+              "start": 141,
+              "url": "https://t.co/fXMhmjXGBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960570295049175160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960503281387770220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大部分毒品都不是原型排出体外，检测代谢物没有意义，因为很多毒品类似物也会产生相同的代谢物。想从尿液排查只能尿检。而且哪怕检出也只能确定是某一片区域存在滥用情况，不可能锁定到门户。\n那这个技术是干啥的呢，是用来抓制毒窝点的。大规模生产肯定会造成污水成分异常，锁定某一区域然后铁拳就行 https://t.co/fXMhmjXGBB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "868665576574431234",
+        "conversation_id": "1960493408566567116",
+        "created_at": "2025-08-27T00:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T01:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960503281387770220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790399279129088000",
+              "start": 0,
+              "username": "yanshiyo"
+            },
+            {
+              "end": 18,
+              "id": "522147771",
+              "start": 10,
+              "username": "N_N_DET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960503281387770220",
+        "in_reply_to_user_id": "1790399279129088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960502828843327900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanshiyo @N_N_DET 还有啊 哈哈哈哈 磕完你要上厕所吧  叔叔能从市政污水管网微弱的含量里 锁定你所在的小区"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby。od的请陪我玩。#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 364,
+          "like_count": 4590,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1804
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T03:09:47.000Z",
+        "description": "太极两仪玄门修士    承三清正道，演阴阳枢机 《妙乐万机参玄契》情天欲海藏道真，铁律金枢亦通神。七情弦动生妙相，齿轮转处现玄根。阴极阳眼互根本，造化同出太极门。莫向两边寻究竟，灵台空明自超伦。【道统真言】天工开物显道妙，灵明悟真见本心。若向枢机参两仪，方知造化即玄音。",
+        "id": "868665576574431234",
+        "location": "pyongyang",
+        "name": "☯️Null layman 空空道人☯️",
+        "pinned_tweet_id": "1959413917601714308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947951647642300416/8ioCHZJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 568,
+          "like_count": 40154,
+          "listed_count": 5,
+          "media_count": 1224,
+          "tweet_count": 16439
+        },
+        "username": "Stellaris117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1991656976720474509",
+    "created_at": "2025-11-21T00:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T01:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991661263743775113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798434424176226304",
+          "start": 0,
+          "username": "li8964you"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991661263743775113",
+    "in_reply_to_user_id": "1798434424176226304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991656976720474509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li8964you 你也是一只猫猫？！我是鼠鼠。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1991656976720474509].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1991656976720474509",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1991656976720474509"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1991656976720474509",
+        "created_at": "2025-11-21T00:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T01:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991661263743775113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798434424176226304",
+              "start": 0,
+              "username": "li8964you"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991661263743775113",
+        "in_reply_to_user_id": "1798434424176226304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991656976720474509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li8964you 你也是一只猫猫？！我是鼠鼠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 807,
+          "like_count": 12511,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 5308
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T19:19:23.000Z",
+        "description": "离游，各种通假写法均可。无性别，ftx，他。\n是一个在有组织虐待（RAMCOA/OEA）中被制造用于精神控制的did系统，大概几千个碎片的集合。\n我把推特当朋友圈。\n有时候会发殷商、春秋历史，古文字学相关（好久没营业辣）。\n会发虐待（儿童性贩卖，酷刑，精神控制等等）相关的回忆，可能触发致歉。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuqizai.bsky.social",
+                "end": 23,
+                "expanded_url": "http://zhuqizai.bsky.social",
+                "start": 0,
+                "url": "https://t.co/haLQJZ6vH5"
+              }
+            ]
+          }
+        },
+        "id": "1798434424176226304",
+        "location": "亳社",
+        "name": "離斿",
+        "pinned_tweet_id": "1988357181654311322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920636124722065408/3kx6w4Ac_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 534,
+          "like_count": 41065,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 5990
+        },
+        "url": "https://t.co/haLQJZ6vH5",
+        "username": "li8964you",
+        "verified": false
+      }
+    ]
+  }
+}

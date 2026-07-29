@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946897658414555343",
+    "created_at": "2025-07-20T11:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T12:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946897658414555343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shinysilver404…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/shinysilver404/status/1879421625340506242",
+          "start": 16,
+          "url": "https://t.co/D6ZiMwTnrl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946897658414555343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879421625340506242",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呦我草我说真的有些跨子味真大 https://t.co/D6ZiMwTnrl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946897658414555343",
+        "created_at": "2025-07-20T11:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946897658414555343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shinysilver404…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/shinysilver404/status/1879421625340506242",
+              "start": 16,
+              "url": "https://t.co/D6ZiMwTnrl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946897658414555343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879421625340506242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呦我草我说真的有些跨子味真大 https://t.co/D6ZiMwTnrl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825459880268050432",
+        "conversation_id": "1879421625340506242",
+        "created_at": "2025-01-15T06:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T07:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879421625340506242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879421625340506242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 44340,
+          "like_count": 326,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "一些mtf想做女的 自己还辱女 建议蝻的配跨女 一个想操逼一个想当飞机杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎mtf，ftm和地雷系给我私信。好感刷高了可以爆qq。\n需要墙内联系方式请给我打钱。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 79,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 201
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T09:08:57.000Z",
+        "description": "原来我拿到的是主角剧本 扣子来啦",
+        "id": "1825459880268050432",
+        "location": "南湖",
+        "name": "人皮扣",
+        "pinned_tweet_id": "1922927760533594241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946596247596318721/ZvzrDzhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 233,
+          "like_count": 8487,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 4827
+        },
+        "username": "shinysilver404",
+        "verified": false
+      }
+    ]
+  }
+}

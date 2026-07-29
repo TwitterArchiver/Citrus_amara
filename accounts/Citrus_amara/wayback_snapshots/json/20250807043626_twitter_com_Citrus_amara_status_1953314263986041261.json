@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1953126988228771945",
+    "created_at": "2025-08-07T04:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T05:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953314263986041261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1437747899220172800",
+          "start": 0,
+          "username": "guiTheGreat"
+        },
+        {
+          "end": 28,
+          "id": "1680508885394927616",
+          "start": 13,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953314263986041261",
+    "in_reply_to_user_id": "1437747899220172800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953149360520478872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guiTheGreat @04177_realname 那完蛋了，我对朋友也会有占有欲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1953126988228771945",
+        "created_at": "2025-08-07T04:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T05:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953314263986041261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1437747899220172800",
+              "start": 0,
+              "username": "guiTheGreat"
+            },
+            {
+              "end": 28,
+              "id": "1680508885394927616",
+              "start": 13,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953314263986041261",
+        "in_reply_to_user_id": "1437747899220172800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953149360520478872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guiTheGreat @04177_realname 那完蛋了，我对朋友也会有占有欲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437747899220172800",
+        "conversation_id": "1953126988228771945",
+        "created_at": "2025-08-06T17:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T18:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953149360520478872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953149360520478872",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953126988228771945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 个人觉得不及友情，友情少有“占有欲”这种负面情绪，相比于爱情有更多的自由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。#odtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 275,
+          "like_count": 1945,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 882
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T11:59:52.000Z",
+        "description": "❤️杏山和纱❤️/肥猫厨/coser/明日方舟/崩坏：星穹铁道/蔚蓝档案/以及其它泛ACG/同圈互fo",
+        "id": "1437747899220172800",
+        "location": "揍小夏和玲纱的路上",
+        "name": "桂酱",
+        "pinned_tweet_id": "1875606300186571250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933048280822554624/IItcQ2sZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3968,
+          "following_count": 1993,
+          "like_count": 27752,
+          "listed_count": 17,
+          "media_count": 353,
+          "tweet_count": 10460
+        },
+        "username": "guiTheGreat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。❤️：@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10977,
+          "following_count": 6170,
+          "like_count": 63619,
+          "listed_count": 31,
+          "media_count": 2481,
+          "tweet_count": 18420
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

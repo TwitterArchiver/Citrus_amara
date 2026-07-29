@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025962540908380580",
+    "created_at": "2026-02-24T04:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T05:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026150808643887121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1932962027070210048",
+          "start": 0,
+          "username": "ffugdujh"
+        },
+        {
+          "end": 22,
+          "id": "1832763086039896064",
+          "start": 10,
+          "username": "caliE694030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026150808643887121",
+    "in_reply_to_user_id": "1932962027070210048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026126592318308854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffugdujh @caliE694030 我最开始也想的罗通定。应该算是下机药了？不过癫痫这一块没办法反制。抗癫痫药大部分动gaba但是有普瑞配晚安癫痫的例子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025962540908380580",
+        "created_at": "2026-02-24T04:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026150808643887121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932962027070210048",
+              "start": 0,
+              "username": "ffugdujh"
+            },
+            {
+              "end": 22,
+              "id": "1832763086039896064",
+              "start": 10,
+              "username": "caliE694030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026150808643887121",
+        "in_reply_to_user_id": "1932962027070210048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026126592318308854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffugdujh @caliE694030 我最开始也想的罗通定。应该算是下机药了？不过癫痫这一块没办法反制。抗癫痫药大部分动gaba但是有普瑞配晚安癫痫的例子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932962027070210048",
+        "conversation_id": "2025962540908380580",
+        "created_at": "2026-02-24T02:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026126592318308854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 26,
+              "id": "1832763086039896064",
+              "start": 14,
+              "username": "caliE694030"
+            }
+          ],
+          "urls": [
+            {
+              "description": "报告人:Sakura 报告处理者:55555 身高体重：196cm,90kg 相关药物：唑吡坦、美金刚、苯海索、罗通定、石杉碱甲 2024年10月24日 4:12 服用4t 思诺思 正常起效 5点左右睡着 9:00 点起床吃了点东西 继续睡回笼觉 11:30 水odw群 12:49 开始在群呢一直叫难受，并开始谵妄，（没有征兆的谵妄，谵妄前跟平时状态没有区别 ，没有区别的难受） (幻觉：朋友出现，...",
+              "display_url": "fayou.club/%E8%8D%AF%E7%8…",
+              "end": 50,
+              "expanded_url": "https://fayou.club/%E8%8D%AF%E7%89%A9%E6%8A%A5%E5%91%8A%EF%BC%88%E6%96%B0%EF%BC%89/1124.html",
+              "start": 27,
+              "status": 200,
+              "title": "报告458-30t美金刚的精神分裂并反制：罗通定杀死了精分！！",
+              "unwound_url": "https://fayou.club/%E8%8D%AF%E7%89%A9%E6%8A%A5%E5%91%8A%EF%BC%88%E6%96%B0%EF%BC%89/1124.html",
+              "url": "https://t.co/UTM89DFGk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026126592318308854",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026086838729896233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @caliE694030 https://t.co/UTM89DFGk0之前看过的一篇报告管用吗参考一下呗🥴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 1019,
+          "like_count": 17087,
+          "listed_count": 6,
+          "media_count": 355,
+          "tweet_count": 9268
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T00:44:14.000Z",
+        "description": "原来的号找不回来了@ovo_ti59598 QwQ\n还是🚪18.8半绿58.8嘻嘻（有好康的\n是只小0 接定制要先过🚪哦(＞﹏＜)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "ovo_ti59598"
+              }
+            ]
+          }
+        },
+        "id": "1932962027070210048",
+        "name": "想吃猫饼（二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026121791048138753/yIghW65K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 43,
+          "like_count": 164,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 69
+        },
+        "username": "ffugdujh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T12:51:34.000Z",
+        "description": "精神超稳定 (*精神超稳定是理想目标) | 100%互fo | 我的可爱的姐姐！@wimzylens0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "wimzylens0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reddit.com/u/NanoCatfish/…",
+                "end": 23,
+                "expanded_url": "https://www.reddit.com/u/NanoCatfish/s/E8HefyTo5W",
+                "start": 0,
+                "url": "https://t.co/7EkeuW80p7"
+              }
+            ]
+          }
+        },
+        "id": "1832763086039896064",
+        "location": "🍀四叶草园🍀",
+        "name": "🍀Nano Catfish🐟🐟🐟",
+        "pinned_tweet_id": "1985858852060070241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007057714342461440/5Gc8L4A0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 206,
+          "like_count": 4470,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 849
+        },
+        "url": "https://t.co/7EkeuW80p7",
+        "username": "caliE694030",
+        "verified": true
+      }
+    ]
+  }
+}

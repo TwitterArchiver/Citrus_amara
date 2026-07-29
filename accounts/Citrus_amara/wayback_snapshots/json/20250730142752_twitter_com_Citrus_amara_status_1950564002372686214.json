@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Biology",
+          "id": "847896837532995585",
+          "name": "Biology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Biology",
+          "id": "847896837532995585",
+          "name": "Biology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237037424661770242",
+          "name": "Neuroscience"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1950564002372686214",
+    "created_at": "2025-07-30T14:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T15:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950564002372686214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ForWomenScot/s…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/ForWomenScot/status/1920426521413452040",
+          "start": 61,
+          "url": "https://t.co/pQg55E83Df"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950564002372686214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920426521413452040",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那些反跨神人已经开始不信任柳叶刀了吗...\n英国剑桥大学荣誉教授的观点和我的观点发生了冲突，哎🤓☝显然我的观点是正确的。 https://t.co/pQg55E83Df"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237037424661770242",
+              "name": "Neuroscience"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1950564002372686214",
+        "created_at": "2025-07-30T14:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T15:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950564002372686214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ForWomenScot/s…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/ForWomenScot/status/1920426521413452040",
+              "start": 61,
+              "url": "https://t.co/pQg55E83Df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950564002372686214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920426521413452040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那些反跨神人已经开始不信任柳叶刀了吗...\n英国剑桥大学荣誉教授的观点和我的观点发生了冲突，哎🤓☝显然我的观点是正确的。 https://t.co/pQg55E83Df"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1011580472709787648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237037424661770242",
+              "name": "Neuroscience"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1920424614544466407",
+        "created_at": "2025-05-08T10:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T11:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920426521413452040"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 99,
+              "normalized_text": "Lancet",
+              "probability": 0.4016,
+              "start": 94,
+              "type": "Other"
+            },
+            {
+              "end": 118,
+              "normalized_text": "DSDs",
+              "probability": 0.6835,
+              "start": 115,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "62513246",
+              "start": 0,
+              "username": "jk_rowling"
+            }
+          ],
+          "urls": [
+            {
+              "description": "On April 16, 2025, the UK Supreme Court ruled that only those who are what it terms as biologically female can be defined as women.1 This has wide implications for medicine as well as for people who are transgender. The Court's document runs to 88 pages. The Court's position on sex is set out several times. For example, on page 50:",
+              "display_url": "thelancet.com/journals/lance…",
+              "end": 162,
+              "expanded_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00834-7/fulltext?rss=yes",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/1930293269138644992/k_5yb4o3?format=png&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1930293269138644992/k_5yb4o3?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 139,
+              "status": 200,
+              "title": "The UK Supreme Court's ruling and the rights of transgender people",
+              "unwound_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00834-7/abstract?rss=yes",
+              "url": "https://t.co/amNy3hB6wg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920426521413452040",
+        "in_reply_to_user_id": "62513246",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8370,
+          "like_count": 192,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920424614544466407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jk_rowling Disturbingly, this is the line being pushed by a Professor of neuroscience in the Lancet who (mis)uses DSDs to make his point.\nhttps://t.co/amNy3hB6wg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 226,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 639
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-26T12:02:33.000Z",
+        "description": "We are a group of women from across Scotland working to protect and strengthen women and children's rights. \nDonations welcome: https://t.co/cFP07PHhJT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "forwomen.scot/donate/",
+                "end": 151,
+                "expanded_url": "https://forwomen.scot/donate/",
+                "start": 128,
+                "url": "https://t.co/cFP07PHhJT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forwomen.scot",
+                "end": 23,
+                "expanded_url": "http://forwomen.scot",
+                "start": 0,
+                "url": "https://t.co/xbsF6iJv01"
+              }
+            ]
+          }
+        },
+        "id": "1011580472709787648",
+        "location": "Scotland",
+        "name": "For Women Scotland",
+        "pinned_tweet_id": "1927404685217972326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497652728654446595/QvyMn70__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70913,
+          "following_count": 2211,
+          "like_count": 352907,
+          "listed_count": 171,
+          "media_count": 5132,
+          "tweet_count": 107241
+        },
+        "url": "https://t.co/xbsF6iJv01",
+        "username": "ForWomenScot",
+        "verified": true
+      }
+    ]
+  }
+}

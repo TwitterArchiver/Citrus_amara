@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1988043462634021349",
+    "created_at": "2025-11-11T00:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T01:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988043462634021349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CoilofFaraday/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/CoilofFaraday/status/1987851050523799747",
+          "start": 18,
+          "url": "https://t.co/qlWN5FMzPF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988043462634021349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987851050523799747",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在就在做检验，也确实是经常出错 https://t.co/qlWN5FMzPF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987851041333968896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZD_XEaAAAGtdZ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1988043462634021349",
+        "created_at": "2025-11-11T00:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T01:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988043462634021349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CoilofFaraday/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/CoilofFaraday/status/1987851050523799747",
+              "start": 18,
+              "url": "https://t.co/qlWN5FMzPF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988043462634021349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987851050523799747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在就在做检验，也确实是经常出错 https://t.co/qlWN5FMzPF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987851041333968896"
+          ]
+        },
+        "author_id": "1355178308460187653",
+        "conversation_id": "1987851050523799747",
+        "created_at": "2025-11-10T11:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T12:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987851050523799747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fknxIS0nCM",
+              "end": 45,
+              "expanded_url": "https://x.com/CoilofFaraday/status/1987851050523799747/photo/1",
+              "media_key": "3_1987851041333968896",
+              "start": 22,
+              "url": "https://t.co/fknxIS0nCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987851050523799747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1894,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“吸毒后常常找不到毒品”\n哎我们adhd😰 https://t.co/fknxIS0nCM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 732,
+          "like_count": 11348,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 4581
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T15:37:49.000Z",
+        "description": "no I don’t have a fucking profile 最爱的小豹@yoselindead🐆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "yoselindead"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/coiloffaraday",
+                "end": 23,
+                "expanded_url": "http://www.github.com/coiloffaraday",
+                "start": 0,
+                "url": "https://t.co/dtOyzU5Rv6"
+              }
+            ]
+          }
+        },
+        "id": "1355178308460187653",
+        "location": "Zhejiang",
+        "name": "Faraday",
+        "pinned_tweet_id": "1966875019822477415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987410658934358016/69Dk5ABQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 506,
+          "like_count": 434,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 2412
+        },
+        "url": "https://t.co/dtOyzU5Rv6",
+        "username": "CoilofFaraday",
+        "verified": false
+      }
+    ]
+  }
+}

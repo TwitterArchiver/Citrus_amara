@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951278792145518592"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1951007640387199279",
+    "created_at": "2025-08-01T13:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T14:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951278868725129341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "989792932533223424",
+          "start": 0,
+          "username": "Kinodar_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eA2DfkO9Yj",
+          "end": 80,
+          "expanded_url": "https://x.com/Citrus_amara/status/1951278868725129341/photo/1",
+          "media_key": "3_1951278792145518592",
+          "start": 57,
+          "url": "https://t.co/eA2DfkO9Yj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951278868725129341",
+    "in_reply_to_user_id": "989792932533223424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951277005766619497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinodar_ 如果你是认真来讨论的我还是希望你能把我的观点看完。。我明确说了滥用右美在法律意义上就是吸毒。 https://t.co/eA2DfkO9Yj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_1951278792145518592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRVuR-WQAAPZAo.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951278792145518592"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1951007640387199279",
+        "created_at": "2025-08-01T13:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T14:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951278868725129341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "989792932533223424",
+              "start": 0,
+              "username": "Kinodar_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eA2DfkO9Yj",
+              "end": 80,
+              "expanded_url": "https://x.com/Citrus_amara/status/1951278868725129341/photo/1",
+              "media_key": "3_1951278792145518592",
+              "start": 57,
+              "url": "https://t.co/eA2DfkO9Yj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951278868725129341",
+        "in_reply_to_user_id": "989792932533223424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951277005766619497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinodar_ 如果你是认真来讨论的我还是希望你能把我的观点看完。。我明确说了滥用右美在法律意义上就是吸毒。 https://t.co/eA2DfkO9Yj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "989792932533223424",
+        "conversation_id": "1951007640387199279",
+        "created_at": "2025-08-01T13:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T14:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951277005766619497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951277005766619497",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951272272146083950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 右美沙芬在2024年已经被正式列为第二类精神药品，进入了《精神药品品种目录》——也就是说，它已经不是普通止咳药，而是法律意义上的毒品了。滥用右美沙芬，在法律上就是滥用毒品，这不是情绪表达，是法规白纸黑字写的。\n\n危害不一样不等于一个是毒品另一个不是，现实世界不是靠你觉得来改定义的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 240,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 689
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-27T09:06:39.000Z",
+        "description": "男/已婚/37岁 日记推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinodarz.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://kinodarz.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/DtKsP3fmqS"
+              }
+            ]
+          }
+        },
+        "id": "989792932533223424",
+        "location": "Shanghai",
+        "name": "Kinodar",
+        "pinned_tweet_id": "1688373772225818624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674684426016677889/4ziJHXk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 123,
+          "like_count": 10605,
+          "listed_count": 6,
+          "media_count": 1584,
+          "tweet_count": 7095
+        },
+        "url": "https://t.co/DtKsP3fmqS",
+        "username": "Kinodar_",
+        "verified": false
+      }
+    ]
+  }
+}

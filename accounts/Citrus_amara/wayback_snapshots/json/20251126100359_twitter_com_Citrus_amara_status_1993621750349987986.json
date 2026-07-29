@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1993597436015898881",
+    "created_at": "2025-11-26T10:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993621750349987986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1862861397304225792",
+          "start": 0,
+          "username": "502_ErR0r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993621750349987986",
+    "in_reply_to_user_id": "1862861397304225792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993612950356275278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@502_ErR0r 但是和雌二醇一样也不怕啊，雌二醇现在也有预约线下留药的模式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1993597436015898881",
+        "created_at": "2025-11-26T10:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993621750349987986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1862861397304225792",
+              "start": 0,
+              "username": "502_ErR0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993621750349987986",
+        "in_reply_to_user_id": "1862861397304225792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993612950356275278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@502_ErR0r 但是和雌二醇一样也不怕啊，雌二醇现在也有预约线下留药的模式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862861397304225792",
+        "conversation_id": "1993597436015898881",
+        "created_at": "2025-11-26T09:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993612950356275278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993612950356275278",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993600683493535848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 不要啊⋯⋯\n普瑞巴林已經是我和前任最後的共同回憶了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 829,
+          "like_count": 13147,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 5750
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:14:09.000Z",
+        "description": "地雷女、Ghost in the town 歡迎寶寶跟蹤看我發廢文（劣退，不是——），有互fo想法的寶寶/閣下請關注後DM不然主播也不知道OVO 有生之年能做爸爸活/媽媽活嗎我也不知道（笑）Ask me anything in the link below.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuzuk1mo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuzuk1mo",
+                "start": 0,
+                "url": "https://t.co/7ERvfrc84X"
+              }
+            ]
+          }
+        },
+        "id": "1862861397304225792",
+        "location": "Middle of nowhere",
+        "name": "Z3r0",
+        "pinned_tweet_id": "1915741545405517889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989851997223489537/rW-nEMJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 150,
+          "like_count": 12755,
+          "listed_count": 1,
+          "media_count": 397,
+          "tweet_count": 3588
+        },
+        "url": "https://t.co/7ERvfrc84X",
+        "username": "502_ErR0r",
+        "verified": false
+      }
+    ]
+  }
+}

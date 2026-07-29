@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1966512646691139668",
+    "created_at": "2025-09-12T15:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T16:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966523887937544519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956722348935221248",
+          "start": 0,
+          "username": "overdose_dxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966523887937544519",
+    "in_reply_to_user_id": "1956722348935221248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966522580136780142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_dxm 在你拿出数据之前我不会和你辩论。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1966512646691139668",
+        "created_at": "2025-09-12T15:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966523887937544519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956722348935221248",
+              "start": 0,
+              "username": "overdose_dxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966523887937544519",
+        "in_reply_to_user_id": "1956722348935221248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966522580136780142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_dxm 在你拿出数据之前我不会和你辩论。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956722348935221248",
+        "conversation_id": "1966512646691139668",
+        "created_at": "2025-09-12T15:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966522580136780142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966522580136780142",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966512646691139668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 就是4-meo-pcp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 114,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 422,
+          "like_count": 6531,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 2518
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T14:19:05.000Z",
+        "description": "本账号为科普账号，娱乐账号请看: @N_N_DET\n百科:https://t.co/da881UCykR\n关注我们的TG频道: @overdose_dxm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "N_N_DET"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "overdose_dxm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 52,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 29,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          }
+        },
+        "id": "1956722348935221248",
+        "name": "化学极乐百科🔯",
+        "pinned_tweet_id": "1956728430600532348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956726791072329728/Ch_T98m-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 425,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/da881UCykR",
+        "username": "overdose_dxm",
+        "verified": false
+      }
+    ]
+  }
+}

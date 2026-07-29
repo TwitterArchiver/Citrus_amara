@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2025656968803668238",
+    "created_at": "2026-02-23T10:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025878955350495285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975516163078594560",
+          "start": 0,
+          "username": "Freundis21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025878955350495285",
+    "in_reply_to_user_id": "1975516163078594560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025656968803668238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freundis21 只要不合用就没事吧？思诺思半衰期挺短的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025656963846086656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByURrbXoAA-OMq.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025656963850219520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByURrcWsAA0nqL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025656968803668238",
+        "created_at": "2026-02-23T10:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025878955350495285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975516163078594560",
+              "start": 0,
+              "username": "Freundis21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025878955350495285",
+        "in_reply_to_user_id": "1975516163078594560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025656968803668238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freundis21 只要不合用就没事吧？思诺思半衰期挺短的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025656963846086656",
+            "3_2025656963850219520"
+          ]
+        },
+        "author_id": "1975516163078594560",
+        "conversation_id": "2025656968803668238",
+        "created_at": "2026-02-22T19:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T20:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025656968803668238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RdXHONVbA8",
+              "end": 137,
+              "expanded_url": "https://x.com/Freundis21/status/2025656968803668238/photo/1",
+              "media_key": "3_2025656963846086656",
+              "start": 114,
+              "url": "https://t.co/RdXHONVbA8"
+            },
+            {
+              "display_url": "pic.x.com/RdXHONVbA8",
+              "end": 137,
+              "expanded_url": "https://x.com/Freundis21/status/2025656968803668238/photo/1",
+              "media_key": "3_2025656963850219520",
+              "start": 114,
+              "url": "https://t.co/RdXHONVbA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025656968803668238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 706,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1如果你是长期以来都在吃sns的话那么他的GABA抑制作用会直接覆盖并中和了4ho的血清素兴奋作用，还有种情况是体重基数太大导致的没有药效\np2pdd买美金刚/京东买复方甘草片 一般不要求提供处方 如果要你发处方换一家开就行 https://t.co/RdXHONVbA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1016,
+          "like_count": 17042,
+          "listed_count": 6,
+          "media_count": 352,
+          "tweet_count": 9246
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "=废物/Freundis。无言直关抱歉，会互fo（如果有没fo到的请私信我ovo）。匿名提问https://t.co/8kDSGb7b5b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 69,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 46,
+                "url": "https://t.co/8kDSGb7b5b"
+              }
+            ]
+          }
+        },
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "1986037851113373928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 666,
+          "like_count": 7378,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1066
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1983445650097226218",
+    "created_at": "2025-10-29T08:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T09:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983445650097226218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FxxkApexLegend…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/FxxkApexLegend/status/1983344502913040418",
+          "start": 4,
+          "url": "https://t.co/bOGIxXz5Sx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983445650097226218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983344502913040418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈的。 https://t.co/bOGIxXz5Sx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 626,
+        "media_key": "3_1983344496353128449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ZBT6xasAEWTTU.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983445650097226218",
+        "created_at": "2025-10-29T08:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T09:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983445650097226218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FxxkApexLegend…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/FxxkApexLegend/status/1983344502913040418",
+              "start": 4,
+              "url": "https://t.co/bOGIxXz5Sx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983445650097226218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983344502913040418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈的。 https://t.co/bOGIxXz5Sx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983344496353128449"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "conversation_id": "1983344502913040418",
+        "created_at": "2025-10-29T01:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T02:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983344502913040418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofQReGOjpR",
+              "end": 30,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1983344502913040418/photo/1",
+              "media_key": "3_1983344496353128449",
+              "start": 7,
+              "url": "https://t.co/ofQReGOjpR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983344502913040418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 49536,
+          "like_count": 256,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "看不得这些。 https://t.co/ofQReGOjpR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 636,
+          "like_count": 10283,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 4101
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "請輸入文本。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEb0Sn"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇹🇼🇳🇫",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1978784252008239241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978429805264859136/qDtMghWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 312,
+          "like_count": 1925,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 2169
+        },
+        "url": "https://t.co/BKhBrEb0Sn",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

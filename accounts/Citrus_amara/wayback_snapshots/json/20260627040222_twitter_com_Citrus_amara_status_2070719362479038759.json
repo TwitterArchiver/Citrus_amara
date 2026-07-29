@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2070719362479038759",
+    "created_at": "2026-06-27T04:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070719362479038759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luftwaffelive/…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/luftwaffelive/status/2070267018193023028",
+          "start": 66,
+          "url": "https://t.co/aWYbeFgoAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070719362479038759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070267018193023028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我吃的很好了。白兔复方甘草片可待因吗啡羟考酮1161都吃过。\n吃多少次都觉得阿片药效很无聊，但是身体疼痛的时候又很自然地想到阿片 https://t.co/aWYbeFgoAi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2070719362479038759",
+        "created_at": "2026-06-27T04:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070719362479038759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luftwaffelive/…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/luftwaffelive/status/2070267018193023028",
+              "start": 66,
+              "url": "https://t.co/aWYbeFgoAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070719362479038759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070267018193023028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我吃的很好了。白兔复方甘草片可待因吗啡羟考酮1161都吃过。\n吃多少次都觉得阿片药效很无聊，但是身体疼痛的时候又很自然地想到阿片 https://t.co/aWYbeFgoAi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024584670365831169",
+        "conversation_id": "2070267018193023028",
+        "created_at": "2026-06-25T22:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T23:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070267018193023028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070267018193023028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1370,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "x上一半天天说阿片鬼的人这辈子都没接触过阿片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n---\nAutism/Plurality/BPD/药物滥用/双相\n\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 1134,
+          "like_count": 20860,
+          "listed_count": 5,
+          "media_count": 424,
+          "tweet_count": 11694
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T20:39:50.000Z",
+        "description": "我是xwx｜精神不正常\n🚪58｜88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bzd83462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bzd83462",
+                "start": 0,
+                "url": "https://t.co/w4TurCgXJT"
+              }
+            ]
+          }
+        },
+        "id": "2024584670365831169",
+        "location": "notfound",
+        "name": "豆包我全家死了",
+        "pinned_tweet_id": "2066523058886816194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066887505987919873/UdxmXiro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 153,
+          "like_count": 657,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/w4TurCgXJT",
+        "username": "luftwaffelive",
+        "verified": false
+      }
+    ]
+  }
+}

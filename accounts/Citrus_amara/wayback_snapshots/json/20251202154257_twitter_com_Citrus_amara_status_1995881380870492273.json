@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1995881380870492273",
+    "created_at": "2025-12-02T15:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T16:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995881380870492273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KaoriAoii/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/KaoriAoii/status/1995836769682813089",
+          "start": 31,
+          "url": "https://t.co/20ZmQsfW4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995881380870492273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995836769682813089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道有人在测评。但是我觉得这玩意他妈的...没中枢作用啊？ https://t.co/20ZmQsfW4g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_1995836766063075328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Ki9t7aoAAjzqE.jpg",
+        "width": 829
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1995881380870492273",
+        "created_at": "2025-12-02T15:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995881380870492273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KaoriAoii/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/KaoriAoii/status/1995836769682813089",
+              "start": 31,
+              "url": "https://t.co/20ZmQsfW4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995881380870492273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995836769682813089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道有人在测评。但是我觉得这玩意他妈的...没中枢作用啊？ https://t.co/20ZmQsfW4g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995836766063075328"
+          ]
+        },
+        "author_id": "1840720004620361728",
+        "conversation_id": "1995836769682813089",
+        "created_at": "2025-12-02T12:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995836769682813089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EAsoANN4CJ",
+              "end": 29,
+              "expanded_url": "https://x.com/KaoriAoii/status/1995836769682813089/photo/1",
+              "media_key": "3_1995836766063075328",
+              "start": 6,
+              "url": "https://t.co/EAsoANN4CJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995836769682813089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁测评一下 https://t.co/EAsoANN4CJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 888,
+          "like_count": 13605,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 6055
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:47:15.000Z",
+        "description": "“迈向平庸。”\n=小香丨生理女心理不定丨画师丨utau+vocaloid丨od丨第五人格丨無言フォロー失礼します丨🚪88",
+        "id": "1840720004620361728",
+        "location": "高原",
+        "name": "苍井香绪里",
+        "pinned_tweet_id": "1980685233134633169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983957677228355584/zLyXkWyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 116,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 370
+        },
+        "username": "KaoriAoii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1994927264597991841",
+    "created_at": "2025-11-30T00:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T01:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994927264597991841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rikka_Ela/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Rikka_Ela/status/1994759532074209598",
+          "start": 7,
+          "url": "https://t.co/8G3ZaVR3VI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994927264597991841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994759532074209598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😖想被杀掉。 https://t.co/8G3ZaVR3VI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1994927264597991841",
+        "created_at": "2025-11-30T00:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T01:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994927264597991841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rikka_Ela/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Rikka_Ela/status/1994759532074209598",
+              "start": 7,
+              "url": "https://t.co/8G3ZaVR3VI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994927264597991841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994759532074209598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😖想被杀掉。 https://t.co/8G3ZaVR3VI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1994759532074209598",
+        "created_at": "2025-11-29T13:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994759532074209598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1994687533934854239",
+              "start": 26,
+              "url": "https://t.co/nEl1pL6ajj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994759532074209598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 719,
+          "like_count": 10,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994687533934854239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱我，要怎么做呢……?\n和侵犯我有什么区别呢……? https://t.co/nEl1pL6ajj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 873,
+          "like_count": 13449,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 5926
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4752,
+          "following_count": 3649,
+          "like_count": 76878,
+          "listed_count": 8,
+          "media_count": 332,
+          "tweet_count": 7570
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

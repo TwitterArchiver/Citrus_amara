@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1956972855855305037",
+    "created_at": "2025-08-17T06:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T07:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956973997981143280"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956973997981143280",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956972855855305037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我都不敢去评。。\n我也觉得mtf真没必要太往女性刻板印象上去靠，但是在顺直们建立的二元性别社会秩序上跨性别们必须选择成为社会意义上的男或者女，否则就活不下去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1956972855855305037",
+        "created_at": "2025-08-17T06:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T07:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956973997981143280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956973997981143280",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956972855855305037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我都不敢去评。。\n我也觉得mtf真没必要太往女性刻板印象上去靠，但是在顺直们建立的二元性别社会秩序上跨性别们必须选择成为社会意义上的男或者女，否则就活不下去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1956972855855305037",
+        "created_at": "2025-08-17T06:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T07:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956972855855305037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OZNhtLJfmYmaLk…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/OZNhtLJfmYmaLkR/status/1956961351852507499",
+              "start": 18,
+              "url": "https://t.co/8bdbe7PZlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956972855855305037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956961351852507499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这人咋这么急一晚上发10条痛批跨子 https://t.co/8bdbe7PZlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 352,
+          "like_count": 3219,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1381
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

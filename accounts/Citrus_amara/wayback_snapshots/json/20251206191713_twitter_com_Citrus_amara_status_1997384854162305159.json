@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1997384854162305159",
+    "created_at": "2025-12-06T19:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T20:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997384854162305159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daozhir/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/daozhir/status/1995110406159802460",
+          "start": 17,
+          "url": "https://t.co/7WnlPJc8MT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997384854162305159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995110406159802460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到这个我乐了，因为我真的全勤了 https://t.co/7WnlPJc8MT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1997384854162305159",
+        "created_at": "2025-12-06T19:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T20:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997384854162305159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daozhir/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/daozhir/status/1995110406159802460",
+              "start": 17,
+              "url": "https://t.co/7WnlPJc8MT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997384854162305159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995110406159802460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到这个我乐了，因为我真的全勤了 https://t.co/7WnlPJc8MT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868203874726887424",
+        "conversation_id": "1995110406159802460",
+        "created_at": "2025-11-30T12:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995110406159802460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995110406159802460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2843,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "11月od次数（30/30）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 903,
+          "like_count": 13862,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 6266
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "叫我小倒就好丨16岁丨lesbian丨overdose丨精神疾病患者丨情绪极度不稳定丨LGBTQ+全友好🏳️‍🌈 丨 只fo同类丨 sub丨0 丨欢迎找我聊聊天丨请多关照",
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "我活着，无声的淌血",
+        "pinned_tweet_id": "1988931748185645459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 342,
+          "like_count": 1068,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 581
+        },
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

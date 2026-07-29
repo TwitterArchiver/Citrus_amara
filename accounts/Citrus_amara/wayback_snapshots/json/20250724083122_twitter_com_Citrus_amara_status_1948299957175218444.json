@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948299957175218444",
+    "created_at": "2025-07-24T08:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T09:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948299957175218444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhou1919456789…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/zhou1919456789/status/1947651433681088562",
+          "start": 14,
+          "url": "https://t.co/lcdXViyGCZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948299957175218444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947651433681088562",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个弱智吧联盟里有真弱智？ https://t.co/lcdXViyGCZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_1947651429612625920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwdyp_hXoAANV6B.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948299957175218444",
+        "created_at": "2025-07-24T08:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T09:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948299957175218444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhou1919456789…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/zhou1919456789/status/1947651433681088562",
+              "start": 14,
+              "url": "https://t.co/lcdXViyGCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948299957175218444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947651433681088562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个弱智吧联盟里有真弱智？ https://t.co/lcdXViyGCZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947651429612625920"
+          ]
+        },
+        "author_id": "1691385929968062464",
+        "conversation_id": "1947651433681088562",
+        "created_at": "2025-07-22T13:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947651433681088562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ekZm47I0Xh",
+              "end": 29,
+              "expanded_url": "https://x.com/zhou1919456789/status/1947651433681088562/photo/1",
+              "media_key": "3_1947651429612625920",
+              "start": 6,
+              "url": "https://t.co/ekZm47I0Xh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947651433681088562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 614943,
+          "like_count": 1465,
+          "quote_count": 27,
+          "reply_count": 165,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "是客观事实 https://t.co/ekZm47I0Xh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 120,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 362
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "不需要太理会我\n我的认知水平尚在极度幼稚的阶段，所以总拿自己那些史来吹牛。/高中生/可互fo",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1945008058809376956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 924,
+          "like_count": 2334,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 895
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

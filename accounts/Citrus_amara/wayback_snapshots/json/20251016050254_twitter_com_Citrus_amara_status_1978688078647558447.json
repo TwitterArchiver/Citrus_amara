@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1978688078647558447",
+    "created_at": "2025-10-16T05:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T06:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978688078647558447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1970047450493943810",
+          "start": 3,
+          "username": "chuyuanhui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978688078647558447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978111902879523242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuyuanhui: 你频繁地发推 微博 朋友圈 不是为了求认同感  也不是为了刷存在感  只是没有人陪着而已  你只能漫无目的的游走在各个软件  好比现在看到这段话你又难受到没人吐槽  只能切到下一个软件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1978688078647558447",
+        "created_at": "2025-10-16T05:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978688078647558447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1970047450493943810",
+              "start": 3,
+              "username": "chuyuanhui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978688078647558447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978111902879523242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuyuanhui: 你频繁地发推 微博 朋友圈 不是为了求认同感  也不是为了刷存在感  只是没有人陪着而已  你只能漫无目的的游走在各个软件  好比现在看到这段话你又难受到没人吐槽  只能切到下一个软件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970047450493943810",
+        "conversation_id": "1978111902879523242",
+        "created_at": "2025-10-14T14:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978111902879523242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978111902879523242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 130664,
+          "like_count": 1521,
+          "quote_count": 91,
+          "reply_count": 188,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "你频繁地发推 微博 朋友圈 不是为了求认同感  也不是为了刷存在感  只是没有人陪着而已  你只能漫无目的的游走在各个软件  好比现在看到这段话你又难受到没人吐槽  只能切到下一个软件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 583,
+          "like_count": 9110,
+          "listed_count": 4,
+          "media_count": 109,
+          "tweet_count": 3475
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T08:48:30.000Z",
+        "description": "泥嚎(^_^)可以叫我惠惠  欢迎找我玩  匿名箱https://t.co/IRUqu4oRr3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuanhui54217",
+                "end": 48,
+                "expanded_url": "https://ngl.link/yuanhui54217",
+                "start": 25,
+                "url": "https://t.co/IRUqu4oRr3"
+              }
+            ]
+          }
+        },
+        "id": "1970047450493943810",
+        "location": "江苏",
+        "name": "鸢惠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970052639644925952/WROkWbGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 3,
+          "like_count": 201,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 44
+        },
+        "username": "chuyuanhui",
+        "verified": false
+      }
+    ]
+  }
+}

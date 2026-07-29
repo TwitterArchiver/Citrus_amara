@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1990668539175579828",
+    "created_at": "2025-11-18T06:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T07:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990670624214421705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903417613671415808",
+          "start": 0,
+          "username": "whalesbone_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990670624214421705",
+    "in_reply_to_user_id": "1903417613671415808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990669727853916252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whalesbone_ 苯二氮䓬类药物，就是各种各样的西泮和唑仑啦，地西泮，奥沙西泮，劳拉西泮，三唑仑，阿普唑仑..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1990668539175579828",
+        "created_at": "2025-11-18T06:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990670624214421705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903417613671415808",
+              "start": 0,
+              "username": "whalesbone_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990670624214421705",
+        "in_reply_to_user_id": "1903417613671415808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990669727853916252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whalesbone_ 苯二氮䓬类药物，就是各种各样的西泮和唑仑啦，地西泮，奥沙西泮，劳拉西泮，三唑仑，阿普唑仑..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903417613671415808",
+        "conversation_id": "1990668539175579828",
+        "created_at": "2025-11-18T06:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990669727853916252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990669727853916252",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990668539175579828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara bzds素神魔！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 780,
+          "like_count": 12135,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 5091
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T12:05:10.000Z",
+        "description": "（欢迎来看社会底层渣滓的无病呻吟）努力挤进各种社交圈 我想和oder们互粉交朋友 未来会去深圳我想和你们一起o",
+        "id": "1903417613671415808",
+        "name": "VampireHamsterFromOuttaSpace",
+        "pinned_tweet_id": "1910643207819710569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990190723254398977/iH6ZmWs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 29,
+          "like_count": 2877,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 649
+        },
+        "username": "whalesbone_",
+        "verified": false
+      }
+    ]
+  }
+}

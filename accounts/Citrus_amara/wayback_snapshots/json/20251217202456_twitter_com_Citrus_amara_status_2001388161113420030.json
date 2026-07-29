@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2001247246759944460",
+    "created_at": "2025-12-17T20:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T21:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001388161113420030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1506521082853216258",
+          "start": 0,
+          "username": "17891956wer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001388161113420030",
+    "in_reply_to_user_id": "1506521082853216258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001384438140469604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17891956wer 幻觉实体化。我今天也看到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2001247246759944460",
+        "created_at": "2025-12-17T20:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T21:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001388161113420030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506521082853216258",
+              "start": 0,
+              "username": "17891956wer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001388161113420030",
+        "in_reply_to_user_id": "1506521082853216258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001384438140469604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17891956wer 幻觉实体化。我今天也看到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506521082853216258",
+        "conversation_id": "2001247246759944460",
+        "created_at": "2025-12-17T20:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T21:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001384438140469604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001384438140469604",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001247246759944460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 这搭配有什么说法吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 939,
+          "like_count": 14297,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 6742
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T06:39:55.000Z",
+        "description": "一个喜欢ACGN的死宅，灵魂自由，在精神世界中漫游~\n喝酒/吸烟/od/焦虑抑郁/休学中/中文/其他语言会用翻译器/诗歌/友跨/ACGN/电波系/猫猫\n欢迎互粉喵~",
+        "id": "1506521082853216258",
+        "location": "Shanghai",
+        "name": "秋风",
+        "pinned_tweet_id": "2000080287137726784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869799456050425858/n5q-m2lW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 154,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 259
+        },
+        "username": "17891956wer",
+        "verified": false
+      }
+    ]
+  }
+}

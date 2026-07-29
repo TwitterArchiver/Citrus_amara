@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1983369248182563136",
+    "created_at": "2025-10-29T08:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T09:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983457587606728942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1227949934655070208",
+          "start": 0,
+          "username": "ZokSwafford"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983457587606728942",
+    "in_reply_to_user_id": "1227949934655070208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983369248182563136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZokSwafford 他就觉得mzk是男的，我就觉得mzk是跨，他莫名其妙骂觉得mzk是跨的人，请问我应该做什么🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983369248182563136",
+        "created_at": "2025-10-29T08:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T09:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983457587606728942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1227949934655070208",
+              "start": 0,
+              "username": "ZokSwafford"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983457587606728942",
+        "in_reply_to_user_id": "1227949934655070208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983369248182563136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZokSwafford 他就觉得mzk是男的，我就觉得mzk是跨，他莫名其妙骂觉得mzk是跨的人，请问我应该做什么🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227949934655070208",
+        "conversation_id": "1983369248182563136",
+        "created_at": "2025-10-29T03:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T04:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983369248182563136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mozaikrr/statu…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/mozaikrr/status/1983367548239540544",
+              "start": 51,
+              "url": "https://t.co/wmNOpmtyze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983369248182563136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983367548239540544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺直中心主义的嘴脸be like⬇️一边人身攻击观点不同的别人一边又不允许别人说一句“官方没确定啊” https://t.co/wmNOpmtyze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 636,
+          "like_count": 10293,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 4108
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-13T13:38:49.000Z",
+        "description": "🏳️‍⚧️ FtM He/Him 坐标北京🤔  鹿角狐身蛇尾的奇美拉😈心情不好就放蛇咬人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mastodon.social/@ZinSwafford",
+                "end": 23,
+                "expanded_url": "https://mastodon.social/@ZinSwafford",
+                "start": 0,
+                "url": "https://t.co/qdUw5NRQhB"
+              }
+            ]
+          }
+        },
+        "id": "1227949934655070208",
+        "name": "🫎+🦊=鹿角狐狸世界驻地球观察员",
+        "pinned_tweet_id": "1782813295914913806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796785467830210560/P73QYox__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 422,
+          "like_count": 16288,
+          "listed_count": 4,
+          "media_count": 1177,
+          "tweet_count": 21752
+        },
+        "url": "https://t.co/qdUw5NRQhB",
+        "username": "ZokSwafford",
+        "verified": false
+      }
+    ]
+  }
+}

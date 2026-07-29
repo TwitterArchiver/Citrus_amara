@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950176286330040599",
+    "created_at": "2025-07-30T14:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T15:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950559418879271090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886062230141370368",
+          "start": 0,
+          "username": "Rho9000"
+        },
+        {
+          "end": 25,
+          "id": "1902297181157257218",
+          "start": 9,
+          "username": "transmasculine0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950559418879271090",
+    "in_reply_to_user_id": "1886062230141370368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950550642176749872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rho9000 @transmasculine0 我这条推文下面不就有一个，但我感觉这哥们在ftm里也算很神人的存在了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950550630738894848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxG_dtWbIAA2rGp.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950176286330040599",
+        "created_at": "2025-07-30T14:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T15:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950559418879271090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886062230141370368",
+              "start": 0,
+              "username": "Rho9000"
+            },
+            {
+              "end": 25,
+              "id": "1902297181157257218",
+              "start": 9,
+              "username": "transmasculine0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950559418879271090",
+        "in_reply_to_user_id": "1886062230141370368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950550642176749872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rho9000 @transmasculine0 我这条推文下面不就有一个，但我感觉这哥们在ftm里也算很神人的存在了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950550630738894848"
+          ]
+        },
+        "author_id": "1886062230141370368",
+        "conversation_id": "1950176286330040599",
+        "created_at": "2025-07-30T13:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950550642176749872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902297181157257218",
+              "start": 0,
+              "username": "transmasculine0"
+            },
+            {
+              "end": 30,
+              "id": "1866458229527764992",
+              "start": 17,
+              "username": "Citrus_amara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTTxC6KafD",
+              "end": 67,
+              "expanded_url": "https://x.com/Rho9000/status/1950550642176749872/photo/1",
+              "media_key": "3_1950550630738894848",
+              "start": 44,
+              "url": "https://t.co/rTTxC6KafD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950550642176749872",
+        "in_reply_to_user_id": "1902297181157257218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950548839867502773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@transmasculine0 @Citrus_amara 但ftm排斥mtf,如图 https://t.co/rTTxC6KafD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 225,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 637
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T14:41:12.000Z",
+        "description": "吾乃MTF,MTF(Mobile Task Forces﹣机动特遣队）是基金会除了设施保安力量之外的主要战斗力量，同时也是其机动作战力量和主要的外部行动执行力量,作为机动特遣队Rho-9成员（“Technical Support”-技术支持）Rho-9负责基金会的计算机安全。",
+        "id": "1886062230141370368",
+        "name": "机动特遣队Rho-9（躺平版）",
+        "pinned_tweet_id": "1941514311698133365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913786329961562113/LVgBFJnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 94,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 85
+        },
+        "username": "Rho9000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "人妖｜阳痿｜易性症｜无性恋｜打工攒手术费中｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/transmasculine0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/transmasculine0",
+                "start": 0,
+                "url": "https://t.co/9P42hW6Mdr"
+              }
+            ]
+          }
+        },
+        "id": "1902297181157257218",
+        "location": "🇨🇳🪜🇺🇸",
+        "name": "葵矢枢",
+        "pinned_tweet_id": "1919609393244692624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904354983451168768/2Ta31U7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 113,
+          "like_count": 3190,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/9P42hW6Mdr",
+        "username": "transmasculine0",
+        "verified": false
+      }
+    ]
+  }
+}

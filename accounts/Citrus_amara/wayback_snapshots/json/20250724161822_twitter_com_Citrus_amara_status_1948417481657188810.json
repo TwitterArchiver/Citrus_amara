@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948339950631714816"
+      ],
+      "media_source_tweet_id": [
+        "1948339965253030048"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948417481657188810",
+    "created_at": "2025-07-24T16:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T17:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948417481657188810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788485889225834496",
+          "start": 3,
+          "username": "horizon_tem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KyncWzJyoG",
+          "end": 45,
+          "expanded_url": "https://x.com/horizon_tem/status/1948339965253030048/photo/1",
+          "media_key": "3_1948339950631714816",
+          "start": 22,
+          "url": "https://t.co/KyncWzJyoG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948417481657188810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948339965253030048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @horizon_tem: 我是水母 https://t.co/KyncWzJyoG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_1948339950631714816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwnk3MMbAAAf5MZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948339950631714816"
+          ],
+          "media_source_tweet_id": [
+            "1948339965253030048"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948417481657188810",
+        "created_at": "2025-07-24T16:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T17:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948417481657188810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788485889225834496",
+              "start": 3,
+              "username": "horizon_tem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KyncWzJyoG",
+              "end": 45,
+              "expanded_url": "https://x.com/horizon_tem/status/1948339965253030048/photo/1",
+              "media_key": "3_1948339950631714816",
+              "start": 22,
+              "url": "https://t.co/KyncWzJyoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948417481657188810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948339965253030048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @horizon_tem: 我是水母 https://t.co/KyncWzJyoG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948339950631714816"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1948339965253030048",
+        "created_at": "2025-07-24T11:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T12:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948339965253030048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KyncWzJyoG",
+              "end": 28,
+              "expanded_url": "https://x.com/horizon_tem/status/1948339965253030048/photo/1",
+              "media_key": "3_1948339950631714816",
+              "start": 5,
+              "url": "https://t.co/KyncWzJyoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948339965253030048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 17590,
+          "like_count": 300,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我是水母 https://t.co/KyncWzJyoG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 126,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 384
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1948263500414951544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946779629358043136/5W74ck-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4252,
+          "following_count": 2204,
+          "like_count": 32059,
+          "listed_count": 10,
+          "media_count": 571,
+          "tweet_count": 10673
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

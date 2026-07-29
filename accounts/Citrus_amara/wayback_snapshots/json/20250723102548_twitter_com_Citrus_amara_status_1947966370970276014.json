@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947815259261309375",
+    "created_at": "2025-07-23T10:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T11:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947966370970276014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892595590527377408",
+          "start": 0,
+          "username": "lngyj147021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947966370970276014",
+    "in_reply_to_user_id": "1892595590527377408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947815259261309375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngyj147021 黑色。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947815259261309375",
+        "created_at": "2025-07-23T10:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T11:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947966370970276014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "lngyj147021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947966370970276014",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947815259261309375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngyj147021 黑色。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1947815259261309375",
+        "created_at": "2025-07-23T00:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T01:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947815259261309375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947815259261309375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1562,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的内裤是什么颜色? 虽然听起来很唐突，甚至有些失礼，但是请允许我解释下。 人类对于美丽的事物总是充满求知欲,在身心都被你俘获之后，却依旧愿意更深地了解你，这种品格很难让人称赞。所以，我不得不再提出这个问题: 你的内裤是什么颜色?可惜囿于认知水平的局限，只能停留在想象。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 102,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 295
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "私下很乖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=nOeFiTlJ",
+                "start": 0,
+                "url": "https://t.co/xN6wfZYFOP"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "自用蜂鸟VPN→",
+        "name": "咪",
+        "pinned_tweet_id": "1945879751144398874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933912341722361856/Ekgkt8Ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 131,
+          "like_count": 159,
+          "listed_count": 1,
+          "media_count": 512,
+          "tweet_count": 2987
+        },
+        "url": "https://t.co/xN6wfZYFOP",
+        "username": "lngyj147021",
+        "verified": false
+      }
+    ]
+  }
+}

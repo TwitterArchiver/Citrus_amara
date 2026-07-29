@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1992905190501167447",
+    "created_at": "2025-11-24T10:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T11:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992905190501167447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/mirro50150y/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/mirro50150y/status/1992783402949562581",
+          "start": 13,
+          "url": "https://t.co/eeWxMygJWl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992905190501167447",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992783402949562581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 https://t.co/eeWxMygJWl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1992905190501167447",
+        "created_at": "2025-11-24T10:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992905190501167447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mirro50150y/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/mirro50150y/status/1992783402949562581",
+              "start": 13,
+              "url": "https://t.co/eeWxMygJWl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992905190501167447",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992783402949562581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 https://t.co/eeWxMygJWl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926115911276146688",
+        "conversation_id": "1992783402949562581",
+        "created_at": "2025-11-24T02:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T03:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992783402949562581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992783402949562581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 89463,
+          "like_count": 500,
+          "quote_count": 8,
+          "reply_count": 58,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "磕炮的爽点在哪？两个人对着手机不断发出淫叫的到底为什么能爽？宛如发情一般，两个人甚至连对方长啥样都不知道，事后发现调自己的竟是一头猪的时候不恶心吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 832,
+          "like_count": 12958,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 5582
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1980238749427798365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 549,
+          "like_count": 5464,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 3564
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "一个很坏的小女孩 ｜推广自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=08aSNhb3",
+                "start": 0,
+                "url": "https://t.co/ODft3qAgW4"
+              }
+            ]
+          }
+        },
+        "id": "1926115911276146688",
+        "name": "ivee",
+        "pinned_tweet_id": "1992573077356765504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7583,
+          "following_count": 48,
+          "like_count": 9741,
+          "listed_count": 14,
+          "media_count": 118,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/ODft3qAgW4",
+        "username": "mirro50150y",
+        "verified": false
+      }
+    ]
+  }
+}

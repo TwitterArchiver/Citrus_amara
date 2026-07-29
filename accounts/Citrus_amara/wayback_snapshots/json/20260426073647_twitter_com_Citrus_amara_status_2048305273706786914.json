@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2047678073017889097",
+    "created_at": "2026-04-26T07:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048305273706786914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044355126517727232",
+          "start": 0,
+          "username": "Overdose_HPD"
+        },
+        {
+          "end": 30,
+          "id": "1596405792315691008",
+          "start": 14,
+          "username": "0502railgun1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048305273706786914",
+    "in_reply_to_user_id": "2044355126517727232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048180536599044134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_HPD @0502railgun1949 我想说的是，医生需要做的是审核。\n\n医生负不负责任，医院就在那，医疗事故出现的时候谁也跑不了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2047678073017889097",
+        "created_at": "2026-04-26T07:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048305273706786914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044355126517727232",
+              "start": 0,
+              "username": "Overdose_HPD"
+            },
+            {
+              "end": 30,
+              "id": "1596405792315691008",
+              "start": 14,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048305273706786914",
+        "in_reply_to_user_id": "2044355126517727232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048180536599044134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_HPD @0502railgun1949 我想说的是，医生需要做的是审核。\n\n医生负不负责任，医院就在那，医疗事故出现的时候谁也跑不了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044355126517727232",
+        "conversation_id": "2047678073017889097",
+        "created_at": "2026-04-25T23:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T00:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048180536599044134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 30,
+              "id": "1596405792315691008",
+              "start": 14,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048180536599044134",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048024440831946881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @0502railgun1949 首先我们定义合理：合理 = 负责任使用。\n但是一来，人为什么可以被强迫对自己负责任？如果认为这可以，则可以推出也可以禁止未成年使用抖音，因为短视频对脑的损害也很大。\n二来，医生真的足够负责任吗？从以上的故事看，或者广为人知的奥施康定故事看，那也不见得，春风春风表现出无奈的悲观。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 1063,
+          "like_count": 19540,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 11042
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T10:00:27.000Z",
+        "description": "Spring风的附庸。药物滥用的内容相关会转发到@Overdose_DBD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "Overdose_DBD"
+              }
+            ]
+          }
+        },
+        "id": "2044355126517727232",
+        "location": "前人未至之地，前人未竟之事",
+        "name": "超级春春春风#蒼い惑星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044355818687279104/VCbkAyqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 81,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 204
+        },
+        "username": "Overdose_HPD",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 692,
+          "like_count": 13697,
+          "listed_count": 3,
+          "media_count": 1349,
+          "tweet_count": 10785
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

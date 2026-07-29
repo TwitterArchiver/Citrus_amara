@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948702842132316535",
+    "created_at": "2025-07-25T11:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T12:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948702842132316535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688397365336850432",
+          "start": 3,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948702842132316535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1968
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939656969788551526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongpigu980: 玩推有段时间了，我的初衷是希望帮大家解决问题，很感谢大家支持我，所以给大家抽个奖，给大家抽一个AirPods4感觉无线耳机实用性挺高的，自己平时就在用这个还不错的，可折现（1314元）。评论转发此条推文7月30日开拒绝黑幕我们到时候随机数抽奖，…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948702842132316535].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948702842132316535",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948702842132316535"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_1939656954839785472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GusLuUNXYAArUk4.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939656954839785472"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1939656969788551526",
+        "created_at": "2025-06-30T12:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T13:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939656969788551526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdqN44Vd4b",
+              "end": 153,
+              "expanded_url": "https://x.com/hongpigu980/status/1939656969788551526/photo/1",
+              "media_key": "3_1939656954839785472",
+              "start": 130,
+              "url": "https://t.co/gdqN44Vd4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939656969788551526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 768700,
+          "like_count": 1039,
+          "quote_count": 99,
+          "reply_count": 2312,
+          "retweet_count": 1968
+        },
+        "reply_settings": "everyone",
+        "text": "玩推有段时间了，我的初衷是希望帮大家解决问题，很感谢大家支持我，所以给大家抽个奖，给大家抽一个AirPods4感觉无线耳机实用性挺高的，自己平时就在用这个还不错的，可折现（1314元）。评论转发此条推文7月30日开拒绝黑幕我们到时候随机数抽奖，希望大家喜欢。 https://t.co/gdqN44Vd4b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 137,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 403
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62271,
+          "following_count": 56,
+          "like_count": 84,
+          "listed_count": 57,
+          "media_count": 860,
+          "tweet_count": 1096
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

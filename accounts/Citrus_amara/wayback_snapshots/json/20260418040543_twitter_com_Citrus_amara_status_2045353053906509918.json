@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044447036678995968"
+      ],
+      "media_source_tweet_id": [
+        "2044672142772679011"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2045353053906509918",
+    "created_at": "2026-04-18T04:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045353053906509918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ByQhGp5SBG",
+          "end": 54,
+          "expanded_url": "https://x.com/show5560/status/2044672142772679011/photo/1",
+          "media_key": "3_2044447036678995968",
+          "start": 31,
+          "url": "https://t.co/ByQhGp5SBG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045353053906509918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044672142772679011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 别骂了别骂了，我还倒欠着呢qwq https://t.co/ByQhGp5SBG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2044447036678995968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9Vv3daAAAEiBw.png",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044447036678995968"
+          ],
+          "media_source_tweet_id": [
+            "2044672142772679011"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2045353053906509918",
+        "created_at": "2026-04-18T04:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045353053906509918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByQhGp5SBG",
+              "end": 54,
+              "expanded_url": "https://x.com/show5560/status/2044672142772679011/photo/1",
+              "media_key": "3_2044447036678995968",
+              "start": 31,
+              "url": "https://t.co/ByQhGp5SBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045353053906509918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044672142772679011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 别骂了别骂了，我还倒欠着呢qwq https://t.co/ByQhGp5SBG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044447036678995968"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2044672142772679011",
+        "created_at": "2026-04-16T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044672142772679011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByQhGp5SBG",
+              "end": 40,
+              "expanded_url": "https://x.com/show5560/status/2044672142772679011/photo/1",
+              "media_key": "3_2044447036678995968",
+              "start": 17,
+              "url": "https://t.co/ByQhGp5SBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044672142772679011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别骂了别骂了，我还倒欠着呢qwq https://t.co/ByQhGp5SBG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 1015,
+          "like_count": 18832,
+          "listed_count": 6,
+          "media_count": 398,
+          "tweet_count": 10836
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 1369,
+          "like_count": 25385,
+          "listed_count": 5,
+          "media_count": 522,
+          "tweet_count": 5728
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

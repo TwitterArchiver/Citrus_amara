@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1972903690999906333",
+    "created_at": "2025-09-30T05:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T06:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972903690999906333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FurinaDF/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/FurinaDF/status/1972570677443207665",
+          "start": 8,
+          "url": "https://t.co/XFNJgww0lp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972903690999906333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972570677443207665",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "失控机仆这一块 https://t.co/XFNJgww0lp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1972570590264594432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_6gC8akAAYhK5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1972903690999906333",
+        "created_at": "2025-09-30T05:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T06:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972903690999906333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FurinaDF/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/FurinaDF/status/1972570677443207665",
+              "start": 8,
+              "url": "https://t.co/XFNJgww0lp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972903690999906333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972570677443207665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "失控机仆这一块 https://t.co/XFNJgww0lp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972570590264594432"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1972570677443207665",
+        "created_at": "2025-09-29T07:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T08:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972570677443207665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sNh4G4QdY",
+              "end": 43,
+              "expanded_url": "https://x.com/FurinaDF/status/1972570677443207665/photo/1",
+              "media_key": "3_1972570590264594432",
+              "start": 20,
+              "url": "https://t.co/5sNh4G4QdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972570677443207665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 14084,
+          "like_count": 136,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我当上国家主席：人类不能参政，让AI来 https://t.co/5sNh4G4QdY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 477,
+          "like_count": 7918,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 2937
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "偷井盖专家，河南驻马店实验小学四年级在读@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53781,
+          "following_count": 2320,
+          "like_count": 28887,
+          "listed_count": 150,
+          "media_count": 6934,
+          "tweet_count": 11410
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

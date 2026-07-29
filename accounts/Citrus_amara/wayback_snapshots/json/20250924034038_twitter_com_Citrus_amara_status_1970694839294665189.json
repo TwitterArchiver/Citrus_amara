@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1970523300834009409",
+    "created_at": "2025-09-24T03:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T04:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970694839294665189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1546875689646710785",
+          "start": 0,
+          "username": "the13thMaximum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970694839294665189",
+    "in_reply_to_user_id": "1546875689646710785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970556964137824273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@the13thMaximum 可以春秋笔法，只写坏的不写好的，但是乱编真的可以吗我寻思。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970556964137824273].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1970556964137824273",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1970556964137824273"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1970523300834009409",
+        "created_at": "2025-09-24T03:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T04:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970694839294665189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1546875689646710785",
+              "start": 0,
+              "username": "the13thMaximum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970694839294665189",
+        "in_reply_to_user_id": "1546875689646710785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970556964137824273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@the13thMaximum 可以春秋笔法，只写坏的不写好的，但是乱编真的可以吗我寻思。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 448,
+          "like_count": 7434,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 2784
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T15:14:48.000Z",
+        "description": "Leave your life! Sharing what i’m into.",
+        "id": "1546875689646710785",
+        "location": "Managed by Yu, temporarily.",
+        "name": "When?",
+        "pinned_tweet_id": "1961320458579595565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967583511336079360/01dMWQjI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 197,
+          "like_count": 12850,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 2478
+        },
+        "username": "the13thMaximum",
+        "verified": false
+      }
+    ]
+  }
+}

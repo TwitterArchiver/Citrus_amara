@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1960689092418556007",
+    "created_at": "2025-08-27T13:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960691424053055776"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960691424053055776",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960691020653326795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好麻烦，好麻烦。为什么社会不能随意杀人？要么给我们公正的审判，要么给我们自行审判的权利。被剥夺权利的同时没有得到对应的奖励，恨。\n所以无差别杀人也是正确的，因为可以让政府崩溃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960689092418556007",
+        "created_at": "2025-08-27T13:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960691424053055776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960691424053055776",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960691020653326795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好麻烦，好麻烦。为什么社会不能随意杀人？要么给我们公正的审判，要么给我们自行审判的权利。被剥夺权利的同时没有得到对应的奖励，恨。\n所以无差别杀人也是正确的，因为可以让政府崩溃。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960689092418556007",
+        "created_at": "2025-08-27T13:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960691020653326795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960691020653326795",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960690591517295086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以必须杀掉。要么杀要么和他们永远隔离。隔离的方法大概是关进监狱吧，没想到更好的。\n审判不是我该做的事情，保护自己才是。该死的人杀掉，不该死的人关进监狱，或者摧毁他的能力，什么的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby。od的请陪我玩。#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 366,
+          "like_count": 4627,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1829
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

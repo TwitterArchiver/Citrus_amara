@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018242533617274880"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2018179443139735897",
+    "created_at": "2026-02-02T08:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T09:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018242538054787161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2011375652579262464",
+          "start": 0,
+          "username": "Kagamine_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YNOnl4GafJ",
+          "end": 44,
+          "expanded_url": "https://x.com/Citrus_amara/status/2018242538054787161/photo/1",
+          "media_key": "3_2018242533617274880",
+          "start": 21,
+          "url": "https://t.co/YNOnl4GafJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018242538054787161",
+    "in_reply_to_user_id": "2011375652579262464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018241131872686230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagamine_8964 我是普瑞鬼 https://t.co/YNOnl4GafJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2018242533617274880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAI85CbXkAAYyJu.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018242533617274880"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018179443139735897",
+        "created_at": "2026-02-02T08:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018242538054787161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011375652579262464",
+              "start": 0,
+              "username": "Kagamine_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNOnl4GafJ",
+              "end": 44,
+              "expanded_url": "https://x.com/Citrus_amara/status/2018242538054787161/photo/1",
+              "media_key": "3_2018242533617274880",
+              "start": 21,
+              "url": "https://t.co/YNOnl4GafJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018242538054787161",
+        "in_reply_to_user_id": "2011375652579262464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018241131872686230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagamine_8964 我是普瑞鬼 https://t.co/YNOnl4GafJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011375652579262464",
+        "conversation_id": "2018179443139735897",
+        "created_at": "2026-02-02T08:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018241131872686230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018241131872686230",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018179443139735897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 阿片👻扩大中！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 998,
+          "like_count": 16245,
+          "listed_count": 6,
+          "media_count": 323,
+          "tweet_count": 8635
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T09:51:50.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼 /FOW参与者 /接受药物投稿及测试/重精神病 PTSD 因創傷而躲藏  /#drugtwt /我要创造一个只有阿片👻的世界！ /TG同X /老公：@Edward_8964 /六次帳號轉生 /非商業使用 /匿名提问https://t.co/p1X2dlE3nu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 153,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 130,
+                "url": "https://t.co/p1X2dlE3nu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/ieTjg4n36R"
+              }
+            ]
+          }
+        },
+        "id": "2011375652579262464",
+        "name": "Kagamine鏡音",
+        "pinned_tweet_id": "2011380729327100203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011377300881997825/i7Z-nguz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 348,
+          "like_count": 2228,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/ieTjg4n36R",
+        "username": "Kagamine_8964",
+        "verified": true
+      }
+    ]
+  }
+}

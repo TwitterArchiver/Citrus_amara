@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1960371625104396496",
+    "created_at": "2025-08-27T04:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T05:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960555275229778302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886567241510215682",
+          "start": 0,
+          "username": "yyyyyu3734"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960555275229778302",
+    "in_reply_to_user_id": "1886567241510215682",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960371625104396496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyyyu3734 ❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960371621962911745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSjmorbEAESCLb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960371625104396496",
+        "created_at": "2025-08-27T04:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960555275229778302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886567241510215682",
+              "start": 0,
+              "username": "yyyyyu3734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960555275229778302",
+        "in_reply_to_user_id": "1886567241510215682",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960371625104396496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyyyu3734 ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960371621962911745"
+          ]
+        },
+        "author_id": "1886567241510215682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1960371625104396496",
+        "created_at": "2025-08-26T15:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960371625104396496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzKT8G0VWo",
+              "end": 31,
+              "expanded_url": "https://x.com/yyyyyu3734/status/1960371625104396496/photo/1",
+              "media_key": "3_1960371621962911745",
+              "start": 8,
+              "url": "https://t.co/bzKT8G0VWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960371625104396496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉像什么？！ https://t.co/bzKT8G0VWo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby。od的请陪我玩。#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 363,
+          "like_count": 4576,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1802
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T00:07:49.000Z",
+        "description": "hi我是小鱼",
+        "id": "1886567241510215682",
+        "name": "pizzzzzza",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915566139431936003/xM-HHBFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 39,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 323
+        },
+        "username": "yyyyyu3734",
+        "verified": false
+      }
+    ]
+  }
+}

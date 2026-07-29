@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1991913513791725939",
+    "created_at": "2025-11-22T10:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992182404711334181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        },
+        {
+          "end": 28,
+          "id": "1597468568290873344",
+          "start": 17,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 43,
+          "id": "1429178490436259841",
+          "start": 29,
+          "username": "shumeibingsha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992182404711334181",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992176460828991658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae @jingzhny11 @shumeibingsha ...唉。首先你用DXM检索是错的，因为DXM在医学上最常用来指代地塞米松。\n然后我在pubmed上分别查了drug abuse,DXM（全名懒得打了）和drug abuse,pregabalin，没有找到有这种报告，给下文献。amantadine懒得查了，老外不太可能玩这种垃圾药，不过能吃五年晚安不自杀做什么都会成功的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1991913513791725939",
+        "created_at": "2025-11-22T10:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992182404711334181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            },
+            {
+              "end": 28,
+              "id": "1597468568290873344",
+              "start": 17,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 43,
+              "id": "1429178490436259841",
+              "start": 29,
+              "username": "shumeibingsha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992182404711334181",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992176460828991658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae @jingzhny11 @shumeibingsha ...唉。首先你用DXM检索是错的，因为DXM在医学上最常用来指代地塞米松。\n然后我在pubmed上分别查了drug abuse,DXM（全名懒得打了）和drug abuse,pregabalin，没有找到有这种报告，给下文献。amantadine懒得查了，老外不太可能玩这种垃圾药，不过能吃五年晚安不自杀做什么都会成功的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444716723978981380",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1991913513791725939",
+        "created_at": "2025-11-22T10:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992176460828991658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 25,
+              "id": "1866458229527764992",
+              "start": 12,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 40,
+              "id": "1429178490436259841",
+              "start": 26,
+              "username": "shumeibingsha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992176460828991658",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992171241365774519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 @Citrus_amara @shumeibingsha 什么nm利大于弊，你见过od右美pr晚安五年以上的人吗？我见过。\n没有一个不是有严重精神障碍和器官损伤的。\n要不你打开google scholar查一下drug abuse，dxm，pregabalin，amantadine这几个词，看看文献再说话？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 820,
+          "like_count": 12737,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 5439
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "Eleanor/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2991,
+          "following_count": 1789,
+          "like_count": 21133,
+          "listed_count": 9,
+          "media_count": 125,
+          "tweet_count": 5691
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，想当黄推的，生气时会支黑的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948009299256786944/HotJFJvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4101,
+          "following_count": 1975,
+          "like_count": 101399,
+          "listed_count": 16,
+          "media_count": 217,
+          "tweet_count": 13716
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T20:28:08.000Z",
+        "description": "恳请少争吵▄█▀█●希望未使您不快",
+        "id": "1429178490436259841",
+        "name": "✧(◍˃̶ᗜ˂̶◍)✩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486065409149194242/koi_AlDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 513,
+          "like_count": 143144,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 208
+        },
+        "username": "shumeibingsha",
+        "verified": false
+      }
+    ]
+  }
+}

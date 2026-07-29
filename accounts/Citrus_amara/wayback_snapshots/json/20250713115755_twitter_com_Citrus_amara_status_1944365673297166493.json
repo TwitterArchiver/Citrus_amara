@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1944365673297166493",
+    "created_at": "2025-07-13T11:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T12:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944365673297166493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/1944019914643087534",
+          "start": 54,
+          "url": "https://t.co/mKFjEzgSSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944365673297166493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944019914643087534",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "安眠神药，至少对我来说。。我吃奥沙西泮和佐匹克隆都睡不着，吃这玩意睡10个小时。\n所以喹硫平为什么能催眠呢 https://t.co/mKFjEzgSSs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 529,
+        "media_key": "3_1944012757843488768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvqFTa4WsAAaalw.jpg",
+        "width": 835
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1944365673297166493",
+        "created_at": "2025-07-13T11:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T12:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944365673297166493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1944019914643087534",
+              "start": 54,
+              "url": "https://t.co/mKFjEzgSSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944365673297166493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944019914643087534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "安眠神药，至少对我来说。。我吃奥沙西泮和佐匹克隆都睡不着，吃这玩意睡10个小时。\n所以喹硫平为什么能催眠呢 https://t.co/mKFjEzgSSs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944012757843488768"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1944019914643087534",
+        "created_at": "2025-07-12T13:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T14:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944019914643087534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUPoTjhVXZ",
+              "end": 184,
+              "expanded_url": "https://x.com/SalviaSWC/status/1944019914643087534/photo/1",
+              "media_key": "3_1944012757843488768",
+              "start": 161,
+              "url": "https://t.co/PUPoTjhVXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944019914643087534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2868,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "每日💊科普(day3)喹硫平\n喹硫平属于非典型抗精神病药，主要通过拮抗5HT-2A受体和D2受体，治疗双相障碍和精神分裂症。无娱乐价值。\n因其机理与血清素致幻剂(如LSD,DMT)的机理抵消，喹硫平被致幻剂使用者称为血清素致幻剂专用的“下机药”。当他们想要结束bad trip时，就会服用100mg的喹硫平。30分钟内， https://t.co/PUPoTjhVXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "双相已确诊。oder。跨性别。请求互fo。\n叫我苦橙就好了。",
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "苦橙",
+        "pinned_tweet_id": "1939399525346550019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936145987841531904/Z4VVC4zG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 63,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 75
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 288,
+          "like_count": 4248,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1503
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

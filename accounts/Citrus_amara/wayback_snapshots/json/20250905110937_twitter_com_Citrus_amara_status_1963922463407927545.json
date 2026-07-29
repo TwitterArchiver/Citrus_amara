@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1963922096569893322",
+    "created_at": "2025-09-05T11:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T12:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963922463407927545"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1963922463407927545",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963922096569893322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "酒精...并不具有成瘾性，很多人饮用酒精更多是出于娱乐性质而非追求酒精的药效。禁酒令我也支持😁不过还是先把烟草杀了吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1963922096569893322",
+        "created_at": "2025-09-05T11:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963922463407927545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963922463407927545",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963922096569893322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "酒精...并不具有成瘾性，很多人饮用酒精更多是出于娱乐性质而非追求酒精的药效。禁酒令我也支持😁不过还是先把烟草杀了吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1963922096569893322",
+        "created_at": "2025-09-05T11:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963922096569893322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Citrus_amara/status/1963921154365637077",
+              "start": 58,
+              "url": "https://t.co/G2h6PBjk7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963922096569893322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963921154365637077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不说槟榔是因为我感觉滥用槟榔是闹钟南方特有的社会现象...我在北方从来没见过任何一个超市卖槟榔，除了高速收费站。 https://t.co/G2h6PBjk7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 399,
+          "like_count": 5938,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 2272
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

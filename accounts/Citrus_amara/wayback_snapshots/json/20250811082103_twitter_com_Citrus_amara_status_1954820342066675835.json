@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1945910351037603935",
+    "created_at": "2025-08-11T08:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T09:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954820342066675835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765331394031759360",
+          "start": 0,
+          "username": "yzhyngyng140647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954820342066675835",
+    "in_reply_to_user_id": "1765331394031759360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945910351037603935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzhyngyng140647 体验怎么样？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1945910342241878017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwFDJXoWAAEsg5f.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1945910347421851648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwFDJq7WIAAZlCQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945910345991675904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwFDJlmXYAA27Bj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945910346931113984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwFDJpGWEAAyN5m.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1945910351037603935",
+        "created_at": "2025-08-11T08:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T09:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954820342066675835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765331394031759360",
+              "start": 0,
+              "username": "yzhyngyng140647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954820342066675835",
+        "in_reply_to_user_id": "1765331394031759360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945910351037603935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzhyngyng140647 体验怎么样？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945910342241878017",
+            "3_1945910347421851648",
+            "3_1945910345991675904",
+            "3_1945910346931113984"
+          ]
+        },
+        "author_id": "1765331394031759360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945910351037603935",
+        "created_at": "2025-07-17T18:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T19:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945910351037603935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKvim5DSpV",
+              "end": 96,
+              "expanded_url": "https://x.com/yzhyngyng140647/status/1945910351037603935/photo/1",
+              "media_key": "3_1945910342241878017",
+              "start": 73,
+              "url": "https://t.co/aKvim5DSpV"
+            },
+            {
+              "display_url": "pic.x.com/aKvim5DSpV",
+              "end": 96,
+              "expanded_url": "https://x.com/yzhyngyng140647/status/1945910351037603935/photo/1",
+              "media_key": "3_1945910347421851648",
+              "start": 73,
+              "url": "https://t.co/aKvim5DSpV"
+            },
+            {
+              "display_url": "pic.x.com/aKvim5DSpV",
+              "end": 96,
+              "expanded_url": "https://x.com/yzhyngyng140647/status/1945910351037603935/photo/1",
+              "media_key": "3_1945910345991675904",
+              "start": 73,
+              "url": "https://t.co/aKvim5DSpV"
+            },
+            {
+              "display_url": "pic.x.com/aKvim5DSpV",
+              "end": 96,
+              "expanded_url": "https://x.com/yzhyngyng140647/status/1945910351037603935/photo/1",
+              "media_key": "3_1945910346931113984",
+              "start": 73,
+              "url": "https://t.co/aKvim5DSpV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945910351037603935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 257,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#overdose#发癫\n今日份整活，我把普瑞巴林原粉称重差不多一克上下，直接通过阴道给药器往直肠罐然后补罐了一点点水坐等反应，o一波中大对等的 https://t.co/aKvim5DSpV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "L-星团",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 303,
+          "like_count": 2480,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1075
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T10:59:49.000Z",
+        "description": "双相情感障碍/overdose/发癫/自残/极度变态/极度危险/幻视/幻听/耳鸣/脑壳疼/喝自己血/抽血/舔自己伤口/求投喂，看我发癫记得留下免费的赞赞呀球球啦",
+        "id": "1765331394031759360",
+        "name": "一只疯癫的莹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945872966534692864/khlwdvKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 38,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 69
+        },
+        "username": "yzhyngyng140647",
+        "verified": false
+      }
+    ]
+  }
+}

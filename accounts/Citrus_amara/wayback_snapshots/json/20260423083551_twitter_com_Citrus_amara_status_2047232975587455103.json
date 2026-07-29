@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2047232975587455103",
+    "created_at": "2026-04-23T08:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047232975587455103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2047214788002885776",
+          "start": 21,
+          "url": "https://t.co/DfFSbgiS9E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047232975587455103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047214788002885776",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自残自杀无所谓，但开盒冲塔的意义是什么呢 https://t.co/DfFSbgiS9E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 689,
+        "media_key": "3_2047214086832676864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkqXYjWYAAboFG.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2047232975587455103",
+        "created_at": "2026-04-23T08:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047232975587455103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2047214788002885776",
+              "start": 21,
+              "url": "https://t.co/DfFSbgiS9E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047232975587455103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047214788002885776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自残自杀无所谓，但开盒冲塔的意义是什么呢 https://t.co/DfFSbgiS9E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047214086832676864"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2047214788002885776",
+        "created_at": "2026-04-23T07:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047214788002885776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/84upKJqhD9",
+              "end": 165,
+              "expanded_url": "https://x.com/SalviaSWC/status/2047214788002885776/photo/1",
+              "media_key": "3_2047214086832676864",
+              "start": 142,
+              "url": "https://t.co/84upKJqhD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047214788002885776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 345,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "既然广州禁毒立下了下个月还会发一个OD视频的承诺，他们肯定不会食言的。大家应该予以重视啊🤓\n\n为了限制舆论风险，我们应该临时抱抱佛脚，改善一下社群的氛围。大家最近几天少发一发自残自杀、开盒冲塔，多发一发药理讨论、法律评价、减害知识、黑色笑话，让晶哥自感惭愧，没有把柄可以抓，可以嘛🥹 https://t.co/84upKJqhD9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 1044,
+          "like_count": 19387,
+          "listed_count": 6,
+          "media_count": 400,
+          "tweet_count": 11002
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3926,
+          "following_count": 989,
+          "like_count": 22661,
+          "listed_count": 10,
+          "media_count": 460,
+          "tweet_count": 7239
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

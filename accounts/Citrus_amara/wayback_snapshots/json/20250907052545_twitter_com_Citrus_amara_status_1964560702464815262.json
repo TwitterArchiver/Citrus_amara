@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1964560702464815262",
+    "created_at": "2025-09-07T05:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T06:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964560702464815262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1502654786453204994",
+          "start": 3,
+          "username": "uranus_chaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964560702464815262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964522018453541331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uranus_chaos: 实验室定制 selank（促智肽） semax（脑力肽） 十一酸雌二醇\nselank 1888 1g 附带纯度报告\nsemax 1788 1g AR级\n十一酸雌二醇 1200 10g AR级（MtF可降价至980哦）\n现款现货，先款后货\n开普…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_1964522011314790400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0NiXF3aoAAGUJc.jpg",
+        "width": 697
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1964560702464815262",
+        "created_at": "2025-09-07T05:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T06:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964560702464815262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1502654786453204994",
+              "start": 3,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964560702464815262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964522018453541331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uranus_chaos: 实验室定制 selank（促智肽） semax（脑力肽） 十一酸雌二醇\nselank 1888 1g 附带纯度报告\nsemax 1788 1g AR级\n十一酸雌二醇 1200 10g AR级（MtF可降价至980哦）\n现款现货，先款后货\n开普…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964522011314790400"
+          ]
+        },
+        "author_id": "1502654786453204994",
+        "conversation_id": "1964522018453541331",
+        "created_at": "2025-09-07T02:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T03:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964522018453541331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VnQglKj5hO",
+              "end": 189,
+              "expanded_url": "https://x.com/uranus_chaos/status/1964522018453541331/photo/1",
+              "media_key": "3_1964522011314790400",
+              "start": 166,
+              "url": "https://t.co/VnQglKj5hO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964522018453541331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "实验室定制 selank（促智肽） semax（脑力肽） 十一酸雌二醇\nselank 1888 1g 附带纯度报告\nsemax 1788 1g AR级\n十一酸雌二醇 1200 10g AR级（MtF可降价至980哦）\n现款现货，先款后货\n开普通票/增值票均可\n买点吧，再不买孩子要饿死了🥺\n还有其他的一部分目录，这些都是有现货的🥺 https://t.co/VnQglKj5hO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 405,
+          "like_count": 6150,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 2344
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。 ‖ 双星系统/主恒星/Venus：@shiyulin_‖药学毕业/医学生/护理学毕业/心理学二专‖里推：@不告诉你！ 自己猜！‖客服瑶光猫：@yaoguangmao（在线时间am11:30-pm10:30❗）点击进入无限循环：@uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "shiyulin_"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "yaoguangmao"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "uranus_chaos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYaTk"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "二酸化炭素の🪼猫诺诺🍥🏴🏳️‍🌈【学术推】【南河三】",
+        "pinned_tweet_id": "1958099694309048384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958164515515957248/htMD0p97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 304,
+          "like_count": 27363,
+          "listed_count": 0,
+          "media_count": 960,
+          "tweet_count": 7413
+        },
+        "url": "https://t.co/ResOORYaTk",
+        "username": "uranus_chaos",
+        "verified": true
+      }
+    ]
+  }
+}

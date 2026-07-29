@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946634062166175745"
+      ],
+      "media_source_tweet_id": [
+        "1946634360347902259"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1946891815304458713",
+    "created_at": "2025-07-20T11:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T12:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946891815304458713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1412766713670635524",
+          "start": 3,
+          "username": "BoeingFontaine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W0pmSuLcKu",
+          "end": 77,
+          "expanded_url": "https://x.com/BoeingFontaine/status/1946634360347902259/photo/1",
+          "media_key": "3_1946634062166175745",
+          "start": 54,
+          "url": "https://t.co/W0pmSuLcKu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946891815304458713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946634360347902259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BoeingFontaine: “科学世纪的少男少女”\n突然让我想起了多年以前很喜欢的一个知乎回答 https://t.co/W0pmSuLcKu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1627,
+        "media_key": "3_1946634062166175745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwPVXacXMAEgcmo.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946634062166175745"
+          ],
+          "media_source_tweet_id": [
+            "1946634360347902259"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1946891815304458713",
+        "created_at": "2025-07-20T11:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946891815304458713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1412766713670635524",
+              "start": 3,
+              "username": "BoeingFontaine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0pmSuLcKu",
+              "end": 77,
+              "expanded_url": "https://x.com/BoeingFontaine/status/1946634360347902259/photo/1",
+              "media_key": "3_1946634062166175745",
+              "start": 54,
+              "url": "https://t.co/W0pmSuLcKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946891815304458713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946634360347902259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BoeingFontaine: “科学世纪的少男少女”\n突然让我想起了多年以前很喜欢的一个知乎回答 https://t.co/W0pmSuLcKu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946634062166175745"
+          ]
+        },
+        "author_id": "1412766713670635524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1946634360347902259",
+        "created_at": "2025-07-19T18:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T19:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946634360347902259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0pmSuLcKu",
+              "end": 57,
+              "expanded_url": "https://x.com/BoeingFontaine/status/1946634360347902259/photo/1",
+              "media_key": "3_1946634062166175745",
+              "start": 34,
+              "url": "https://t.co/W0pmSuLcKu"
+            },
+            {
+              "display_url": "x.com/Fermi_ko/statu…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Fermi_ko/status/1946400862999621734",
+              "start": 58,
+              "url": "https://t.co/u8iqMjEcAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946634360347902259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6735,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946400862999621734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“科学世纪的少男少女”\n突然让我想起了多年以前很喜欢的一个知乎回答 https://t.co/W0pmSuLcKu https://t.co/u8iqMjEcAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎mtf，ftm和地雷系给我私信。好感刷高了可以爆qq。\n需要墙内联系方式请给我打钱。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 78,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 189
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T13:33:38.000Z",
+        "description": "波音公司在枫丹销售唯一官方账号",
+        "id": "1412766713670635524",
+        "location": "近地轨道 太空希尔顿酒店",
+        "name": "波音枫丹 @BoeingFontaine 🇺🇦",
+        "pinned_tweet_id": "1872504672558485581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837152827652853762/TS48JXL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 569,
+          "like_count": 62254,
+          "listed_count": 4,
+          "media_count": 2320,
+          "tweet_count": 9997
+        },
+        "username": "BoeingFontaine",
+        "verified": true
+      }
+    ]
+  }
+}

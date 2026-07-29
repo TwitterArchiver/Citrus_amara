@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081758909782765568"
+      ],
+      "media_source_tweet_id": [
+        "2081758950626922961"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2081795806693343397",
+    "created_at": "2026-07-27T17:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081795806693343397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "366956667",
+          "start": 3,
+          "username": "dai_gazacy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K6sH22SHLF",
+          "end": 44,
+          "expanded_url": "https://x.com/dai_gazacy/status/2081758950626922961/photo/1",
+          "media_key": "3_2081758909782765568",
+          "start": 21,
+          "url": "https://t.co/K6sH22SHLF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081795806693343397",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081758950626922961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dai_gazacy: yknk https://t.co/K6sH22SHLF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2081758909782765568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPksuWbMAA9WUM.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081758909782765568"
+          ]
+        },
+        "author_id": "366956667",
+        "conversation_id": "2081758950626922961",
+        "created_at": "2026-07-27T15:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081758950626922961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6sH22SHLF",
+              "end": 28,
+              "expanded_url": "https://x.com/dai_gazacy/status/2081758950626922961/photo/1",
+              "media_key": "3_2081758909782765568",
+              "start": 5,
+              "url": "https://t.co/K6sH22SHLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081758950626922961",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 20620,
+          "like_count": 2420,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "yknk https://t.co/K6sH22SHLF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081758909782765568"
+          ],
+          "media_source_tweet_id": [
+            "2081758950626922961"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2081795806693343397",
+        "created_at": "2026-07-27T17:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081795806693343397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "366956667",
+              "start": 3,
+              "username": "dai_gazacy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6sH22SHLF",
+              "end": 44,
+              "expanded_url": "https://x.com/dai_gazacy/status/2081758950626922961/photo/1",
+              "media_key": "3_2081758909782765568",
+              "start": 21,
+              "url": "https://t.co/K6sH22SHLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081795806693343397",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081758950626922961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dai_gazacy: yknk https://t.co/K6sH22SHLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "shsh548866"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1202,
+          "like_count": 21215,
+          "listed_count": 5,
+          "media_count": 445,
+          "tweet_count": 11890
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-03T03:47:51.000Z",
+        "description": "百合と音楽で生きてる。褐色肌の女の子が好き。やがて蟹になる。お題もどうぞ→https://t.co/2IDoSiuwj0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/dai_gazacy",
+                "end": 60,
+                "expanded_url": "https://marshmallow-qa.com/dai_gazacy",
+                "start": 37,
+                "url": "https://t.co/2IDoSiuwj0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=1233191",
+                "start": 0,
+                "url": "https://t.co/WSK6AQpNWD"
+              }
+            ]
+          }
+        },
+        "id": "366956667",
+        "name": "ガザシィ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720450456852529152/cw2pJgLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147753,
+          "following_count": 385,
+          "like_count": 4352,
+          "listed_count": 1443,
+          "media_count": 2279,
+          "tweet_count": 17084
+        },
+        "url": "https://t.co/WSK6AQpNWD",
+        "username": "dai_gazacy",
+        "verified": false
+      }
+    ]
+  }
+}

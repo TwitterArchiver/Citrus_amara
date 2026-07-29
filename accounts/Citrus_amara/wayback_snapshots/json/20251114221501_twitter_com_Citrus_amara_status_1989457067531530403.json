@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1989158713215906156",
+    "created_at": "2025-11-14T22:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T23:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989457067531530403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385659420722487300",
+          "start": 0,
+          "username": "huahuachaotian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989457067531530403",
+    "in_reply_to_user_id": "1385659420722487300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989395658017837336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuachaotian 我不是已经说了吗？你不会想值得具体药物吧？这个不可能说的，说了有人模仿自杀咋办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1989158713215906156",
+        "created_at": "2025-11-14T22:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T23:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989457067531530403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385659420722487300",
+              "start": 0,
+              "username": "huahuachaotian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989457067531530403",
+        "in_reply_to_user_id": "1385659420722487300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989395658017837336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuachaotian 我不是已经说了吗？你不会想值得具体药物吧？这个不可能说的，说了有人模仿自杀咋办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385659420722487300",
+        "conversation_id": "1989158713215906156",
+        "created_at": "2025-11-14T18:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T19:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989395658017837336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989395658017837336",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989158713215906156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 想听听你的计划，用什么药物，有没有痛苦，搞不好搞到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 747,
+          "like_count": 11741,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 4862
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T18:18:54.000Z",
+        "description": "一个有超强少女心的可爱无性恋女孩子，梦想就是变甜变可爱，不要问性别问就是女孩子，我天赋党/年龄党/家长党/家庭党/中奖党（五党不沾一点的卑微xyn🤕🤕），持证含糖。手术什么的不如自己来，自己动手丰衣足食，利多卡因是我最后的倔强。愿世界彻底遗忘我",
+        "id": "1385659420722487300",
+        "name": "华华超甜吖🍥（抽象玩意）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721337619811078144/P-2abQnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 135,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 256
+        },
+        "username": "huahuachaotian",
+        "verified": false
+      }
+    ]
+  }
+}

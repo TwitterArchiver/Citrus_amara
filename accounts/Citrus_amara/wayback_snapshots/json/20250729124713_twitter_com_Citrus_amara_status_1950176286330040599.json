@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950176286330040599",
+    "created_at": "2025-07-29T12:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T13:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950176286330040599"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950176286330040599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我混药娘圈这么多年，没见到过任何mtf社群排斥ftm和ftx。那可能还是我混的少吧啊哈哈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950176286330040599",
+        "created_at": "2025-07-29T12:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T13:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950176286330040599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950176286330040599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我混药娘圈这么多年，没见到过任何mtf社群排斥ftm和ftx。那可能还是我混的少吧啊哈哈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。欢迎od的互关，欢迎私信。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "⑧⑨🍊苦橙🍊⑥④",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 205,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 572
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

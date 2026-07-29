@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1982670295161835820",
+    "created_at": "2025-10-27T04:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T05:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982670295161835820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BaoZheFanQie/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/BaoZheFanQie/status/1982252537068519854",
+          "start": 15,
+          "url": "https://t.co/GNbemipYRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982670295161835820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982252537068519854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "amber怎么能和这仨并列的 https://t.co/GNbemipYRT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1982670295161835820",
+        "created_at": "2025-10-27T04:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982670295161835820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BaoZheFanQie/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/BaoZheFanQie/status/1982252537068519854",
+              "start": 15,
+              "url": "https://t.co/GNbemipYRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982670295161835820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982252537068519854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "amber怎么能和这仨并列的 https://t.co/GNbemipYRT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1982252535726604288"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "1982252537068519854",
+        "created_at": "2025-10-26T01:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T02:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982252537068519854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982252537068519854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2661,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哪个🍥更cs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 634,
+          "like_count": 10117,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 4006
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄(˘▽˘)っ🍅\nage20 理性交流。友跨友双友同，偶尔发癫\n推内包含 大a/美股/币圈/跨子/🌈/涩涩🥵/抽象🐘/对线/可互 fo\n若感到生理不适可随时取关，本人投资仅供参考，盈亏自负",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+urAuBM8Y6J8zM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+urAuBM8Y6J8zMzVl",
+                "start": 0,
+                "url": "https://t.co/R2tlnuzVJI"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "大牛牛/88r🚪",
+        "name": "不包西红柿的西红柿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977324843269033984/gAl4FWvW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 2586,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 5827
+        },
+        "url": "https://t.co/R2tlnuzVJI",
+        "username": "BaoZheFanQie",
+        "verified": true
+      }
+    ]
+  }
+}

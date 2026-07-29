@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1975405770821832999",
+    "created_at": "2025-10-07T03:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T04:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975405770821832999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverDose_Hakas…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/OverDose_Hakase/status/1975235639361835349",
+          "start": 9,
+          "url": "https://t.co/qmPjTMnQrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975405770821832999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975235639361835349",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点想买白兔吃了 https://t.co/qmPjTMnQrj"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "市販薬(OTC)のtier表。\n数年前なら👀時コンと右ンエースとコリ👊と緑偽👀を省いて、\nBにトニソ、Cに🥬Uを入れていたに違いないゾイ\nファミマのグレフル入れてやろうか迷ったゾイ\nなのでオブラートとかピンモンとかダイソーすり鉢とか🐚印とか入れて「周辺グッズtier表」も作ろうと思う",
+        "height": 1656,
+        "media_key": "3_1975235634978824192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lyWEKbIAALNk0.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1975405770821832999",
+        "created_at": "2025-10-07T03:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975405770821832999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverDose_Hakas…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/OverDose_Hakase/status/1975235639361835349",
+              "start": 9,
+              "url": "https://t.co/qmPjTMnQrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975405770821832999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975235639361835349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点想买白兔吃了 https://t.co/qmPjTMnQrj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975235634978824192"
+          ]
+        },
+        "author_id": "1905468464506294272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975235639361835349",
+        "created_at": "2025-10-06T16:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T17:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975235639361835349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlAfpNkv6U",
+              "end": 38,
+              "expanded_url": "https://x.com/OverDose_Hakase/status/1975235639361835349/photo/1",
+              "media_key": "3_1975235634978824192",
+              "start": 15,
+              "url": "https://t.co/zlAfpNkv6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975235639361835349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 18463,
+          "like_count": 833,
+          "quote_count": 44,
+          "reply_count": 6,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "市販薬(OTC) tier表 https://t.co/zlAfpNkv6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 507,
+          "like_count": 8307,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 3097
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T03:54:32.000Z",
+        "description": "ODや精神疾患についての知識をばら撒くゾイ！DMにて質問も受付中じゃ！(質問が採用されたらネタ画像にするが、いいかのう？) #0Dハカセの質問コーナー 【※このアカウントは複数人で運営しています 【@remBZD404 @_qxyzyl @yu_ri_anata 】　ワルイハカセ(避難用)→@ODhakase",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 62,
+                "tag": "0Dハカセの質問コーナー"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "remBZD404"
+              },
+              {
+                "end": 118,
+                "start": 110,
+                "username": "_qxyzyl"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "yu_ri_anata"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "ODhakase"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/borderline_yuu…",
+                "end": 23,
+                "expanded_url": "https://note.com/borderline_yuu/n/n17df9ad0d47d",
+                "start": 0,
+                "url": "https://t.co/LeCDiQZXms"
+              }
+            ]
+          }
+        },
+        "id": "1905468464506294272",
+        "location": "どうせ飲むなら安全に ※OD→0Dと置き換えております",
+        "name": "ODハカセV3.0",
+        "pinned_tweet_id": "1973456979667611705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962063605937152001/A9KPKSOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 26,
+          "like_count": 376,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/LeCDiQZXms",
+        "username": "OverDose_Hakase",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947969511707275381",
+    "created_at": "2025-07-23T10:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T11:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947969511707275381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Arpeggio514/st…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Arpeggio514/status/1947042900220826010",
+          "start": 45,
+          "url": "https://t.co/7HSv8ebvo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947969511707275381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947042900220826010",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么会想改变地雷女呢，你改变她的目的是什么？你要是想谈一个正常的女的你就去找正常人谈。 https://t.co/7HSv8ebvo7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947969511707275381",
+        "created_at": "2025-07-23T10:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T11:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947969511707275381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Arpeggio514/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Arpeggio514/status/1947042900220826010",
+              "start": 45,
+              "url": "https://t.co/7HSv8ebvo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947969511707275381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947042900220826010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么会想改变地雷女呢，你改变她的目的是什么？你要是想谈一个正常的女的你就去找正常人谈。 https://t.co/7HSv8ebvo7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654908701772496896",
+        "conversation_id": "1947042900220826010",
+        "created_at": "2025-07-20T21:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T22:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947042900220826010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947042900220826010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 47713,
+          "like_count": 552,
+          "quote_count": 8,
+          "reply_count": 48,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "终于分手了^^\n奉劝大家少和地雷女谈也别幻想能改变一个人，最后被伤害的那个人只会是你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 102,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 302
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "如你所见 这里什么都没有",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "Arpeggio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947747597751619585/pgtzIACW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4842,
+          "following_count": 1164,
+          "like_count": 20260,
+          "listed_count": 8,
+          "media_count": 245,
+          "tweet_count": 3540
+        },
+        "username": "Arpeggio514",
+        "verified": false
+      }
+    ]
+  }
+}

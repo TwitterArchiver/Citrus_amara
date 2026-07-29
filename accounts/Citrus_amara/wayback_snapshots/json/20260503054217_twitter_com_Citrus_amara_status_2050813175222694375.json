@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2049858039042461964",
+    "created_at": "2026-05-03T05:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050813175222694375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1915124824126427137",
+          "start": 0,
+          "username": "Grtr_nk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050813175222694375",
+    "in_reply_to_user_id": "1915124824126427137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049858039042461964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grtr_nk 摇奶茶的时薪可能相当低，我家门口的甚至给到15/h，同时对体力也有一些要求。外卖众包的单价也不高，需要电瓶车的投资且有安全风险。快递站分拣对体力的要求很高。端盘子不清楚因为我是长发男我估计过不去形象关。如果想维持一个体面的生活的话，卖淫对于一个好看的人来说可能是一个不错的选择😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2049858039042461964",
+        "created_at": "2026-05-03T05:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050813175222694375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1915124824126427137",
+              "start": 0,
+              "username": "Grtr_nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050813175222694375",
+        "in_reply_to_user_id": "1915124824126427137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049858039042461964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grtr_nk 摇奶茶的时薪可能相当低，我家门口的甚至给到15/h，同时对体力也有一些要求。外卖众包的单价也不高，需要电瓶车的投资且有安全风险。快递站分拣对体力的要求很高。端盘子不清楚因为我是长发男我估计过不去形象关。如果想维持一个体面的生活的话，卖淫对于一个好看的人来说可能是一个不错的选择😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915124824126427137",
+        "conversation_id": "2049858039042461964",
+        "created_at": "2026-04-30T14:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049858039042461964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049858039042461964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 952,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "經濟困難幹啥不行非得去賣，我就是瞧不起這種人，為什麼不去跑外賣快遞搖奶茶端盤子呢，國外快遞外賣不發達不了解還有沒有什麼別的幹，也可以幹線上工作當遊戲代肝之類的再經濟困難也有手機吧，那為什麼不幹呢因為累啊，腿一張就能來錢多省事啊還不用怕懷孕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2050691530143551704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 1099,
+          "like_count": 19814,
+          "listed_count": 6,
+          "media_count": 407,
+          "tweet_count": 11191
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "暴论bot\n翻车顺女HRT23.05.29/多意识体OSDD+cptsd/od💊ed BMI14.2😇/ pfp @LeonRui_ / 里帐 @Luminme_Vas 互关请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://confess.ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/C5qsiDuDPc"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "location": "🚪68/128",
+        "name": "🐱🍥灰尾猫🍥🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 690,
+          "like_count": 293,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/C5qsiDuDPc",
+        "username": "Grtr_nk",
+        "verified": false
+      }
+    ]
+  }
+}

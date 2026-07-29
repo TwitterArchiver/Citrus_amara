@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1951277524538757506",
+    "created_at": "2025-08-01T19:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T20:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951358073357910323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1931999433660809216",
+          "start": 0,
+          "username": "YUYUKOo0oOo0oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951358073357910323",
+    "in_reply_to_user_id": "1931999433660809216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951296003597815980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUYUKOo0oOo0oO 笑死了。闹钟政治最敏感的地方。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1951277524538757506",
+        "created_at": "2025-08-01T19:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T20:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951358073357910323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1931999433660809216",
+              "start": 0,
+              "username": "YUYUKOo0oOo0oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951358073357910323",
+        "in_reply_to_user_id": "1931999433660809216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951296003597815980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUYUKOo0oOo0oO 笑死了。闹钟政治最敏感的地方。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931999433660809216",
+        "conversation_id": "1951277524538757506",
+        "created_at": "2025-08-01T14:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T15:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951296003597815980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951296003597815980",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951277524538757506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 還有臺灣問題"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 245,
+          "like_count": 1423,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 703
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T08:59:01.000Z",
+        "description": "樹洞羞咻羞 ☆.｡･:*:･ﾟ`☆､｡･:*:･ﾟ`★.｡･:*:･ﾟ`☆.｡･:☆∣裏/雑垢∣又普又宅∣プロセカ親指勢∣地下街地精∣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/yuyukoo0…",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/yuyukoo0oo",
+                "start": 0,
+                "url": "https://t.co/dkJQKmjGrS"
+              }
+            ]
+          }
+        },
+        "id": "1931999433660809216",
+        "location": "Yエリア",
+        "name": "ᕙ⁠(⁠ユ々コ)⁠ᕗ",
+        "pinned_tweet_id": "1941667303894249623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932676375921766400/z4lOcnBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 42,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/dkJQKmjGrS",
+        "username": "YUYUKOo0oOo0oO",
+        "verified": false
+      }
+    ]
+  }
+}

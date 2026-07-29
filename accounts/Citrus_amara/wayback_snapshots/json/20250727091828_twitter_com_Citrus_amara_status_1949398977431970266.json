@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949398534970589291",
+    "created_at": "2025-07-27T09:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T10:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949398977431970266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949398977431970266",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949398534970589291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 fufu，哇咔咔，我也要小镜音！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_1949398527399874560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw2nod9W0AAg7Gg.jpg",
+        "width": 4160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949398534970589291",
+        "created_at": "2025-07-27T09:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949398977431970266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949398977431970266",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949398534970589291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 fufu，哇咔咔，我也要小镜音！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949398527399874560"
+          ]
+        },
+        "author_id": "1882936483662663680",
+        "conversation_id": "1949398534970589291",
+        "created_at": "2025-07-27T09:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949398534970589291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbbNV0a9gU",
+              "end": 46,
+              "expanded_url": "https://x.com/jngyn298282/status/1949398534970589291/photo/1",
+              "media_key": "3_1949398527399874560",
+              "start": 23,
+              "url": "https://t.co/hbbNV0a9gU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949398534970589291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好耶是新fufu，玉米症治好了咪啪(≧▽≦) https://t.co/hbbNV0a9gU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "osdd-1a。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 164,
+          "like_count": 848,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 477
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼",
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1932082912544841966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882937483756765184/OocuXoje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 159,
+          "like_count": 5928,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 544
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

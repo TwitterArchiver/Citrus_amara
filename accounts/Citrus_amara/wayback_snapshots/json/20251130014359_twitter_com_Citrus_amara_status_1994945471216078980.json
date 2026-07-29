@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1994945471216078980",
+    "created_at": "2025-11-30T01:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T02:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994945471216078980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cezthesocialis…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/cezthesocialist/status/1993245105327939991",
+          "start": 2,
+          "url": "https://t.co/rxlHwuXpNo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994945471216078980",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993245105327939991",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😶 https://t.co/rxlHwuXpNo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2112,
+        "media_key": "3_1993242414299975680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lrakeXkAAgJgU.png",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1994945471216078980",
+        "created_at": "2025-11-30T01:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994945471216078980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cezthesocialis…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/cezthesocialist/status/1993245105327939991",
+              "start": 2,
+              "url": "https://t.co/rxlHwuXpNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994945471216078980",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993245105327939991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😶 https://t.co/rxlHwuXpNo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993242414299975680"
+          ]
+        },
+        "author_id": "1289658253274755072",
+        "conversation_id": "1993245105327939991",
+        "created_at": "2025-11-25T09:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993245105327939991"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "TERFs",
+              "probability": 0.3569,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/32fLRPQtE2",
+              "end": 297,
+              "expanded_url": "https://x.com/cezthesocialist/status/1993245105327939991/photo/1",
+              "media_key": "3_1993242414299975680",
+              "start": 274,
+              "url": "https://t.co/32fLRPQtE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993245105327939991",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 793,
+          "impression_count": 1660921,
+          "like_count": 6265,
+          "quote_count": 548,
+          "reply_count": 578,
+          "retweet_count": 656
+        },
+        "reply_settings": "everyone",
+        "text": "TERFs often use the line “let women speak” to say they speak for women and advocates of trans rights don’t, but polling says otherwise. \n\n78% of women have a positive or neutral view of trans people, climbing to 94% for c*s lesbian women, and just 18% have a negative view. https://t.co/32fLRPQtE2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 873,
+          "like_count": 13456,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 5930
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-01T20:24:32.000Z",
+        "description": "Labour hate account 🏴󠁧󠁢󠁷󠁬󠁳󠁿🇵🇸🏳️‍🌈🏳️‍⚧️💚 • @cezthetwink 🔞",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "cezthetwink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/cezthesocialist",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/cezthesocialist",
+                "start": 0,
+                "url": "https://t.co/J3klsaO95W"
+              }
+            ]
+          }
+        },
+        "id": "1289658253274755072",
+        "location": "20 • he/they",
+        "name": "cez",
+        "pinned_tweet_id": "1952454401626419272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957008642328174592/-ypMecDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26398,
+          "following_count": 1382,
+          "like_count": 139653,
+          "listed_count": 77,
+          "media_count": 2828,
+          "tweet_count": 26162
+        },
+        "url": "https://t.co/J3klsaO95W",
+        "username": "cezthesocialist",
+        "verified": true
+      }
+    ]
+  }
+}

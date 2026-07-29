@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2006680052059271539",
+    "created_at": "2026-01-01T17:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006775756756759019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492729295445237765",
+          "start": 0,
+          "username": "qiandaojiang201"
+        },
+        {
+          "end": 28,
+          "id": "1933212338674675714",
+          "start": 17,
+          "username": "R1k0xo_33w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006775756756759019",
+    "in_reply_to_user_id": "1492729295445237765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006773591501894044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiandaojiang201 @R1k0xo_33w 抗生素为什么会细菌感染，你一定是吃了不干净的东西了。怀疑感染就换一种抗生素吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2006680052059271539",
+        "created_at": "2026-01-01T17:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006775756756759019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492729295445237765",
+              "start": 0,
+              "username": "qiandaojiang201"
+            },
+            {
+              "end": 28,
+              "id": "1933212338674675714",
+              "start": 17,
+              "username": "R1k0xo_33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006775756756759019",
+        "in_reply_to_user_id": "1492729295445237765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006773591501894044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiandaojiang201 @R1k0xo_33w 抗生素为什么会细菌感染，你一定是吃了不干净的东西了。怀疑感染就换一种抗生素吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492729295445237765",
+        "conversation_id": "2006680052059271539",
+        "created_at": "2026-01-01T17:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006773591501894044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 25,
+              "id": "1933212338674675714",
+              "start": 14,
+              "username": "R1k0xo_33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006773591501894044",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006687058979442700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @R1k0xo_33w 我疑似总是联用克拉霉素细菌感染了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "鼠鼠\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "shsh548866"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 70,
+                "start": 57,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 979,
+          "like_count": 15280,
+          "listed_count": 5,
+          "media_count": 294,
+          "tweet_count": 7568
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T05:16:28.000Z",
+        "description": "啊呜",
+        "id": "1492729295445237765",
+        "name": "重音テ卜不是牛逼的地雷女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983919628167352320/ggx42285_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 123,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2167
+        },
+        "username": "qiandaojiang201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:18:50.000Z",
+        "description": "铭刻存在的痕迹｜OD｜精神病｜泛性恋｜喜欢可爱的孩子｜流浪｜我是混乱的孩子",
+        "id": "1933212338674675714",
+        "location": "风落下的地方",
+        "name": "鲤",
+        "pinned_tweet_id": "1955374082704413136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953674888881090564/4uBZb2t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 140,
+          "like_count": 1420,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1516
+        },
+        "username": "R1k0xo_33w",
+        "verified": true
+      }
+    ]
+  }
+}

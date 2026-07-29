@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1962384920493613525",
+    "created_at": "2025-09-01T05:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962393078490136785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902700598321135616",
+          "start": 0,
+          "username": "Yanluo1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962393078490136785",
+    "in_reply_to_user_id": "1902700598321135616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962384920493613525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanluo1019 我自杀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1962384920493613525",
+        "created_at": "2025-09-01T05:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962393078490136785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902700598321135616",
+              "start": 0,
+              "username": "Yanluo1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962393078490136785",
+        "in_reply_to_user_id": "1902700598321135616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962384920493613525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanluo1019 我自杀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902700598321135616",
+        "conversation_id": "1962384920493613525",
+        "created_at": "2025-09-01T05:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962384920493613525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962384920493613525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人中推中国血统发支那猪啥心里？？？\n天天屠支那屠汉猪屠满猪\n咋不把自己屠了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。取关麻烦双向。忘记回fo请私聊\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 378,
+          "like_count": 5424,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 2083
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T12:36:05.000Z",
+        "description": "我的名字是唐毓文/\n成长历程:反跨顺男→反跨男同→反跨跨女同多边→反跨跨女泛多边→友跨跨女泛多边/\n14岁MTF 10月19生日\nHRT STARTED 30th.6.25\n老婆@Zhishi_cook\n老公@wowo_yz\n里推:@FamilyWLZ\n问答ngl:https://t.co/U9hmtvHObD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "Zhishi_cook"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "wowo_yz"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "FamilyWLZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yanluo1019",
+                "end": 156,
+                "expanded_url": "https://ngl.link/yanluo1019",
+                "start": 133,
+                "url": "https://t.co/U9hmtvHObD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.com",
+                "end": 23,
+                "expanded_url": "http://NoMTF.com",
+                "start": 0,
+                "url": "https://t.co/kj7dZuDfkd"
+              }
+            ]
+          }
+        },
+        "id": "1902700598321135616",
+        "location": "Melbourne, Victoria",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1961810141868970381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927264142831865856/oGUnMA-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 179,
+          "like_count": 56,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 1951
+        },
+        "url": "https://t.co/kj7dZuDfkd",
+        "username": "Yanluo1019",
+        "verified": true
+      }
+    ]
+  }
+}

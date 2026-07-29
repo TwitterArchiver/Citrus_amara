@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957830733189509122",
+    "created_at": "2025-08-20T14:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T15:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958169837399658761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1261844107392987136",
+          "start": 0,
+          "username": "ccl216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958169837399658761",
+    "in_reply_to_user_id": "1261844107392987136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957830733189509122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccl216 啊？不太懂神秘学，这个东西...我觉得脑补做不到全随机吧？我觉得你对哪张牌印象深的话抽到的概率会更大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957830730517778432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyucrSbbEAAid-j.jpg",
+        "width": 920
+      },
+      {
+        "height": 563,
+        "media_key": "3_1957830728840015877",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyucrMLacAUOceP.jpg",
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957830733189509122",
+        "created_at": "2025-08-20T14:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958169837399658761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1261844107392987136",
+              "start": 0,
+              "username": "ccl216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958169837399658761",
+        "in_reply_to_user_id": "1261844107392987136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957830733189509122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccl216 啊？不太懂神秘学，这个东西...我觉得脑补做不到全随机吧？我觉得你对哪张牌印象深的话抽到的概率会更大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957830730517778432",
+            "3_1957830728840015877"
+          ]
+        },
+        "author_id": "1261844107392987136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957830733189509122",
+        "created_at": "2025-08-19T15:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T16:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957830733189509122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/symzZlNdu1",
+              "end": 168,
+              "expanded_url": "https://x.com/ccl216/status/1957830733189509122/photo/1",
+              "media_key": "3_1957830730517778432",
+              "start": 145,
+              "url": "https://t.co/symzZlNdu1"
+            },
+            {
+              "display_url": "pic.x.com/symzZlNdu1",
+              "end": 168,
+              "expanded_url": "https://x.com/ccl216/status/1957830733189509122/photo/1",
+              "media_key": "3_1957830728840015877",
+              "start": 145,
+              "url": "https://t.co/symzZlNdu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957830733189509122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经可以脑海抽牌了！\n不需要实体或软件任何物质上的东西，只用直觉就能做到\n而且没有画面，是先“知道”是哪张牌，然后才用脑子想是什么牌，如果记得画面会脑补下，这时小我可能会想：啊这是张好/坏牌啊🤣\n让AI帮忙解牌，也符合现实\n关键是我也妹咋学过塔罗啊，大部分牌意都不太了解，居然还挺准确的 https://t.co/symzZlNdu1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 373,
+          "like_count": 3698,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1579
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T02:21:04.000Z",
+        "description": "灵性|音乐|释放法练习生|涩涩大湿|\n情绪垃圾桶\n|涩涩教学分享（还有一点几乎没有的修仙分享）https://t.co/h8IDQ4dy8z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/linjiangdesese",
+                "end": 70,
+                "expanded_url": "https://t.me/linjiangdesese",
+                "start": 47,
+                "url": "https://t.co/h8IDQ4dy8z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccl216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccl216",
+                "start": 0,
+                "url": "https://t.co/4RfkiQi61W"
+              }
+            ]
+          }
+        },
+        "id": "1261844107392987136",
+        "location": "哀丽秘榭",
+        "name": "小林澄🌈",
+        "pinned_tweet_id": "1844253160262730109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885716857380110336/wRd-sg51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 460,
+          "like_count": 29465,
+          "listed_count": 10,
+          "media_count": 1281,
+          "tweet_count": 4892
+        },
+        "url": "https://t.co/4RfkiQi61W",
+        "username": "ccl216",
+        "verified": false
+      }
+    ]
+  }
+}

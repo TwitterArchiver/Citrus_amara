@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953010660100718593"
+      ],
+      "media_source_tweet_id": [
+        "1953010673417388467"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1953729251007455328",
+    "created_at": "2025-08-08T08:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T09:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953729251007455328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "969558098464587776",
+          "start": 3,
+          "username": "aruminsuko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wiqMEWTXZH",
+          "end": 44,
+          "expanded_url": "https://x.com/aruminsuko/status/1953010673417388467/photo/1",
+          "media_key": "3_1953010660100718593",
+          "start": 21,
+          "url": "https://t.co/wiqMEWTXZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953729251007455328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2075
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953010673417388467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @aruminsuko: 鏡音レン https://t.co/wiqMEWTXZH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1953010660100718593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxp82Q3awAE7zeh.jpg",
+        "width": 2686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953010660100718593"
+          ],
+          "media_source_tweet_id": [
+            "1953010673417388467"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1953729251007455328",
+        "created_at": "2025-08-08T08:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953729251007455328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "969558098464587776",
+              "start": 3,
+              "username": "aruminsuko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wiqMEWTXZH",
+              "end": 44,
+              "expanded_url": "https://x.com/aruminsuko/status/1953010673417388467/photo/1",
+              "media_key": "3_1953010660100718593",
+              "start": 21,
+              "url": "https://t.co/wiqMEWTXZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953729251007455328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2075
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953010673417388467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @aruminsuko: 鏡音レン https://t.co/wiqMEWTXZH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953010660100718593"
+          ]
+        },
+        "author_id": "969558098464587776",
+        "conversation_id": "1953010673417388467",
+        "created_at": "2025-08-06T08:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T09:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953010673417388467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wiqMEWTXZH",
+              "end": 28,
+              "expanded_url": "https://x.com/aruminsuko/status/1953010673417388467/photo/1",
+              "media_key": "3_1953010660100718593",
+              "start": 5,
+              "url": "https://t.co/wiqMEWTXZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953010673417388467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2161,
+          "impression_count": 528611,
+          "like_count": 18923,
+          "quote_count": 387,
+          "reply_count": 19,
+          "retweet_count": 2075
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "鏡音レン https://t.co/wiqMEWTXZH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "L-星团",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 276,
+          "like_count": 2097,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 948
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-02T13:00:38.000Z",
+        "description": "🥩🔪イラストレーターとVtuber(登録者19万人)￤ ◻︎ ◻︎合成音声&創作すき。【イラスト依頼or案件連絡➡️https://t.co/o3J5VBsaFI】 ‐FAタグ #さびでざFA Skeb⇨https://t.co/BnvNpfIxmo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 89,
+                "tag": "さびでざFA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "violet161435.studio.site",
+                "end": 81,
+                "expanded_url": "https://violet161435.studio.site/",
+                "start": 58,
+                "url": "https://t.co/o3J5VBsaFI"
+              },
+              {
+                "display_url": "skeb.jp/@aruminsuko",
+                "end": 125,
+                "expanded_url": "https://skeb.jp/@aruminsuko",
+                "start": 102,
+                "url": "https://t.co/BnvNpfIxmo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@aruminsuko?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@aruminsuko?si=4WA9wnCYQYvbK8uk",
+                "start": 0,
+                "url": "https://t.co/s2jxE5zhrl"
+              }
+            ]
+          }
+        },
+        "id": "969558098464587776",
+        "location": "YouTube➡️",
+        "name": "錆多はがね🥩🔪",
+        "pinned_tweet_id": "1953373064449642995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609145798184554496/QvbVJ18d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116749,
+          "following_count": 324,
+          "like_count": 31294,
+          "listed_count": 514,
+          "media_count": 534,
+          "tweet_count": 11528
+        },
+        "url": "https://t.co/s2jxE5zhrl",
+        "username": "aruminsuko",
+        "verified": true
+      }
+    ]
+  }
+}

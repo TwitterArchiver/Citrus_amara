@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2047233632524546546",
+    "created_at": "2026-04-23T08:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047233632524546546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/57crz3oA/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/57crz3oA/status/2046992967211393536",
+          "start": 28,
+          "url": "https://t.co/4KJ9JoKTUe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047233632524546546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046992967211393536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我小时候特别喜欢画这些。现在我的技能已经丢失得差不多了 https://t.co/4KJ9JoKTUe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2046992955609948165",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhhP2jboAUUoeD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2047233632524546546",
+        "created_at": "2026-04-23T08:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047233632524546546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/57crz3oA/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/57crz3oA/status/2046992967211393536",
+              "start": 28,
+              "url": "https://t.co/4KJ9JoKTUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047233632524546546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046992967211393536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小时候特别喜欢画这些。现在我的技能已经丢失得差不多了 https://t.co/4KJ9JoKTUe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046992955609948165"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "conversation_id": "2046992967211393536",
+        "created_at": "2026-04-22T16:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046992967211393536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aedOoHpxAd",
+              "end": 33,
+              "expanded_url": "https://x.com/57crz3oA/status/2046992967211393536/photo/1",
+              "media_key": "3_2046992955609948165",
+              "start": 10,
+              "url": "https://t.co/aedOoHpxAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046992967211393536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个半晚上画这些， https://t.co/aedOoHpxAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 1044,
+          "like_count": 19387,
+          "listed_count": 6,
+          "media_count": 400,
+          "tweet_count": 11003
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "enby asd/adhd可能性微存 醋汁药单推 航天/观鸟/硬科幻/轨道交通爱好 舞萌痴 称呼随意",
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "∅",
+        "pinned_tweet_id": "2034666474976268342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 1586,
+          "like_count": 72603,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 4184
+        },
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ]
+  }
+}

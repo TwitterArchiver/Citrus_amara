@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1971171090304209263",
+    "created_at": "2025-09-25T11:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T12:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971171090304209263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jinger9037/sta…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/Jinger9037/status/1971047239159325006",
+          "start": 44,
+          "url": "https://t.co/IIvlktNPKq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971171090304209263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971047239159325006",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看了你的主页是叛徒，特务，大军阀，反党分子，野心家，走资派，投降派，修正主义，大恶霸！ https://t.co/IIvlktNPKq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1971171090304209263",
+        "created_at": "2025-09-25T11:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T12:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971171090304209263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jinger9037/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Jinger9037/status/1971047239159325006",
+              "start": 44,
+              "url": "https://t.co/IIvlktNPKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971171090304209263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971047239159325006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看了你的主页是叛徒，特务，大军阀，反党分子，野心家，走资派，投降派，修正主义，大恶霸！ https://t.co/IIvlktNPKq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455759097446506497",
+        "conversation_id": "1970870141157282027",
+        "created_at": "2025-09-25T03:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T04:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971047239159325006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1747248731593031680",
+              "start": 0,
+              "username": "fqd520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971047239159325006",
+        "in_reply_to_user_id": "1747248731593031680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 923,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971037267549622391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fqd520 看了你的主页是反动派，鉴定完毕。别想利用于朦胧，请你走开。也别想给我洗脑，我不是弱智。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 460,
+          "like_count": 7592,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 2859
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T04:49:59.000Z",
+        "description": "开心第一",
+        "id": "1455759097446506497",
+        "name": "甲木Jinger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936040878839148544/CxibFTkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 28,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 224
+        },
+        "username": "Jinger9037",
+        "verified": false
+      }
+    ]
+  }
+}

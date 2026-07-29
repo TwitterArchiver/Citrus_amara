@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1958821126768927161",
+    "created_at": "2025-08-22T10:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T11:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958839087856513149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933898679452409856",
+          "start": 0,
+          "username": "choue868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958839087856513149",
+    "in_reply_to_user_id": "1933898679452409856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958826753021157877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choue868 我不是说批评习或者批评中共。我在北方大城市生活没看到南方的什么乱像，可能对中国认知不够全面。我只看到自20年以来中国越来越差，无论是经济还是言论自由还是安全。以前的社会治安不好，现在社会治安确实好了，但也拦不住自爆的报社人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1958821126768927161",
+        "created_at": "2025-08-22T10:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T11:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958839087856513149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933898679452409856",
+              "start": 0,
+              "username": "choue868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958839087856513149",
+        "in_reply_to_user_id": "1933898679452409856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958826753021157877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choue868 我不是说批评习或者批评中共。我在北方大城市生活没看到南方的什么乱像，可能对中国认知不够全面。我只看到自20年以来中国越来越差，无论是经济还是言论自由还是安全。以前的社会治安不好，现在社会治安确实好了，但也拦不住自爆的报社人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933898679452409856",
+        "conversation_id": "1958821126768927161",
+        "created_at": "2025-08-22T09:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T10:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958826753021157877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958826753021157877",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958821126768927161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 其实怎么看了\n从言论自由角度说是的，集权角度也是的\n但是从反腐角度，保障底层人群生活角度，安全角度还是有改进的\n当然技术进步是客观的原因\n你要回到15年前，深圳的飞车党，小偷\n类似孙小果这种事情，比比皆是，公知带路，中国马上就完的节奏\n我不知道你多大了，经历过多少，对国外的真正了解有多少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 378,
+          "like_count": 3942,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1649
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T14:46:04.000Z",
+        "description": "",
+        "id": "1933898679452409856",
+        "name": "太乘教主",
+        "pinned_tweet_id": "1955882893781393841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955890840452390915/IwfquuhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 349,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1245
+        },
+        "username": "choue868",
+        "verified": false
+      }
+    ]
+  }
+}

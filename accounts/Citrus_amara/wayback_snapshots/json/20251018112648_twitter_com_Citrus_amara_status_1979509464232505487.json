@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1979120949434695824",
+    "created_at": "2025-10-18T11:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T12:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979509464232505487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682343456080039936",
+          "start": 0,
+          "username": "masikecaonimabi"
+        },
+        {
+          "end": 30,
+          "id": "1547782736831979520",
+          "start": 17,
+          "username": "NewUniverse8"
+        },
+        {
+          "end": 41,
+          "id": "1505289947418226689",
+          "start": 31,
+          "username": "Kevin_DYU"
+        },
+        {
+          "end": 54,
+          "id": "1432181879948517383",
+          "start": 42,
+          "username": "xiaxiaoxi01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979509464232505487",
+    "in_reply_to_user_id": "1682343456080039936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979428905984627188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@masikecaonimabi @NewUniverse8 @Kevin_DYU @xiaxiaoxi01 哪门子家破人亡，哥们对俄罗斯战败的定义是乌克兰推到莫斯科吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1979120949434695824",
+        "created_at": "2025-10-18T11:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979509464232505487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682343456080039936",
+              "start": 0,
+              "username": "masikecaonimabi"
+            },
+            {
+              "end": 30,
+              "id": "1547782736831979520",
+              "start": 17,
+              "username": "NewUniverse8"
+            },
+            {
+              "end": 41,
+              "id": "1505289947418226689",
+              "start": 31,
+              "username": "Kevin_DYU"
+            },
+            {
+              "end": 54,
+              "id": "1432181879948517383",
+              "start": 42,
+              "username": "xiaxiaoxi01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979509464232505487",
+        "in_reply_to_user_id": "1682343456080039936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979428905984627188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@masikecaonimabi @NewUniverse8 @Kevin_DYU @xiaxiaoxi01 哪门子家破人亡，哥们对俄罗斯战败的定义是乌克兰推到莫斯科吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682343456080039936",
+        "conversation_id": "1979120949434695824",
+        "created_at": "2025-10-18T06:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T07:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979428905984627188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547782736831979520",
+              "start": 0,
+              "username": "NewUniverse8"
+            },
+            {
+              "end": 24,
+              "id": "1505289947418226689",
+              "start": 14,
+              "username": "Kevin_DYU"
+            },
+            {
+              "end": 37,
+              "id": "1432181879948517383",
+              "start": 25,
+              "username": "xiaxiaoxi01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979428905984627188",
+        "in_reply_to_user_id": "1547782736831979520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979402192051458504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewUniverse8 @Kevin_DYU @xiaxiaoxi01 苏联解体和俄罗斯战败是一回事吗  解体是和平演变  战败是家破人亡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 女儿@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 595,
+          "like_count": 9406,
+          "listed_count": 4,
+          "media_count": 120,
+          "tweet_count": 3567
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T10:55:19.000Z",
+        "description": "",
+        "id": "1682343456080039936",
+        "name": "masikecaonima",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682343633557815298/3hDdNvip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 119,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 242
+        },
+        "username": "masikecaonimabi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T03:19:02.000Z",
+        "description": "阿努纳奇 文明记述者 预言者 深空之眼",
+        "id": "1547782736831979520",
+        "location": "東京 千代田区",
+        "name": "NewUniverse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572150145701281793/tCgUiIPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 89,
+          "like_count": 2721,
+          "listed_count": 6,
+          "media_count": 167,
+          "tweet_count": 30095
+        },
+        "username": "NewUniverse8",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T21:08:28.000Z",
+        "description": "",
+        "id": "1505289947418226689",
+        "name": "K.D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752491070880112640/iNQhs3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 343,
+          "like_count": 19773,
+          "listed_count": 13,
+          "media_count": 479,
+          "tweet_count": 15640
+        },
+        "username": "Kevin_DYU",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T03:24:03.000Z",
+        "description": "永远不要和一头猪摔跤，\n\n它会乐此不疲，你却满身污泥。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Xiaxiaoxi02",
+                "end": 23,
+                "expanded_url": "https://x.com/Xiaxiaoxi02",
+                "start": 0,
+                "url": "https://t.co/DJbs0dUuir"
+              }
+            ]
+          }
+        },
+        "id": "1432181879948517383",
+        "location": "越长大越孤单      越长大越不安",
+        "name": "――夏小夕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960579414909181955/OKQNuXIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32225,
+          "following_count": 395,
+          "like_count": 41730,
+          "listed_count": 60,
+          "media_count": 604,
+          "tweet_count": 2979
+        },
+        "url": "https://t.co/DJbs0dUuir",
+        "username": "xiaxiaoxi01",
+        "verified": false
+      }
+    ]
+  }
+}

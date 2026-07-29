@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1986393573613261150",
+    "created_at": "2025-11-06T11:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T12:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986393573613261150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/banzaixyg/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/banzaixyg/status/1986136766194328017",
+          "start": 9,
+          "url": "https://t.co/8kULAquVgp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986393573613261150",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986136766194328017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真得防着点了哲人 https://t.co/8kULAquVgp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2244,
+        "media_key": "3_1986136763287711744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5As3PsbsAAPfMn.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1986393573613261150",
+        "created_at": "2025-11-06T11:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986393573613261150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/banzaixyg/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/banzaixyg/status/1986136766194328017",
+              "start": 9,
+              "url": "https://t.co/8kULAquVgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986393573613261150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986136766194328017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真得防着点了哲人 https://t.co/8kULAquVgp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986136763287711744"
+          ]
+        },
+        "author_id": "1926307161480568832",
+        "conversation_id": "1986136766194328017",
+        "created_at": "2025-11-05T18:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T19:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986136766194328017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWjWRErT3c",
+              "end": 119,
+              "expanded_url": "https://x.com/banzaixyg/status/1986136766194328017/photo/1",
+              "media_key": "3_1986136763287711744",
+              "start": 96,
+              "url": "https://t.co/TWjWRErT3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986136766194328017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2863,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "此人已被上海诏安\n与其交友聊天评论需谨慎\n至于我为什么知道那你可以想一想一个毒贩第二次因为贩毒罪被抓但只判了八个月出来之后还立马开始反od\n难道不可疑？\n据我所知Suki正是这位点了送进去的 https://t.co/TWjWRErT3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 685,
+          "like_count": 10809,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 4400
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@yaiikawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984801229315428352/KZoss5zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 456,
+          "like_count": 3603,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1644
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

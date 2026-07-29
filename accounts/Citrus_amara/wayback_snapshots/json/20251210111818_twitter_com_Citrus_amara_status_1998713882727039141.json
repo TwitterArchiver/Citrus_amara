@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1998686707261047010",
+    "created_at": "2025-12-10T11:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T12:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998713882727039141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920709061311688706",
+          "start": 0,
+          "username": "JINPING_1953"
+        },
+        {
+          "end": 27,
+          "id": "622036546",
+          "start": 14,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998713882727039141",
+    "in_reply_to_user_id": "1920709061311688706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998702296666948070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JINPING_1953 @overdose_six ...你真的认为国企不是资本吗？你认为茅台和国家烟草是什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1998686707261047010",
+        "created_at": "2025-12-10T11:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998713882727039141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920709061311688706",
+              "start": 0,
+              "username": "JINPING_1953"
+            },
+            {
+              "end": 27,
+              "id": "622036546",
+              "start": 14,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998713882727039141",
+        "in_reply_to_user_id": "1920709061311688706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998702296666948070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JINPING_1953 @overdose_six ...你真的认为国企不是资本吗？你认为茅台和国家烟草是什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920709061311688706",
+        "conversation_id": "1998686707261047010",
+        "created_at": "2025-12-10T10:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998702296666948070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998702296666948070",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998686707261047010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 中国的资本主义没有资格垄断软毒品，而国家禁止大麻是对的，或许以后可能会放开，但现在现在是否OD是你的自由，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/吸毒 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 921,
+          "like_count": 14005,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 6441
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T05:15:14.000Z",
+        "description": "白俄总统，美西方公认的敌对势力，兼反贼杀手，大殖子克星，中推去殖第一人，对于任何不友好不礼貌没有头脑的，本人不在乎立场",
+        "id": "1920709061311688706",
+        "name": "盧卡申科",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978812571391299585/y43mQq5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 277,
+          "like_count": 319,
+          "listed_count": 10,
+          "media_count": 5,
+          "tweet_count": 1177
+        },
+        "username": "JINPING_1953",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjZjK  | 报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbntR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjZjK"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 85,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 62,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjZjK"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994097488597536773/ysdo56TK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 91,
+          "like_count": 11207,
+          "listed_count": 9,
+          "media_count": 595,
+          "tweet_count": 3627
+        },
+        "url": "https://t.co/BlAoDIjZjK",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

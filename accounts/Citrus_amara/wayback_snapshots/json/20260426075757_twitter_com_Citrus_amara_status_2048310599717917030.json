@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2048310599717917030",
+    "created_at": "2026-04-26T07:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048310599717917030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lomyral8964/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Lomyral8964/status/2048057025633157428",
+          "start": 10,
+          "url": "https://t.co/tLPpByToFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048310599717917030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048057025633157428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并不存在自由意志😗 https://t.co/tLPpByToFk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2048310599717917030",
+        "created_at": "2026-04-26T07:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048310599717917030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lomyral8964/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Lomyral8964/status/2048057025633157428",
+              "start": 10,
+              "url": "https://t.co/tLPpByToFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048310599717917030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048057025633157428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并不存在自由意志😗 https://t.co/tLPpByToFk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043994337126563840",
+        "conversation_id": "2048057025633157428",
+        "created_at": "2026-04-25T15:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048057025633157428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048057025633157428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2617,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "人的自由意志究竟在多大程度上是自由的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 1063,
+          "like_count": 19541,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 11045
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T10:06:53.000Z",
+        "description": "大号@Lomyral。enby，he/they。依然不吸毒不卖东西。网页版操作困难所以回复会比较慢TT\n\n互关寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "Lomyral"
+              }
+            ]
+          }
+        },
+        "id": "2043994337126563840",
+        "name": "Larymol",
+        "pinned_tweet_id": "2046873757164438002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043994610247368704/9oRpXu3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 189,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 203
+        },
+        "username": "Lomyral8964",
+        "verified": false
+      }
+    ]
+  }
+}

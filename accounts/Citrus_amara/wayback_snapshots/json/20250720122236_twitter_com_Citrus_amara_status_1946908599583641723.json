@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1946908599583641723",
+    "created_at": "2025-07-20T12:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T13:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946908599583641723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794355854545948672",
+          "start": 3,
+          "username": "kkbeibe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946908599583641723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946761386664636790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkbeibe: 在被包养前只知道男生喜欢操女生的嘴吧，小穴，顶多再加上个屁眼吧，被包养后发现我身上哪个部位都能变成取悦金主的性器官，比如双脚合起来当成脚洞穴，腋下穴，乳沟穴，手穴，屁沟穴，肚脐穴，耳洞穴，后脑勺穴😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1946908599583641723",
+        "created_at": "2025-07-20T12:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946908599583641723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794355854545948672",
+              "start": 3,
+              "username": "kkbeibe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946908599583641723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946761386664636790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kkbeibe: 在被包养前只知道男生喜欢操女生的嘴吧，小穴，顶多再加上个屁眼吧，被包养后发现我身上哪个部位都能变成取悦金主的性器官，比如双脚合起来当成脚洞穴，腋下穴，乳沟穴，手穴，屁沟穴，肚脐穴，耳洞穴，后脑勺穴😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794355854545948672",
+        "conversation_id": "1946761386664636790",
+        "created_at": "2025-07-20T02:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T03:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946761386664636790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946761386664636790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2131,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在被包养前只知道男生喜欢操女生的嘴吧，小穴，顶多再加上个屁眼吧，被包养后发现我身上哪个部位都能变成取悦金主的性器官，比如双脚合起来当成脚洞穴，腋下穴，乳沟穴，手穴，屁沟穴，肚脐穴，耳洞穴，后脑勺穴😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎mtf，ftm和地雷系给我私信。好感刷高了可以爆qq。\n需要墙内联系方式请给我打钱。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944691680625479680/iBUDvwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 79,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 203
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T13:12:39.000Z",
+        "description": "喜欢收集皮下男文案（不要取关我🥹难道你们不觉得很好玩吗🥴）纯绿好友位88🚪喜欢我可以随意给我打钱畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN https://t.co/AjUwMDf8Pg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 98,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=T3lhJHNO",
+                "start": 75,
+                "url": "https://t.co/AjUwMDf8Pg"
+              }
+            ]
+          }
+        },
+        "id": "1794355854545948672",
+        "name": "吻痕（痴呆寡妇",
+        "pinned_tweet_id": "1946427954185060704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940945034494246912/aIumuCNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 251,
+          "like_count": 14973,
+          "listed_count": 6,
+          "media_count": 46,
+          "tweet_count": 2057
+        },
+        "username": "kkbeibe",
+        "verified": false
+      }
+    ]
+  }
+}

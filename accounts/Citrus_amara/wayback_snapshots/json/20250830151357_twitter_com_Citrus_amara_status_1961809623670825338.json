@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1961809623670825338",
+    "created_at": "2025-08-30T15:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961809623670825338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lycaropia/stat…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/Lycaropia/status/1961530646800863573",
+          "start": 98,
+          "url": "https://t.co/iThABfMuJ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961809623670825338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961530646800863573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你先要给动物分个类，动物是物，是人，还是与物和人都不同的存在。\n人可以随意处理自己的所有物，比如人拥有一盘蘑菇，他当然可以吃掉它。人不能拥有一个人。人可以拥有一只动物，你认为动物属于哪种东西呢。 https://t.co/iThABfMuJ1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1961809623670825338",
+        "created_at": "2025-08-30T15:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961809623670825338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lycaropia/stat…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/Lycaropia/status/1961530646800863573",
+              "start": 98,
+              "url": "https://t.co/iThABfMuJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961809623670825338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961530646800863573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你先要给动物分个类，动物是物，是人，还是与物和人都不同的存在。\n人可以随意处理自己的所有物，比如人拥有一盘蘑菇，他当然可以吃掉它。人不能拥有一个人。人可以拥有一只动物，你认为动物属于哪种东西呢。 https://t.co/iThABfMuJ1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672822866986024961",
+        "conversation_id": "1961215170761691248",
+        "created_at": "2025-08-29T20:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T21:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961530646800863573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1299312684991569920",
+              "start": 0,
+              "username": "DanJack67524194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961530646800863573",
+        "in_reply_to_user_id": "1299312684991569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3309,
+          "like_count": 73,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961215170761691248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanJack67524194 人类不是天生有吃动物的权利，因为杀死其他动物并不是由权利赋予的。食肉动物和杂食动物杀死别的动物从来就不需要什么权利。\n不过尽量减少被杀动物的痛苦，尽量利用好动物尸体不要浪费（比如你不吃内脏，内脏也可以用来做别的用途）就是最高敬意了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。取关麻烦双向。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 371,
+          "like_count": 5135,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 2003
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "Aspie | TS Fullstack | 无孩爱猫女 | GF @CatTalkerMitaka LOVE ❤ FOREVER",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "CatTalkerMitaka"
+              }
+            ]
+          }
+        },
+        "id": "1672822866986024961",
+        "location": "384,400km",
+        "name": "居眠姬",
+        "pinned_tweet_id": "1910250184527024612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1097,
+          "like_count": 83829,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 10120
+        },
+        "username": "Lycaropia",
+        "verified": false
+      }
+    ]
+  }
+}

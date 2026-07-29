@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1951964559339860081",
+    "created_at": "2025-08-03T13:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T14:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952002159928598927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697580552793051136",
+          "start": 0,
+          "username": "yyc20090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952002159928598927",
+    "in_reply_to_user_id": "1697580552793051136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951964559339860081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyc20090 猎奇奖有点太猎奇了，我买的那一瓶子晚安吃了5个月了我还没吃完"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1951964559339860081",
+        "created_at": "2025-08-03T13:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T14:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952002159928598927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697580552793051136",
+              "start": 0,
+              "username": "yyc20090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952002159928598927",
+        "in_reply_to_user_id": "1697580552793051136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951964559339860081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyc20090 猎奇奖有点太猎奇了，我买的那一瓶子晚安吃了5个月了我还没吃完"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697580552793051136",
+        "conversation_id": "1951964559339860081",
+        "created_at": "2025-08-03T11:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T12:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951964559339860081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951964559339860081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "唔…话说都没发过抽奖 要不给大家抽一个……？（不知道抽什么 这次全发钱了）\n一等奖:15r*3\n二等奖:6.6r*2\n三等奖:5.2r*1\n猎奇奖:晚安一瓶（这猎奇药主播不敢吃了 如果抽中了不要的话可以折算为10r）\n这条帖子下关注+点赞+转帖+评论就可以参与了\n持续时间到我888fo的时候/8.10 00:00\n等888fo再抽一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "8️⃣9️⃣🍊苦橙🍊6️⃣4️⃣",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 252,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 754
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "20090718  老婆@LiciiQAQ 窝重度缺爱😡👊 会割手👉👈     177/122  久居佛山🤤 可以随便骚扰窝🤤🤤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1697580552793051136",
+        "name": "yyxx🍥",
+        "pinned_tweet_id": "1951964559339860081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934155305077919744/xZ_qsmex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 458,
+          "like_count": 1698,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 710
+        },
+        "username": "yyc20090",
+        "verified": false
+      }
+    ]
+  }
+}

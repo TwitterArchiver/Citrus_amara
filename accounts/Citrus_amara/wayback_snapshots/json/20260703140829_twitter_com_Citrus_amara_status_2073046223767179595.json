@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2072870973016314344",
+    "created_at": "2026-07-03T14:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073046223767179595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1048554633029984256",
+          "start": 0,
+          "username": "nanakawaii_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073046223767179595",
+    "in_reply_to_user_id": "1048554633029984256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072870973016314344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanakawaii_01 安检员懒得问你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2072870973016314344",
+        "created_at": "2026-07-03T14:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073046223767179595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1048554633029984256",
+              "start": 0,
+              "username": "nanakawaii_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073046223767179595",
+        "in_reply_to_user_id": "1048554633029984256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072870973016314344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanakawaii_01 安检员懒得问你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048554633029984256",
+        "conversation_id": "2072870973016314344",
+        "created_at": "2026-07-03T02:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072870973016314344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072870973016314344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带红普坐地铁会被安检员拦住盘问吗 就只带一盒然后拆开外包装"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/od/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 1149,
+          "like_count": 20925,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 11723
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-06T12:44:40.000Z",
+        "description": "超典型拜金女｜私信只回🚪相关｜88🚪不闲聊｜里账号@nanakawaii_02｜漂亮女孩欢迎互fo！想认识更多朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "nanakawaii_02"
+              }
+            ]
+          }
+        },
+        "id": "1048554633029984256",
+        "location": "88/288/520/1314",
+        "name": "小挞堡",
+        "pinned_tweet_id": "2071280614997889136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069391510802677760/iQ5Z7KIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 50,
+          "like_count": 387,
+          "listed_count": 6,
+          "media_count": 68,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "nanakawaii_01",
+        "verified": false
+      }
+    ]
+  }
+}

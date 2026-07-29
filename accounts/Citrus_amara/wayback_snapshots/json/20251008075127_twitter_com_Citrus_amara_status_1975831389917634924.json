@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1975831389917634924",
+    "created_at": "2025-10-08T07:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T08:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975831389917634924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CCCola13/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/CCCola13/status/1975265058390528266",
+          "start": 5,
+          "url": "https://t.co/sAX272hZ9X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975831389917634924",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975265058390528266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了 https://t.co/sAX272hZ9X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1975831389917634924",
+        "created_at": "2025-10-08T07:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T08:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975831389917634924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CCCola13/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/CCCola13/status/1975265058390528266",
+              "start": 5,
+              "url": "https://t.co/sAX272hZ9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975831389917634924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975265058390528266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/sAX272hZ9X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370966967444643842",
+        "conversation_id": "1975265058390528266",
+        "created_at": "2025-10-06T18:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T19:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975265058390528266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975265058390528266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 24808,
+          "like_count": 172,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。。别这样睡不着想手沖然后刷到有人教怎么分别原生逼还是变性手术做出来的逼。。。然后放了三四十张逼照，吓得我恐b了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 511,
+          "like_count": 8389,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 3141
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T05:16:21.000Z",
+        "description": "親手埋葬\n每一刻一顆",
+        "id": "1370966967444643842",
+        "name": "CCCola",
+        "pinned_tweet_id": "1872180739468570991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739696905209384960/fIErFCgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 392,
+          "like_count": 20828,
+          "listed_count": 5,
+          "media_count": 399,
+          "tweet_count": 7127
+        },
+        "username": "CCCola13",
+        "verified": false
+      }
+    ]
+  }
+}

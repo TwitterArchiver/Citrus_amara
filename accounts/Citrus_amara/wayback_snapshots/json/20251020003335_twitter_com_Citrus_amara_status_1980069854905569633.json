@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1980069854905569633",
+    "created_at": "2025-10-20T00:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980069854905569633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sleepy_Sheeppp…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Sleepy_Sheepppp/status/1979428284216869239",
+          "start": 20,
+          "url": "https://t.co/nGVNXLMUVK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980069854905569633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979428284216869239",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想我会afab的话也只会成为ftm。 https://t.co/nGVNXLMUVK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1980069854905569633",
+        "created_at": "2025-10-20T00:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980069854905569633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sleepy_Sheeppp…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Sleepy_Sheepppp/status/1979428284216869239",
+              "start": 20,
+              "url": "https://t.co/nGVNXLMUVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980069854905569633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979428284216869239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想我会afab的话也只会成为ftm。 https://t.co/nGVNXLMUVK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467395901152915457",
+        "conversation_id": "1979428284216869239",
+        "created_at": "2025-10-18T06:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T07:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979428284216869239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979428284216869239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 114740,
+          "like_count": 2511,
+          "quote_count": 17,
+          "reply_count": 71,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "经常刷到那个“我的少女时代是在赞美中度过的”，实在忍不住反胃。更多人的少女时代是在恶意中度过的吧，是青春期偷偷被打量的胸部发育，是莫名其妙被卷入的颜值身材排名，是请长假后同学的无端揣测，是被加QQ后听见的关于自己的八卦。少女时代的主角从来不是我，是总是发油但恨不得遮住全脸的刘海。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979785369840197632/apbjPWPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 594,
+          "like_count": 9559,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 3622
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T07:30:29.000Z",
+        "description": "原来共你是场梦",
+        "id": "1467395901152915457",
+        "location": "纯绿🚪188",
+        "name": "逃跑小羊",
+        "pinned_tweet_id": "1733806142063542685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666339268166553604/PNjquDrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17435,
+          "following_count": 84,
+          "like_count": 3460,
+          "listed_count": 47,
+          "media_count": 373,
+          "tweet_count": 7523
+        },
+        "username": "Sleepy_Sheepppp",
+        "verified": false
+      }
+    ]
+  }
+}

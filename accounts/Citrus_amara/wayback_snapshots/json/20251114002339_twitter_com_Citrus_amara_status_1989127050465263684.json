@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1989127050465263684",
+    "created_at": "2025-11-14T00:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T01:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989127050465263684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aawa_zzz/statu…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/aawa_zzz/status/1989042191193501795",
+          "start": 46,
+          "url": "https://t.co/HZzYzvrmzW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989127050465263684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989042191193501795",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑死了药厂都快给oder跪下磕头求他们吃了，一个普瑞巴林养活了多少小作坊，以前只有喜思平 https://t.co/HZzYzvrmzW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1989127050465263684",
+        "created_at": "2025-11-14T00:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T01:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989127050465263684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aawa_zzz/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/aawa_zzz/status/1989042191193501795",
+              "start": 46,
+              "url": "https://t.co/HZzYzvrmzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989127050465263684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989042191193501795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑死了药厂都快给oder跪下磕头求他们吃了，一个普瑞巴林养活了多少小作坊，以前只有喜思平 https://t.co/HZzYzvrmzW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662395395778179074",
+        "conversation_id": "1989042191193501795",
+        "created_at": "2025-11-13T18:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989042191193501795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989042191193501795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我不歧視憂鬱症患者😁\nOD仔吃藥浪費醫療資源😡\nbro左右腦互駁真有你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 729,
+          "like_count": 11578,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 4763
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T09:49:13.000Z",
+        "description": "台灣／北部／15y／INTP／地雷系／門檻妹／重鬱／焦慮／BPD／od／自傷行為／自毀傾向",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xh74701",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xh74701",
+                "start": 0,
+                "url": "https://t.co/bUZjMfEMGM"
+              }
+            ]
+          }
+        },
+        "id": "1662395395778179074",
+        "location": "･𐃷･",
+        "name": "はるか",
+        "pinned_tweet_id": "1983456594777293166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978573158124077056/FdvYzU5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 181,
+          "like_count": 2355,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/bUZjMfEMGM",
+        "username": "aawa_zzz",
+        "verified": false
+      }
+    ]
+  }
+}

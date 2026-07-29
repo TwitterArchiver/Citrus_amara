@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957737581833032011",
+    "created_at": "2025-08-19T09:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T10:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957737581833032011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose_dxm/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/overdose_dxm/status/1957386481162760416",
+          "start": 18,
+          "url": "https://t.co/YG2Zvo2vVK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957737581833032011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957386481162760416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "似乎所有抗癫痫药物都会影响性腺轴。 https://t.co/YG2Zvo2vVK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957737581833032011",
+        "created_at": "2025-08-19T09:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T10:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957737581833032011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_dxm/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/overdose_dxm/status/1957386481162760416",
+              "start": 18,
+              "url": "https://t.co/YG2Zvo2vVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957737581833032011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957386481162760416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "似乎所有抗癫痫药物都会影响性腺轴。 https://t.co/YG2Zvo2vVK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956722348935221248",
+        "conversation_id": "1957386481162760416",
+        "created_at": "2025-08-18T10:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957386481162760416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957386481162760416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "高剂量普瑞巴林可以降低睾酮并增加催乳素，通过选择性地与电压门控钙通道的α2δ亚单位结合，导致神经元 GABA 水平增加并抑制兴奋性神经递质的释放，而在高剂量下，通过逆转BAX/BCL2比率增加p38 MAPK水平，诱导氧化应激标志物并导致细胞凋亡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 360,
+          "like_count": 3538,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1504
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T14:19:05.000Z",
+        "description": "化学极乐百科是国内第二个新精神活性物质研究小组\n本账号为科普账号，娱乐账号请看: @N_N_DET\n百科:https://t.co/da881UCykR\n关注我们的TG频道: @overdose_dxm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "N_N_DET"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "overdose_dxm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 76,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 53,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          }
+        },
+        "id": "1956722348935221248",
+        "name": "化学极乐百科🔯",
+        "pinned_tweet_id": "1956728430600532348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956726791072329728/Ch_T98m-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 84,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/da881UCykR",
+        "username": "overdose_dxm",
+        "verified": false
+      }
+    ]
+  }
+}

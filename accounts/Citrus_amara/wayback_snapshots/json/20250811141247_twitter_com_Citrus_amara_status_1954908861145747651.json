@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1954905653736042691",
+    "created_at": "2025-08-11T14:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T15:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954908861145747651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1916153127163564032",
+          "start": 0,
+          "username": "kw11_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954908861145747651",
+    "in_reply_to_user_id": "1916153127163564032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954908288782569756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kw11_ovo 喔喔喔好哦！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1954905653736042691",
+        "created_at": "2025-08-11T14:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T15:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954908861145747651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1916153127163564032",
+              "start": 0,
+              "username": "kw11_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954908861145747651",
+        "in_reply_to_user_id": "1916153127163564032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954908288782569756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kw11_ovo 喔喔喔好哦！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916153127163564032",
+        "conversation_id": "1954905653736042691",
+        "created_at": "2025-08-11T14:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T15:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954908288782569756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954908288782569756",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954905653736042691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 我最爱奶油味的，我感觉第一口吃起来有点那种奶臭味但是第二口很香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 310,
+          "like_count": 2553,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1097
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T15:31:30.000Z",
+        "description": "=小晴｜这是一个嗑药自残淫荡电波女的账号👁️｜可以互fo｜喜欢我或者想聊天的请给我钱呀经济独立我需要活下去^_^88/200纯绿没有区别但是给200的话我会更喜欢你｜舞萌勉强中｜恋爱ing",
+        "id": "1916153127163564032",
+        "name": "青春电波舞萌女不会遇到忧郁贝斯小处男",
+        "pinned_tweet_id": "1953403292597322203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950571612547305472/QvpvfiEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 168,
+          "like_count": 2770,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1088
+        },
+        "username": "kw11_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

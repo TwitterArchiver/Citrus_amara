@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060682061959335936"
+      ],
+      "media_source_tweet_id": [
+        "2060682070528299502"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2061361103947649298",
+    "created_at": "2026-06-01T08:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061361103947649298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905566526595629060",
+          "start": 3,
+          "username": "Apipleeeee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gUtY3gcAKw",
+          "end": 47,
+          "expanded_url": "https://x.com/Apipleeeee/status/2060682070528299502/photo/1",
+          "media_key": "3_2060682061959335936",
+          "start": 24,
+          "url": "https://t.co/gUtY3gcAKw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061361103947649298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060682070528299502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apipleeeee: 我笑得好崩溃， https://t.co/gUtY3gcAKw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 851,
+        "media_key": "3_2060682061959335936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkDatobEAA0ZNc.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060682061959335936"
+          ],
+          "media_source_tweet_id": [
+            "2060682070528299502"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2061361103947649298",
+        "created_at": "2026-06-01T08:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061361103947649298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905566526595629060",
+              "start": 3,
+              "username": "Apipleeeee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUtY3gcAKw",
+              "end": 47,
+              "expanded_url": "https://x.com/Apipleeeee/status/2060682070528299502/photo/1",
+              "media_key": "3_2060682061959335936",
+              "start": 24,
+              "url": "https://t.co/gUtY3gcAKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061361103947649298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060682070528299502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Apipleeeee: 我笑得好崩溃， https://t.co/gUtY3gcAKw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060682061959335936"
+          ]
+        },
+        "author_id": "1905566526595629060",
+        "conversation_id": "2060682070528299502",
+        "created_at": "2026-05-30T11:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060682070528299502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUtY3gcAKw",
+              "end": 31,
+              "expanded_url": "https://x.com/Apipleeeee/status/2060682070528299502/photo/1",
+              "media_key": "3_2060682061959335936",
+              "start": 8,
+              "url": "https://t.co/gUtY3gcAKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060682070528299502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 143083,
+          "like_count": 1737,
+          "quote_count": 10,
+          "reply_count": 227,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我笑得好崩溃， https://t.co/gUtY3gcAKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 1091,
+          "like_count": 20357,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 11472
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdZDt"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "name": "苹果",
+        "pinned_tweet_id": "2041450168307024329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12370,
+          "following_count": 2,
+          "like_count": 3796,
+          "listed_count": 35,
+          "media_count": 527,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/TMmfJOdZDt",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

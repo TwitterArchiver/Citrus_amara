@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1979046495643951368",
+    "created_at": "2025-10-17T04:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T05:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979046495643951368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QzuserX/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/QzuserX/status/1978829306827620644",
+          "start": 8,
+          "url": "https://t.co/fhzE2M1mfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979046495643951368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978829306827620644",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奴隶类型：牲口 https://t.co/fhzE2M1mfg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1979046495643951368",
+        "created_at": "2025-10-17T04:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T05:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979046495643951368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QzuserX/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/QzuserX/status/1978829306827620644",
+              "start": 8,
+              "url": "https://t.co/fhzE2M1mfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979046495643951368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978829306827620644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奴隶类型：牲口 https://t.co/fhzE2M1mfg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439042200940253185",
+        "conversation_id": "1978829306827620644",
+        "created_at": "2025-10-16T14:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T15:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978829306827620644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SilenceGvq/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/SilenceGvq/status/1978704610530300320",
+              "start": 19,
+              "url": "https://t.co/0VCb5nBt3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978829306827620644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3448,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978704610530300320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那就多工业化养肉人吧，我想吃人肉了。 https://t.co/0VCb5nBt3d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🐹苦鼠🐹",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977291681847197696/D1eHw-4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 591,
+          "like_count": 9263,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 3526
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T01:43:03.000Z",
+        "description": "Dem-Socialism&Pan-Asianism.     横幅是神奈川冲浪兔.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "QzuserX.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://QzuserX.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/jAJFNvN4Mr"
+              }
+            ]
+          }
+        },
+        "id": "1439042200940253185",
+        "location": "北落师门座",
+        "name": "𝑸𝒁𝑼𝑺𝑬𝑹",
+        "pinned_tweet_id": "1936926169737404747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977587933046865920/yvAJA0D5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 751,
+          "like_count": 134445,
+          "listed_count": 18,
+          "media_count": 2740,
+          "tweet_count": 23940
+        },
+        "url": "https://t.co/jAJFNvN4Mr",
+        "username": "QzuserX",
+        "verified": false
+      }
+    ]
+  }
+}

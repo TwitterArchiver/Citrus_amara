@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1953704736550461893",
+    "created_at": "2025-08-08T09:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T10:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953746658186964993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940444720171483136",
+          "start": 0,
+          "username": "tsuki_404ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953746658186964993",
+    "in_reply_to_user_id": "1940444720171483136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953746486631838073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsuki_404ovo 不记得了，我印象里碳酸锂对我没用，所以我自己断了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1953704736550461893",
+        "created_at": "2025-08-08T09:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T10:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953746658186964993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940444720171483136",
+              "start": 0,
+              "username": "tsuki_404ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953746658186964993",
+        "in_reply_to_user_id": "1940444720171483136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953746486631838073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsuki_404ovo 不记得了，我印象里碳酸锂对我没用，所以我自己断了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940444720171483136",
+        "conversation_id": "1953704736550461893",
+        "created_at": "2025-08-08T09:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T10:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953746486631838073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953746486631838073",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953704736550461893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 之前吃的时候有感觉梦境增强嘛？正常量似乎已经可以让人每天被梦吓醒了😖吃碳酸锂只是为了促梦有点不划算的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "L-星团",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 278,
+          "like_count": 2110,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 961
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T16:17:51.000Z",
+        "description": "幻想永远破碎，焦灼而绝望的灵魂回落，在失去中获得宁静。",
+        "id": "1940444720171483136",
+        "name": "宇佐见弥生",
+        "pinned_tweet_id": "1945891137425908096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941542369696022529/g02E-ifD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 92,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 222
+        },
+        "username": "tsuki_404ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1962787993657237813",
+    "created_at": "2025-09-02T12:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T13:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962854765437550677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1906294804075442177",
+          "start": 0,
+          "username": "cbfcwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962854765437550677",
+    "in_reply_to_user_id": "1906294804075442177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962854368870600862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cbfcwt 对我感觉寒涟漪的所有辩驳都非常主管且缺乏证据。无论谁对谁错真相如何，她这种辩论方式就已经让她天然处于舆论下风了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1962787993657237813",
+        "created_at": "2025-09-02T12:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962854765437550677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1906294804075442177",
+              "start": 0,
+              "username": "cbfcwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962854765437550677",
+        "in_reply_to_user_id": "1906294804075442177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962854368870600862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cbfcwt 对我感觉寒涟漪的所有辩驳都非常主管且缺乏证据。无论谁对谁错真相如何，她这种辩论方式就已经让她天然处于舆论下风了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906294804075442177",
+        "conversation_id": "1962787993657237813",
+        "created_at": "2025-09-02T12:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962854368870600862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962854368870600862",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962789142745559060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 还有拿几张前女友的照片来证明自己不缺帅哥美女追求，进而证明自己没有猥亵/强奸行为，这什么逻辑……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 385,
+          "like_count": 5637,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 2177
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T10:38:07.000Z",
+        "description": "呕吐物",
+        "id": "1906294804075442177",
+        "name": "幸运鸡肉卷",
+        "pinned_tweet_id": "1910459569832419375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951670743336640512/HovZ1jFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 446,
+          "like_count": 785,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 773
+        },
+        "username": "cbfcwt",
+        "verified": false
+      }
+    ]
+  }
+}

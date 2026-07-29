@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2001480854204260595",
+    "created_at": "2025-12-18T02:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T03:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001480854204260595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0984mony/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/0984mony/status/2001174358300238296",
+          "start": 9,
+          "url": "https://t.co/BpRSFl7Nxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001480854204260595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001174358300238296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下次剪头发就这样 https://t.co/BpRSFl7Nxy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2001174353741012994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8WZeNha4AIymH9.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2001480854204260595",
+        "created_at": "2025-12-18T02:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T03:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001480854204260595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0984mony/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/0984mony/status/2001174358300238296",
+              "start": 9,
+              "url": "https://t.co/BpRSFl7Nxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001480854204260595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001174358300238296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次剪头发就这样 https://t.co/BpRSFl7Nxy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001174353741012994"
+          ]
+        },
+        "author_id": "1634889685532311552",
+        "conversation_id": "2001174358300238296",
+        "created_at": "2025-12-17T06:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001174358300238296"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/umFFpeFO5W",
+              "end": 58,
+              "expanded_url": "https://x.com/0984mony/status/2001174358300238296/photo/1",
+              "media_key": "3_2001174353741012994",
+              "start": 35,
+              "url": "https://t.co/umFFpeFO5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001174358300238296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 525,
+          "impression_count": 53565,
+          "like_count": 6622,
+          "quote_count": 15,
+          "reply_count": 3,
+          "retweet_count": 874
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE #NEEDY_pic\n✂️ https://t.co/umFFpeFO5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2000895596702372279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 941,
+          "like_count": 14336,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 6773
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T12:10:58.000Z",
+        "description": "₍ᐢ- ̫-ᐢ₎ ❔",
+        "id": "1634889685532311552",
+        "name": "떼데",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741978605352349696/8YcJoY_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 103,
+          "like_count": 596,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 179
+        },
+        "username": "0984mony",
+        "verified": false
+      }
+    ]
+  }
+}

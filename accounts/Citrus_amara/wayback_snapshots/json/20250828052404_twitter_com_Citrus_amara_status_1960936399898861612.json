@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1960893814006046768",
+    "created_at": "2025-08-28T05:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T06:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960936399898861612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1530977633642553346",
+          "start": 0,
+          "username": "Frank_0626"
+        },
+        {
+          "end": 27,
+          "id": "1903224239471157248",
+          "start": 12,
+          "username": "moongunner2025"
+        },
+        {
+          "end": 43,
+          "id": "1477342523555135490",
+          "start": 28,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960936399898861612",
+    "in_reply_to_user_id": "1530977633642553346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960930103908818962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Frank_0626 @moongunner2025 @torontobigface 你非说美国朝鲜化那我也只能赞同。但现实是美国有民选政府，虽然选出来个傻逼川普但是至少民众还有政治权利还能议论对川普的不满。中国呢，你认识你们市的人大代表吗？你参与过人大代表的选举吗？人大被中共搞成毫无自主权的盖章机器。你要说中国比美国民主我也只能赞同你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960893814006046768",
+        "created_at": "2025-08-28T05:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T06:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960936399898861612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1530977633642553346",
+              "start": 0,
+              "username": "Frank_0626"
+            },
+            {
+              "end": 27,
+              "id": "1903224239471157248",
+              "start": 12,
+              "username": "moongunner2025"
+            },
+            {
+              "end": 43,
+              "id": "1477342523555135490",
+              "start": 28,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960936399898861612",
+        "in_reply_to_user_id": "1530977633642553346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960930103908818962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Frank_0626 @moongunner2025 @torontobigface 你非说美国朝鲜化那我也只能赞同。但现实是美国有民选政府，虽然选出来个傻逼川普但是至少民众还有政治权利还能议论对川普的不满。中国呢，你认识你们市的人大代表吗？你参与过人大代表的选举吗？人大被中共搞成毫无自主权的盖章机器。你要说中国比美国民主我也只能赞同你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530977633642553346",
+        "conversation_id": "1960893814006046768",
+        "created_at": "2025-08-28T04:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T05:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960930103908818962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 29,
+              "id": "1903224239471157248",
+              "start": 14,
+              "username": "moongunner2025"
+            },
+            {
+              "end": 45,
+              "id": "1477342523555135490",
+              "start": 30,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960930103908818962",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960908087705133277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @moongunner2025 @torontobigface 美帝就自由？就不朝鲜？我玩个我的世界挂个万字旗都挂不了，其他游戏都别说了，你美爹怎么不敢正视历史了？噢 是因为我亲爱的元首大人杀的是你鱿鱼爷爷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 371,
+          "like_count": 4689,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1877
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T18:21:35.000Z",
+        "description": "",
+        "id": "1530977633642553346",
+        "location": "Hong Kong",
+        "name": "Frank",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563851985144913920/x4hljjDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "Frank_0626",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T23:17:45.000Z",
+        "description": "just stare at the sky dreaming of hot stuff",
+        "id": "1903224239471157248",
+        "location": "Dortmund, Germany",
+        "name": "Moongunner2025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903224861809385472/Cb46Ool__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 3894,
+          "like_count": 2372,
+          "listed_count": 13,
+          "media_count": 1050,
+          "tweet_count": 4104
+        },
+        "username": "moongunner2025",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1959193902520635753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728397,
+          "following_count": 231,
+          "like_count": 4182,
+          "listed_count": 2218,
+          "media_count": 5710,
+          "tweet_count": 17619
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950089708500873398",
+    "created_at": "2025-07-29T07:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T08:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950089708500873398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SSverige13790/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/SSverige13790/status/1949816499654320572",
+          "start": 7,
+          "url": "https://t.co/PxqcG7xwtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950089708500873398",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949816499654320572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玩p社玩的？ https://t.co/PxqcG7xwtb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1949816495359365120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw8jxZ8XkAAVxVz.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950089708500873398",
+        "created_at": "2025-07-29T07:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T08:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950089708500873398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SSverige13790/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/SSverige13790/status/1949816499654320572",
+              "start": 7,
+              "url": "https://t.co/PxqcG7xwtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950089708500873398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949816499654320572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩p社玩的？ https://t.co/PxqcG7xwtb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949816495359365120"
+          ]
+        },
+        "author_id": "1776748284566028288",
+        "conversation_id": "1949762705033953599",
+        "created_at": "2025-07-28T12:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T13:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949816499654320572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920884744327491586",
+              "start": 0,
+              "username": "scout20210504"
+            },
+            {
+              "end": 26,
+              "id": "1905362528143822848",
+              "start": 15,
+              "username": "sola_nubes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/90wyTcXu3Z",
+              "end": 105,
+              "expanded_url": "https://x.com/SSverige13790/status/1949816499654320572/photo/1",
+              "media_key": "3_1949816495359365120",
+              "start": 82,
+              "url": "https://t.co/90wyTcXu3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949816499654320572",
+        "in_reply_to_user_id": "1920884744327491586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2621,
+          "like_count": 2,
+          "quote_count": 15,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949775464186429742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scout20210504 @sola_nubes 其实瑞典永远是一个威权资本主义的保守主义民族主义的大帝国🇸🇪\nLGTB这帮出生本来就是要灭国灭族灭传统文化的 https://t.co/90wyTcXu3Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。欢迎od的互关，欢迎私信。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "⑧⑨🍊苦橙🍊⑥④",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 191,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 565
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T23:06:29.000Z",
+        "description": "Jag bara spela Minecraft(bara spela Java Edition)🇸🇪\nJag älskar mitt moderland--Sverige🇸🇪\nJag älskar Sverige🇸🇪 och Kina🇹🇼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/watch?v=CxXbPV…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/watch?v=CxXbPVBoTaM&pp=ygUQRHUgZ2FtbGEgRHUgZnJpYQ%3D%3D",
+                "start": 0,
+                "url": "https://t.co/j6ktPcBavB"
+              }
+            ]
+          }
+        },
+        "id": "1776748284566028288",
+        "location": "Stockholms stad,Sverige",
+        "name": "StockholmSverige🇸🇪🇹🇼",
+        "pinned_tweet_id": "1874828057019912457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818274397133717504/Cny4vcft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 222,
+          "like_count": 1338,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/j6ktPcBavB",
+        "username": "SSverige13790",
+        "verified": false
+      }
+    ]
+  }
+}

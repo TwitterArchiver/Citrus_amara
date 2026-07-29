@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979649108412444672",
+        "3_1979649108718592000"
+      ],
+      "media_source_tweet_id": [
+        "1979649112460103827",
+        "1979649112460103827"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1979733018148557074",
+    "created_at": "2025-10-19T02:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T03:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979733018148557074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824818634809806848",
+          "start": 3,
+          "username": "hsgmxz"
+        },
+        {
+          "end": 32,
+          "id": "1919963459279888384",
+          "start": 18,
+          "username": "hrklovehonoka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xznQUiqTQJ",
+          "end": 93,
+          "expanded_url": "https://x.com/hsgmxz/status/1979649112460103827/photo/1",
+          "media_key": "3_1979649108412444672",
+          "start": 70,
+          "url": "https://t.co/xznQUiqTQJ"
+        },
+        {
+          "display_url": "pic.x.com/xznQUiqTQJ",
+          "end": 93,
+          "expanded_url": "https://x.com/hsgmxz/status/1979649112460103827/photo/1",
+          "media_key": "3_1979649108718592000",
+          "start": 70,
+          "url": "https://t.co/xznQUiqTQJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979733018148557074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979649112460103827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsgmxz: 紧急求助帖 @hrklovehonoka 疑似吞药自杀 我睡着了 没接她的电话 请长春市的朋友帮帮忙 信息请联系我 https://t.co/xznQUiqTQJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [hrklovehonoka].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hrklovehonoka",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hrklovehonoka"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2308,
+        "media_key": "3_1979649108412444672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3kgYB7XsAAAdiT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2306,
+        "media_key": "3_1979649108718592000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3kgYDEXIAADR3-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979649108412444672",
+            "3_1979649108718592000"
+          ],
+          "media_source_tweet_id": [
+            "1979649112460103827",
+            "1979649112460103827"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979733018148557074",
+        "created_at": "2025-10-19T02:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T03:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979733018148557074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824818634809806848",
+              "start": 3,
+              "username": "hsgmxz"
+            },
+            {
+              "end": 32,
+              "id": "1919963459279888384",
+              "start": 18,
+              "username": "hrklovehonoka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xznQUiqTQJ",
+              "end": 93,
+              "expanded_url": "https://x.com/hsgmxz/status/1979649112460103827/photo/1",
+              "media_key": "3_1979649108412444672",
+              "start": 70,
+              "url": "https://t.co/xznQUiqTQJ"
+            },
+            {
+              "display_url": "pic.x.com/xznQUiqTQJ",
+              "end": 93,
+              "expanded_url": "https://x.com/hsgmxz/status/1979649112460103827/photo/1",
+              "media_key": "3_1979649108718592000",
+              "start": 70,
+              "url": "https://t.co/xznQUiqTQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979733018148557074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979649112460103827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsgmxz: 紧急求助帖 @hrklovehonoka 疑似吞药自杀 我睡着了 没接她的电话 请长春市的朋友帮帮忙 信息请联系我 https://t.co/xznQUiqTQJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979649108412444672",
+            "3_1979649108718592000"
+          ]
+        },
+        "author_id": "1824818634809806848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979649112460103827",
+        "created_at": "2025-10-18T20:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T21:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979649112460103827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1919963459279888384",
+              "start": 6,
+              "username": "hrklovehonoka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xznQUiqTQJ",
+              "end": 81,
+              "expanded_url": "https://x.com/hsgmxz/status/1979649112460103827/photo/1",
+              "media_key": "3_1979649108412444672",
+              "start": 58,
+              "url": "https://t.co/xznQUiqTQJ"
+            },
+            {
+              "display_url": "pic.x.com/xznQUiqTQJ",
+              "end": 81,
+              "expanded_url": "https://x.com/hsgmxz/status/1979649112460103827/photo/1",
+              "media_key": "3_1979649108718592000",
+              "start": 58,
+              "url": "https://t.co/xznQUiqTQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979649112460103827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 682,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "紧急求助帖 @hrklovehonoka 疑似吞药自杀 我睡着了 没接她的电话 请长春市的朋友帮帮忙 信息请联系我 https://t.co/xznQUiqTQJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体（柑橘系统）。双相（疑似bpd）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "odtwt"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979673555223584768/Xn3y6EQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 594,
+          "like_count": 9454,
+          "listed_count": 4,
+          "media_count": 121,
+          "tweet_count": 3592
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|14岁mtf🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|11.1.24|同类互fo|欢迎贴贴😺|极度社恐|重焦重郁|intp-t|匿名提问箱https://t.co/eJ9r7Nq5dA|❤️@hrklovehonoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 137,
+                "username": "hrklovehonoka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 134,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 111,
+                "url": "https://t.co/eJ9r7Nq5dA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHeeR"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1976137894059462813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956290303792660480/uak33Kmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 1182,
+          "like_count": 7410,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1204
+        },
+        "url": "https://t.co/Xrx6CgHeeR",
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

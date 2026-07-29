@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1953315567777075470",
+    "created_at": "2025-08-07T04:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T05:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953315567777075470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1596416860752207872",
+          "start": 3,
+          "username": "Longlinlon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953315567777075470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953073378828374028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Longlinlon: 清朝灭亡就是因为一群长发男在od"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1953315567777075470",
+        "created_at": "2025-08-07T04:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T05:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953315567777075470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1596416860752207872",
+              "start": 3,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953315567777075470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953073378828374028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Longlinlon: 清朝灭亡就是因为一群长发男在od"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1953073378828374028",
+        "created_at": "2025-08-06T12:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T13:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953073378828374028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953073378828374028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1829,
+          "like_count": 91,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "清朝灭亡就是因为一群长发男在od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。#odtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "odtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 275,
+          "like_count": 1946,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 883
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "庄园访客-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 2484,
+          "like_count": 213087,
+          "listed_count": 6,
+          "media_count": 1267,
+          "tweet_count": 14126
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

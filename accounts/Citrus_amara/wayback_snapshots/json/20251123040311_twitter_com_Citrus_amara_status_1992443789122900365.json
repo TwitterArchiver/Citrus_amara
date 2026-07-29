@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1992399127070810227",
+    "created_at": "2025-11-23T04:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992443789122900365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903417613671415808",
+          "start": 0,
+          "username": "whalesbone_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992443789122900365",
+    "in_reply_to_user_id": "1903417613671415808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992443205745611159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whalesbone_ 内幻闭眼看外幻睁眼看（）\n我之前吃愈美的时候体验到了强烈的内幻，闭眼听歌的时候自动进入live现场。吃普瑞配思诺思看见外面飘来飘去的丝绸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1992399127070810227",
+        "created_at": "2025-11-23T04:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992443789122900365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903417613671415808",
+              "start": 0,
+              "username": "whalesbone_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992443789122900365",
+        "in_reply_to_user_id": "1903417613671415808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992443205745611159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whalesbone_ 内幻闭眼看外幻睁眼看（）\n我之前吃愈美的时候体验到了强烈的内幻，闭眼听歌的时候自动进入live现场。吃普瑞配思诺思看见外面飘来飘去的丝绸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903417613671415808",
+        "conversation_id": "1992399127070810227",
+        "created_at": "2025-11-23T04:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992443205745611159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992443205745611159",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992399127070810227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 内幻和外幻的区别是什么啊！怎么分辨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 820,
+          "like_count": 12781,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 5464
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T12:05:10.000Z",
+        "description": "（欢迎来看社会底层渣滓的无病呻吟）家里蹲 | 美国作息 | 可能已存活千年 | 顺女/或许是双/泛/已有BF | 天天od已减少割手频率 | LGBTQ+全友好🏳️‍🌈 | 精神不安定已放弃治疗 | Satanist",
+        "id": "1903417613671415808",
+        "name": "VampireHamsterFromOuttaSpace",
+        "pinned_tweet_id": "1990857953604444539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990190723254398977/iH6ZmWs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 37,
+          "like_count": 3255,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 763
+        },
+        "username": "whalesbone_",
+        "verified": false
+      }
+    ]
+  }
+}

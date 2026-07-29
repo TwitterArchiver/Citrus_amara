@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1990676641820049570",
+    "created_at": "2025-11-18T07:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990676641820049570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tiandaidaidai/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/Tiandaidaidai/status/1990198900217770415",
+          "start": 53,
+          "url": "https://t.co/OFFqCcgibt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990676641820049570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990198900217770415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抗焦虑药。你不知道焦虑的时候吃普瑞有多爽。我今年5月的时候焦虑得躺宿舍床上动不了，每次招聘会我都了普瑞去 https://t.co/OFFqCcgibt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1990676641820049570",
+        "created_at": "2025-11-18T07:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990676641820049570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tiandaidaidai/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/Tiandaidaidai/status/1990198900217770415",
+              "start": 53,
+              "url": "https://t.co/OFFqCcgibt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990676641820049570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990198900217770415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抗焦虑药。你不知道焦虑的时候吃普瑞有多爽。我今年5月的时候焦虑得躺宿舍床上动不了，每次招聘会我都了普瑞去 https://t.co/OFFqCcgibt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561588899499196417",
+        "conversation_id": "1990198900217770415",
+        "created_at": "2025-11-16T23:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990198900217770415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990198900217770415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9452,
+          "like_count": 146,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林是世界上最伟大的抗抑郁药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 781,
+          "like_count": 12143,
+          "listed_count": 4,
+          "media_count": 181,
+          "tweet_count": 5099
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "惨圈割手欧迪女 丨 LGBT+全友好🏳️‍🌈 丨 能看出成分的全会回fo 丨 狗@GHYYAYA 丨 提问箱https://t.co/nWrczArwoW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "GHYYAYA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tiandai233",
+                "end": 77,
+                "expanded_url": "https://ngl.link/tiandai233",
+                "start": 54,
+                "url": "https://t.co/nWrczArwoW"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "提瓦特大陆",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1985969041769701887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985970719411576832/UYzT5sYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 1796,
+          "like_count": 66158,
+          "listed_count": 6,
+          "media_count": 599,
+          "tweet_count": 9778
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

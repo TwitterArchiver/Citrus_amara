@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949393438916448720",
+    "created_at": "2025-07-27T08:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T09:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949393438916448720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AMd3xCB6/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/AMd3xCB6/status/1946971598365605960",
+          "start": 34,
+          "url": "https://t.co/kKXYNZ2thw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949393438916448720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946971598365605960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "99.9%的中国人还在歧视精神病人，怎么可能听得进去精神药物科普。 https://t.co/kKXYNZ2thw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949393438916448720",
+        "created_at": "2025-07-27T08:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T09:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949393438916448720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AMd3xCB6/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/AMd3xCB6/status/1946971598365605960",
+              "start": 34,
+              "url": "https://t.co/kKXYNZ2thw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949393438916448720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946971598365605960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "99.9%的中国人还在歧视精神病人，怎么可能听得进去精神药物科普。 https://t.co/kKXYNZ2thw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "896612115665911813",
+        "conversation_id": "1946580273002577990",
+        "created_at": "2025-07-20T16:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T17:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946971598365605960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744320870800379904",
+              "start": 0,
+              "username": "386Nsg47079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946971598365605960",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1045,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946580273002577990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 我只是觉得中国急需更加科学的精神药物科普，亦或者说毒品科普。\n\n99.9% 的中国人对精神类药物的认知还停留在大麻=海洛因=MDMA 的水平。基于这个前提去讲 OD 科普和保护，和天方夜谭无异。\n\n致于各类精神类物质的药理、自危害性、外在危害性、服用收益，那根本对中国普罗大众来说就是天外仙经。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "osdd-1a。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 164,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 468
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-13T05:59:21.000Z",
+        "description": "Husband, with 2 cats. Engineer",
+        "id": "896612115665911813",
+        "location": "東京墨田区and札幌北区",
+        "name": "F.viK",
+        "pinned_tweet_id": "1923371281757413746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923369147205128192/i8zlXwqJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6128,
+          "following_count": 747,
+          "like_count": 9312,
+          "listed_count": 37,
+          "media_count": 781,
+          "tweet_count": 5140
+        },
+        "username": "AMd3xCB6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1981473518488604704",
+    "created_at": "2025-10-24T02:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T03:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981546532936830981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822447334749614080",
+          "start": 0,
+          "username": "chenwai29719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981546532936830981",
+    "in_reply_to_user_id": "1822447334749614080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981473518488604704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenwai29719 （舔舔血）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5897,
+        "height": 1280,
+        "media_key": "7_1981473492685017088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1981473492685017088/pu/img/_nFyrO2kjxeEQRlf.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981473492685017088/pu/vid/avc1/320x568/vwBdrpW2poIdFPtX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981473492685017088/pu/vid/avc1/480x852/TN1NL4XSHB4SmAn8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981473492685017088/pu/vid/avc1/720x1280/O4B9cOMFdceUPmIG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1981473492685017088/pu/pl/qdre7mvPOjt6nP_P.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1981473518488604704",
+        "created_at": "2025-10-24T02:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T03:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981546532936830981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822447334749614080",
+              "start": 0,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981546532936830981",
+        "in_reply_to_user_id": "1822447334749614080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981473518488604704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenwai29719 （舔舔血）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981473492685017088"
+          ]
+        },
+        "author_id": "1822447334749614080",
+        "conversation_id": "1981473518488604704",
+        "created_at": "2025-10-23T21:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T22:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981473518488604704"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pW3hd49Cpb",
+              "end": 30,
+              "expanded_url": "https://x.com/chenwai29719/status/1981473518488604704/video/1",
+              "media_key": "7_1981473492685017088",
+              "start": 7,
+              "url": "https://t.co/pW3hd49Cpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981473518488604704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt https://t.co/pW3hd49Cpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979785369840197632/apbjPWPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 620,
+          "like_count": 9907,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 3820
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "07/心理精神都有问题/自伤od自杀/ftx/非二元性别/泛性恋/爱听摇滚金属/疑似多意识体\n一般都会回fo",
+        "id": "1822447334749614080",
+        "name": "尘外",
+        "pinned_tweet_id": "1980068482650959937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945350840199634944/hOFuYJd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 87,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 262
+        },
+        "username": "chenwai29719",
+        "verified": false
+      }
+    ]
+  }
+}

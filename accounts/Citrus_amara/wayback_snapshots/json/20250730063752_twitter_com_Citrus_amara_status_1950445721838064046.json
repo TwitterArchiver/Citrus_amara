@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1950024802384642254",
+    "created_at": "2025-07-30T06:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950445721838064046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950445721838064046",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950024802384642254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazumasski 好小的脚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1950024802384642254",
+        "created_at": "2025-07-30T06:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950445721838064046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950445721838064046",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950024802384642254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski 好小的脚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908668668919398400",
+        "conversation_id": "1950024802384642254",
+        "created_at": "2025-07-29T02:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T03:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950024802384642254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ribbonthedog/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ribbonthedog/status/1949832508289552739",
+              "start": 18,
+              "url": "https://t.co/jWs6QmqSKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950024802384642254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2081,
+          "like_count": 31,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949832508289552739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在必须用我 37 码的脚踩你了 https://t.co/jWs6QmqSKG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 214,
+          "like_count": 1165,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 618
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "平成24年（2012年）生まれの13歳🚹の中学二年生。| とても大切な人@chaox1220_2nd🥰 | 📬DMはFF/認証済みアカウントのみ | #あつ森 #音ゲー #プロセカ #日本語間違えてたら教えて | 🫠@hhaaiibot 🎵@BbLlOoCcKk 选择性回fo 我可以帮骂",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "あつ森"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "音ゲー"
+              },
+              {
+                "end": 90,
+                "start": 85,
+                "tag": "プロセカ"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "tag": "日本語間違えてたら教えて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "chaox1220_2nd"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "hhaaiibot"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "BbLlOoCcKk"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "叫我「佐佐木大将军/大统领」就好",
+        "name": "𝑲𝒂𝒛𝒖𝒎𝒂 𝑺𝒂𝒔𝒂𝒌𝒊 🏳️‍🌈",
+        "pinned_tweet_id": "1940757723765002505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945439337241292800/o7VO85t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 2689,
+          "like_count": 1873,
+          "listed_count": 0,
+          "media_count": 592,
+          "tweet_count": 2888
+        },
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

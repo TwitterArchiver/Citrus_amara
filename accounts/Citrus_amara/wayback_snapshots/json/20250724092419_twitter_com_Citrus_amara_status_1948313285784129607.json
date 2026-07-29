@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1947870841829790088",
+    "created_at": "2025-07-24T09:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T10:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948313285784129607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1847865606974164993",
+          "start": 0,
+          "username": "jia33810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948313285784129607",
+    "in_reply_to_user_id": "1847865606974164993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947870841829790088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jia33810 抱抱你，割得很好看。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947870832761704450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwg6M78bEAI2CiF.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1947870841829790088",
+        "created_at": "2025-07-24T09:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T10:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948313285784129607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1847865606974164993",
+              "start": 0,
+              "username": "jia33810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948313285784129607",
+        "in_reply_to_user_id": "1847865606974164993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947870841829790088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jia33810 抱抱你，割得很好看。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947870832761704450"
+          ]
+        },
+        "author_id": "1847865606974164993",
+        "conversation_id": "1947870841829790088",
+        "created_at": "2025-07-23T04:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T05:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947870841829790088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4aO0Qd5jD",
+              "end": 23,
+              "expanded_url": "https://x.com/jia33810/status/1947870841829790088/photo/1",
+              "media_key": "3_1947870832761704450",
+              "start": 0,
+              "url": "https://t.co/S4aO0Qd5jD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947870841829790088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/S4aO0Qd5jD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 122,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 364
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T05:01:27.000Z",
+        "description": "發洩用帳號，會放一些發洩畫的圖，不喜歡請避嫌謝謝🙏圖片大多負面，謝謝體諒（畫中人物除了oc以外基本上都是當下對自己的詮釋）",
+        "id": "1847865606974164993",
+        "location": "Taiwan",
+        "name": "發洩用帳號",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932782522943090694/qPgm2qAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 65,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 79
+        },
+        "username": "jia33810",
+        "verified": false
+      }
+    ]
+  }
+}

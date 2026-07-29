@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1982292212118409226",
+    "created_at": "2025-10-26T03:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T04:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982292212118409226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nunmeri000000/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/nunmeri000000/status/1982270737273778640",
+          "start": 10,
+          "url": "https://t.co/AkkT25KYAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982292212118409226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982270737273778640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我家耗子能不能这样 https://t.co/AkkT25KYAn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29221,
+        "height": 1026,
+        "media_key": "13_1982270666045788160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982270666045788160/img/bKiB1zxQ-90VnXnQ.jpg",
+        "public_metrics": {
+          "view_count": 739
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982270666045788160/vid/avc1/320x456/03RDzyakuTMy2t1s.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982270666045788160/vid/avc1/480x684/27l9BUwkQk14NAc2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982270666045788160/vid/avc1/720x1026/8IjDesruM5N071Ju.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982270666045788160/pl/AUbJirobEIa1gu5f.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1982292212118409226",
+        "created_at": "2025-10-26T03:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T04:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982292212118409226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nunmeri000000/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/nunmeri000000/status/1982270737273778640",
+              "start": 10,
+              "url": "https://t.co/AkkT25KYAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982292212118409226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982270737273778640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家耗子能不能这样 https://t.co/AkkT25KYAn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982270666045788160"
+          ]
+        },
+        "author_id": "1878048936453357568",
+        "conversation_id": "1982270737273778640",
+        "created_at": "2025-10-26T02:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T03:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982270737273778640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZzyORibHK",
+              "end": 28,
+              "expanded_url": "https://x.com/nunmeri000000/status/1982270737273778640/video/1",
+              "media_key": "13_1982270666045788160",
+              "start": 5,
+              "url": "https://t.co/rZzyORibHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982270737273778640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2259,
+          "like_count": 235,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "超揉揉鼠 https://t.co/rZzyORibHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 631,
+          "like_count": 10044,
+          "listed_count": 4,
+          "media_count": 148,
+          "tweet_count": 3952
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T11:59:06.000Z",
+        "description": "🐀えび/ごもく🌈/あんかけ/かに/しらす🐀フォローお気軽に！",
+        "id": "1878048936453357568",
+        "name": "ﾇﾝﾒ•ﾘｰ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879372911720763392/1BTLcmee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 283,
+          "like_count": 9538,
+          "listed_count": 18,
+          "media_count": 2649,
+          "tweet_count": 3916
+        },
+        "username": "nunmeri000000",
+        "verified": false
+      }
+    ]
+  }
+}

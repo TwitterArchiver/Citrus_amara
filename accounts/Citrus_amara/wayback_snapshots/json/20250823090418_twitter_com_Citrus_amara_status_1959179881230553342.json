@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1959179202491457555",
+    "created_at": "2025-08-23T09:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T10:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959179881230553342"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959179881230553342",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959179202491457555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而我更倾向于这是一种社会道德。\n为什么不能虐待和随意处决某些动物？为什么做爱应该私下进行？为什么...哪有那么多为什么，这就是约定俗成的东西，救人的人根本没想那么多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1959179202491457555",
+        "created_at": "2025-08-23T09:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T10:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959179881230553342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959179881230553342",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959179202491457555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而我更倾向于这是一种社会道德。\n为什么不能虐待和随意处决某些动物？为什么做爱应该私下进行？为什么...哪有那么多为什么，这就是约定俗成的东西，救人的人根本没想那么多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1959179202491457555",
+        "created_at": "2025-08-23T09:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T10:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959179202491457555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/1959139734669992189",
+              "start": 87,
+              "url": "https://t.co/LccKXx9toW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959179202491457555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959139734669992189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前和ai聊过生与死。\nai的看法是，痛苦会扭曲人的认知，让人感觉未来没有希望，所以深陷痛苦的人会想死掉。但是死掉后就彻底没希望了，因此我们需要活下去，说不定未来会幸福呢？ https://t.co/LccKXx9toW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 381,
+          "like_count": 4123,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1679
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

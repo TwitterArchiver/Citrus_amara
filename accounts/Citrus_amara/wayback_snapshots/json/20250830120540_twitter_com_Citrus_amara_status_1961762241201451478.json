@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1961743002038407349",
+    "created_at": "2025-08-30T12:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T13:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961762241201451478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592189823892295680",
+          "start": 0,
+          "username": "MaplesyrupMagic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961762241201451478",
+    "in_reply_to_user_id": "1592189823892295680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961743002038407349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaplesyrupMagic 我专门去看都没拿到诊断💧医生说需要住院"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961742983344324608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmC2X7agAArqfl.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1961743002038407349",
+        "created_at": "2025-08-30T12:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T13:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961762241201451478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592189823892295680",
+              "start": 0,
+              "username": "MaplesyrupMagic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961762241201451478",
+        "in_reply_to_user_id": "1592189823892295680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961743002038407349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaplesyrupMagic 我专门去看都没拿到诊断💧医生说需要住院"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961742983344324608"
+          ]
+        },
+        "author_id": "1592189823892295680",
+        "conversation_id": "1961743002038407349",
+        "created_at": "2025-08-30T10:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T11:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961743002038407349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIvXbxTCgU",
+              "end": 51,
+              "expanded_url": "https://x.com/MaplesyrupMagic/status/1961743002038407349/photo/1",
+              "media_key": "3_1961742983344324608",
+              "start": 28,
+              "url": "https://t.co/bIvXbxTCgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961743002038407349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想去复查开个药，结果给我来了波大的，医生说有人格分裂😃 https://t.co/bIvXbxTCgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。取关麻烦双向。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 371,
+          "like_count": 5099,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1983
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T16:16:58.000Z",
+        "description": "还活着已经战胜百分之百死掉的人了",
+        "id": "1592189823892295680",
+        "location": "床上",
+        "name": "Magic枫糖",
+        "pinned_tweet_id": "1960712561264853466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959325461194141696/Xo7WJL99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 749,
+          "like_count": 8897,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 1555
+        },
+        "username": "MaplesyrupMagic",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1993124571600560570",
+    "created_at": "2025-11-26T05:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T06:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993552665721421885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1975388113590714368",
+          "start": 0,
+          "username": "O0Osaaa"
+        },
+        {
+          "end": 22,
+          "id": "1973585079852257280",
+          "start": 9,
+          "username": "TangYuwenMTF"
+        },
+        {
+          "end": 38,
+          "id": "1879338554511495168",
+          "start": 23,
+          "username": "BAshirasu_1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993552665721421885",
+    "in_reply_to_user_id": "1975388113590714368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993546217767550982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O0Osaaa @TangYuwenMTF @BAshirasu_1226 我给你道歉我没看懂你的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1993124571600560570",
+        "created_at": "2025-11-26T05:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T06:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993552665721421885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1975388113590714368",
+              "start": 0,
+              "username": "O0Osaaa"
+            },
+            {
+              "end": 22,
+              "id": "1973585079852257280",
+              "start": 9,
+              "username": "TangYuwenMTF"
+            },
+            {
+              "end": 38,
+              "id": "1879338554511495168",
+              "start": 23,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993552665721421885",
+        "in_reply_to_user_id": "1975388113590714368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993546217767550982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O0Osaaa @TangYuwenMTF @BAshirasu_1226 我给你道歉我没看懂你的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975388113590714368",
+        "conversation_id": "1993124571600560570",
+        "created_at": "2025-11-26T05:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T06:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993546217767550982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 27,
+              "id": "1973585079852257280",
+              "start": 14,
+              "username": "TangYuwenMTF"
+            },
+            {
+              "end": 43,
+              "id": "1879338554511495168",
+              "start": 28,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993546217767550982",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993545104607613148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @TangYuwenMTF @BAshirasu_1226 我表达了：抓到好的原因是非法行医没法为事故负责\n你反驳我：你说非法行医能负责：你反驳了我的观点——直接反驳了我“抓的好”的主要观点，所以我反驳了你所表达的\"抓的不好\"，有问题吗，你为什么要攻击我，我从头到尾说过判决的事吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 829,
+          "like_count": 13129,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 5737
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T02:30:13.000Z",
+        "description": "domo，osa desu 多伦多高三学生 喜欢画画和游戏 恶心人领域大神",
+        "id": "1975388113590714368",
+        "location": "Canada",
+        "name": "Osa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975409698988826624/TI3HSZYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 28,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 118
+        },
+        "username": "O0Osaaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "高中休学中 反跨，MTF 对象：@zhishi_cook和@wowo_yz MTF hrt started : 2025.6.30 轻度抑郁 中度焦虑 抽象多边 mtf，1，S",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxZOb"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "location": "路还长",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1992456491887108105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 81,
+          "like_count": 77,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/vfGe2FxZOb",
+        "username": "TangYuwenMTF",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "生产日期2006.5.19|MtX|176cm/70kg|双相|精分|ENFP-T|抽象纯神人|音游人（底力恢复ing）|翻车2024.4.22|自切2025.6.10|闲散人员一只|永远爱@Takina_Jimato（其实是小梓和小特😋）|里推:@mai_HAYASE_chu|🚪:77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 95,
+                "username": "Takina_Jimato"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "mai_HAYASE_chu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/9KfOTjK",
+                "end": 23,
+                "expanded_url": "https://b23.tv/9KfOTjK",
+                "start": 0,
+                "url": "https://t.co/eYxEIoAdXb"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "SBGA",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️（账号代管中）",
+        "pinned_tweet_id": "1954218012543680795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978350326135816192/4pxoKG7e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14554,
+          "following_count": 385,
+          "like_count": 1517,
+          "listed_count": 22,
+          "media_count": 263,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/eYxEIoAdXb",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}

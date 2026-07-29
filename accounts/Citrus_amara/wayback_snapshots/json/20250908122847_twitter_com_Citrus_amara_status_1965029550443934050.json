@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1965028005182669038",
+    "created_at": "2025-09-08T12:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T13:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965029550443934050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1562069940525445126",
+          "start": 0,
+          "username": "mercury_lampV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965029550443934050",
+    "in_reply_to_user_id": "1562069940525445126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965028005182669038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mercury_lampV 我一点也不极端，我经常骂性少数里的激进跨。我觉得我智力比大多数人高，或者至少正常水平。如果你觉得我按照自己的意愿表达自己也是一种特权的话，好吧。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "3_1965027651803926528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0UuPPeX0AAq42A.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1965028005182669038",
+        "created_at": "2025-09-08T12:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T13:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965029550443934050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1562069940525445126",
+              "start": 0,
+              "username": "mercury_lampV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965029550443934050",
+        "in_reply_to_user_id": "1562069940525445126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965028005182669038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mercury_lampV 我一点也不极端，我经常骂性少数里的激进跨。我觉得我智力比大多数人高，或者至少正常水平。如果你觉得我按照自己的意愿表达自己也是一种特权的话，好吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965027651803926528"
+          ]
+        },
+        "author_id": "1562069940525445126",
+        "conversation_id": "1965028005182669038",
+        "created_at": "2025-09-08T12:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T13:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965028005182669038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pINhKHeZzY",
+              "end": 86,
+              "expanded_url": "https://x.com/mercury_lampV/status/1965028005182669038/photo/1",
+              "media_key": "3_1965027651803926528",
+              "start": 63,
+              "url": "https://t.co/pINhKHeZzY"
+            },
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/Citrus_amara/status/1965026516351529007",
+              "start": 87,
+              "url": "https://t.co/VfPzvRD5bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965028005182669038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965026516351529007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果进步意味着极端意味着反智意味着少数人的特权，那么所谓的进步不过是某些人谋取利益的工具罢了，我反倒是要质疑到底谁代表了进步 https://t.co/pINhKHeZzY https://t.co/VfPzvRD5bK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 411,
+          "like_count": 6228,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 2393
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-23T13:31:18.000Z",
+        "description": "国家主义者，被定义的哈马斯\nbackup: @jade_sternX\n\nhttps://t.co/vNOYmYNR0C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "jade_sternX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "y.music.163.com/m/song?id=2071…",
+                "end": 59,
+                "expanded_url": "https://y.music.163.com/m/song?id=2071572530",
+                "start": 36,
+                "url": "https://t.co/vNOYmYNR0C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elk.zone/mastodon.socia…",
+                "end": 23,
+                "expanded_url": "https://elk.zone/mastodon.social/@mercury_lampV",
+                "start": 0,
+                "url": "https://t.co/dkP6gkFGlY"
+              }
+            ]
+          }
+        },
+        "id": "1562069940525445126",
+        "name": "Henrietta⚜︎",
+        "pinned_tweet_id": "1793632237654856162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927285851190374400/jlLvg7Y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2578,
+          "following_count": 1132,
+          "like_count": 150349,
+          "listed_count": 17,
+          "media_count": 2164,
+          "tweet_count": 43883
+        },
+        "url": "https://t.co/dkP6gkFGlY",
+        "username": "mercury_lampV",
+        "verified": false
+      }
+    ]
+  }
+}

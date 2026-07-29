@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1958725043300499487",
+    "created_at": "2025-08-22T02:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T03:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958725043300499487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958725043300499487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958690863837839586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 有的人表面上自称女性，实际上则是一堆极度自卑扭曲起来的刻板印象的表达\n\n女性该有的优点寥寥无几\n\n甚至有的人连最基本的同情、共情都做不到，连做人都不会\n\n药娘圈就是这样一群疯子组成起来的团体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1958725043300499487",
+        "created_at": "2025-08-22T02:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T03:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958725043300499487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958725043300499487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958690863837839586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 有的人表面上自称女性，实际上则是一堆极度自卑扭曲起来的刻板印象的表达\n\n女性该有的优点寥寥无几\n\n甚至有的人连最基本的同情、共情都做不到，连做人都不会\n\n药娘圈就是这样一群疯子组成起来的团体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "1958690863837839586",
+        "created_at": "2025-08-22T00:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T01:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958690863837839586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958690863837839586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1064,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有的人表面上自称女性，实际上则是一堆极度自卑扭曲起来的刻板印象的表达\n\n女性该有的优点寥寥无几\n\n甚至有的人连最基本的同情、共情都做不到，连做人都不会\n\n药娘圈就是这样一群疯子组成起来的团体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 376,
+          "like_count": 3894,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1626
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "MtX药娘只1不0永不翻车、持MtF证(莫名其妙开出来的)、抖s、ENFP，男同攻、姐T的组合体，喜欢草人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐🍥—药圈潘宏",
+        "pinned_tweet_id": "1956173228302589992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10544,
+          "following_count": 448,
+          "like_count": 25660,
+          "listed_count": 19,
+          "media_count": 2857,
+          "tweet_count": 9769
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

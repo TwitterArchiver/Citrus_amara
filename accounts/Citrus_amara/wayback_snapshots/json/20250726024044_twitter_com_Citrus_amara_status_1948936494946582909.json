@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948711005749399949",
+    "created_at": "2025-07-26T02:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T03:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948936494946582909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946285220506050560",
+          "start": 0,
+          "username": "s9476729111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948936494946582909",
+    "in_reply_to_user_id": "1946285220506050560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948870938595901879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s9476729111 有效果，但是我感觉药效弱一点。我吃的亚邦舒宁，我感觉愈美胶囊一样吃起来恶心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948711005749399949",
+        "created_at": "2025-07-26T02:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T03:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948936494946582909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946285220506050560",
+              "start": 0,
+              "username": "s9476729111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948936494946582909",
+        "in_reply_to_user_id": "1946285220506050560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948870938595901879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s9476729111 有效果，但是我感觉药效弱一点。我吃的亚邦舒宁，我感觉愈美胶囊一样吃起来恶心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946285220506050560",
+        "conversation_id": "1948711005749399949",
+        "created_at": "2025-07-25T22:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T23:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948870938595901879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948870938595901879",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948711005749399949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 宝宝礼貌求问愈美胶囊没效嘛新康泰克那个怎么样。。我吃愈美片好容易吐啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京大学中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 143,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 434
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T19:05:40.000Z",
+        "description": "",
+        "id": "1946285220506050560",
+        "location": "Hong Kong",
+        "name": "米玛玛石蜡3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946286311515582464/-aRQVtCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 4,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 19
+        },
+        "username": "s9476729111",
+        "verified": false
+      }
+    ]
+  }
+}

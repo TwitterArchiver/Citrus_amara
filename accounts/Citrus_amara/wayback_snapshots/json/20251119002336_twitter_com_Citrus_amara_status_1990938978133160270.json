@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1990938978133160270",
+    "created_at": "2025-11-19T00:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T01:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990938978133160270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liaojieta1/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/liaojieta1/status/1990590497979838672",
+          "start": 13,
+          "url": "https://t.co/dlXvcFAWMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990938978133160270",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990590497979838672",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高效（×）\n低情商（✓） https://t.co/dlXvcFAWMC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990590492669882368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5__gajbsAA4Abe.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1990938978133160270",
+        "created_at": "2025-11-19T00:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990938978133160270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liaojieta1/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/liaojieta1/status/1990590497979838672",
+              "start": 13,
+              "url": "https://t.co/dlXvcFAWMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990938978133160270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990590497979838672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高效（×）\n低情商（✓） https://t.co/dlXvcFAWMC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990590492669882368"
+          ]
+        },
+        "author_id": "1980992351930863616",
+        "conversation_id": "1990590497979838672",
+        "created_at": "2025-11-18T01:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990590497979838672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZWgCsDw9l",
+              "end": 160,
+              "expanded_url": "https://x.com/liaojieta1/status/1990590497979838672/photo/1",
+              "media_key": "3_1990590492669882368",
+              "start": 137,
+              "url": "https://t.co/nZWgCsDw9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990590497979838672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 254603,
+          "like_count": 1026,
+          "quote_count": 33,
+          "reply_count": 99,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "记一次与男性的高效沟通。\n（男生来自微博，之前偶尔会跟我聊几句关于性别观点类的，正经且礼貌。偶然知道同城，开始有意无意吧啦自己有腹肌长得不错之类的话，已经婉拒了两次，这是第三次约吃饭。）\n总结➡️当你想拒绝一个男人，只要直球告诉他:不做爱或者会花他的钱，就能快速结束对话。 https://t.co/nZWgCsDw9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 784,
+          "like_count": 12207,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 5137
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T13:39:26.000Z",
+        "description": "“禁止共情”",
+        "id": "1980992351930863616",
+        "name": "我也不太了解她",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980992553794035712/p0W79iJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11237,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 6,
+          "media_count": 5,
+          "tweet_count": 79
+        },
+        "username": "liaojieta1",
+        "verified": true
+      }
+    ]
+  }
+}

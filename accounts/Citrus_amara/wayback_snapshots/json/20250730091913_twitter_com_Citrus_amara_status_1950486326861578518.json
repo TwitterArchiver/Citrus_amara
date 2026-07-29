@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949782351573098505",
+    "created_at": "2025-07-30T09:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T10:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950486326861578518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1292606902682054656",
+          "start": 0,
+          "username": "mhRbuHsIwmc5jlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950486326861578518",
+    "in_reply_to_user_id": "1292606902682054656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950438591164784680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhRbuHsIwmc5jlw 感觉你要么阅读能力有问题要么逻辑思维有问题，我说的那一段话只是想表达我不想被叫作药娘和男娘，经过你的大脑一加工就莫名其妙荒谬了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949782351573098505",
+        "created_at": "2025-07-30T09:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T10:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950486326861578518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292606902682054656",
+              "start": 0,
+              "username": "mhRbuHsIwmc5jlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950486326861578518",
+        "in_reply_to_user_id": "1292606902682054656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950438591164784680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhRbuHsIwmc5jlw 感觉你要么阅读能力有问题要么逻辑思维有问题，我说的那一段话只是想表达我不想被叫作药娘和男娘，经过你的大脑一加工就莫名其妙荒谬了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292606902682054656",
+        "conversation_id": "1949782351573098505",
+        "created_at": "2025-07-30T06:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950438591164784680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950438591164784680",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949782351573098505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 否认现实又嫌别人提，想法矛盾到荒谬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 221,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 625
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-09T23:41:26.000Z",
+        "description": "进来了？你好！",
+        "id": "1292606902682054656",
+        "name": "pyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947328266358145024/TqowSBnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "mhRbuHsIwmc5jlw",
+        "verified": false
+      }
+    ]
+  }
+}

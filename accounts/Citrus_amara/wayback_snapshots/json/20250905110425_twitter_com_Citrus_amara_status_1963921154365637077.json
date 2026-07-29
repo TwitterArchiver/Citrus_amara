@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1963769450664235042",
+    "created_at": "2025-09-05T11:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T12:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963921154365637077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896061942785310720",
+          "start": 0,
+          "username": "notYuZerO"
+        },
+        {
+          "end": 19,
+          "id": "522147771",
+          "start": 11,
+          "username": "N_N_DET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963921154365637077",
+    "in_reply_to_user_id": "1896061942785310720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963919923027345458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notYuZerO @N_N_DET 香烟对身体的伤害比我提到的那些药物都大。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1963769450664235042",
+        "created_at": "2025-09-05T11:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963921154365637077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notYuZerO"
+            },
+            {
+              "end": 19,
+              "id": "522147771",
+              "start": 11,
+              "username": "N_N_DET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963921154365637077",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963919923027345458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notYuZerO @N_N_DET 香烟对身体的伤害比我提到的那些药物都大。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896061942785310720",
+        "conversation_id": "1963769450664235042",
+        "created_at": "2025-09-05T10:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T11:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963919923027345458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 22,
+              "id": "522147771",
+              "start": 14,
+              "username": "N_N_DET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963919923027345458",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963818488989966631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @N_N_DET “毒”是指伤害性…抛开伤害性谈毒品来证明毒品是伪命题，就跟把精神病都叫做神经病一样扯淡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 399,
+          "like_count": 5937,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 2270
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "我就是顺直\n🇨🇳\nod的不理解，互相约炮的男同不尊重      \n想盒我随便，我又没说错话，凭什么要强制尊重无下限的LGBT？你们就是在消耗普通人对性少数群体的最后善意。至于那个不在理就歪曲事实故意引导的，就更下流 🙌讨论时请就事论事，别评价我，我是傻比行了吧",
+        "id": "1896061942785310720",
+        "location": "在避暑山庄旁边热河里头泡着",
+        "name": "Kosokei❗️",
+        "pinned_tweet_id": "1958921134248010119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915267620997357568/NWT5koAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 151,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 575
+        },
+        "username": "notYuZerO",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "主号: @overdose_dxm\n交流群:https://t.co/FJhZhgg6cY\n化学极乐百科:https://t.co/pYOLeaidWM\n博客：https://t.co/v1rq0rc2Dl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "overdose_dxm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/nVUqUkwW",
+                "end": 45,
+                "expanded_url": "https://discord.gg/nVUqUkwW",
+                "start": 22,
+                "url": "https://t.co/FJhZhgg6cY"
+              },
+              {
+                "display_url": "overdose.day",
+                "end": 76,
+                "expanded_url": "https://www.overdose.day",
+                "start": 53,
+                "url": "https://t.co/pYOLeaidWM"
+              },
+              {
+                "display_url": "blog.pr80.cn",
+                "end": 103,
+                "expanded_url": "https://blog.pr80.cn",
+                "start": 80,
+                "url": "https://t.co/v1rq0rc2Dl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二乙基色胺🔯",
+        "pinned_tweet_id": "1962440355783307598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1129,
+          "like_count": 435,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "N_N_DET",
+        "verified": false
+      }
+    ]
+  }
+}

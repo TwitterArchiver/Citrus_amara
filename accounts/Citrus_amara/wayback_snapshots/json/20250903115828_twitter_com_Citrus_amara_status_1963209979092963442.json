@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1963208824027816085",
+    "created_at": "2025-09-03T11:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T12:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963209979092963442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1963209979092963442",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963208824027816085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得应该打在手指上这样会更有迷惑性"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963208820496228352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz64BU2XYAAUIMo.jpg",
+        "width": 1598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1963208824027816085",
+        "created_at": "2025-09-03T11:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963209979092963442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963209979092963442",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963208824027816085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得应该打在手指上这样会更有迷惑性"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963208820496228352"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1963208824027816085",
+        "created_at": "2025-09-03T11:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963208824027816085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ExAoeepe4",
+              "end": 28,
+              "expanded_url": "https://x.com/Citrus_amara/status/1963208824027816085/photo/1",
+              "media_key": "3_1963208820496228352",
+              "start": 5,
+              "url": "https://t.co/7ExAoeepe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963208824027816085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打个胶先 https://t.co/7ExAoeepe4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 389,
+          "like_count": 5809,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 2206
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

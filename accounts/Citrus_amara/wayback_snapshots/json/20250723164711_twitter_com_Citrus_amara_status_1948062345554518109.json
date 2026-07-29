@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1948062345554518109",
+    "created_at": "2025-07-23T16:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T17:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948062345554518109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948062345554518109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948038821112889608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 药娘家庭去看医生。爸爸是超雄，妈妈更年期，孩子被两人家暴无法hrt。\n\n医生：一个好消息一个坏消息\n家长：坏消息是什么？\n医生：你们仨都有病\n家长：好消息呢？\n医生：都可以用补佳乐治好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1948062345554518109",
+        "created_at": "2025-07-23T16:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T17:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948062345554518109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948062345554518109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948038821112889608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 药娘家庭去看医生。爸爸是超雄，妈妈更年期，孩子被两人家暴无法hrt。\n\n医生：一个好消息一个坏消息\n家长：坏消息是什么？\n医生：你们仨都有病\n家长：好消息呢？\n医生：都可以用补佳乐治好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1948038821112889608",
+        "created_at": "2025-07-23T15:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T16:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948038821112889608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948038821112889608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3029,
+          "like_count": 94,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "药娘家庭去看医生。爸爸是超雄，妈妈更年期，孩子被两人家暴无法hrt。\n\n医生：一个好消息一个坏消息\n家长：坏消息是什么？\n医生：你们仨都有病\n家长：好消息呢？\n医生：都可以用补佳乐治好！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。疑似双相。od。跨性别，欢迎互fo。欢迎trans和磕药的给我私信。",
+        "id": "1866458229527764992",
+        "location": "北京大学第三医院门诊中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 112,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 337
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17866,
+          "following_count": 186,
+          "like_count": 565,
+          "listed_count": 64,
+          "media_count": 89,
+          "tweet_count": 17972
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

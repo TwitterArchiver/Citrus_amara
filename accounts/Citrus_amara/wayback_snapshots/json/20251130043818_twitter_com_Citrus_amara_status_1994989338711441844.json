@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1994989338711441844",
+    "created_at": "2025-11-30T04:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T05:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994989338711441844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/T8O9K6Y4O/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/T8O9K6Y4O/status/1994956455024505265",
+          "start": 25,
+          "url": "https://t.co/LAjKH2kLAK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994989338711441844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994956455024505265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨出没有🍄的！\n但我有🍄并且打算找一个夜晚试试看 https://t.co/LAjKH2kLAK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1994989338711441844",
+        "created_at": "2025-11-30T04:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994989338711441844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/T8O9K6Y4O/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/T8O9K6Y4O/status/1994956455024505265",
+              "start": 25,
+              "url": "https://t.co/LAjKH2kLAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994989338711441844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994956455024505265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨出没有🍄的！\n但我有🍄并且打算找一个夜晚试试看 https://t.co/LAjKH2kLAK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909553877739085825",
+        "conversation_id": "1994956281048948868",
+        "created_at": "2025-11-30T02:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994956455024505265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994956455024505265",
+        "in_reply_to_user_id": "1909553877739085825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994956281048948868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨出有一个是无辜的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 875,
+          "like_count": 13474,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 5946
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "🇯🇵東京在住｜🌊冲浪乐子人｜无政治立场｜日本語勉強中｜東雪蓮推し｜喜欢女装（不是跨）｜舞萌痴｜极端魔怔人会b｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/3nPaPIv",
+                "end": 23,
+                "expanded_url": "https://b23.tv/3nPaPIv",
+                "start": 0,
+                "url": "https://t.co/WHM5vAWoaJ"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "Toshima-ku, Tokyo",
+        "name": "抽象イェーガー",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978027432801398784/oPvsfquH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8592,
+          "following_count": 680,
+          "like_count": 1090,
+          "listed_count": 37,
+          "media_count": 600,
+          "tweet_count": 1040
+        },
+        "url": "https://t.co/WHM5vAWoaJ",
+        "username": "T8O9K6Y4O",
+        "verified": false
+      }
+    ]
+  }
+}

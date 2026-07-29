@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1988102036785967166",
+    "created_at": "2025-11-11T04:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T05:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988102036785967166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Edward_8964/st…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/Edward_8964/status/1987845771077837285",
+          "start": 131,
+          "url": "https://t.co/bCQAtJgvVM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988102036785967166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987845771077837285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "群星4.2新国策：药物过量\n效果：\n起始科技：皮下刺激\n主体物种必须采用化学极乐的生活标准。\n幸福度为100%的人口岗位效率＋80%并产出科研点数和凝聚力。\n解锁法令：药物过量；异星天然气过量；泽洛过量。\n条件：不具有物种特质：机械。\n这个国家理念无法被移除。 https://t.co/bCQAtJgvVM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1988102036785967166",
+        "created_at": "2025-11-11T04:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988102036785967166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Edward_8964/st…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/Edward_8964/status/1987845771077837285",
+              "start": 131,
+              "url": "https://t.co/bCQAtJgvVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988102036785967166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987845771077837285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "群星4.2新国策：药物过量\n效果：\n起始科技：皮下刺激\n主体物种必须采用化学极乐的生活标准。\n幸福度为100%的人口岗位效率＋80%并产出科研点数和凝聚力。\n解锁法令：药物过量；异星天然气过量；泽洛过量。\n条件：不具有物种特质：机械。\n这个国家理念无法被移除。 https://t.co/bCQAtJgvVM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1987845771077837285",
+        "created_at": "2025-11-10T11:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T12:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987845771077837285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "HeartofDrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987845771077837285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 647,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#HeartofDrug I 初步计划发布，玩家将扮演“WIKI意志”，决定你的wiki组成员，任命各部长官，定义wiki制度，让你的wiki统一药圈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 732,
+          "like_count": 11351,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 4586
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1980238749427798365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 540,
+          "like_count": 5085,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 3302
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

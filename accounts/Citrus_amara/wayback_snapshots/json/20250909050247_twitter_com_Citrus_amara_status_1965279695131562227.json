@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965279692287623168"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1965279695131562227",
+    "created_at": "2025-09-09T05:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T06:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965279695131562227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y7HWJIMh5m",
+          "end": 32,
+          "expanded_url": "https://x.com/Citrus_amara/status/1965279695131562227/photo/1",
+          "media_key": "3_1965279692287623168",
+          "start": 9,
+          "url": "https://t.co/Y7HWJIMh5m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965279695131562227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "能不能来点攻击性 https://t.co/Y7HWJIMh5m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_1965279692287623168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YTd7cXwAAS-_6.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965279692287623168"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1965279695131562227",
+        "created_at": "2025-09-09T05:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T06:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965279695131562227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7HWJIMh5m",
+              "end": 32,
+              "expanded_url": "https://x.com/Citrus_amara/status/1965279695131562227/photo/1",
+              "media_key": "3_1965279692287623168",
+              "start": 9,
+              "url": "https://t.co/Y7HWJIMh5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965279695131562227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "能不能来点攻击性 https://t.co/Y7HWJIMh5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 410,
+          "like_count": 6275,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 2416
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

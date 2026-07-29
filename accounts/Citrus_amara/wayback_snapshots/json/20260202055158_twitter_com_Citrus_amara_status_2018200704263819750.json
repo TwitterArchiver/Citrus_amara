@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2018199338799751183",
+    "created_at": "2026-02-02T05:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T06:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018200704263819750"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "越描越",
+          "probability": 0.4356,
+          "start": 0,
+          "type": "Person"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018200704263819750",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018199338799751183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "越描越黑了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2018199335498846208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIVmk5WkAAOITW.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018199338799751183",
+        "created_at": "2026-02-02T05:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018200704263819750"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "越描越",
+              "probability": 0.4356,
+              "start": 0,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018200704263819750",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018199338799751183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "越描越黑了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018199335498846208"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018199338799751183",
+        "created_at": "2026-02-02T05:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018199338799751183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nu45F7xCm",
+              "end": 23,
+              "expanded_url": "https://x.com/Citrus_amara/status/2018199338799751183/photo/1",
+              "media_key": "3_2018199335498846208",
+              "start": 0,
+              "url": "https://t.co/7nu45F7xCm"
+            },
+            {
+              "display_url": "x.com/yuwenmtf/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yuwenmtf/status/2018081349014581347",
+              "start": 24,
+              "url": "https://t.co/mpM80zu2QL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018199338799751183",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018081349014581347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/7nu45F7xCm https://t.co/mpM80zu2QL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 998,
+          "like_count": 16233,
+          "listed_count": 6,
+          "media_count": 322,
+          "tweet_count": 8631
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

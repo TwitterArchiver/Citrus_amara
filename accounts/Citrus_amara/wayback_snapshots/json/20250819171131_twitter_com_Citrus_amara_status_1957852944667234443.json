@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957848331784442135",
+    "created_at": "2025-08-19T17:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T18:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957852944667234443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952257824664485888",
+          "start": 0,
+          "username": "LibailuOne"
+        },
+        {
+          "end": 20,
+          "id": "522147771",
+          "start": 12,
+          "username": "N_N_DET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957852944667234443",
+    "in_reply_to_user_id": "1952257824664485888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957849147488534705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LibailuOne @N_N_DET 亚硝酸钠没被禁售吧，想买可以联系下厂商问问能不能单买一袋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957848331784442135",
+        "created_at": "2025-08-19T17:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T18:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957852944667234443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952257824664485888",
+              "start": 0,
+              "username": "LibailuOne"
+            },
+            {
+              "end": 20,
+              "id": "522147771",
+              "start": 12,
+              "username": "N_N_DET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957852944667234443",
+        "in_reply_to_user_id": "1952257824664485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957849147488534705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LibailuOne @N_N_DET 亚硝酸钠没被禁售吧，想买可以联系下厂商问问能不能单买一袋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952257824664485888",
+        "conversation_id": "1957848331784442135",
+        "created_at": "2025-08-19T16:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T17:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957849147488534705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "522147771",
+              "start": 0,
+              "username": "N_N_DET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957849147488534705",
+        "in_reply_to_user_id": "522147771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957848331784442135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_N_DET 这是咋买到的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 363,
+          "like_count": 3604,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1521
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T06:38:58.000Z",
+        "description": "08l巨蟹座l爱哭l泪失禁l情绪不稳定l双相l躯体化l渴望自己是个xynl讨厌家长l深柜l想离开这个家，在默默无闻的地方死去。请叫我白鹭，同时不希望任何人记得我。（私聊请先关注，否则一律视为骚扰）",
+        "id": "1952257824664485888",
+        "location": "亚神瑞亚尼赛亚（Asenruia Nisaa）",
+        "name": "Libailu",
+        "pinned_tweet_id": "1957630107545399473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952271190934052864/mEH6qJN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 221,
+          "like_count": 3057,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 207
+        },
+        "username": "LibailuOne",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "主号: @overdose_dxm\n交流群:https://t.co/FJhZhgg6cY\n化学极乐百科:https://t.co/c6WOvYAeM8\n博客:https://t.co/kHjBLIUhZE\n资源网:https://t.co/YEXXy550Zb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "overdose_dxm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/nVUqUkwW",
+                "end": 45,
+                "expanded_url": "https://discord.gg/nVUqUkwW",
+                "start": 22,
+                "url": "https://t.co/FJhZhgg6cY"
+              },
+              {
+                "display_url": "overdose.day",
+                "end": 76,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 53,
+                "url": "https://t.co/c6WOvYAeM8"
+              },
+              {
+                "display_url": "blog.pr80.cn",
+                "end": 103,
+                "expanded_url": "https://blog.pr80.cn/",
+                "start": 80,
+                "url": "https://t.co/kHjBLIUhZE"
+              },
+              {
+                "display_url": "pr80.cn",
+                "end": 131,
+                "expanded_url": "https://www.pr80.cn/",
+                "start": 108,
+                "url": "https://t.co/YEXXy550Zb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二乙基色胺🔯",
+        "pinned_tweet_id": "1957702584535232735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 659,
+          "like_count": 293,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "N_N_DET",
+        "verified": false
+      }
+    ]
+  }
+}

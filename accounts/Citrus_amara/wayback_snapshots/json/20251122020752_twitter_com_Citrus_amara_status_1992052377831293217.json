@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1991913513791725939",
+    "created_at": "2025-11-22T02:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T03:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992052377831293217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1558112840606617601",
+          "start": 0,
+          "username": "Rallern16"
+        },
+        {
+          "end": 27,
+          "id": "1444716723978981380",
+          "start": 11,
+          "username": "EleanorAnatidae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Citrus_amara/s…",
+          "end": 55,
+          "expanded_url": "https://x.com/Citrus_amara/status/1989823185513320642?s=19",
+          "start": 32,
+          "url": "https://t.co/iXByZtuZKf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992052377831293217",
+    "in_reply_to_user_id": "1558112840606617601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989823185513320642",
+        "type": "quoted"
+      },
+      {
+        "id": "1992042782903705902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rallern16 @EleanorAnatidae 没藏过\nhttps://t.co/iXByZtuZKf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1991913513791725939",
+        "created_at": "2025-11-22T02:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992052377831293217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1558112840606617601",
+              "start": 0,
+              "username": "Rallern16"
+            },
+            {
+              "end": 27,
+              "id": "1444716723978981380",
+              "start": 11,
+              "username": "EleanorAnatidae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Citrus_amara/s…",
+              "end": 55,
+              "expanded_url": "https://x.com/Citrus_amara/status/1989823185513320642?s=19",
+              "start": 32,
+              "url": "https://t.co/iXByZtuZKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992052377831293217",
+        "in_reply_to_user_id": "1558112840606617601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989823185513320642",
+            "type": "quoted"
+          },
+          {
+            "id": "1992042782903705902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rallern16 @EleanorAnatidae 没藏过\nhttps://t.co/iXByZtuZKf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1989823185513320642",
+        "created_at": "2025-11-15T22:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T23:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989823185513320642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989823185513320642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1148,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毒瘾犯了我想吃普瑞巴林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558112840606617601",
+        "conversation_id": "1991913513791725939",
+        "created_at": "2025-11-22T01:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T02:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992042782903705902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 30,
+              "id": "1444716723978981380",
+              "start": 14,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992042782903705902",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991989878415032818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @EleanorAnatidae 爱飞直说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 817,
+          "like_count": 12683,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 5399
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T15:27:14.000Z",
+        "description": "",
+        "id": "1558112840606617601",
+        "name": "瑞冷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558113520041877505/P3Eu1mYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 151,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "username": "Rallern16",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "mtf🏳️‍⚧️/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 1782,
+          "like_count": 21063,
+          "listed_count": 9,
+          "media_count": 125,
+          "tweet_count": 5647
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

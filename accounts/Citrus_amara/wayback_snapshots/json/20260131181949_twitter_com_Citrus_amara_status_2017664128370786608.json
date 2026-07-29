@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2017088858211701217",
+    "created_at": "2026-01-31T18:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017664128370786608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851254945984741376",
+          "start": 0,
+          "username": "LastExeX01"
+        },
+        {
+          "end": 21,
+          "id": "1151753848068820992",
+          "start": 12,
+          "username": "DDQS0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017664128370786608",
+    "in_reply_to_user_id": "1851254945984741376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017465681751736443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LastExeX01 @DDQS0079 挺搞笑的。这人支持体制的理由居然是他能通过钻体制空子来获益。本质上就是想踩头可惜无人在意，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2017088858211701217",
+        "created_at": "2026-01-31T18:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017664128370786608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851254945984741376",
+              "start": 0,
+              "username": "LastExeX01"
+            },
+            {
+              "end": 21,
+              "id": "1151753848068820992",
+              "start": 12,
+              "username": "DDQS0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017664128370786608",
+        "in_reply_to_user_id": "1851254945984741376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017465681751736443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastExeX01 @DDQS0079 挺搞笑的。这人支持体制的理由居然是他能通过钻体制空子来获益。本质上就是想踩头可惜无人在意，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851254945984741376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2017088858211701217",
+        "created_at": "2026-01-31T05:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017465681751736443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1151753848068820992",
+              "start": 0,
+              "username": "DDQS0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017465681751736443",
+        "in_reply_to_user_id": "1151753848068820992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017465141042741403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDQS0079 你可以直接把前面的话全部删掉然后问我“什么立场”，这样我可以不用看你的废话就知道你的屁股坐在那里脑袋想的是什么，无非不就是“现在的体制多么完美谁质疑谁就是反贼五十万”呗？\n我只能说中国教育在摧残学生思考社会问题的逻辑能力上还是太强大了，以至于能有你这种弱智👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 1015,
+          "like_count": 16161,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 8608
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍⚧️MtX│🇺🇳🇪🇺🇺🇦🇵🇸│现代化、进步主义和理性│认同“自由的专制主义”│请坚定不移的拥护胡春华路线",
+        "id": "1851254945984741376",
+        "location": "家住北京中南海",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "2017079521862963255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951149350907944964/a9pbadi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 306,
+          "like_count": 16912,
+          "listed_count": 5,
+          "media_count": 993,
+          "tweet_count": 7548
+        },
+        "username": "LastExeX01",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-18T07:21:30.000Z",
+        "description": "",
+        "id": "1151753848068820992",
+        "name": "bob",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 155,
+          "like_count": 53,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 227
+        },
+        "username": "DDQS0079",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1997111606732325175",
+    "created_at": "2025-12-06T01:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T02:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997111606732325175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954196219577950208",
+          "start": 3,
+          "username": "leini321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997111606732325175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987315944700715202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leini321: 顺直健全逼一直是一个令我恐惧的存在，这群人疑似是被老钟的大鸡鸡强奸的求死不得但又做不了违背主子意愿的事情，于是大刀挥向性少数和精神病。。看到人mtf就说性变态，看到地雷女割手就让人家去自杀扯什么不自爱，通过这种方式来找到优越感，实则成分最恶臭的是你这…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1997111606732325175",
+        "created_at": "2025-12-06T01:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T02:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997111606732325175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954196219577950208",
+              "start": 3,
+              "username": "leini321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997111606732325175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987315944700715202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leini321: 顺直健全逼一直是一个令我恐惧的存在，这群人疑似是被老钟的大鸡鸡强奸的求死不得但又做不了违背主子意愿的事情，于是大刀挥向性少数和精神病。。看到人mtf就说性变态，看到地雷女割手就让人家去自杀扯什么不自爱，通过这种方式来找到优越感，实则成分最恶臭的是你这…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954196219577950208",
+        "conversation_id": "1987315944700715202",
+        "created_at": "2025-11-09T00:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T01:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987315944700715202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987315944700715202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 21705,
+          "like_count": 425,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "顺直健全逼一直是一个令我恐惧的存在，这群人疑似是被老钟的大鸡鸡强奸的求死不得但又做不了违背主子意愿的事情，于是大刀挥向性少数和精神病。。看到人mtf就说性变态，看到地雷女割手就让人家去自杀扯什么不自爱，通过这种方式来找到优越感，实则成分最恶臭的是你这个瞎骂蛆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 896,
+          "like_count": 13766,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 6222
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T15:01:09.000Z",
+        "description": "🚪1314 只回口令+姓 其余私信通通拉黑",
+        "id": "1954196219577950208",
+        "name": "。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996915130777640961/INdhhM79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 32,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 2428
+        },
+        "username": "leini321",
+        "verified": false
+      }
+    ]
+  }
+}

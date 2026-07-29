@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2061443846157094972",
+    "created_at": "2026-06-01T13:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061443846157094972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832664562086060032",
+          "start": 3,
+          "username": "Amy526969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061443846157094972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061150737195839730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amy526969: 我发现高敏感人的天赋了，就是进入新环境能马上发现所有贱人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2061443846157094972",
+        "created_at": "2026-06-01T13:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061443846157094972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832664562086060032",
+              "start": 3,
+              "username": "Amy526969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061443846157094972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061150737195839730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amy526969: 我发现高敏感人的天赋了，就是进入新环境能马上发现所有贱人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832664562086060032",
+        "conversation_id": "2061150737195839730",
+        "created_at": "2026-05-31T18:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061150737195839730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061150737195839730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 26232,
+          "like_count": 762,
+          "quote_count": 7,
+          "reply_count": 78,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "我发现高敏感人的天赋了，就是进入新环境能马上发现所有贱人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 1089,
+          "like_count": 20364,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 11486
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T06:17:50.000Z",
+        "description": "生活将我击倒在地 我幸福的睡着了 ｜🎺 @mili07190 ｜提问箱https://t.co/mQpJze4fzI｜文案有搬運",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "mili07190"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amy81021",
+                "end": 58,
+                "expanded_url": "https://ngl.link/amy81021",
+                "start": 35,
+                "url": "https://t.co/mQpJze4fzI"
+              }
+            ]
+          }
+        },
+        "id": "1832664562086060032",
+        "name": "amy",
+        "pinned_tweet_id": "2012493963584770511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931712353025822720/lfj_LOPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 145,
+          "like_count": 16387,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 6381
+        },
+        "username": "Amy526969",
+        "verified": false
+      }
+    ]
+  }
+}

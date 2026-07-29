@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1957336506122870799",
+    "created_at": "2025-08-18T10:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T11:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957387780146766090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1742381695045939200",
+          "start": 0,
+          "username": "mo6ji4"
+        },
+        {
+          "end": 18,
+          "id": "1597257668313260033",
+          "start": 8,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957387780146766090",
+    "in_reply_to_user_id": "1742381695045939200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957337612445954523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo6ji4 @Minokakay 毛以前难道就不是这样了吗？毛杀了一批只是加速了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1957336506122870799",
+        "created_at": "2025-08-18T10:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957387780146766090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742381695045939200",
+              "start": 0,
+              "username": "mo6ji4"
+            },
+            {
+              "end": 18,
+              "id": "1597257668313260033",
+              "start": 8,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957387780146766090",
+        "in_reply_to_user_id": "1742381695045939200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957337612445954523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo6ji4 @Minokakay 毛以前难道就不是这样了吗？毛杀了一批只是加速了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742381695045939200",
+        "conversation_id": "1957336506122870799",
+        "created_at": "2025-08-18T07:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T08:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957337612445954523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957337612445954523",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957336506122870799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 劣根性倒不至于，主要贱猫时代政治太压抑了给老登们都整出精神疾病了连带着生出的小登们也犯病了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 355,
+          "like_count": 3393,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1447
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n防失联小号@m8o9j6i4 亲爱的 @35zf_out @Fiammetta1453  @Bingfei2v2 @azusaROCtw  @mingnaisama\n玻璃心自卑仇富（我是顺男）小狗@GLaDOS8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "35zf_out"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "Fiammetta1453"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Bingfei2v2"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "mingnaisama"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "GLaDOS8964"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "阿拉斯加美军要塞",
+        "name": "圣骑士贞德（误ban抱歉）（情绪垃圾桶）（推文不完全代表本人立场）性压抑下头男",
+        "pinned_tweet_id": "1948006603099447615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2865,
+          "following_count": 1050,
+          "like_count": 125503,
+          "listed_count": 8,
+          "media_count": 2220,
+          "tweet_count": 30795
+        },
+        "username": "mo6ji4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8963,
+          "following_count": 923,
+          "like_count": 44462,
+          "listed_count": 33,
+          "media_count": 1379,
+          "tweet_count": 20389
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

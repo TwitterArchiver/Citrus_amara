@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2075193682240897434",
+    "created_at": "2026-07-09T12:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075193682240897434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/85240609891_1s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/85240609891_1st/status/2075167245177893305",
+          "start": 20,
+          "url": "https://t.co/kDWpEIu9n3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075193682240897434",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075167245177893305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "FFFFFFFFFFFFFFFFFFF https://t.co/kDWpEIu9n3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2075193682240897434",
+        "created_at": "2026-07-09T12:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075193682240897434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/85240609891_1s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/85240609891_1st/status/2075167245177893305",
+              "start": 20,
+              "url": "https://t.co/kDWpEIu9n3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075193682240897434",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075167245177893305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "FFFFFFFFFFFFFFFFFFF https://t.co/kDWpEIu9n3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885557129588948992",
+        "conversation_id": "2075167245177893305",
+        "created_at": "2026-07-09T10:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075167245177893305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075167245177893305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 360,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們對中華人民共和國的評價是\nS&gt;A&gt;B&gt;C&gt;D&gt;E&gt;F\n我是E~D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/od/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1161,
+          "like_count": 21002,
+          "listed_count": 5,
+          "media_count": 431,
+          "tweet_count": 11756
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nCountryhuman Lover\nHongkonger\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼🇪🇺🇮🇱🇭🇰🎗️\n祈求民主與自由萬世都不朽\n我願榮光歸...\n一位邏輯學者\n活著必須革命 心高氣傲 哪裏去不到",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "Arctic Warfare Police 北極戰警",
+        "pinned_tweet_id": "2073994553854751155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075029229423742976/d4GQ9rlE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 7301,
+          "like_count": 18031,
+          "listed_count": 6,
+          "media_count": 891,
+          "tweet_count": 5191
+        },
+        "url": "",
+        "username": "85240609891_1st",
+        "verified": false
+      }
+    ]
+  }
+}

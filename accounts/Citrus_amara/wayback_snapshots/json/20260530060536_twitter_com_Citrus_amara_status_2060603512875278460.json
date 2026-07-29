@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060603505107406848"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2060603512875278460",
+    "created_at": "2026-05-30T06:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060603512875278460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rL0j4YaOWk",
+          "end": 23,
+          "expanded_url": "https://x.com/Citrus_amara/status/2060603512875278460/photo/1",
+          "media_key": "3_2060603505107406848",
+          "start": 0,
+          "url": "https://t.co/rL0j4YaOWk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060603512875278460",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/rL0j4YaOWk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 456,
+        "media_key": "3_2060603505107406848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJi7-GjaEAAsVnz.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060603505107406848"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2060603512875278460",
+        "created_at": "2026-05-30T06:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060603512875278460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rL0j4YaOWk",
+              "end": 23,
+              "expanded_url": "https://x.com/Citrus_amara/status/2060603512875278460/photo/1",
+              "media_key": "3_2060603505107406848",
+              "start": 0,
+              "url": "https://t.co/rL0j4YaOWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060603512875278460",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rL0j4YaOWk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 1094,
+          "like_count": 20330,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 11461
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

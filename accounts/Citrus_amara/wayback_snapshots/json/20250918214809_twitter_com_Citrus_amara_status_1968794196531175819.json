@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968674829181272065"
+      ],
+      "media_source_tweet_id": [
+        "1968675034571870563"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "1968794196531175819",
+    "created_at": "2025-09-18T21:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T22:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968794196531175819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1715380059278831619",
+          "start": 3,
+          "username": "Killer_Haruhi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GmUUiaZFVQ",
+          "end": 88,
+          "expanded_url": "https://x.com/Killer_Haruhi/status/1968675034571870563/photo/1",
+          "media_key": "3_1968674829181272065",
+          "start": 65,
+          "url": "https://t.co/GmUUiaZFVQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968794196531175819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968675034571870563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Killer_Haruhi: 我还以为这片原名《生化启示录》就够难绷的了，结果居然还别名《疯狂731》，什么疯狂动物城。 https://t.co/GmUUiaZFVQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 278,
+        "media_key": "3_1968674829181272065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IjU5-aQAEHXmx.png",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968674829181272065"
+          ],
+          "media_source_tweet_id": [
+            "1968675034571870563"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1968794196531175819",
+        "created_at": "2025-09-18T21:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T22:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968794196531175819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1715380059278831619",
+              "start": 3,
+              "username": "Killer_Haruhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmUUiaZFVQ",
+              "end": 88,
+              "expanded_url": "https://x.com/Killer_Haruhi/status/1968675034571870563/photo/1",
+              "media_key": "3_1968674829181272065",
+              "start": 65,
+              "url": "https://t.co/GmUUiaZFVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968794196531175819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968675034571870563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Killer_Haruhi: 我还以为这片原名《生化启示录》就够难绷的了，结果居然还别名《疯狂731》，什么疯狂动物城。 https://t.co/GmUUiaZFVQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968674829181272065"
+          ]
+        },
+        "author_id": "1715380059278831619",
+        "conversation_id": "1968675034571870563",
+        "created_at": "2025-09-18T13:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968675034571870563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmUUiaZFVQ",
+              "end": 69,
+              "expanded_url": "https://x.com/Killer_Haruhi/status/1968675034571870563/photo/1",
+              "media_key": "3_1968674829181272065",
+              "start": 46,
+              "url": "https://t.co/GmUUiaZFVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968675034571870563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2415,
+          "like_count": 68,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我还以为这片原名《生化启示录》就够难绷的了，结果居然还别名《疯狂731》，什么疯狂动物城。 https://t.co/GmUUiaZFVQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 435,
+          "like_count": 7050,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 2673
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T14:51:03.000Z",
+        "description": "外籍低端人口。",
+        "id": "1715380059278831619",
+        "location": "Nakano City, Tokyo",
+        "name": "はるひ",
+        "pinned_tweet_id": "1796937239974625518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762474898814062592/wXU5QQn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 487,
+          "like_count": 36123,
+          "listed_count": 17,
+          "media_count": 728,
+          "tweet_count": 11190
+        },
+        "username": "Killer_Haruhi",
+        "verified": false
+      }
+    ]
+  }
+}

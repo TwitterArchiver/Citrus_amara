@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1955080070013296880",
+    "created_at": "2025-08-12T01:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T02:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955080070013296880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1913309341735956480",
+          "start": 3,
+          "username": "yingyang_MTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955080070013296880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954850714187882827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yingyang_MTF: 210fo抽奖\n抽:4个8.8\n一盒普瑞巴林🤓\n关注｜转发｜评论参加"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1955080070013296880",
+        "created_at": "2025-08-12T01:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T02:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955080070013296880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1913309341735956480",
+              "start": 3,
+              "username": "yingyang_MTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955080070013296880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954850714187882827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yingyang_MTF: 210fo抽奖\n抽:4个8.8\n一盒普瑞巴林🤓\n关注｜转发｜评论参加"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913309341735956480",
+        "conversation_id": "1954850714187882827",
+        "created_at": "2025-08-11T10:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T11:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954850714187882827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954850714187882827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3856,
+          "like_count": 77,
+          "quote_count": 2,
+          "reply_count": 50,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "210fo抽奖\n抽:4个8.8\n一盒普瑞巴林🤓\n关注｜转发｜评论参加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 313,
+          "like_count": 2581,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1110
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T19:11:33.000Z",
+        "description": "小药娘｜玩 战争雷霆，钢铁雄心4，KARDS｜171cm 56kg｜无证含糖｜生日2010.11.28｜互fo｜只会中文｜QQ:3344269844聊天(无门)｜有时傻傻的｜社恐｜不会聊天｜姐姐:@erciyuanha87431｜想要找对象！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "erciyuanha87431"
+              }
+            ]
+          }
+        },
+        "id": "1913309341735956480",
+        "location": "谁知道呢",
+        "name": "营养要均衡🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950147286937587715/jqqsbiqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 237,
+          "like_count": 1168,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 373
+        },
+        "username": "yingyang_MTF",
+        "verified": false
+      }
+    ]
+  }
+}

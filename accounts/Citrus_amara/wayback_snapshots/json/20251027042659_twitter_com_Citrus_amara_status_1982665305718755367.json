@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1982461461344776689",
+    "created_at": "2025-10-27T04:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T05:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982665305718755367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617685747116675073",
+          "start": 0,
+          "username": "_mucha_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982665305718755367",
+    "in_reply_to_user_id": "1617685747116675073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982461461344776689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 morphine好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1982461461344776689",
+        "created_at": "2025-10-27T04:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982665305718755367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617685747116675073",
+              "start": 0,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982665305718755367",
+        "in_reply_to_user_id": "1617685747116675073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982461461344776689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 morphine好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617685747116675073",
+        "conversation_id": "1982461461344776689",
+        "created_at": "2025-10-26T14:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T15:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982461461344776689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiajun112233/s…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/jiajun112233/status/1981812272990498989",
+              "start": 86,
+              "url": "https://t.co/aD9QaMMS6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982461461344776689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 541,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981812272990498989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家其实我性取向是正常的… 我喜欢吗啡\n我不是人同 不要再关注我了 我有点接受不了😨\n我只是一个很爱撒娇的人 就喜欢年下的Morphine 可以让我乖乖听话 让我宠的感觉 https://t.co/aD9QaMMS6z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 634,
+          "like_count": 10115,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 4000
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "Love Pays for Itself 丨ODWiki编辑丨写歌打音游的丨拖家带口→@molmolxing/@634LIVINLIMBO/@Nijika_overdose/@elsa_yrt/@ZTYQ_0319",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "molmolxing"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "634LIVINLIMBO"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "Nijika_overdose"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "elsa_yrt"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "ZTYQ_0319"
+              }
+            ]
+          }
+        },
+        "id": "1617685747116675073",
+        "name": "旋宫牧雨🖤胺樂天使",
+        "pinned_tweet_id": "1981002632895549939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965065011598180352/CTte4Z94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 744,
+          "like_count": 56618,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 8314
+        },
+        "username": "_mucha_000",
+        "verified": true
+      }
+    ]
+  }
+}

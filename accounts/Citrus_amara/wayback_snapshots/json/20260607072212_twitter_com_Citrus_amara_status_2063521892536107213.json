@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2063521892536107213",
+    "created_at": "2026-06-07T07:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063521892536107213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/17nuun/status/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/17nuun/status/2063347975875875104",
+          "start": 2,
+          "url": "https://t.co/JbYct1i11G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063521892536107213",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063347975875875104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😦 https://t.co/JbYct1i11G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2063521892536107213",
+        "created_at": "2026-06-07T07:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063521892536107213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/17nuun/status/2063347975875875104",
+              "start": 2,
+              "url": "https://t.co/JbYct1i11G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063521892536107213",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063347975875875104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😦 https://t.co/JbYct1i11G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063347975875875104",
+        "created_at": "2026-06-06T19:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063347975875875104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063347975875875104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6879,
+          "like_count": 53,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "17是很糟糕的混蛋哦…\n但还是会尽量好好活着\n至少今天先这样w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 1095,
+          "like_count": 20495,
+          "listed_count": 5,
+          "media_count": 415,
+          "tweet_count": 11531
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 21,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

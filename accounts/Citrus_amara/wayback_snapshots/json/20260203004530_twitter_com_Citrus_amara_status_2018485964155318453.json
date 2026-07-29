@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018485960724340737"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2018341860427649256",
+    "created_at": "2026-02-03T00:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018485964155318453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1431574396687187968",
+          "start": 0,
+          "username": "gggpoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cMKshMQHbP",
+          "end": 31,
+          "expanded_url": "https://x.com/Citrus_amara/status/2018485964155318453/photo/1",
+          "media_key": "3_2018485960724340737",
+          "start": 8,
+          "url": "https://t.co/cMKshMQHbP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018485964155318453",
+    "in_reply_to_user_id": "1431574396687187968",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018366170332889252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gggpoe https://t.co/cMKshMQHbP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2018485960724340737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMaSXEWYAE24Pd.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018485960724340737"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2018341860427649256",
+        "created_at": "2026-02-03T00:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018485964155318453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1431574396687187968",
+              "start": 0,
+              "username": "gggpoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMKshMQHbP",
+              "end": 31,
+              "expanded_url": "https://x.com/Citrus_amara/status/2018485964155318453/photo/1",
+              "media_key": "3_2018485960724340737",
+              "start": 8,
+              "url": "https://t.co/cMKshMQHbP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018485964155318453",
+        "in_reply_to_user_id": "1431574396687187968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018366170332889252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gggpoe https://t.co/cMKshMQHbP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431574396687187968",
+        "conversation_id": "2018341860427649256",
+        "created_at": "2026-02-02T16:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018366170332889252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018366170332889252",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018341860427649256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 一个死基佬在这里挂人，笑死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体，BD（BPD？），泛性恋。\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "shsh548866"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010661981926170624/akXPsbou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 997,
+          "like_count": 16324,
+          "listed_count": 6,
+          "media_count": 326,
+          "tweet_count": 8687
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T11:08:39.000Z",
+        "description": "",
+        "id": "1431574396687187968",
+        "name": "爱锅小粉红兔兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598239286716866560/a0cpI-s1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 205,
+          "like_count": 46631,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 2892
+        },
+        "username": "gggpoe",
+        "verified": false
+      }
+    ]
+  }
+}

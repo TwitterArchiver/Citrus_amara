@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "1949398892795035955",
+    "created_at": "2025-07-27T09:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T10:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949398892795035955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2596381225",
+          "start": 3,
+          "username": "vir_coconut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949398892795035955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949390082626162695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vir_coconut: 门槛妹你老了，白幼瘦不适合你了，你的皮肤松弛蜡黄，还有皱纹，头发一把一把掉，就这样你还要管比你小好几岁的男人叫哥哥吗？合适吗？体面吗？门槛妹，回归现实吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1949398892795035955",
+        "created_at": "2025-07-27T09:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949398892795035955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2596381225",
+              "start": 3,
+              "username": "vir_coconut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949398892795035955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949390082626162695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vir_coconut: 门槛妹你老了，白幼瘦不适合你了，你的皮肤松弛蜡黄，还有皱纹，头发一把一把掉，就这样你还要管比你小好几岁的男人叫哥哥吗？合适吗？体面吗？门槛妹，回归现实吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2596381225",
+        "conversation_id": "1949390082626162695",
+        "created_at": "2025-07-27T08:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T09:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949390082626162695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949390082626162695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 486,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "门槛妹你老了，白幼瘦不适合你了，你的皮肤松弛蜡黄，还有皱纹，头发一把一把掉，就这样你还要管比你小好几岁的男人叫哥哥吗？合适吗？体面吗？门槛妹，回归现实吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "osdd-1a。双相（诊断如此，并不认可）。od。跨性别。\n欢迎互关，欢迎私信。\n我是女的！！！",
+        "id": "1866458229527764992",
+        "location": "北京中医院中药房",
+        "name": "苦橙",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947969160526376960/0uKSs2sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 164,
+          "like_count": 848,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 476
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "男生 私信只回口令 置顶推广自辩",
+        "id": "2596381225",
+        "location": "🚪288/520/1314",
+        "name": "椰",
+        "pinned_tweet_id": "1943547222328594560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935822540745621504/7MgRct0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31415,
+          "following_count": 297,
+          "like_count": 3168,
+          "listed_count": 59,
+          "media_count": 8,
+          "tweet_count": 20
+        },
+        "username": "vir_coconut",
+        "verified": false
+      }
+    ]
+  }
+}

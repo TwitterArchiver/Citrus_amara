@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2074850051646804169",
+    "created_at": "2026-07-08T17:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T18:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074911473592381795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1590504619725099008",
+          "start": 0,
+          "username": "milk66432857"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074911473592381795",
+    "in_reply_to_user_id": "1590504619725099008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074907525754089486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@milk66432857 没带。你给我做什么检查？有必要吗？我就是疼你怎么检查出来我疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2074850051646804169",
+        "created_at": "2026-07-08T17:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074911473592381795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1590504619725099008",
+              "start": 0,
+              "username": "milk66432857"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074911473592381795",
+        "in_reply_to_user_id": "1590504619725099008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074907525754089486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@milk66432857 没带。你给我做什么检查？有必要吗？我就是疼你怎么检查出来我疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590504619725099008",
+        "conversation_id": "2074850051646804169",
+        "created_at": "2026-07-08T17:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074907525754089486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074907525754089486",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074850051646804169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 万一要以前的检查报告怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/od/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "shsh548866"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 1152,
+          "like_count": 20976,
+          "listed_count": 5,
+          "media_count": 431,
+          "tweet_count": 11751
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T00:43:24.000Z",
+        "description": "是个无聊的人，isfp，特别懒\n欢迎大家互fo\n如果一切没有开始就好了，生锈的刀划不开我的痛苦，角落的药治不好我的病",
+        "id": "1590504619725099008",
+        "name": "lyrica",
+        "pinned_tweet_id": "2021287988202963226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590505564743749632/JwvsU5F-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 97,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 337
+        },
+        "url": "",
+        "username": "milk66432857",
+        "verified": false
+      }
+    ]
+  }
+}
