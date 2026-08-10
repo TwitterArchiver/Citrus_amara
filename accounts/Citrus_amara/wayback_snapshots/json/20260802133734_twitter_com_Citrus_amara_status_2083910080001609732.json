@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2083750980869640419",
+    "created_at": "2026-08-02T13:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083910080001609732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1515562361070960646",
+          "start": 0,
+          "username": "Minastear1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083910080001609732",
+    "in_reply_to_user_id": "1515562361070960646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083845539150586196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minastear1 体感1161药效持续时间很长\n不过我现在就只目测一点点1161当止痛药用了。不觉得1161很好玩T T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2083750980869640419",
+        "created_at": "2026-08-02T13:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083910080001609732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1515562361070960646",
+              "start": 0,
+              "username": "Minastear1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083910080001609732",
+        "in_reply_to_user_id": "1515562361070960646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083845539150586196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minastear1 体感1161药效持续时间很长\n不过我现在就只目测一点点1161当止痛药用了。不觉得1161很好玩T T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515562361070960646",
+        "conversation_id": "2083750980869640419",
+        "created_at": "2026-08-02T09:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083845539150586196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083845539150586196",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083771153408299260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 50这么高的嘛😮我还没有一次用过这么多 但是经常补量导致一天使用总量达到这么多过…（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 1196,
+          "like_count": 21271,
+          "listed_count": 5,
+          "media_count": 448,
+          "tweet_count": 11921
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T05:26:48.000Z",
+        "description": "＝易烟︱我独立于世界之上︱18↑︱友跨顺女泛性恋︱oder︱提供小零食出售业务︱第二世@Minastear030 永远怀念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Minastear030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Minastear",
+                "end": 23,
+                "expanded_url": "http://t.me/Minastear",
+                "start": 0,
+                "url": "https://t.co/b3aLfzgd4Y"
+              }
+            ]
+          }
+        },
+        "id": "1515562361070960646",
+        "location": "Eden",
+        "name": "Minastear",
+        "pinned_tweet_id": "2030864448249024731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515562692299264001/veLb66ZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 262,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/b3aLfzgd4Y",
+        "username": "Minastear1",
+        "verified": false
+      }
+    ]
+  }
+}

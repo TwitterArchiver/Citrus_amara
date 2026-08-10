@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2082110298845307335",
+    "created_at": "2026-07-29T09:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082395754522612206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028661027647422465",
+          "start": 0,
+          "username": "nycteasio78869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082395754522612206",
+    "in_reply_to_user_id": "2028661027647422465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082335159819612599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nycteasio78869 🤨🤨🤨？！我去真的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1057,
+        "media_key": "3_2082335150097264640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXwyUzbcAAynET.jpg",
+        "width": 1533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2082110298845307335",
+        "created_at": "2026-07-29T09:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082395754522612206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028661027647422465",
+              "start": 0,
+              "username": "nycteasio78869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082395754522612206",
+        "in_reply_to_user_id": "2028661027647422465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082335159819612599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nycteasio78869 🤨🤨🤨？！我去真的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082335150097264640"
+          ]
+        },
+        "author_id": "2028661027647422465",
+        "conversation_id": "2082110298845307335",
+        "created_at": "2026-07-29T05:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082335159819612599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4o3J99jxRZ",
+              "end": 37,
+              "expanded_url": "https://x.com/nycteasio78869/status/2082335159819612599/photo/1",
+              "media_key": "3_2082335150097264640",
+              "start": 14,
+              "url": "https://t.co/4o3J99jxRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082335159819612599",
+        "in_reply_to_user_id": "2028661027647422465",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082334491448856738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara https://t.co/4o3J99jxRZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "shsh548866"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1196,
+          "like_count": 21241,
+          "listed_count": 5,
+          "media_count": 448,
+          "tweet_count": 11906
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T02:37:45.000Z",
+        "description": "贺建奎还我猫娘",
+        "id": "2028661027647422465",
+        "location": "they/them",
+        "name": "Nycteasio",
+        "pinned_tweet_id": "2074167749891481990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082343048537952256/ve0cTqeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 80,
+          "like_count": 6408,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 887
+        },
+        "url": "",
+        "username": "nycteasio78869",
+        "verified": false
+      }
+    ]
+  }
+}

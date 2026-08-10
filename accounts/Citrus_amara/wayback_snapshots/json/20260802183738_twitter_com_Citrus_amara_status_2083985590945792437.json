@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2083985590945792437",
+    "created_at": "2026-08-02T18:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083985590945792437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LanwujiDrink/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/LanwujiDrink/status/2083538550117867677",
+          "start": 13,
+          "url": "https://t.co/xlN3Ohiq8a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083985590945792437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083538550117867677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想我和某人都很需要这个 https://t.co/xlN3Ohiq8a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2083985590945792437",
+        "created_at": "2026-08-02T18:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083985590945792437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanwujiDrink/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/LanwujiDrink/status/2083538550117867677",
+              "start": 13,
+              "url": "https://t.co/xlN3Ohiq8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083985590945792437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083538550117867677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想我和某人都很需要这个 https://t.co/xlN3Ohiq8a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083538550117867677",
+        "created_at": "2026-08-01T13:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083538550117867677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083538550117867677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2758,
+          "like_count": 37,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "NEWS：無極Lab 正在开发提升性体验的性物质，多巴胺能的\n\n1 不是Drug，是一种supplement 组合拥有大量人类临床数据证明其安全性\n\n2 没有成瘾性\n\n3 没有导致心血管的副作用让男性养胃\n\n4 男女均可使用、可以极大改善性冷淡\n\n5 同时是认知提升剂，用工作学习\n\n6 无论男女均可提升有氧耐力增加续航"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 1197,
+          "like_count": 21273,
+          "listed_count": 5,
+          "media_count": 448,
+          "tweet_count": 11921
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2083538550117867677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 107,
+          "like_count": 3182,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

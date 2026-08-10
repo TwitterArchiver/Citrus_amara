@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082018506070188032"
+      ],
+      "media_source_tweet_id": [
+        "2082018533173850506"
+      ]
+    },
+    "author_id": "1866458229527764992",
+    "conversation_id": "2082090636807901463",
+    "created_at": "2026-07-28T13:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082090636807901463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951205158890905606",
+          "start": 3,
+          "username": "koban173566"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c0zYW7zkVj",
+          "end": 45,
+          "expanded_url": "https://x.com/koban173566/status/2082018533173850506/photo/1",
+          "media_key": "3_2082018506070188032",
+          "start": 22,
+          "url": "https://t.co/c0zYW7zkVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082090636807901463",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082018533173850506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koban173566: ヤニねこ https://t.co/c0zYW7zkVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2082018506070188032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTQzN4aYAAyJBb.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082018506070188032"
+          ]
+        },
+        "author_id": "1951205158890905606",
+        "conversation_id": "2082018533173850506",
+        "created_at": "2026-07-28T08:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082018533173850506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0zYW7zkVj",
+              "end": 28,
+              "expanded_url": "https://x.com/koban173566/status/2082018533173850506/photo/1",
+              "media_key": "3_2082018506070188032",
+              "start": 5,
+              "url": "https://t.co/c0zYW7zkVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082018533173850506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 5535,
+          "like_count": 760,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "ヤニねこ https://t.co/c0zYW7zkVj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082018506070188032"
+          ],
+          "media_source_tweet_id": [
+            "2082018533173850506"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2082090636807901463",
+        "created_at": "2026-07-28T13:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082090636807901463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951205158890905606",
+              "start": 3,
+              "username": "koban173566"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0zYW7zkVj",
+              "end": 45,
+              "expanded_url": "https://x.com/koban173566/status/2082018533173850506/photo/1",
+              "media_key": "3_2082018506070188032",
+              "start": 22,
+              "url": "https://t.co/c0zYW7zkVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082090636807901463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082018533173850506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koban173566: ヤニねこ https://t.co/c0zYW7zkVj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nAutism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "shsh548866"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1197,
+          "like_count": 21226,
+          "listed_count": 5,
+          "media_count": 445,
+          "tweet_count": 11899
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T08:56:02.000Z",
+        "description": "アナログ、デジタル模写を描いています。たまにオリジナルも描きます。\nアニメーターを目指しています。\nアイコン、ベクターは自分で描いた物です。\n\nYouTube\nhttps://t.co/9m3CVjpUYg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UClouX…",
+                "end": 103,
+                "expanded_url": "https://youtube.com/channel/UClouXacFaQV70N1_h9xNTTw?si=w01dZ6XstdNJ5b3B",
+                "start": 80,
+                "url": "https://t.co/9m3CVjpUYg"
+              }
+            ]
+          }
+        },
+        "id": "1951205158890905606",
+        "name": "kobaん　デジタルイラスト",
+        "pinned_tweet_id": "2071115871062487192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058146074041417728/RqMs5Zkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 294,
+          "like_count": 6905,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "koban173566",
+        "verified": false
+      }
+    ]
+  }
+}

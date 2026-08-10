@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2084237374901699012",
+    "created_at": "2026-08-03T11:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084237374901699012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yuki281331/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Yuki281331/status/2084046844607291799",
+          "start": 4,
+          "url": "https://t.co/H6Yh0Yj7Y4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084237374901699012",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084046844607291799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "，，， https://t.co/H6Yh0Yj7Y4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2084237374901699012",
+        "created_at": "2026-08-03T11:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084237374901699012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuki281331/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Yuki281331/status/2084046844607291799",
+              "start": 4,
+              "url": "https://t.co/H6Yh0Yj7Y4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084237374901699012",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084046844607291799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "，，， https://t.co/H6Yh0Yj7Y4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082124926375649280",
+        "conversation_id": "2084046844607291799",
+        "created_at": "2026-08-02T22:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084046844607291799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084046844607291799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2019,
+          "like_count": 33,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "女儿，你能不能不当地雷女啊，妈妈好害怕啊，一天天学也不上，天天请假，带你去看医生又不愿意，你能告诉妈妈发生什么了吗？为什么搞的手上一道道的，妈妈求求你了，不要伤害自己，你是妈妈的心肝啊，妈妈今天晚上一定睡不着了，为什么要伤害自己啊？妈妈现在真的搞不懂你了，你怎么会变成这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 1194,
+          "like_count": 21269,
+          "listed_count": 5,
+          "media_count": 448,
+          "tweet_count": 11923
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n会慢慢回fo，怕频繁被ban\n@Yuki312813 前世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Yuki312813"
+              }
+            ]
+          }
+        },
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想哭了。2.0。",
+        "pinned_tweet_id": "2083472052636594342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 209,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}
