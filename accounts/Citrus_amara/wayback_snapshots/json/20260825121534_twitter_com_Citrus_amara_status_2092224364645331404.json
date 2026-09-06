@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2092224364645331404",
+    "created_at": "2026-08-25T12:15:34.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092224364645331404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YangDowond/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/YangDowond/status/2092154988466413881",
+          "start": 20,
+          "url": "https://t.co/pwffNSVxgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092224364645331404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092154988466413881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天试试巴氯芬配思诺思配酒怎么样孩子们 https://t.co/pwffNSVxgA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 271,
+        "media_key": "3_2092154982388973568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjT3yxbwAAvUai.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2092224364645331404",
+        "created_at": "2026-08-25T12:15:34.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092224364645331404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YangDowond/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/YangDowond/status/2092154988466413881",
+              "start": 20,
+              "url": "https://t.co/pwffNSVxgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092224364645331404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092154988466413881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天试试巴氯芬配思诺思配酒怎么样孩子们 https://t.co/pwffNSVxgA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092154982388973568"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2092154988466413881",
+        "created_at": "2026-08-25T07:39:54.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092154988466413881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhjJgaeIMz",
+              "end": 169,
+              "expanded_url": "https://x.com/YangDowond/status/2092154988466413881/photo/1",
+              "media_key": "3_2092154982388973568",
+              "start": 146,
+              "url": "https://t.co/ZhjJgaeIMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092154988466413881",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092154982388973568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1465,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "关于巴氯芬的一个故事\n2000 年代一位名叫奥利维耶·阿梅森的法国心脏病专家患有严重的酒精依赖，作为一名精通药理的医生，他查阅文献后做出了一个疯狂的决定：对自己使用超大剂量（每天 270mg，以正常的药理学来看这个剂量简直是疯了）的巴氯芬\n他惊讶发现，高剂量的巴氯芬抹除了他对酒精的病态渴望 https://t.co/ZhjJgaeIMz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2092224364645331404",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 1194,
+          "like_count": 21339,
+          "listed_count": 5,
+          "media_count": 459,
+          "tweet_count": 11997
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092156416048165004",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 303,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

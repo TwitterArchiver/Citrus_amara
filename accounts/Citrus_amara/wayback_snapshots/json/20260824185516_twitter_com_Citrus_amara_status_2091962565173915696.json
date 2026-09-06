@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2091962565173915696",
+    "created_at": "2026-08-24T18:55:16.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T19:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091962565173915696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bestvavvst/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Bestvavvst/status/2091939364439994786",
+          "start": 31,
+          "url": "https://t.co/w2xDWvPbqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091962565173915696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091939364439994786",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别这么说我五年前当做是迈不过去的坎对现在的我来说一样迈不过去 https://t.co/w2xDWvPbqd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2091962565173915696",
+        "created_at": "2026-08-24T18:55:16.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091962565173915696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bestvavvst/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Bestvavvst/status/2091939364439994786",
+              "start": 31,
+              "url": "https://t.co/w2xDWvPbqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091962565173915696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091939364439994786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别这么说我五年前当做是迈不过去的坎对现在的我来说一样迈不过去 https://t.co/w2xDWvPbqd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747805105200480256",
+        "conversation_id": "2091939364439994786",
+        "created_at": "2026-08-24T17:23:05.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091939364439994786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091939364439994786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永远不要把自己逼到没有回头路可走\n很简单 情绪低落感觉活不下去的时候\n回头看看 你五年前当做是迈不过去的坎儿对于现在的你来说什么都不算\n好好活着每天开开心心的od 不要嘎巴一下死了去地狱被审判\n我一直都相信自杀的人不入轮回 我下辈子想当狗我不舍得自杀 \n大家也要好好活着啊 品尝痛苦也很美味"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2091962565173915696",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1195,
+          "like_count": 21358,
+          "listed_count": 5,
+          "media_count": 459,
+          "tweet_count": 11995
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T02:16:32.000Z",
+        "description": "Entp♈未成年不要关注 \n依托米酯笑气氯胺酮已戒断/双相7年患者目前停了大部分药/努力想做正常人但是总是想o/怀念在🇰🇭的日子/向往的城市是自由的泰兰德和马来西亚/蹲过3天戒毒所😅至今不能考驾照之人",
+        "id": "1747805105200480256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091954749918859502",
+        "name": "Vavvst「未成年不要fo」",
+        "pinned_tweet_id": "2090339322612645940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747805105200480256/1787073574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089764101484638208/EKEtH1Ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 79,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "Bestvavvst",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
