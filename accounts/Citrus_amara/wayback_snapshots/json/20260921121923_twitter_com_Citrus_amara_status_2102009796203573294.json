@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2102009796203573294",
+    "created_at": "2026-09-21T12:19:23.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T13:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102009796203573294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liyfn130024/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/liyfn130024/status/2101614284795240497",
+          "start": 26,
+          "url": "https://t.co/nxM8ISYWsL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102009796203573294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101614284795240497",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爆衣这种操作居然真能在三次元发生吗？dpt你好强大 https://t.co/nxM8ISYWsL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2102009796203573294",
+        "created_at": "2026-09-21T12:19:23.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T13:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102009796203573294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liyfn130024/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/liyfn130024/status/2101614284795240497",
+              "start": 26,
+              "url": "https://t.co/nxM8ISYWsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102009796203573294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101614284795240497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爆衣这种操作居然真能在三次元发生吗？dpt你好强大 https://t.co/nxM8ISYWsL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022874915012333568",
+        "conversation_id": "2101614284795240497",
+        "created_at": "2026-09-20T10:07:46.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101614284795240497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101614284795240497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2531,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "气死我了，才知道你们mercy老师居然生前把我户给开了，所以幽默小故事继续连载\n牢猫那天用了dpt，都过量了说是。我在地上蹲着嗷嗷吐，抬头一看，牢猫站在床上望向天花板，然后抬手就是把睡衣给爆了，扣子叮铃咣铛飞一地，然后朝我走来。我很难绷，更难想象下一步是要把我给爆衣，拿把剪刀狂剪。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "已老实。\n哈夫克医疗部官方账号@HAVVK_CORP \n--\n皮下苦橙\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "HAVVK_CORP"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "shsh548866"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "Zolpidem Union",
+        "most_recent_tweet_id": "2102009796203573294",
+        "name": "苦橙",
+        "pinned_tweet_id": "2096796287257411778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101458415356895232/PefQECbR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 1236,
+          "like_count": 21441,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 12171
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-15T03:25:57.000Z",
+        "description": "不要再醒来了｜可以叫我海绵 05 bi 重度睡眠障碍 双向 重焦 回避型",
+        "id": "2022874915012333568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101908151423676492",
+        "name": "#dpt不好体验分享",
+        "pinned_tweet_id": "2100087345563509151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022874915012333568/1785722185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 170,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "liyfn130024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

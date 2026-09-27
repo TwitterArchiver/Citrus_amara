@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2097862369204633632",
+    "created_at": "2026-09-10T09:49:07.000Z",
+    "display_text_range": [
+      13,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T10:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097985714768277886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612680283332952064",
+          "start": 0,
+          "username": "xcs03563104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097985714768277886",
+    "in_reply_to_user_id": "1612680283332952064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097901897403531296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcs03563104 pr市价一般多少啊卧槽我真服了我一点都不赚的啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2097901897403531296].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2097901897403531296",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2097901897403531296"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2097862369204633632",
+        "created_at": "2026-09-10T09:49:07.000Z",
+        "display_text_range": [
+          13,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097985714768277886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612680283332952064",
+              "start": 0,
+              "username": "xcs03563104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097985714768277886",
+        "in_reply_to_user_id": "1612680283332952064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097901897403531296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcs03563104 pr市价一般多少啊卧槽我真服了我一点都不赚的啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2097985714768277886",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2096796287257411778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 1238,
+          "like_count": 21402,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 12138
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-10T05:18:54.000Z",
+        "description": "個人口嗨用 啥都搞点 说话不过脑臭傻逼 一般路过点赞机 友好一切 最原终一重度依赖|my art禁止轉載，保存，使用 嚴禁ai學習 不授權任何|I only post my arts on x and cara",
+        "id": "1612680283332952064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2022680770230505539",
+        "name": "超绝可爱超甜酱",
+        "pinned_tweet_id": "2037255109118419351",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1612680283332952064/1761805257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037247513720479744/OjnKlSzX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 231,
+          "like_count": 40087,
+          "listed_count": 2,
+          "media_count": 1462,
+          "tweet_count": 10165
+        },
+        "url": "",
+        "username": "xcs03563104",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

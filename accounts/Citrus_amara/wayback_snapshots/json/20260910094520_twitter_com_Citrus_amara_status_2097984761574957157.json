@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1866458229527764992",
+    "conversation_id": "2097984761574957157",
+    "created_at": "2026-09-10T09:45:20.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T10:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097984761574957157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anblk984/statu…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/anblk984/status/2097928016999657794",
+          "start": 43,
+          "url": "https://t.co/KwJgpN4kRw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097984761574957157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097928016999657794",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有岁月史书\n\n虽然他做过很多坏事，但其实他算我开始OD后熟悉的最开始的几个人之一。 https://t.co/KwJgpN4kRw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2245,
+        "media_key": "3_2097928008049049600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1WaHQbQAAzXU_.jpg",
+        "width": 1842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2097984761574957157",
+        "created_at": "2026-09-10T09:45:20.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097984761574957157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anblk984/statu…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/anblk984/status/2097928016999657794",
+              "start": 43,
+              "url": "https://t.co/KwJgpN4kRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097984761574957157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097928016999657794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有岁月史书\n\n虽然他做过很多坏事，但其实他算我开始OD后熟悉的最开始的几个人之一。 https://t.co/KwJgpN4kRw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097928008049049600"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2097928016999657794",
+        "created_at": "2026-09-10T05:59:51.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097928016999657794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iD6ffipcSl",
+              "end": 159,
+              "expanded_url": "https://x.com/anblk984/status/2097928016999657794/photo/1",
+              "media_key": "3_2097928008049049600",
+              "start": 136,
+              "url": "https://t.co/iD6ffipcSl"
+            },
+            {
+              "display_url": "x.com/liyfn130024/st…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/liyfn130024/status/2097698655448998057",
+              "start": 160,
+              "url": "https://t.co/W3ThZRjSyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097928016999657794",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097928008049049600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "全 剧 终\n         窝认识OD狂猫大概是24年11月，那会儿窝也大概才五六千的粉丝，当时他人设是纯支黑美少女，玩推不到一年开始OD割手紫砂，不到两年就速通人生了，不得不说窝的内容比起推上的各种小圈子不良诱惑来说还是太纯良了顶多教你骚扰下良家妇女落井下石一下灾民\n\n        OD狂猫在支黑美少女人设时期和窝私聊了不少，和窝表达了很多对共产党不满以及对热本生活的不切实际期望，猫神灵性其实挺高的，对窝很多初步判断都蛮准\n\n       后来他不知道咋就和OD的傻狗地雷玩一块去了，当然那会儿好话也说尽了后面就懒得搭理他了，当时窝还发了不少乳OD的文案给他惹毛了把窝b了，期间又是看他跳楼吃盐割喉总之猫有九命就是了，1937年的南京人要是有他一半顽强热本早投降了\n\n        就对窝来说有纯粹恨意的人其实很吸引窝，但是朝自己投射恨意拿别人错误惩罚自己就显得很傻逼了，甚至听他来讲他家庭在老中已经算是很通融得了，想休学就休学了，这在大部分家庭都是不可能的，但纯上推之后碰到了他本来不该知道的东西之后耍疯了，一个人的人生轨迹就这么被改写了\n\n       从这里看推特确实是个吃人的地方，特别是对未成年人，就像庄子应帝王里面有个故事，南海北海的帝王倏和忽给他们的好朋友混沌开了七窍，结果混沌却死了，我看老共限制未成年人上社交媒体也不远了，不过推特老共本来也限不了，就很黑色幽默\n        \n       当然，从基本面角度讲窝看OD狂猫的死不过是个开始，你国大概3.3亿12-30岁年龄人群，这里面患有精神疾病+精神亚健康的保底一个亿，这个数还是在不断增加的😁这样的人将来会和神经病结婚造小神经病，三个人互相折磨想想就刺激\n\n      最后当然还是说劝戒窝的广大粉丝OD是不要碰的，就算内心痛苦万分也万不可陷入自我解脱的幻想中，精心策划隐忍复仇才是救赎之道，成为半泽直树，对踩你头的人，你就要积攒力量之后加倍奉还☝️\n\nps：当初律人小团体围攻小猫是皮下男，这个其实是窝指使的，当时窝刷他账号感觉一眼皮下男，可惜律人也脑溢血永眠了，真是世事无常啊😢"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1792,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097698655448998057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全 剧 终\n         窝认识OD狂猫大概是24年11月，那会儿窝也大概才五六千的粉丝，当时他人设是纯支黑美少女，玩推不到一年开始OD割手紫砂，不到两年就速通人生了，不得不说窝的内容比起推上的各种小圈子不良诱惑来说还是太纯良了顶多教你骚扰下良家妇女落井下石一下灾民 https://t.co/iD6ffipcSl https://t.co/W3ThZRjSyG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2097984761574957157",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2096796287257411778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 1237,
+          "like_count": 21401,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 12135
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/双马尾美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /正国级反社会/最后感谢大爹画窝头像@data_syuxchu\n小游戏网站https://t.co/B8UuvKnzYf…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "data_syuxchu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "biwabokubo1996.github.io/pugna2232.gith",
+                "end": 99,
+                "expanded_url": "http://biwabokubo1996.github.io/pugna2232.gith",
+                "start": 76,
+                "url": "https://t.co/B8UuvKnzYf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "is_identity_verified": false,
+        "location": "梁家河冲浪里          下面是tg频道",
+        "most_recent_tweet_id": "2097975712661528609",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2094787999112568989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103830967163117568/1782207138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091015106889166848/J7fbT7o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17825,
+          "following_count": 1082,
+          "like_count": 134146,
+          "listed_count": 80,
+          "media_count": 3731,
+          "tweet_count": 32320
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
