@@ -1,8 +1,8 @@
 {
-  "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+  "name": "苦橙",
   "username": "@Citrus_amara",
-  "bio": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
-  "location": "地狱",
+  "bio": "已老实。\n哈夫克医疗部官方账号@HAVVK_CORP \n--\n皮下苦橙\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+  "location": "Zolpidem Union",
   "link": "https://ngl.link/citrus_amara",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
@@ -10,21 +10,26 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 70,
-        "start": 58,
+        "end": 26,
+        "start": 15,
+        "username": "HAVVK_CORP"
+      },
+      {
+        "end": 53,
+        "start": 41,
         "username": "Vacue138950"
       },
       {
-        "end": 84,
-        "start": 73,
+        "end": 67,
+        "start": 56,
         "username": "shsh548866"
       },
       {
-        "end": 101,
-        "start": 87,
+        "end": 84,
+        "start": 70,
         "username": "zqtlovekris99"
       }
     ]
   },
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2101458415356895232/PefQECbR_normal.jpg"
 }
